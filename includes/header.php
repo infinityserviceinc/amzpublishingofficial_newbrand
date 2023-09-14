@@ -9,7 +9,7 @@
             <div class="row align-items-center">
                 <div class="col-md-3 col-lg-2 text-left">
                     <a href="/" class="logo" aria-label="Logo">
-                        <img src="assets/images/logo.png" alt="">
+                        <img src="assets/images/black-logo.png" style="filter: hue-rotate(21deg);" alt="">
                     </a>
                 </div>
                 <div class="col-lg-10 text-right">

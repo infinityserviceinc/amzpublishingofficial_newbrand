@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="widget">
-                    <a href="/" class="f-logo" aria-label="Logo"><img src="assets/images/logo.png" alt=""></a>
+                    <a href="/" class="f-logo" aria-label="Logo"><img src="assets/images/black-logo.png" style="filter: hue-rotate(21deg);" alt=""></a>
                     <p>
                         At AMZ Publishing Official, we offer exceptional ghostwriting services for authors of all genres.
                         Our experienced ghostwriters are skilled in crafting compelling stories that capture readers'
