@@ -77,13 +77,18 @@
             </div>
         </div>
     </div>
-</div>    
+</div> 
+
+<div class="global_disclamer container py-4">
+	<h2 style="color: #000; font-weight: 400px; font-size: 20px; margin: 0; line-height: 40px;">Disclaimer:</h2>
+	<p style="color:#000; font-weight: 400px; font-size: 12px; line-height: 26px;">All company logos and trademarks appearing on our website are the property of their respective owners. We are not affiliated, associated, endorsed by, or in any way officially connected with these companies or their trademarks. The use of these logos and trademarks does not imply any endorsement, affiliation, or relationship between us and the respective companies. We solely use these logos and trademarks for identification purposes only. All information and content provided on our website is for informational purposes only and should not be construed as professional advice. We do not guarantee the accuracy or completeness of any information provided on our website. We are not responsible for any errors or omissions, or for the results obtained from the use of this information. Any reliance you place on such information is strictly at your own risk.</p>
+</div>
 
 <script src="/assets/js/jquery.js"></script>
 
 <script src="/assets/js/custom.js"></script>
 <script src="https://unpkg.com/aos%403.0.0-beta.6/dist/aos.js"></script>
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
 <!-- Start of  Zendesk Widget script -->
 <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=8b347c56-9de7-4087-939b-6a037a749469"> </script>
 <!-- End of  Zendesk Widget script -->

@@ -70,7 +70,7 @@
         </div>
         <div class="row">
             <div class="col-lg-12">
-                <ul class="testimonials" data-aos="fade-right">
+                <ul class="testimonials review_slider" data-aos="fade-right">
                     <li>
                         <div class="testi-card">
                             <div class="upper">
@@ -404,7 +404,7 @@
         </div>
         <div class="row">
             <div class="col-lg-12">
-                <ul class="gallery">
+                <ul class="gallery gallery_slider">
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="100">
                         <a href="../assets/images/gallery/home/1.webp" aria-label="Gallery" data-fancybox="gallery"><img
                                 src="../assets/images/gallery/home/1.webp" alt="" loading="lazy"></a>

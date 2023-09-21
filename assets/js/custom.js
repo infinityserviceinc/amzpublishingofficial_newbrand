@@ -299,6 +299,83 @@ $(".clickbutton").click(function() {
 	$('.crossplus').toggleClass("rotate");
 });
 
+// Function jo screen size ko check kare
+// function checkScreenSize() {
+//     var screenWidth = $(window).width(); // Screen ki width hasil kare
+
+//     if (screenWidth <= 480) {
+//         $(".gallery").addClass("gallery_slider"); // Agar screen 480px ya kam hai, to class add kare
+//     } else {
+//         $(".gallery").removeClass("gallery_slider"); // Agar screen 480px se zyada hai, to class remove kare
+//     }
+// }
+
+// Page load par aur window resize par function ko call kare
+// $(document).ready(function() {
+//     checkScreenSize(); // Page load par check kare
+//     $(window).resize(checkScreenSize); // Window resize par bhi check kare
+// });
+
+// $('.gallery').slick({
+//     settings: "unslick",
+// });
+
+$('.gallery_slider').slick({
+    dots: false,
+    arrows: false,
+    infinite: true,
+    speed: 300,
+    autoplay: false,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    
+    responsive: [
+        {
+            breakpoint: 1920,
+            settings: "unslick",
+        },
+        {
+            breakpoint: 480,
+            settings: "slick",
+            mobileFirst: true, 
+
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                autoplay: true,
+            }
+        }
+    ]
+});
+
+$('.review_slider').slick({
+    dots: false,
+    arrows: false,
+    infinite: true,
+    speed: 300,
+    autoplay: false,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    
+    responsive: [
+        {
+            breakpoint: 1920,
+            settings: "unslick",
+        },
+        {
+            breakpoint: 480,
+            settings: "slick",
+            mobileFirst: true, 
+
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                autoplay: true,
+            }
+        }
+    ]
+});
+
 });
 
 

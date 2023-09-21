@@ -58,7 +58,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-12">
-                    <ul class="testimonials" data-aos="fade-right">
+                    <ul class="testimonials review_slider" data-aos="fade-right">
                         <li>
                             <div class="testi-card">
                                 <div class="upper">

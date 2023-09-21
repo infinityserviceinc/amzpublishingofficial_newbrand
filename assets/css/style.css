@@ -328,6 +328,7 @@ ul.bottom-menu li a:hover {
 
 .logo {
     display: inline-block;
+    width: 250px;
 }
 
 .logo img {
@@ -348,7 +349,7 @@ ul.bottom-menu li a:hover {
 
 .dropdown .dropdown {
     left: 100%;
-    top: 0;
+    top: -60px;
 }
 
 .dropdown ul li a {
@@ -1120,7 +1121,7 @@ ul.testimonials {
 ul.gallery {
     grid-template-columns: repeat(3, 1fr);
     display: grid;
-    gap: 1.5rem;
+    gap: 100px;
 }
 
 ul.gallery li a,
@@ -1828,7 +1829,7 @@ p.thanks-text {
         position: relative;
         width: 100%;
         box-shadow: none;
-        top: 0;
+        top: -70px;
         background: #ff9a001f;
         left: 0;
     }
@@ -2297,4 +2298,11 @@ p.thanks-text {
 		line-height: 45px;
 		
 	}
+}
+
+@media(max-width:767px){
+    .logo{width: 240px;}
+    .cta-sec{
+        background-size: cover;
+    }
 }
