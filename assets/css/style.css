@@ -994,6 +994,12 @@ ul.form-contacts li a {
     text-align: center;
     border-bottom: 1px solid #d1d1d1;
     padding-bottom: 1rem;
+    gap: 40px;
+}
+
+.trusted li{
+    width: 90%;
+    margin: 0 auto;
 }
 
 /* trusted */

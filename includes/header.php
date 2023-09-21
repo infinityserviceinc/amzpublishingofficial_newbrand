@@ -9,7 +9,7 @@
             <div class="row align-items-center">
                 <div class="col-md-3 col-lg-2 text-left">
                     <a href="/" class="logo" aria-label="Logo">
-                        <img src="assets/images/black-logo.png" style="filter: hue-rotate(21deg);" alt="">
+                        <img src="../assets/images/black-logo.png" style="filter: hue-rotate(21deg);" alt="">
                     </a>
                 </div>
                 <div class="col-lg-10 text-right">
@@ -94,9 +94,6 @@
                             <li>
                                 <a href="/ebook-writing/">eBook Writing</a>
                             </li>
-                            <li>
-                                <a href="/author-website/">Author Website</a>
-                            </li>
                             <li class="has-child">
                                 <a href="javascript:;">Writing Services</a>
                                 <div class="dropdown">
@@ -160,6 +157,10 @@
                                     </ul>
                                 </div>
                             </li>
+                            <li>
+                                <a href="/author-website/">Author Website</a>
+                            </li>
+                            
                         </ul>
                     </div>
                 </div>

@@ -31,17 +31,17 @@
         <div class="row">
             <ul class="trusted">
                 <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="100"><img
-                        src="assets/images/trusted/1.webp" alt="" loading="lazy"></li>
+                        src="../assets/images/trusted/1.webp" alt="" loading="lazy"></li>
                 <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="200"><img
-                        src="assets/images/trusted/2.webp" alt="" loading="lazy"></li>
+                        src="../assets/images/trusted/2.webp" alt="" loading="lazy"></li>
                 <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="300"><img
-                        src="assets/images/trusted/3.webp" alt="" loading="lazy"></li>
+                        src="../assets/images/trusted/3.webp" alt="" loading="lazy"></li>
                 <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="400"><img
-                        src="assets/images/trusted/4.webp" alt="" loading="lazy"></li>
+                        src="../assets/images/trusted/4.webp" alt="" loading="lazy"></li>
                 <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="500"><img
-                        src="assets/images/trusted/5.webp" alt="" loading="lazy"></li>
+                        src="../assets/images/trusted/5.webp" alt="" loading="lazy"></li>
                 <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="600"><img
-                        src="assets/images/trusted/6.webp" alt="" loading="lazy"></li>
+                        src="../assets/images/trusted/6.webp" alt="" loading="lazy"></li>
             </ul>
         </div>
     </div>
@@ -63,7 +63,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/1.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/1.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">Emily K.</span>
                                             <div class="stars">
@@ -76,7 +76,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>Sweden </span>
                                     </div>
                                 </div>
@@ -98,7 +98,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/2.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/2.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">David M.</span>
                                             <div class="stars">
@@ -111,7 +111,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>Australia </span>
                                     </div>
                                 </div>
@@ -132,7 +132,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/3.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/3.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">Sarah G.</span>
                                             <div class="stars">
@@ -145,7 +145,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>Canada </span>
                                     </div>
                                 </div>
@@ -165,7 +165,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/4.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/4.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">John H.</span>
                                             <div class="stars">
@@ -178,14 +178,14 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>South Korea </span>
                                     </div>
                                 </div>
                                 <div class="middle">
                                     <p>
-                                        I was hesitant to use a book editing service, but I'm so glad I found Amazon
-                                        Books. Their team of editors took my manuscript to the next level, catching
+                                        I was hesitant to use a book editing service, but I'm so glad I found AMZ
+                                        Publishing Official. Their team of editors took my manuscript to the next level, catching
                                         errors and improving the overall story. hey are professional, timely, and easy
                                         to work with.
                                     </p>
@@ -199,7 +199,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/5.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/5.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">Lisa C.</span>
                                             <div class="stars">
@@ -212,7 +212,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>Mexico </span>
                                     </div>
                                 </div>
@@ -234,7 +234,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/6.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/6.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">Maria S.</span>
                                             <div class="stars">
@@ -247,7 +247,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>Norway </span>
                                     </div>
                                 </div>
@@ -268,7 +268,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/7.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/7.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">Sarah M.</span>
                                             <div class="stars">
@@ -281,7 +281,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>Germany </span>
                                     </div>
                                 </div>
@@ -303,7 +303,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/8.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/8.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">Michael D.</span>
                                             <div class="stars">
@@ -316,7 +316,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>USA </span>
                                     </div>
                                 </div>
@@ -337,7 +337,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/9.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/9.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">David L.</span>
                                             <div class="stars">
@@ -350,7 +350,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>Canada </span>
                                     </div>
                                 </div>
@@ -372,7 +372,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/10.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/10.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">Samantha S.</span>
                                             <div class="stars">
@@ -385,7 +385,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>Netherlands </span>
                                     </div>
                                 </div>
@@ -407,7 +407,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/11.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/11.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">Daniel P.</span>
                                             <div class="stars">
@@ -420,7 +420,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>Argentina </span>
                                     </div>
                                 </div>
@@ -442,7 +442,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/12.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/12.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">Amy R.</span>
                                             <div class="stars">
@@ -455,7 +455,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>Iceland </span>
                                     </div>
                                 </div>
@@ -476,7 +476,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/13.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/13.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">Adam B.</span>
                                             <div class="stars">
@@ -489,7 +489,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>Malaysia </span>
                                     </div>
                                 </div>
@@ -510,7 +510,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/14.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/14.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">Jessica R.</span>
                                             <div class="stars">
@@ -523,7 +523,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>Switzerland </span>
                                     </div>
                                 </div>
@@ -545,7 +545,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/15.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/15.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">Michael D.</span>
                                             <div class="stars">
@@ -558,7 +558,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>Australia </span>
                                     </div>
                                 </div>

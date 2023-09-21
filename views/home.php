@@ -30,7 +30,7 @@
                 </div>
                 <div class="col-xl-5 offset-xl-1">
                     <div class="banner-img">
-                        <img src="assets/images/banner.webp" alt="" loading="eager">
+                        <img src="../assets/images/banner.webp" alt="" loading="eager">
 
                     </div>
                 </div>
@@ -41,16 +41,17 @@
         <div class="container" >
             <div class="row">
                 <div class="col-lg-12">
-                    <h2>What’s Your Plot? <div class="elem"><img src="assets/images/elem.png" alt=""></div></h2>
+                    <h2>What’s Your Plot? <div class="elem"><img src="../assets/images/elem.png" alt=""></div></h2>
                 </div>
             </div>
             <form action="/leads/" method="POST" >
+                <input type="hidden" name="brief">
                 <div class="row align-items-center">
                     <div class="col-lg-3">
-                        <input type="text" name="popupname" placeholder="Name" required data-aos="fade-up"  data-aos-anchor-placement="bottom-bottom" data-aos-delay="100">
+                        <input type="text" name="name" placeholder="Name" required data-aos="fade-up"  data-aos-anchor-placement="bottom-bottom" data-aos-delay="100">
                     </div>
                     <div class="col-lg-3">
-                        <input type="email" name="popupemail" placeholder="Email" required data-aos="fade-up"  data-aos-anchor-placement="bottom-bottom" data-aos-delay="200">
+                        <input type="email" name="email" placeholder="Email" required data-aos="fade-up"  data-aos-anchor-placement="bottom-bottom" data-aos-delay="200">
                     </div>
                     <div class="col-lg-3">
                         <input type="text" name="phone" placeholder="Phone" required data-aos="fade-up"  data-aos-anchor-placement="bottom-bottom" data-aos-delay="300">
@@ -67,13 +68,13 @@
                     <ul class="form-contacts">
                         <li>
                             <a href="javascript:;" onclick="setButtonURL()">
-                                <img src="assets/images/chat.webp" alt="">
+                                <img src="../assets/images/chat.webp" alt="">
                                 <span>Talk to an Expert</span>
                             </a>
                         </li>
                         <li>
                             <a href="tel:+18882852656 ">
-                                <img src="assets/images/phone.webp" alt="">
+                                <img src="../assets/images/phone.webp" alt="">
                                 <span> +1 (888) 285 2656 </span>
                             </a>
                         </li>
@@ -88,17 +89,17 @@
             <div class="row">
                 <ul class="trusted">
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="100"><img
-                            src="assets/images/trusted/1.webp" alt="" loading="lazy"></li>
+                            src="../assets/images/trusted/1.webp" alt="" loading="lazy"></li>
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="200"><img
-                            src="assets/images/trusted/2.webp" alt="" loading="lazy"></li>
+                            src="../assets/images/trusted/2.webp" alt="" loading="lazy"></li>
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="300"><img
-                            src="assets/images/trusted/3.webp" alt="" loading="lazy"></li>
+                            src="../assets/images/trusted/3.webp" alt="" loading="lazy"></li>
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="400"><img
-                            src="assets/images/trusted/4.webp" alt="" loading="lazy"></li>
+                            src="../assets/images/trusted/4.webp" alt="" loading="lazy"></li>
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="500"><img
-                            src="assets/images/trusted/5.webp" alt="" loading="lazy"></li>
+                            src="../assets/images/trusted/5.webp" alt="" loading="lazy"></li>
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="600"><img
-                            src="assets/images/trusted/6.webp" alt="" loading="lazy"></li>
+                            src="../assets/images/trusted/6.webp" alt="" loading="lazy"></li>
                 </ul>
             </div>
         </div>
@@ -125,7 +126,7 @@
                     <div class="benefits-card" data-aos="fade-up"
                         data-aos-anchor-placement="bottom-bottom"
                         data-aos-delay="100">
-                        <img src="assets/images/benefits/1.svg" alt=""
+                        <img src="../assets/images/benefits/1.svg" alt=""
                             loading="lazy">
                         <h3>It’s Confidential</h3>
                         <p>
@@ -139,7 +140,7 @@
                     <div class="benefits-card" data-aos="fade-up"
                         data-aos-anchor-placement="bottom-bottom"
                         data-aos-delay="200">
-                        <img src="assets/images/benefits/2.svg" alt=""
+                        <img src="../assets/images/benefits/2.svg" alt=""
                             loading="lazy">
                         <h3>Saves Time</h3>
                         <p>
@@ -153,7 +154,7 @@
                     <div class="benefits-card" data-aos="fade-up"
                         data-aos-anchor-placement="bottom-bottom"
                         data-aos-delay="300">
-                        <img src="assets/images/benefits/3.svg" alt=""
+                        <img src="../assets/images/benefits/3.svg" alt=""
                             loading="lazy">
                         <h3>Well-Reseached Books</h3>
                         <p>
@@ -167,7 +168,7 @@
                     <div class="benefits-card" data-aos="fade-up"
                         data-aos-anchor-placement="bottom-bottom"
                         data-aos-delay="100">
-                        <img src="assets/images/benefits/4.svg" alt=""
+                        <img src="../assets/images/benefits/4.svg" alt=""
                             loading="lazy">
                         <h3>Professional Writers</h3>
                         <p>
@@ -182,7 +183,7 @@
                     <div class="benefits-card" data-aos="fade-up"
                         data-aos-anchor-placement="bottom-bottom"
                         data-aos-delay="200">
-                        <img src="assets/images/benefits/5.svg" alt=""
+                        <img src="../assets/images/benefits/5.svg" alt=""
                             loading="lazy">
                         <h3>We Know Obscure Genres</h3>
                         <p>
@@ -197,7 +198,7 @@
                     <div class="benefits-card" data-aos="fade-up"
                         data-aos-anchor-placement="bottom-bottom"
                         data-aos-delay="300">
-                        <img src="assets/images/benefits/6.svg" alt=""
+                        <img src="../assets/images/benefits/6.svg" alt=""
                             loading="lazy">
                         <h3>0% Plagiarism Policy</h3>
                         <p>
@@ -235,7 +236,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/1.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/1.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">Emily K.</span>
                                             <div class="stars">
@@ -248,7 +249,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>Sweden </span>
                                     </div>
                                 </div>
@@ -270,7 +271,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/2.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/2.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">David M.</span>
                                             <div class="stars">
@@ -283,7 +284,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>Australia </span>
                                     </div>
                                 </div>
@@ -304,7 +305,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/3.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/3.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">Sarah G.</span>
                                             <div class="stars">
@@ -317,7 +318,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>Canada </span>
                                     </div>
                                 </div>
@@ -337,7 +338,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/4.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/4.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">John H.</span>
                                             <div class="stars">
@@ -350,7 +351,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>South Korea </span>
                                     </div>
                                 </div>
@@ -371,7 +372,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/5.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/5.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">Lisa C.</span>
                                             <div class="stars">
@@ -384,7 +385,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>Mexico </span>
                                     </div>
                                 </div>
@@ -405,7 +406,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/6.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/6.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">Maria S.</span>
                                             <div class="stars">
@@ -418,7 +419,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>Norway </span>
                                     </div>
                                 </div>
@@ -439,7 +440,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/7.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/7.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">Sarah M.</span>
                                             <div class="stars">
@@ -452,7 +453,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>Germany </span>
                                     </div>
                                 </div>
@@ -474,7 +475,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/8.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/8.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">Michael D.</span>
                                             <div class="stars">
@@ -487,7 +488,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>USA </span>
                                     </div>
                                 </div>
@@ -508,7 +509,7 @@
                             <div class="testi-card">
                                 <div class="upper">
                                     <div class="client">
-                                        <img src="assets/images/testimonials/9.webp" alt="" loading="lazy">
+                                        <img src="../assets/images/testimonials/9.webp" alt="" loading="lazy">
                                         <div class="det">
                                             <span class="name">David L.</span>
                                             <div class="stars">
@@ -521,7 +522,7 @@
                                         </div>
                                     </div>
                                     <div class="location">
-                                        <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                        <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                         <span>Canada </span>
                                     </div>
                                 </div>
@@ -567,40 +568,40 @@
                 <div class="col-lg-12">
                     <ul class="gallery">
                         <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="100">
-                            <a href="assets/images/gallery/home/1.webp" aria-label="Gallery" data-fancybox="gallery"><img
-                                    src="assets/images/gallery/home/1.webp" alt="" loading="lazy"></a>
+                            <a href="../assets/images/gallery/home/1.webp" aria-label="Gallery" data-fancybox="gallery"><img
+                                    src="../assets/images/gallery/home/1.webp" alt="" loading="lazy"></a>
                         </li>
                         <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="200">
-                            <a href="assets/images/gallery/home/2.webp" aria-label="Gallery" data-fancybox="gallery"><img
-                                    src="assets/images/gallery/home/2.webp" alt="" loading="lazy"></a>
+                            <a href="../assets/images/gallery/home/2.webp" aria-label="Gallery" data-fancybox="gallery"><img
+                                    src="../assets/images/gallery/home/2.webp" alt="" loading="lazy"></a>
                         </li>
                         <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="300">
-                            <a href="assets/images/gallery/home/3.webp" aria-label="Gallery" data-fancybox="gallery"><img
-                                    src="assets/images/gallery/home/3.webp" alt="" loading="lazy"></a>
+                            <a href="../assets/images/gallery/home/3.webp" aria-label="Gallery" data-fancybox="gallery"><img
+                                    src="../assets/images/gallery/home/3.webp" alt="" loading="lazy"></a>
                         </li>
                         <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="100">
-                            <a href="assets/images/gallery/home/4.webp" aria-label="Gallery" data-fancybox="gallery"><img
-                                    src="assets/images/gallery/home/4.webp" alt="" loading="lazy"></a>
+                            <a href="../assets/images/gallery/home/4.webp" aria-label="Gallery" data-fancybox="gallery"><img
+                                    src="../assets/images/gallery/home/4.webp" alt="" loading="lazy"></a>
                         </li>
                         <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="200">
-                            <a href="assets/images/gallery/home/5.webp" aria-label="Gallery" data-fancybox="gallery"><img
-                                    src="assets/images/gallery/home/5.webp" alt="" loading="lazy"></a>
+                            <a href="../assets/images/gallery/home/5.webp" aria-label="Gallery" data-fancybox="gallery"><img
+                                    src="../assets/images/gallery/home/5.webp" alt="" loading="lazy"></a>
                         </li>
                         <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="300">
-                            <a href="assets/images/gallery/home/6.webp" aria-label="Gallery" data-fancybox="gallery"><img
-                                    src="assets/images/gallery/home/6.webp" alt="" loading="lazy"></a>
+                            <a href="../assets/images/gallery/home/6.webp" aria-label="Gallery" data-fancybox="gallery"><img
+                                    src="../assets/images/gallery/home/6.webp" alt="" loading="lazy"></a>
                         </li>
                         <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="100">
-                            <a href="assets/images/gallery/home/7.webp" aria-label="Gallery" data-fancybox="gallery"><img
-                                    src="assets/images/gallery/home/7.webp" alt="" loading="lazy"></a>
+                            <a href="../assets/images/gallery/home/7.webp" aria-label="Gallery" data-fancybox="gallery"><img
+                                    src="../assets/images/gallery/home/7.webp" alt="" loading="lazy"></a>
                         </li>
                         <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="200">
-                            <a href="assets/images/gallery/home/8.webp" aria-label="Gallery" data-fancybox="gallery"><img
-                                    src="assets/images/gallery/home/8.webp" alt="" loading="lazy"></a>
+                            <a href="../assets/images/gallery/home/8.webp" aria-label="Gallery" data-fancybox="gallery"><img
+                                    src="../assets/images/gallery/home/8.webp" alt="" loading="lazy"></a>
                         </li>
                         <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="300">
-                            <a href="assets/images/gallery/home/9.webp" aria-label="Gallery" data-fancybox="gallery"><img
-                                    src="assets/images/gallery/home/9.webp" alt="" loading="lazy"></a>
+                            <a href="../assets/images/gallery/home/9.webp" aria-label="Gallery" data-fancybox="gallery"><img
+                                    src="../assets/images/gallery/home/9.webp" alt="" loading="lazy"></a>
                         </li>
                     </ul>
                     <div class="text-center mt-5 mb-4">
@@ -654,28 +655,28 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="process-card" data-aos="fade-right" data-aos-anchor-placement="bottom-bottom"
                         data-aos-delay="200">
-                        <img src="assets/images/process/home/1.webp" alt="" loading="lazy">
+                        <img src="../assets/images/process/home/1.webp" alt="" loading="lazy">
                         <h3>Share Your Ideas with Us</h3>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="process-card" data-aos="fade-right" data-aos-anchor-placement="bottom-bottom"
                         data-aos-delay="400">
-                        <img src="assets/images/process/home/2.webp" alt="" loading="lazy">
+                        <img src="../assets/images/process/home/2.webp" alt="" loading="lazy">
                         <h3>We Assign You a Writer</h3>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="process-card" data-aos="fade-right" data-aos-anchor-placement="bottom-bottom"
                         data-aos-delay="600">
-                        <img src="assets/images/process/home/3.webp" alt="" loading="lazy">
+                        <img src="../assets/images/process/home/3.webp" alt="" loading="lazy">
                         <h3>Research and Revisions</h3>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="process-card" data-aos="fade-right" data-aos-anchor-placement="bottom-bottom"
                         data-aos-delay="800">
-                        <img src="assets/images/process/home/4.webp" alt="" loading="lazy">
+                        <img src="../assets/images/process/home/4.webp" alt="" loading="lazy">
                         <h3>You Get the Final Draft</h3>
                     </div>
                 </div>
@@ -697,7 +698,7 @@
                         </p>
                     </div>
                     <div class="btn-wrap ">
-                        <a href="faqs.html" class="theme-btn ">Read More</a>
+                        <a href="/faqs/" class="theme-btn ">Read More</a>
                     </div>
                 </div>
                 <div class="col-lg-6 offset-lg-1">

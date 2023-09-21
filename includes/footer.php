@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="widget">
-                    <a href="/" class="f-logo" aria-label="Logo"><img src="assets/images/black-logo.png" style="filter: hue-rotate(21deg);" alt=""></a>
+                    <a href="/" class="f-logo" aria-label="Logo"><img src="../assets/images/black-logo.png" style="filter: hue-rotate(21deg);" alt=""></a>
                     <p>
                         At AMZ Publishing Official, we offer exceptional ghostwriting services for authors of all genres.
                         Our experienced ghostwriters are skilled in crafting compelling stories that capture readers'
@@ -35,16 +35,16 @@
                     <span class="f-hdng">Quick Links</span>
                     <ul class="f-links">
                         <li>
-                            <a href="mailto: info@amzpublishingofficial.com"><img src="assets/images/footer/mail.svg" alt=""
+                            <a href="mailto: info@amzpublishingofficial.com"><img src="../assets/images/footer/mail.svg" alt=""
                                     loading="lazy"> info@amzpublishingofficial.com</a>
                         </li>
                         <li>
-                            <a href="tel:+18882852656"><img src="assets/images/footer/phone.svg" alt=""
+                            <a href="tel:+18882852656"><img src="../assets/images/footer/phone.svg" alt=""
                                     loading="lazy"> +1 (888) 285 2656 </a>
                         </li>
 
                         <li>
-                            <a href="javascript:;"><img src="assets/images/footer/address.svg" alt=""
+                            <a href="javascript:;"><img src="../assets/images/footer/address.svg" alt=""
                                     loading="lazy">800 W Julian StSan Jose, CA 95126, USA</a>
                         </li>
                     </ul>
@@ -72,7 +72,7 @@
                     <p>
                         © 2023 AMZ Publishing Official. All Rights Reserved
                     </p>
-                    <img src="assets/images/visa.svg" alt="" loading="lazy">
+                    <img src="../assets/images/visa.svg" alt="" loading="lazy">
                 </div>
             </div>
         </div>
@@ -185,38 +185,17 @@ $(function() {
                                     </h2>
                                 </div>
                                 <div class="col-md-6">
-                                    <input type="text" id="name" name="popupname" required placeholder="Name">
+                                    <input type="text" id="name" name="name" required placeholder="Name">
                                 </div>
                                 <div class="col-md-6">
-                                    <input type="email" id="name" name="popupemail" required placeholder="Email">
+                                    <input type="email" id="name" name="email" required placeholder="Email">
                                 </div>
                                 <div class="col-md-12">
                                     <input type="text" id="name" name="phone" required placeholder="Phone">
                                 </div>
-                                <div class="col-md-6">
-                                    <select name="service" id="" required>
-                                        <option value="">Select Service</option>
-                                        <option value="Ghost Writing">Ghost Writing</option>
-                                        <option value="Editing">Editing</option>
-                                        <option value="Publishing">Publishing</option>
-                                        <option value="eBook Writing">eBook Writing</option>
-                                        <option value="Writing Services">Writing Services</option>
-                                    </select>
-                                </div>
-                                <div class="col-md-6">
-                                    <input type="text" id="name" name="gender" required placeholder="gender">
-                                </div>
+                                
                                 <div class="col-md-12">
-                                    <select name="noofpages" id="" required>
-                                        <option>Number of Pages</option>
-                                        <option value="1 - 50">1 - 50</option>
-                                        <option value="50 - 100">50 - 100</option>
-                                        <option value="100 - 200">100 - 200</option>
-                                        <option value="200+">200+</option>
-                                    </select>
-                                </div>
-                                <div class="col-md-12">
-                                    <textarea name="message" id="" cols="30" rows="10" required></textarea>
+                                    <textarea name="brief" id="" cols="30" rows="10" required></textarea>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="btn-wrap">

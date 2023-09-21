@@ -6,6 +6,3 @@ Disallow: /*.html$
 Disallow: /
 
 
-SiteMap: https://www.alphabookwriters.com/sitemap.xml
-Sitemap: https://www.alphabookwriters.com/blog/post-sitemap.xml
-

@@ -50,33 +50,36 @@
                     </div>
                     <ul class="contact-detail">
                         <li>
-                            <img src="assets/images/contact/1.webp" alt="">
+                            <img src="../assets/images/contact/1.webp" alt="">
                             <div class="det">
                                 <span class="hdng">
                                     Phone
                                 </span>
                                 <span class="cont">
-                                     +1 (888) 285 2656                                 </span>
+                                    +1 (888) 285 2656 
+                                </span>
                             </div>
                         </li>
                         <li>
-                            <img src="assets/images/contact/2.webp" alt="">
+                            <img src="../assets/images/contact/2.webp" alt="">
                             <div class="det">
                                 <span class="hdng">
                                     Email
                                 </span>
                                 <span class="cont">
-                                     info@amzpublishingofficial.com                                </span>
+                                    info@amzpublishingofficial.com                                
+                                </span>
                             </div>
                         </li>
                         <li>
-                            <img src="assets/images/contact/2.webp" alt="">
+                            <img src="../assets/images/contact/2.webp" alt="">
                             <div class="det">
                                 <span class="hdng">
                                     Location
                                 </span>
                                 <span class="cont">
-                                    800 W Julian StSan Jose, CA 95126, USA                                </span>
+                                    800 W Julian StSan Jose, CA 95126, USA                                
+                                </span>
                             </div>
                         </li>
                     </ul>

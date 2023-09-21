@@ -32,22 +32,22 @@
             <div class="row">
                 <ul class="trusted">
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="100">
-                        <img src="assets/images/trusted/1.webp" alt="" loading="lazy">
+                        <img src="../assets/images/trusted/1.webp" alt="" loading="lazy">
                     </li>
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="200">
-                        <img src="assets/images/trusted/2.webp" alt="" loading="lazy">
+                        <img src="../assets/images/trusted/2.webp" alt="" loading="lazy">
                     </li>
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="300">
-                        <img src="assets/images/trusted/3.webp" alt="" loading="lazy">
+                        <img src="../assets/images/trusted/3.webp" alt="" loading="lazy">
                     </li>
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="400">
-                        <img src="assets/images/trusted/4.webp" alt="" loading="lazy">
+                        <img src="../assets/images/trusted/4.webp" alt="" loading="lazy">
                     </li>
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="500">
-                        <img src="assets/images/trusted/5.webp" alt="" loading="lazy">
+                        <img src="../assets/images/trusted/5.webp" alt="" loading="lazy">
                     </li>
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="600">
-                        <img src="assets/images/trusted/6.webp" alt="" loading="lazy">
+                        <img src="../assets/images/trusted/6.webp" alt="" loading="lazy">
                     </li>
                 </ul>
             </div>

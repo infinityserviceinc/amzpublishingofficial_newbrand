@@ -36,17 +36,17 @@
         <div class="row">
             <ul class="trusted">
                 <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="100"><img
-                        src="assets/images/trusted/1.webp" alt="" loading="lazy"></li>
+                        src="../assets/images/trusted/1.webp" alt="" loading="lazy"></li>
                 <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="200"><img
-                        src="assets/images/trusted/2.webp" alt="" loading="lazy"></li>
+                        src="../assets/images/trusted/2.webp" alt="" loading="lazy"></li>
                 <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="300"><img
-                        src="assets/images/trusted/3.webp" alt="" loading="lazy"></li>
+                        src="../assets/images/trusted/3.webp" alt="" loading="lazy"></li>
                 <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="400"><img
-                        src="assets/images/trusted/4.webp" alt="" loading="lazy"></li>
+                        src="../assets/images/trusted/4.webp" alt="" loading="lazy"></li>
                 <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="500"><img
-                        src="assets/images/trusted/5.webp" alt="" loading="lazy"></li>
+                        src="../assets/images/trusted/5.webp" alt="" loading="lazy"></li>
                 <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="600"><img
-                        src="assets/images/trusted/6.webp" alt="" loading="lazy"></li>
+                        src="../assets/images/trusted/6.webp" alt="" loading="lazy"></li>
             </ul>
         </div>
     </div>
@@ -75,7 +75,7 @@
                         <div class="testi-card">
                             <div class="upper">
                                 <div class="client">
-                                    <img src="assets/images/testimonials/1.webp" alt="" loading="lazy">
+                                    <img src="../assets/images/testimonials/1.webp" alt="" loading="lazy">
                                     <div class="det">
                                         <span class="name">Emily K.</span>
                                         <div class="stars">
@@ -88,7 +88,7 @@
                                     </div>
                                 </div>
                                 <div class="location">
-                                    <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                    <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                     <span>Sweden </span>
                                 </div>
                             </div>
@@ -110,7 +110,7 @@
                         <div class="testi-card">
                             <div class="upper">
                                 <div class="client">
-                                    <img src="assets/images/testimonials/2.webp" alt="" loading="lazy">
+                                    <img src="../assets/images/testimonials/2.webp" alt="" loading="lazy">
                                     <div class="det">
                                         <span class="name">David M.</span>
                                         <div class="stars">
@@ -123,7 +123,7 @@
                                     </div>
                                 </div>
                                 <div class="location">
-                                    <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                    <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                     <span>Australia </span>
                                 </div>
                             </div>
@@ -144,7 +144,7 @@
                         <div class="testi-card">
                             <div class="upper">
                                 <div class="client">
-                                    <img src="assets/images/testimonials/3.webp" alt="" loading="lazy">
+                                    <img src="../assets/images/testimonials/3.webp" alt="" loading="lazy">
                                     <div class="det">
                                         <span class="name">Sarah G.</span>
                                         <div class="stars">
@@ -157,7 +157,7 @@
                                     </div>
                                 </div>
                                 <div class="location">
-                                    <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                    <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                     <span>Canada </span>
                                 </div>
                             </div>
@@ -177,7 +177,7 @@
                         <div class="testi-card">
                             <div class="upper">
                                 <div class="client">
-                                    <img src="assets/images/testimonials/4.webp" alt="" loading="lazy">
+                                    <img src="../assets/images/testimonials/4.webp" alt="" loading="lazy">
                                     <div class="det">
                                         <span class="name">John H.</span>
                                         <div class="stars">
@@ -190,7 +190,7 @@
                                     </div>
                                 </div>
                                 <div class="location">
-                                    <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                    <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                     <span>South Korea </span>
                                 </div>
                             </div>
@@ -211,7 +211,7 @@
                         <div class="testi-card">
                             <div class="upper">
                                 <div class="client">
-                                    <img src="assets/images/testimonials/5.webp" alt="" loading="lazy">
+                                    <img src="../assets/images/testimonials/5.webp" alt="" loading="lazy">
                                     <div class="det">
                                         <span class="name">Lisa C.</span>
                                         <div class="stars">
@@ -224,7 +224,7 @@
                                     </div>
                                 </div>
                                 <div class="location">
-                                    <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                    <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                     <span>Mexico </span>
                                 </div>
                             </div>
@@ -245,7 +245,7 @@
                         <div class="testi-card">
                             <div class="upper">
                                 <div class="client">
-                                    <img src="assets/images/testimonials/6.webp" alt="" loading="lazy">
+                                    <img src="../assets/images/testimonials/6.webp" alt="" loading="lazy">
                                     <div class="det">
                                         <span class="name">Maria S.</span>
                                         <div class="stars">
@@ -258,7 +258,7 @@
                                     </div>
                                 </div>
                                 <div class="location">
-                                    <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                    <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                     <span>Norway </span>
                                 </div>
                             </div>
@@ -279,7 +279,7 @@
                         <div class="testi-card">
                             <div class="upper">
                                 <div class="client">
-                                    <img src="assets/images/testimonials/7.webp" alt="" loading="lazy">
+                                    <img src="../assets/images/testimonials/7.webp" alt="" loading="lazy">
                                     <div class="det">
                                         <span class="name">Sarah M.</span>
                                         <div class="stars">
@@ -292,7 +292,7 @@
                                     </div>
                                 </div>
                                 <div class="location">
-                                    <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                    <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                     <span>Germany </span>
                                 </div>
                             </div>
@@ -314,7 +314,7 @@
                         <div class="testi-card">
                             <div class="upper">
                                 <div class="client">
-                                    <img src="assets/images/testimonials/8.webp" alt="" loading="lazy">
+                                    <img src="../assets/images/testimonials/8.webp" alt="" loading="lazy">
                                     <div class="det">
                                         <span class="name">Michael D.</span>
                                         <div class="stars">
@@ -327,7 +327,7 @@
                                     </div>
                                 </div>
                                 <div class="location">
-                                    <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                    <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                     <span>USA </span>
                                 </div>
                             </div>
@@ -348,7 +348,7 @@
                         <div class="testi-card">
                             <div class="upper">
                                 <div class="client">
-                                    <img src="assets/images/testimonials/9.webp" alt="" loading="lazy">
+                                    <img src="../assets/images/testimonials/9.webp" alt="" loading="lazy">
                                     <div class="det">
                                         <span class="name">David L.</span>
                                         <div class="stars">
@@ -361,7 +361,7 @@
                                     </div>
                                 </div>
                                 <div class="location">
-                                    <img src="assets/images/marker.svg" alt="" loading="lazy">
+                                    <img src="../assets/images/marker.svg" alt="" loading="lazy">
                                     <span>Canada </span>
                                 </div>
                             </div>
@@ -406,40 +406,40 @@
             <div class="col-lg-12">
                 <ul class="gallery">
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="100">
-                        <a href="assets/images/gallery/home/1.webp" aria-label="Gallery" data-fancybox="gallery"><img
-                                src="assets/images/gallery/home/1.webp" alt="" loading="lazy"></a>
+                        <a href="../assets/images/gallery/home/1.webp" aria-label="Gallery" data-fancybox="gallery"><img
+                                src="../assets/images/gallery/home/1.webp" alt="" loading="lazy"></a>
                     </li>
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="200">
-                        <a href="assets/images/gallery/home/2.webp" aria-label="Gallery" data-fancybox="gallery"><img
-                                src="assets/images/gallery/home/2.webp" alt="" loading="lazy"></a>
+                        <a href="../assets/images/gallery/home/2.webp" aria-label="Gallery" data-fancybox="gallery"><img
+                                src="../assets/images/gallery/home/2.webp" alt="" loading="lazy"></a>
                     </li>
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="300">
-                        <a href="assets/images/gallery/home/3.webp" aria-label="Gallery" data-fancybox="gallery"><img
-                                src="assets/images/gallery/home/3.webp" alt="" loading="lazy"></a>
+                        <a href="../assets/images/gallery/home/3.webp" aria-label="Gallery" data-fancybox="gallery"><img
+                                src="../assets/images/gallery/home/3.webp" alt="" loading="lazy"></a>
                     </li>
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="100">
-                        <a href="assets/images/gallery/home/4.webp" aria-label="Gallery" data-fancybox="gallery"><img
-                                src="assets/images/gallery/home/4.webp" alt="" loading="lazy"></a>
+                        <a href="../assets/images/gallery/home/4.webp" aria-label="Gallery" data-fancybox="gallery"><img
+                                src="../assets/images/gallery/home/4.webp" alt="" loading="lazy"></a>
                     </li>
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="200">
-                        <a href="assets/images/gallery/home/5.webp" aria-label="Gallery" data-fancybox="gallery"><img
-                                src="assets/images/gallery/home/5.webp" alt="" loading="lazy"></a>
+                        <a href="../assets/images/gallery/home/5.webp" aria-label="Gallery" data-fancybox="gallery"><img
+                                src="../assets/images/gallery/home/5.webp" alt="" loading="lazy"></a>
                     </li>
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="300">
-                        <a href="assets/images/gallery/home/6.webp" aria-label="Gallery" data-fancybox="gallery"><img
-                                src="assets/images/gallery/home/6.webp" alt="" loading="lazy"></a>
+                        <a href="../assets/images/gallery/home/6.webp" aria-label="Gallery" data-fancybox="gallery"><img
+                                src="../assets/images/gallery/home/6.webp" alt="" loading="lazy"></a>
                     </li>
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="100">
-                        <a href="assets/images/gallery/home/7.webp" aria-label="Gallery" data-fancybox="gallery"><img
-                                src="assets/images/gallery/home/7.webp" alt="" loading="lazy"></a>
+                        <a href="../assets/images/gallery/home/7.webp" aria-label="Gallery" data-fancybox="gallery"><img
+                                src="../assets/images/gallery/home/7.webp" alt="" loading="lazy"></a>
                     </li>
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="200">
-                        <a href="assets/images/gallery/home/8.webp" aria-label="Gallery" data-fancybox="gallery"><img
-                                src="assets/images/gallery/home/8.webp" alt="" loading="lazy"></a>
+                        <a href="../assets/images/gallery/home/8.webp" aria-label="Gallery" data-fancybox="gallery"><img
+                                src="../assets/images/gallery/home/8.webp" alt="" loading="lazy"></a>
                     </li>
                     <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="300">
-                        <a href="assets/images/gallery/home/9.webp" aria-label="Gallery" data-fancybox="gallery"><img
-                                src="assets/images/gallery/home/9.webp" alt="" loading="lazy"></a>
+                        <a href="../assets/images/gallery/home/9.webp" aria-label="Gallery" data-fancybox="gallery"><img
+                                src="../assets/images/gallery/home/9.webp" alt="" loading="lazy"></a>
                     </li>
                 </ul>
                 <div class="text-center mt-5 mb-4">
@@ -559,7 +559,7 @@
                     </p>
                 </div>
                 <div class="btn-wrap ">
-                    <a href="faqs.html" class="theme-btn ">Read More</a>
+                    <a href="/faqs/" class="theme-btn ">Read More</a>
                 </div>
             </div>
             <div class="col-lg-6 offset-lg-1">
