@@ -1813,6 +1813,7 @@ p.thanks-text {
 
 /* thankyou */
 @media (min-width: 1400px) {
+ 
 
     ul.menu:first-child {
         padding-left: 115px;
@@ -2304,5 +2305,13 @@ p.thanks-text {
     .logo{width: 240px;}
     .cta-sec{
         background-size: cover;
+    }
+}
+
+
+@media only screen and (max-width:1404px){
+    a.logo img {
+        position: relative !important;
+        left: -60px !important;
     }
 }
