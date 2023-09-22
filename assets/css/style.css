@@ -2301,17 +2301,23 @@ p.thanks-text {
 	}
 }
 
-@media(max-width:767px){
-    .logo{width: 240px;}
-    .cta-sec{
-        background-size: cover;
-    }
-}
 
 
 @media only screen and (max-width:1404px){
     a.logo img {
         position: relative !important;
         left: -60px !important;
+    }
+}
+
+
+@media(max-width:767px){
+    .logo{width: 240px;}
+    .cta-sec{
+        background-size: cover;
+    }
+    a.logo img {
+        position: relative !important;
+        left: 0px !important;
     }
 }
