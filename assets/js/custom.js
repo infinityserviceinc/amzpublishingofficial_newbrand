@@ -228,21 +228,21 @@ $(document).ready(function(){
       $(".centercont h4").html("in Just <span>" + orgtexts + "</span>");
     });
 
-    $(window).scroll(function(){
-        var header = $('header'),
-            scroll = $(window).scrollTop();
+    // $(window).scroll(function(){
+    //     var header = $('header'),
+    //         scroll = $(window).scrollTop();
       
-        if (scroll >= 1){
-             header.addClass('sticky');
-            //  $('.bottom-menu-wrap').slideUp();
-        }
-        if (scroll <= 0){
-            header.removeClass('sticky');
-            // $('.bottom-menu-wrap').slideDown();
+    //     if (scroll >= 1){
+    //          header.addClass('sticky');
+    //         //  $('.bottom-menu-wrap').slideUp();
+    //     }
+    //     if (scroll <= 0){
+    //         header.removeClass('sticky');
+    //         // $('.bottom-menu-wrap').slideDown();
 
-       }
+    //    }
         
-      });
+    //   });
  
       $(".custom-steps li").click(function(){
         $(".custom-steps li").removeClass('active');
