@@ -567,39 +567,39 @@
             <div class="row">
                 <div class="col-lg-12">
                     <ul class="gallery gallery_slider">
-                        <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="100">
+                        <li  data-aos-anchor-placement="bottom-bottom" data-aos-delay="100">
                             <a href="../assets/images/gallery/home/1.webp" aria-label="Gallery" data-fancybox="gallery"><img
                                     src="../assets/images/gallery/home/1.webp" alt="" loading="lazy"></a>
                         </li>
-                        <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="200">
+                        <li  data-aos-anchor-placement="bottom-bottom" data-aos-delay="200">
                             <a href="../assets/images/gallery/home/2.webp" aria-label="Gallery" data-fancybox="gallery"><img
                                     src="../assets/images/gallery/home/2.webp" alt="" loading="lazy"></a>
                         </li>
-                        <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="300">
+                        <li  data-aos-anchor-placement="bottom-bottom" data-aos-delay="300">
                             <a href="../assets/images/gallery/home/3.webp" aria-label="Gallery" data-fancybox="gallery"><img
                                     src="../assets/images/gallery/home/3.webp" alt="" loading="lazy"></a>
                         </li>
-                        <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="100">
+                        <li  data-aos-anchor-placement="bottom-bottom" data-aos-delay="100">
                             <a href="../assets/images/gallery/home/4.webp" aria-label="Gallery" data-fancybox="gallery"><img
                                     src="../assets/images/gallery/home/4.webp" alt="" loading="lazy"></a>
                         </li>
-                        <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="200">
+                        <li  data-aos-anchor-placement="bottom-bottom" data-aos-delay="200">
                             <a href="../assets/images/gallery/home/5.webp" aria-label="Gallery" data-fancybox="gallery"><img
                                     src="../assets/images/gallery/home/5.webp" alt="" loading="lazy"></a>
                         </li>
-                        <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="300">
+                        <li  data-aos-anchor-placement="bottom-bottom" data-aos-delay="300">
                             <a href="../assets/images/gallery/home/6.webp" aria-label="Gallery" data-fancybox="gallery"><img
                                     src="../assets/images/gallery/home/6.webp" alt="" loading="lazy"></a>
                         </li>
-                        <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="100">
+                        <li  data-aos-anchor-placement="bottom-bottom" data-aos-delay="100">
                             <a href="../assets/images/gallery/home/7.webp" aria-label="Gallery" data-fancybox="gallery"><img
                                     src="../assets/images/gallery/home/7.webp" alt="" loading="lazy"></a>
                         </li>
-                        <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="200">
+                        <li  data-aos-anchor-placement="bottom-bottom" data-aos-delay="200">
                             <a href="../assets/images/gallery/home/8.webp" aria-label="Gallery" data-fancybox="gallery"><img
                                     src="../assets/images/gallery/home/8.webp" alt="" loading="lazy"></a>
                         </li>
-                        <li data-aos="fade-right" data-aos-anchor-placement="bottom-bottom" data-aos-delay="300">
+                        <li  data-aos-anchor-placement="bottom-bottom" data-aos-delay="300">
                             <a href="../assets/images/gallery/home/9.webp" aria-label="Gallery" data-fancybox="gallery"><img
                                     src="../assets/images/gallery/home/9.webp" alt="" loading="lazy"></a>
                         </li>
