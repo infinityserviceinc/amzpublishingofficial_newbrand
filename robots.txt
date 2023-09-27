@@ -1,5 +1,5 @@
-﻿User-agent: * 
-
+User-agent: *
+Allow: /
 Disallow: /leads/
 Disallow: /\?
 Disallow: /*.html$
