@@ -1,0 +1,247 @@
+@media only screen and (max-width:1024px) {
+    .get-start-section::after{
+        width: 180px;
+    }
+    .get-start-section::before {
+
+        width: 420px;}
+}
+
+@media only screen and (max-width:1360px){}
+@media only screen and (max-width:1070px){
+
+    .haeder-link ul li {
+        font-size: 10px;
+    }
+
+    .banner-text h2, .agency-heading h4 {
+        font-size: 35px;
+    }    
+
+    .oag_item p {
+
+    font-size: 11px;
+
+}
+.banner-publish ul li {
+    font-size: 12px;
+}
+
+.publishing-work-card p {
+    font-size: 12px;}
+
+    .publishing-work-card h3 {
+        font-size: 18px;
+    }    
+
+
+    .banner-list ul li {
+        font-size: 17px;
+      
+        width: 48%;}
+
+
+}
+
+@media only screen and (max-width:900px){
+
+
+
+}
+
+
+
+
+
+@media only screen and (max-width: 768px) {
+}
+ @media only screen and (max-width: 600px) {
+    .banner-list {
+        position: relative;
+        top: -110px !important; 
+    }
+    
+    .banner-buuton {
+        position: relative !important;
+        top: -110px !important;
+    }
+    
+    .banner-from.aos-init.aos-animate {
+        position: relative !important;
+        top: -70px !important;
+    }
+    .logo-section {
+        padding: 17px 0;
+        background-position: center;
+        /* background-size: cover; */
+        margin: 0px 0 0 0 !important;
+        background-image: url(../images/tab-bg.webp);
+    }
+    h2.aminater {
+        position: relative;
+        top: 130px;
+        height: 300px;
+    }
+    .custom-modal h5{
+        font-size: 23px;
+    }
+    .book-slider .owl-prev{
+        display: none;
+    }
+    .book-slider .owl-next{
+        display: none;
+    }
+     .mobile-none{
+         display: none;
+    }
+    
+     .banner-text h2 {
+         font-size: 25px;
+         text-align: left;
+    }
+     .logo-section p {
+         margin-bottom: 15px;
+    }
+     .logobar {
+         margin-bottom: 20px;
+         padding: 0 0;
+    }
+     .should-section {
+         height: auto;
+         padding: 30px 0;
+    }
+     .should-section h4 {
+         font-size: 28px;
+         line-height: 35px;
+    }
+     .get-start-section ul {
+         display: block;
+    }
+     .get-start-section {
+         background: #fff;
+    }
+     .get-start-section p {
+         font-size: 14px;
+         width: 100%;
+    }
+     .min-bar {
+         background: #fd9a00;
+    }
+     .stellarnav.dark a, .stellarnav.dark li a {
+         color: #fff;
+    }
+     .should-section ul li {
+         line-height: 19px;
+         font-size: 12px;
+         width: 100%;
+    }
+     .should-section ul {
+         display: block;
+    }
+     .get-start-section ul li button {
+         width: 100%;
+         margin-bottom: 10px;
+    }
+     .form-wrap{
+         display: none;
+    }
+     .oag_item {
+         margin-bottom: 30px;
+    }
+     .our-agency-section img {
+         display: none;
+    }
+     .banner-text p {
+         font-size: 10px;
+    }
+     .banner-list ul li {
+         font-size: 14px;
+         width: 100%;
+    }
+     .banner-buuton ul li button, .counter-text-link ul li button, .speak-buuton ul li button, .from-button ul li button {
+         width: 100%;
+         margin-right: 0px;
+         font-size: 13px;
+         margin-bottom: 15px;
+    }
+     .agency-heading h4, .counter-text-link h4, .craft-text h4, .testi-text h3, .info-testi h4, .ebook-from h4, .speak-text h2, .from-text h2 {
+         font-size: 20px;
+    }
+     .banner-publish ul {
+         display: block;
+    }
+     .new-book-cover, .get-start-section::after, .get-start-section::before{
+         display: none;
+    }
+     .craft-text p {
+         width: 100%;
+         font-size: 13px;
+    }
+     .info-testi p {
+         font-size: 13px;
+         line-height: 25px;
+         margin-bottom: 0;
+         margin-top: 30px;
+    }
+    .test-section{
+        padding: 70px 0px 40px 0px;
+    }
+     .from-link ul li {
+         width: 100%;
+         font-size: 11px;
+    }
+     .input-field button {
+         padding: 8px;
+         font-size: 16px;
+    }
+     .input-field input {
+         padding: 10px;
+         font-size: 13px;
+    }
+     .logobar::before{
+         content: none;
+    }
+     .logobar::after{
+         display: none;
+    }
+     .agency-heading p {
+         font-size: 12px;
+         line-height: 23px;
+    }
+     .our-agency-section {
+         margin-bottom: 30px;
+    }
+
+    .agency-heading ul, .counter-text-link ul, .speak-buuton ul {
+        display: block;
+
+    }
+
+    .agency-heading ul li button, .counter-text-link ul li button, .speak-buuton ul li button{ margin-bottom: 20px; width: 100%;}
+
+
+    ul#tabs li {
+    
+        padding: 5px 10px;
+    
+        text-align: left;
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+
+    .ebook-from{ margin-top: 30px;}
+    
+    .banner-buuton ul li a, .counter-text-link ul li a, .speak-buuton ul li a, .get-start-section ul li a, .agency-heading ul li a{    width: 100%;     margin-bottom: 20px;
+}
+
+.banner-buuton ul, .from-button ul {
+    display: block;
+ 
+}
+
+.logo-section button{       width: 100%;}
+
+}
+ @media only screen and (max-width: 500px) {
+}
+ 
