@@ -18,14 +18,30 @@
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/all.min.css">
 
-
+    <!-- Google Tag Manager -->
+    <script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-PG5GPLC6');
+    </script><!-- End Google Tag Manager -->
 
 
 
 </head>
 
 <body>
-
+    <!-- Google Tag Manager (noscript) --><noscript><iframe src=" " height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) -->
 
     <div class="custom-modal">
         <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog"
@@ -41,7 +57,7 @@
                         <form action="/leads/" method="post">
                             <input type="hidden" name="brand-name" value="amazon-publishing">
                             <div class="form-field">
-                                <input type="text" class="form-input" name="name" required  placeholder="Name *">
+                                <input type="text" class="form-input" name="name" required placeholder="Name *">
                                 <p class="error-text">Please enter Full Name</p>
                             </div>
                             <div class="form-field">
@@ -79,11 +95,12 @@
                     <div class="col-md-9 col-sm-9 col-lg-9 col-12 mobile-none">
                         <div class="haeder-link">
                             <ul>
-                                <li><a
-                                        href="mailto:info@amzpublishingofficial.com"><i
-                                            class="fa-solid fa-comments" style="margin-right: 10px;"></i> <span class="__cf_email__">info@amzpublishingofficial.com</span></a>
+                                <li><a href="mailto:info@amzpublishingofficial.com"><i class="fa-solid fa-comments"
+                                            style="margin-right: 10px;"></i> <span
+                                            class="__cf_email__">info@amzpublishingofficial.com</span></a>
                                 </li>
-                                <li><a href="tel:+1 888 285 2656 "><i class="fa-solid fa-phone-volume" style="margin-right: 10px;"></i> +1 888 285 2656</a></li>
+                                <li><a href="tel:+1 888 285 2656 "><i class="fa-solid fa-phone-volume"
+                                            style="margin-right: 10px;"></i> +1 888 285 2656</a></li>
                                 <li> <a href="javascript:$zopim.livechat.window.show();">Live Chat</a></li>
                             </ul>
                         </div>
@@ -122,11 +139,12 @@
                             </div>
                         </div>
                         <div class="banner-from" data-aos="fade-left" data-aos-duration="700">
-                            <form action="/leads/" method="post" >
+                            <form action="/leads/" method="post">
                                 <div class="row">
                                     <div class="col-md-3 col-sm-3 col-lg-3 col-12">
                                         <div class=" input-field form-field">
-                                            <input type="text" class="form-input" name="name" required placeholder="Name *">
+                                            <input type="text" class="form-input" name="name" required
+                                                placeholder="Name *">
                                             <p class="error-text">Please enter Full Name</p>
                                         </div>
                                     </div>
@@ -286,7 +304,8 @@
                                 and <span>quickest Publishing Process</span>
                             </h4>
                             <p>Writing is a form of Art. It is a mastery of words that has the potential to weave
-                                limitless images in the minds of its readers. At AMZ Publishing Official, we are proud of our
+                                limitless images in the minds of its readers. At AMZ Publishing Official, we are proud
+                                of our
                                 seasoned professionals, who bring your masterpieces to life through our 360˚, no-hassle
                                 Publishing Services with Global Coverage.
                             </p>
@@ -329,7 +348,8 @@
                         data-aos-duration="1200">
                         <div class="speak-text">
                             <h2>Get a call with our experts and <span> get free publishing advice </span></h2>
-                            <p>We believe in nurturing relationships that last a lifetime. At AMZ Publishing Official we can
+                            <p>We believe in nurturing relationships that last a lifetime. At AMZ Publishing Official we
+                                can
                                 help you at every step of the journey. Once your book is perfected, we also offer the
                                 additional services of Publishing and Marketing your book. Our experts can help you with
                                 the entire process, getting your book into the hands of readers, across the globe.
@@ -649,7 +669,8 @@
                                     <h4>John David <img src="images/review-stars.webp" class="img-fluid LazyLoad"> </h4>
                                     <p>“As a writer I always try to keep my thought process and writing routine
                                         undisturbed.
-                                        Over the years, AMZ Publishing Official has made it possible for me to fully focus on my
+                                        Over the years, AMZ Publishing Official has made it possible for me to fully
+                                        focus on my
                                         writing, by taking everything related to publishing in their hands. Huge shout
                                         out to
                                         Kevin who always keeps me updated about the progress and always responds to me
@@ -689,7 +710,8 @@
                             <div class="item">
                                 <div class="info-testi">
                                     <h4>Emily Steve <img src="images/review-stars.webp" class="img-fluid LazyLoad"></h4>
-                                    <p>“AMZ Publishing Official has always had my confidence and I sincerely attribute them
+                                    <p>“AMZ Publishing Official has always had my confidence and I sincerely attribute
+                                        them
                                         to a large
                                         part of my writing success on various platforms. Their marketing experts are
                                         always upto-date with the ongoing practices in publishing industry and I have
@@ -705,7 +727,8 @@
                                         Literature
                                         where hundreds and thousands of books are published every month. Now I am able
                                         to
-                                        fully concentrate on the requirements of my reader, while AMZ Publishing Official
+                                        fully concentrate on the requirements of my reader, while AMZ Publishing
+                                        Official
                                         takes care
                                         of all the issues that arise once I am done with my writing process.”
                                     </p>
@@ -719,7 +742,8 @@
                                         rewarding as
                                         well as time constrained. Audience may quickly loose interest or divert to other
                                         writers.
-                                        That is why I have chosen AMZ Publishing Official to assist me in providing timely
+                                        That is why I have chosen AMZ Publishing Official to assist me in providing
+                                        timely
                                         and
                                         consistent content to my readers efficiently and economically
                                         ”
@@ -771,9 +795,10 @@
                             </div>
                             <div class="from-button">
                                 <ul>
-                                    <li><button onclick="if (!window.__cfRLUnblockHandlers) return false; location.href='javascript:void(0)'"
-                                        data-toggle="modal" data-target="#exampleModalCenter"
-                                        data-cf-modified-ca5d9eea9cf5b4a87706818b->Get started</button></li>
+                                    <li><button
+                                            onclick="if (!window.__cfRLUnblockHandlers) return false; location.href='javascript:void(0)'"
+                                            data-toggle="modal" data-target="#exampleModalCenter"
+                                            data-cf-modified-ca5d9eea9cf5b4a87706818b->Get started</button></li>
                                 </ul>
                             </div>
                         </div>
@@ -786,7 +811,8 @@
                             </p>
                             <form action="/leads/" method="post">
                                 <div class="ebook-field form-field">
-                                    <input type="text" class="form-input" name="name" required required placeholder="Name *">
+                                    <input type="text" class="form-input" name="name" required required
+                                        placeholder="Name *">
                                     <p class="error-text">Please enter Full Name</p>
                                 </div>
                                 <div class="ebook-field form-field">
@@ -794,7 +820,8 @@
                                     <p class="error-text">Please enter Email</p>
                                 </div>
                                 <div class="ebook-field form-field">
-                                    <input type="tel" class="form-input" name="phone" required required placeholder="Phone Number *">
+                                    <input type="tel" class="form-input" name="phone" required required
+                                        placeholder="Phone Number *">
                                     <p class="error-text">Please enter Phone</p>
                                 </div>
                                 <div class="ebook-field form-field">
@@ -912,7 +939,16 @@
         <div class="copy-right ">
             <div class="container">
                 <h6>© Copyright 2023 AMZ Publishing Official. All Right Reserved</h6>
-                <p> Disclaimer: All company logos and trademarks appearing on our website are the property of their respective owners. We are not affiliated, associated, endorsed by, or in any way officially connected with these companies or their trademarks. The use of these logos and trademarks does not imply any endorsement, affiliation, or relationship between us and the respective companies. We solely use these logos and trademarks for identification purposes only. All information and content provided on our website is for informational purposes only and should not be construed as professional advice. We do not guarantee the accuracy or completeness of any information provided on our website. We are not responsible for any errors or omissions, or for the results obtained from the use of this information. Any reliance you place on such information is strictly at your own risk.</p>
+                <p> Disclaimer: All company logos and trademarks appearing on our website are the property of their
+                    respective owners. We are not affiliated, associated, endorsed by, or in any way officially
+                    connected with these companies or their trademarks. The use of these logos and trademarks does not
+                    imply any endorsement, affiliation, or relationship between us and the respective companies. We
+                    solely use these logos and trademarks for identification purposes only. All information and content
+                    provided on our website is for informational purposes only and should not be construed as
+                    professional advice. We do not guarantee the accuracy or completeness of any information provided on
+                    our website. We are not responsible for any errors or omissions, or for the results obtained from
+                    the use of this information. Any reliance you place on such information is strictly at your own
+                    risk.</p>
             </div>
         </div>
     </footer>
@@ -957,8 +993,7 @@
         <div class="floating-relative">
             <button class="floating-form-btn theme-btn theme-btn-featured icon-btn"><i
                     class="fa-solid fa-envelope"></i></button>
-            <a class="floating-form"
-                href="mailto:info@amzpublishingofficial.com"><span
+            <a class="floating-form" href="mailto:info@amzpublishingofficial.com"><span
                     class="__cf_email__">info@amzpublishingofficial.com</span></a>
         </div>
     </div>
@@ -969,91 +1004,93 @@
     <script src="js/lazyload.min.js" type="ca5d9eea9cf5b4a87706818b-text/javascript"></script>
     <script src="js/owl.carousel.min.js" type="ca5d9eea9cf5b4a87706818b-text/javascript"></script>
     <script src="js/custom.js" type="ca5d9eea9cf5b4a87706818b-text/javascript"></script>
-  
-        <!-- Start of  Zendesk Widget script -->
-        <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=8b347c56-9de7-4087-939b-6a037a749469"> </script>
-<!-- End of  Zendesk Widget script -->
 
-<script>
-zE(function() {
-    $zopim.livechat.setOnUnreadMsgs(function(numUnread) {
-        if (numUnread > 0 && !$zopim.livechat.window.getDisplay()) {
-            $zopim.livechat.window.show();
-        }
-    })
-});
+    <!-- Start of  Zendesk Widget script -->
+    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=8b347c56-9de7-4087-939b-6a037a749469">
+    </script>
+    <!-- End of  Zendesk Widget script -->
 
-function setButtonURL() {
-
-    $zopim.livechat.window.show();
-
-}
-
-function toggleChat() {
-
-    $zopim.livechat.window.show();
-
-}
-</script>
-
-<script type="text/javascript">
-zE(function() {
-    zE.activate();
-});
-</script>
-<script>
-//Define the placeholder where the text will be write in thanks to his id.
-let placeholder = document.getElementById("text");
-//Stock all of the sentences pieces in an array.
-let words = ["Unrivalled Publishing Services", "Quick Turnaround Time", "Affordable Pricing Plans"];
-//Initialize the index at the first element of the previously created array.
-let index = 0;
-function type(word){
-    let i = 0;
-		//Set the interval that makes the writing animation.
-    let writing = setInterval(()=>{
-				//Add the letter at the i index of the current word in the placeholder.
-        placeholder.innerHTML += word.charAt(i);
-        i ++;
-				//If the i index reaches the end of the current word, the writing animation interval stops and the deleting animation beggins after a defined time.
-        if(i>=word.length){
-            clearInterval(writing);
-            setTimeout(erase, 1000);
-        }
-    }, 75)
-
-}
-
-function erase(){
-	//Set the interval that makes the deleting animation.
-    let deleting = setInterval(() => {
-				//Pop off the last character of the previously written sentence.
-        placeholder.innerHTML = placeholder.innerHTML.slice(0,-1);
-				//If no one single letter remains, the deleting animation interval stops.
-        if(placeholder.innerHTML.length <= 0){
-            clearInterval(deleting);
-						//The index var increases by 1, the writing animation is about to start with the next sentence.
-            index++;
-						//If the index var reaches the end of the sentences array, set his value at 0 to looping from the first sentence of the array.
-            if(index>=words.length){
-                index = 0;
+    <script>
+    zE(function() {
+        $zopim.livechat.setOnUnreadMsgs(function(numUnread) {
+            if (numUnread > 0 && !$zopim.livechat.window.getDisplay()) {
+                $zopim.livechat.window.show();
             }
-            type(words[index])
-        }
-    
-        
-    }, 25);
+        })
+    });
 
-}
+    function setButtonURL() {
 
-//Start the whole animation.
-type(words[index]);
-</script>
-<script defer type="text/javascript">
-function setButtonURL() {
-    $zopim.livechat.window.toggle();
-}
-</script>
+        $zopim.livechat.window.show();
+
+    }
+
+    function toggleChat() {
+
+        $zopim.livechat.window.show();
+
+    }
+    </script>
+
+    <script type="text/javascript">
+    zE(function() {
+        zE.activate();
+    });
+    </script>
+    <script>
+    //Define the placeholder where the text will be write in thanks to his id.
+    let placeholder = document.getElementById("text");
+    //Stock all of the sentences pieces in an array.
+    let words = ["Unrivalled Publishing Services", "Quick Turnaround Time", "Affordable Pricing Plans"];
+    //Initialize the index at the first element of the previously created array.
+    let index = 0;
+
+    function type(word) {
+        let i = 0;
+        //Set the interval that makes the writing animation.
+        let writing = setInterval(() => {
+            //Add the letter at the i index of the current word in the placeholder.
+            placeholder.innerHTML += word.charAt(i);
+            i++;
+            //If the i index reaches the end of the current word, the writing animation interval stops and the deleting animation beggins after a defined time.
+            if (i >= word.length) {
+                clearInterval(writing);
+                setTimeout(erase, 1000);
+            }
+        }, 75)
+
+    }
+
+    function erase() {
+        //Set the interval that makes the deleting animation.
+        let deleting = setInterval(() => {
+            //Pop off the last character of the previously written sentence.
+            placeholder.innerHTML = placeholder.innerHTML.slice(0, -1);
+            //If no one single letter remains, the deleting animation interval stops.
+            if (placeholder.innerHTML.length <= 0) {
+                clearInterval(deleting);
+                //The index var increases by 1, the writing animation is about to start with the next sentence.
+                index++;
+                //If the index var reaches the end of the sentences array, set his value at 0 to looping from the first sentence of the array.
+                if (index >= words.length) {
+                    index = 0;
+                }
+                type(words[index])
+            }
+
+
+        }, 25);
+
+    }
+
+    //Start the whole animation.
+    type(words[index]);
+    </script>
+    <script defer type="text/javascript">
+    function setButtonURL() {
+        $zopim.livechat.window.toggle();
+    }
+    </script>
     <script type="ca5d9eea9cf5b4a87706818b-text/javascript">
     AOS.init({
         duration: 1000
@@ -1114,16 +1151,15 @@ function setButtonURL() {
     </script><iframe height="1" width="1"
         style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></iframe>
 
-        
-        <style>
-@media only screen and (max-width:380px){
-    .min-banner {
-        height: 130vh !important;
-   
-    }
-}
 
-</style>
+    <style>
+    @media only screen and (max-width:380px) {
+        .min-banner {
+            height: 130vh !important;
+
+        }
+    }
+    </style>
 </body>
 
 </html>

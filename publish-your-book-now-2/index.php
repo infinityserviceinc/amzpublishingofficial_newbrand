@@ -26,45 +26,41 @@
     <link rel="stylesheet" href="assets/lp/self-publishing/css/responsive.css">
     <link rel="shortcut icon" href="../favicon.ico">
     <title>Book Publishing Services At 50% Discount | AMZ Publishing Official</title>
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
 
 
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-TVP52JFF');</script>
-<!-- End Google Tag Manager -->
-
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11309421415"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'AW-11309421415');
-</script>
+    <!-- Google Tag Manager -->
+    <script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-PG5GPLC6');
+    </script><!-- End Google Tag Manager -->
 
 
 
-<script>
-  gtag('config', 'AW-11309421415/kwRLCLnIyNYYEOem4JAq', {
-    'phone_conversion_number': '(872) 704-9770'
-  });
-</script>
+    <script>
+    gtag('config', 'AW-11309421415/kwRLCLnIyNYYEOem4JAq', {
+        'phone_conversion_number': '(872) 704-9770'
+    });
+    </script>
 
 </head>
 
 <body>
 
 
- <!-- Google Tag Manager (noscript) -->
- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TVP52JFF"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+    <!-- Google Tag Manager (noscript) --><noscript><iframe src=" " height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) -->
     <!-- Begin: Header -->
     <header>
         <div class="container">
@@ -636,7 +632,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 data-src="assets/lp/self-publishing/images/icon4.webp" class="img-fluid Lazy" alt=""
                                 loading="lazy"></figure>
                         <h3 class="hd-h3">AMZ Publishing Official</h3>
-                        <p class="para">Seamlessly publish and distribute your work worldwide with our AMZ Publishing Official services</p>
+                        <p class="para">Seamlessly publish and distribute your work worldwide with our AMZ Publishing
+                            Official services</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 even">
@@ -663,9 +660,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
             <div class="parent_here">
-            <a href="javascript:void(0);" class="themeBtn btnCenter" data-fancybox="" data-src="#popupform">Let's Get
-                Started</a>
-                </div>
+                <a href="javascript:void(0);" class="themeBtn btnCenter" data-fancybox="" data-src="#popupform">Let's
+                    Get
+                    Started</a>
+            </div>
             <div class="row resSection">
                 <div class="col-md-12 odd">
                     <div class="contentBox">
@@ -700,7 +698,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 data-src="assets/lp/self-publishing/images/icon4.webp" class="img-fluid Lazy" alt=""
                                 loading="lazy"></figure>
                         <h3 class="hd-h3">AMZ Publishing Official</h3>
-                        <p class="para">Seamlessly publish and distribute your work worldwide with our AMZ Publishing Official services</p>
+                        <p class="para">Seamlessly publish and distribute your work worldwide with our AMZ Publishing
+                            Official services</p>
                     </div>
                 </div>
                 <div class="col-md-12">
@@ -783,10 +782,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <!-- <p>EDITING, FORMATTING, SPELL CHECK &amp; TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
                             STANDARDS.</p> -->
                         <ul>
-                            <li class="first">Publishing on Amazon and AMZ in the formats of your choice i.e, ebook, paperback, hardback Professional Formatting and Typesetting of the manuscript</li>
-                            <li>Final digital proof of the book for your approval before publishing (Print and Digital Version)</li>
+                            <li class="first">Publishing on Amazon and AMZ in the formats of your choice i.e, ebook,
+                                paperback, hardback Professional Formatting and Typesetting of the manuscript</li>
+                            <li>Final digital proof of the book for your approval before publishing (Print and Digital
+                                Version)</li>
                             <li> Publishing on the platforms of your choice as per your chosen plan</li>
-                            <li> Creation of Author’s and Book’s profile (To promote the book and attract the relevant audience organically)</li>
+                            <li> Creation of Author’s and Book’s profile (To promote the book and attract the relevant
+                                audience organically)</li>
                             <li>Dedicated Online Dashboard</li>
                             <li> Book Cover Design (3 sample designs) </li>
                             <li> Editing & Proofreading of the manuscript</li>
@@ -803,7 +805,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <img src="assets/images/money-back.png">
                             </li> -->
                         </ul>
-                        <button type="button" class="btn chatt popup_button" >Order Now</button>
+                        <button type="button" class="btn chatt popup_button">Order Now</button>
                     </div>
                 </div>
                 <div class="col-md-4 item">
@@ -814,10 +816,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <!-- <p>EDITING, FORMATTING, SPELL CHECK &amp; TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
                             STANDARDS.</p> -->
                         <ul>
-                            <li class="first">Publishing on 5 platforms including Amazon, AMZ, Barnes & Noble, Google Books and Apple Books in the formats of your choice i.e, ebook, paperback, hardback+ 4 author's copy Professional Formatting and Typesetting of the manuscript</li>
-                            <li>Final digital proof of the book for your approval before publishing (Print and Digital Version)</li>
+                            <li class="first">Publishing on 5 platforms including Amazon, AMZ, Barnes & Noble, Google
+                                Books and Apple Books in the formats of your choice i.e, ebook, paperback, hardback+ 4
+                                author's copy Professional Formatting and Typesetting of the manuscript</li>
+                            <li>Final digital proof of the book for your approval before publishing (Print and Digital
+                                Version)</li>
                             <li>Publishing on the platforms of your choice as per your chosen plan</li>
-                            <li>Creation of Author’s and Book’s profile (To promote the book and attract the relevant audience organically)</li>
+                            <li>Creation of Author’s and Book’s profile (To promote the book and attract the relevant
+                                audience organically)</li>
                             <li>Dedicated Online Dashboard</li>
                             <li>Book Cover Design (3 sample designs) </li>
                             <li>Editing & Proofreading of the manuscript</li>
@@ -834,7 +840,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <img src="assets/images/money-back.png">
                             </li> -->
                         </ul>
-                        <button type="button" class="btn chatt popup_button" >Order Now</button>
+                        <button type="button" class="btn chatt popup_button">Order Now</button>
                     </div>
                 </div>
                 <div class="col-md-4 item">
@@ -845,16 +851,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <!-- <p>EDITING, FORMATTING, SPELL CHECK &amp; TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
                             STANDARDS</p> -->
                         <ul>
-                            <li class="first">Publishing on top 20 platforms including Amazon, AMZ, Barnes & Noble, Google Books and Apple Books in the formats of your choice i.e, ebook, paperback, hardback+ 4 author's copy</li>
-                            <li> Final digital proof of the book for your approval before publishing (Print and Digital Version)</li>
+                            <li class="first">Publishing on top 20 platforms including Amazon, AMZ, Barnes & Noble,
+                                Google Books and Apple Books in the formats of your choice i.e, ebook, paperback,
+                                hardback+ 4 author's copy</li>
+                            <li> Final digital proof of the book for your approval before publishing (Print and Digital
+                                Version)</li>
                             <li> Publishing on the platforms of your choice as per your chosen plan</li>
-                            <li>Creation of Author’s and Book’s profile (To promote the book and attract the relevant audience organically)</li>
+                            <li>Creation of Author’s and Book’s profile (To promote the book and attract the relevant
+                                audience organically)</li>
                             <li> Dedicated Online Dashboard</li>
                             <li> Book Cover Design (3 sample designs) </li>
                             <li> Editing & Proofreading of the manuscript </li>
                             <li>Dedicated Project Manager</li>
                             <li>2 month Social Media Marketing on Fb,Insta to increase sales of the book</li>
-                            <li >1 Month Author Awareness Marketing to increase the online presence of the author and increase sales </li>
+                            <li>1 Month Author Awareness Marketing to increase the online presence of the author and
+                                increase sales </li>
                         </ul>
                         <ul class="logo_img">
                             <li>
@@ -865,7 +876,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <img src="assets/images/money-back.png">
                             </li> -->
                         </ul>
-                        <button type="button" class="btn chatt popup_button" >Order Now</button>
+                        <button type="button" class="btn chatt popup_button">Order Now</button>
                     </div>
                 </div>
                 <div class="col-md-4 item">
@@ -876,10 +887,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <!-- <p>EDITING, FORMATTING, SPELL CHECK &amp; TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
                             STANDARDS.</p> -->
                         <ul>
-                            <li class="first">Publishing on 5 platforms including Amazon, AMZ, Barnes & Noble, Google Books and Apple Books in the formats of your choice i.e., eBook, paperback, hardback+ 4 author's copy Professional Formatting and Typesetting of the manuscript</li>
-                            <li>Final digital proof of the book for your approval before publishing (Print and Digital Version)</li>
+                            <li class="first">Publishing on 5 platforms including Amazon, AMZ, Barnes & Noble, Google
+                                Books and Apple Books in the formats of your choice i.e., eBook, paperback, hardback+ 4
+                                author's copy Professional Formatting and Typesetting of the manuscript</li>
+                            <li>Final digital proof of the book for your approval before publishing (Print and Digital
+                                Version)</li>
                             <li>Publishing on the platforms of your choice as per your chosen plan</li>
-                            <li>Creation of Author’s and Book’s profile (To promote the book and attract the relevant audience organically)</li>
+                            <li>Creation of Author’s and Book’s profile (To promote the book and attract the relevant
+                                audience organically)</li>
                             <li>Dedicated Online Dashboard</li>
                             <li>Book Cover Design (3 sample designs) </li>
                             <li>Editing & Proofreading of the manuscript </li>
@@ -897,7 +912,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <img src="assets/images/money-back.png">
                             </li> -->
                         </ul>
-                        <button type="button" class="btn chatt popup_button" >Order Now</button>
+                        <button type="button" class="btn chatt popup_button">Order Now</button>
                     </div>
                 </div>
                 <div class="col-md-4 item">
@@ -928,7 +943,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <img src="assets/images/money-back.png">
                             </li> -->
                         </ul>
-                        <button type="button" class="btn chatt popup_button" >Order Now</button>
+                        <button type="button" class="btn chatt popup_button">Order Now</button>
                     </div>
                 </div>
 
@@ -936,7 +951,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </section>
 
-    
+
     <section class="testimonialSec">
         <div class="container">
             <div class="cta">
@@ -1017,115 +1032,127 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     ” </p>
                             </div>
                         </div>
-                        </div>
-                        <div>
+                    </div>
+                    <div>
                         <div class="card text-center">
                             <div class="card-body">
 
                                 <div class="names">
                                     <h5>Mark Roberts </h5>
-                                    <img class="clientImg Lazy " src="loading.gif"
-                                        data-src="assets/images/testi3.webp" alt="" loading="lazy">
+                                    <img class="clientImg Lazy " src="loading.gif" data-src="assets/images/testi3.webp"
+                                        alt="" loading="lazy">
                                 </div>
                                 <p class="card-text">“
-                                    
-                                Good job! Their team is very professional and made the process stress-free, guiding me through the editing journey with care and expertise. I was particularly impressed with how they pointed out grammatical errors and other issues, ensuring my manuscript was ready to be published.
-                                
+
+                                    Good job! Their team is very professional and made the process stress-free, guiding
+                                    me through the editing journey with care and expertise. I was particularly impressed
+                                    with how they pointed out grammatical errors and other issues, ensuring my
+                                    manuscript was ready to be published.
+
                                     ” </p>
                             </div>
                         </div>
-                        </div>
-                        <div>
+                    </div>
+                    <div>
                         <div class="card text-center">
                             <div class="card-body">
 
                                 <div class="names">
                                     <h5>Irma Stephens</h5>
-                                    <img class="clientImg Lazy " src="loading.gif"
-                                        data-src="assets/images/testi23.webp" alt="" loading="lazy">
+                                    <img class="clientImg Lazy " src="loading.gif" data-src="assets/images/testi23.webp"
+                                        alt="" loading="lazy">
                                 </div>
                                 <p class="card-text">“
-                                   
-                                Hired them to market my book. Results were surprisingly good and their project managers have been very supportive in the whole process.
-                                
+
+                                    Hired them to market my book. Results were surprisingly good and their project
+                                    managers have been very supportive in the whole process.
+
                                     ” </p>
                             </div>
                         </div>
-                        </div>
-                        <div>
+                    </div>
+                    <div>
                         <div class="card text-center">
                             <div class="card-body">
 
                                 <div class="names">
                                     <h5>Ann Rice</h5>
-                                    <img class="clientImg Lazy " src="loading.gif"
-                                        data-src="assets/images/testi19.webp" alt="" loading="lazy">
+                                    <img class="clientImg Lazy " src="loading.gif" data-src="assets/images/testi19.webp"
+                                        alt="" loading="lazy">
                                 </div>
                                 <p class="card-text">“
-                                    
-                                Working with AMZ Publishing Official team on my memoir was an absolute joy. They brought my past to life, infusing each chapter with warmth and authenticity. It's not just a book; it's a piece of my heart that I can share with others. I recommend their writing service to others.
-                                
+
+                                    Working with AMZ Publishing Official team on my memoir was an absolute joy. They
+                                    brought my past to life, infusing each chapter with warmth and authenticity. It's
+                                    not just a book; it's a piece of my heart that I can share with others. I recommend
+                                    their writing service to others.
+
                                     ” </p>
                             </div>
                         </div>
-                        </div>
-                        <div>
+                    </div>
+                    <div>
                         <div class="card text-center">
                             <div class="card-body">
 
                                 <div class="names">
                                     <h5>Laurence Grant</h5>
-                                    <img class="clientImg Lazy " src="loading.gif"
-                                        data-src="assets/images/testi12.webp" alt="" loading="lazy">
+                                    <img class="clientImg Lazy " src="loading.gif" data-src="assets/images/testi12.webp"
+                                        alt="" loading="lazy">
                                 </div>
                                 <p class="card-text">“
-                                   
-                                They understood and maintained its essence while enhancing the writing. Their dedication to delivering a flawless manuscript was evident. I am thrilled with the outcome and will surely approach them for future projects.
-                                
+
+                                    They understood and maintained its essence while enhancing the writing. Their
+                                    dedication to delivering a flawless manuscript was evident. I am thrilled with the
+                                    outcome and will surely approach them for future projects.
+
                                     ” </p>
                             </div>
                         </div>
-                        </div>
-                        <div>
+                    </div>
+                    <div>
                         <div class="card text-center">
                             <div class="card-body">
 
                                 <div class="names">
                                     <h5>Flora Wright</h5>
-                                    <img class="clientImg Lazy " src="loading.gif"
-                                        data-src="assets/images/testi13.webp" alt="" loading="lazy">
+                                    <img class="clientImg Lazy " src="loading.gif" data-src="assets/images/testi13.webp"
+                                        alt="" loading="lazy">
                                 </div>
                                 <p class="card-text">“
-                                   
-                               
-                                I had a fantastic experience working with AMZ Publishing Official Publishing! From the moment I signed up, they guided me through the entire process with utmost professionalism and dedication. Their team did exactly how I envisioned. Keep it up!
-                                
-                                
+
+
+                                    I had a fantastic experience working with AMZ Publishing Official Publishing! From
+                                    the moment I signed up, they guided me through the entire process with utmost
+                                    professionalism and dedication. Their team did exactly how I envisioned. Keep it up!
+
+
                                     ” </p>
                             </div>
                         </div>
-                        </div>
-                        <div>
+                    </div>
+                    <div>
                         <div class="card text-center">
                             <div class="card-body">
 
                                 <div class="names">
                                     <h5>Maria Barber</h5>
-                                    <img class="clientImg Lazy " src="loading.gif"
-                                        data-src="assets/images/testi22.webp" alt="" loading="lazy">
+                                    <img class="clientImg Lazy " src="loading.gif" data-src="assets/images/testi22.webp"
+                                        alt="" loading="lazy">
                                 </div>
                                 <p class="card-text">“
-                                   
-                                    Brilliant book marketing skills. Great Job team! You guys deserve all the respect you get from your customers!
-                                
+
+                                    Brilliant book marketing skills. Great Job team! You guys deserve all the respect
+                                    you get from your customers!
+
                                     ” </p>
                             </div>
                         </div>
-                        </div>
                     </div>
-
                 </div>
+
             </div>
+        </div>
         </div>
 
 
@@ -1235,15 +1262,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div style="display: none;" id="popupform" class="halloween-popup inlineBlock" tabindex="-1" role="dialog"
         aria-labelledby="popupform">
         <div class="halloween-popup-inner" data-form-type="signup_form">
-                <h3><small class="month"></small> <small class="year"></small> <span>GET 50% OFF NOW</span></h3>
-                <form id="regForm" class="validate-popupform leadForm" method="post" action="/leads/">
-                    <input type="text" placeholder="Enter your Name" name="name" required>
-                    <input type="text" placeholder="Enter your Email" name="email" required>
-                    <input type="tel" placeholder="Enter your Phone Number" name="phone" required>
-                    <textarea autocomplete="nope" name="brief" class="txt" placeholder="Talk About Your Project"></textarea>
-                    <div id="formResult">
-                        <button type="submit" id="TWT-lp4-btn" class="halloween_btn">SUBMIT</button>
-                    </div>
+            <h3><small class="month"></small> <small class="year"></small> <span>GET 50% OFF NOW</span></h3>
+            <form id="regForm" class="validate-popupform leadForm" method="post" action="/leads/">
+                <input type="text" placeholder="Enter your Name" name="name" required>
+                <input type="text" placeholder="Enter your Email" name="email" required>
+                <input type="tel" placeholder="Enter your Phone Number" name="phone" required>
+                <textarea autocomplete="nope" name="brief" class="txt" placeholder="Talk About Your Project"></textarea>
+                <div id="formResult">
+                    <button type="submit" id="TWT-lp4-btn" class="halloween_btn">SUBMIT</button>
+                </div>
             </form>
         </div>
     </div>
@@ -1258,14 +1285,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- <script src="assets/lp/self-publishing/js/js-libs.js"></script> -->
 
     <script type="text/javascript">
-        var ip = "MTM3LjU5LjIyNy40NQ==";
-        var url = "aHR0cHM6Ly93d3cuYW16Ym9va3NwdWJsaXNoaW5ncy5jb20vbHAvcHVibGlzaGluZw==";
-        var authCode = "Mjg1";
-        var isDebug = "";
-        var socketUrl = "https://chat.ledgecrm.com/";
-        var token = "P5QP1eRp45GJYmhDbJeyZ9OOghtxJZljo4ZRyWxU";
-        var base_url = window.location.protocol + "//" + window.location.hostname;
-        var url = window.location.href;
+    var ip = "MTM3LjU5LjIyNy40NQ==";
+    var url = "aHR0cHM6Ly93d3cuYW16Ym9va3NwdWJsaXNoaW5ncy5jb20vbHAvcHVibGlzaGluZw==";
+    var authCode = "Mjg1";
+    var isDebug = "";
+    var socketUrl = "https://chat.ledgecrm.com/";
+    var token = "P5QP1eRp45GJYmhDbJeyZ9OOghtxJZljo4ZRyWxU";
+    var base_url = window.location.protocol + "//" + window.location.hostname;
+    var url = window.location.href;
     </script>
 
     <script src="assets/js/jquery.js" type="text/javascript"></script>
@@ -1278,35 +1305,36 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
     <!-- Start of  Zendesk Widget script -->
-    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=8b347c56-9de7-4087-939b-6a037a749469"> </script>
+    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=8b347c56-9de7-4087-939b-6a037a749469">
+    </script>
     <!-- End of  Zendesk Widget script -->
     <script>
-        zE(function () {
-            $zopim.livechat.setOnUnreadMsgs(function (numUnread) {
-                if (numUnread > 0 && !$zopim.livechat.window.getDisplay()) {
-                    $zopim.livechat.window.show();
-                }
-            })
+    zE(function() {
+        $zopim.livechat.setOnUnreadMsgs(function(numUnread) {
+            if (numUnread > 0 && !$zopim.livechat.window.getDisplay()) {
+                $zopim.livechat.window.show();
+            }
+        })
+    });
+
+    if (window.innerWidth < 600) {
+        zE(function() {
+            zE.activate();
         });
 
-        if (window.innerWidth < 600) {
-            zE(function () {
-                zE.activate();
-            });
-
-        }
+    }
     </script>
     <script>
-        $('.chat, .chatt').click(function () {
-            $zopim.livechat.window.toggle();
-        });
+    $('.chat, .chatt').click(function() {
+        $zopim.livechat.window.toggle();
+    });
     </script>
     <script>
-        var isloading = true;
+    var isloading = true;
 
-        function removeLoading() {
-            if (isloading) {
-                $("head").append(`
+    function removeLoading() {
+        if (isloading) {
+            $("head").append(`
       <script src="assets/lp/self-publishing/js/js-libs.js"><\/script>
       <script src="assets/js/custom.js" type="text/javascript"><\/script>
     <script src="assets/js/web-workers/backend/web-worker-backend.js" type="text/javascript"><\/script>
@@ -1318,145 +1346,143 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     
 `)
 
-                $('.Lazy').each(function () {
-                    $(this).attr("src", $(this).attr('data-src'))
-                })
-                isloading = false
-            }
+            $('.Lazy').each(function() {
+                $(this).attr("src", $(this).attr('data-src'))
+            })
+            isloading = false
         }
-        $(document).mousemove(removeLoading)
-        $(document).on("touchmove", removeLoading)
-        setInterval(removeLoading, 20000);
+    }
+    $(document).mousemove(removeLoading)
+    $(document).on("touchmove", removeLoading)
+    setInterval(removeLoading, 20000);
     </script>
 
 
 
-<script>
+    <script>
     $('.book_sleder').slick({
-        dots: false,
-		arrows: true,
-        infinite: true,
-        speed: 300,
-        autoplay: true,
-        slidesToShow: 3,
-        slidesToScroll: 1,
-        responsive: [
-            {
-                breakpoint: 1399,
-                settings: {
-                    slidesToShow: 3,
-                    slidesToScroll: 1,
-                    infinite: true,
-                    dots: false
-                }
-            },{
-                breakpoint: 1200,
-                settings: {
-                    slidesToShow: 3,
-                    slidesToScroll: 1,
-                    infinite: true,
-                    dots: false
-                }
-            },
-            {
-                breakpoint: 992,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1,
+            dots: false,
+            arrows: true,
+            infinite: true,
+            speed: 300,
+            autoplay: true,
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            responsive: [{
+                    breakpoint: 1399,
+                    settings: {
+                        slidesToShow: 3,
+                        slidesToScroll: 1,
+                        infinite: true,
+                        dots: false
+                    }
+                }, {
+                    breakpoint: 1200,
+                    settings: {
+                        slidesToShow: 3,
+                        slidesToScroll: 1,
+                        infinite: true,
+                        dots: false
+                    }
+                },
+                {
+                    breakpoint: 992,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
 
-                }
-            },
-            {
-                breakpoint: 767,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1
+                    }
+                },
+                {
+                    breakpoint: 767,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
 
-                }
-            },
-            {
-                breakpoint: 600,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1
+                    }
+                },
+                {
+                    breakpoint: 600,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
 
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
                 }
-            },
-            {
-                breakpoint: 480,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1
-                }
-            }
-            // You can unslick at a given breakpoint now by adding:
-            // settings: "unslick"
-            // instead of a settings object
-        ]
-    }),
-    $('.here_we').slick({
-        dots: true,
-		arrows: false,
-        infinite: true,
-        speed: 300,
-        autoplay: true,
-        slidesToShow: 5,
-        slidesToScroll: 1,
-        responsive: [
-            {
-                breakpoint: 1399,
-                settings: {
-                    slidesToShow: 4,
-                    slidesToScroll: 1,
-                    infinite: true,
-                    dots: false
-                }
-            },{
-                breakpoint: 1200,
-                settings: {
-                    slidesToShow: 3,
-                    slidesToScroll: 1,
-                    infinite: true,
-                    dots: false
-                }
-            },
-            {
-                breakpoint: 992,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1,
+                // You can unslick at a given breakpoint now by adding:
+                // settings: "unslick"
+                // instead of a settings object
+            ]
+        }),
+        $('.here_we').slick({
+            dots: true,
+            arrows: false,
+            infinite: true,
+            speed: 300,
+            autoplay: true,
+            slidesToShow: 5,
+            slidesToScroll: 1,
+            responsive: [{
+                    breakpoint: 1399,
+                    settings: {
+                        slidesToShow: 4,
+                        slidesToScroll: 1,
+                        infinite: true,
+                        dots: false
+                    }
+                }, {
+                    breakpoint: 1200,
+                    settings: {
+                        slidesToShow: 3,
+                        slidesToScroll: 1,
+                        infinite: true,
+                        dots: false
+                    }
+                },
+                {
+                    breakpoint: 992,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
 
-                }
-            },
-            {
-                breakpoint: 767,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 1
+                    }
+                },
+                {
+                    breakpoint: 767,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 1
 
-                }
-            },
-            {
-                breakpoint: 600,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 1
+                    }
+                },
+                {
+                    breakpoint: 600,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 1
 
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
                 }
-            },
-            {
-                breakpoint: 480,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1
-                }
-            }
-            // You can unslick at a given breakpoint now by adding:
-            // settings: "unslick"
-            // instead of a settings object
-        ]
-    });
-</script>
+                // You can unslick at a given breakpoint now by adding:
+                // settings: "unslick"
+                // instead of a settings object
+            ]
+        });
+    </script>
 </body>
 
 
