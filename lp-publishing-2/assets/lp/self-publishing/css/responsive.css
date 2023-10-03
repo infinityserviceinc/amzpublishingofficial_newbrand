@@ -215,6 +215,7 @@
 @media (max-width: 575px) {
     .secheading {
         font-size: 20px;
+        margin-top: 20px;
     }
 
     .secheading span {

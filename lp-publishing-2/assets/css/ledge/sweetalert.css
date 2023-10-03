@@ -1168,3 +1168,9 @@ section.testimonialSec {
 section#pricing {
     padding-bottom: 0 !important;
 }
+@media (max-width: 575px){
+.secheading {
+    font-size: 20px;
+    margin-top: 20px;
+}
+}

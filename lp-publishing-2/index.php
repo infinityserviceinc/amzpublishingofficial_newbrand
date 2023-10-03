@@ -1186,7 +1186,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="paymentSec">
             <div class="container ftDetail">
                 <div>
-                    <a href="/"> <img src="assets/images/logo-lo.png" style="width: 150px; filter:brightness(0);"
+                    <a href="/"> <img src="assets/images/logo-lo.png" style="width: 200px; filter:brightness(0);"
                             class="footer-logo Lazy" alt="" loading="lazy"></a>
                 </div>
                 <div>
