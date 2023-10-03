@@ -70,7 +70,7 @@
                         </li>
                     </ul>
                     <p>
-                        © 2023 AMZ Publishing Official. All Rights Reserved
+                        © 2023 <a href="/" style="color:#7E7E7E;"> AMZ Publishing Official. </a> All Rights Reserved
                     </p>
                     <img src="../assets/images/visa.svg" alt="" loading="lazy">
                 </div>

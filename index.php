@@ -79,5 +79,6 @@ if (in_array($url,$fileWithOutExt)) {
 }
 else{
     require $dir.'/404.php';
+    header("Location: /404.php", true, 404);
 }
 ?>

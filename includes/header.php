@@ -1,3 +1,6 @@
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="ns " height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <header>
     <div class="main-header">
         <div class="container pb-xl-3">
@@ -15,7 +18,7 @@
                 <div class="col-lg-10 text-right">
                     <div class="menuWrap">
                         <ul class="menu">
-                        <!-- <li><a href="/our-story/">Our Story </a></li>-->
+                            <!-- <li><a href="/our-story/">Our Story </a></li>-->
                             <li><a href="/how-it-works/">How It Works</a></li>
                             <li><a href="/reviews/">Reviews</a></li>
                             <li><a href="/faqs/">FAQs</a></li>
@@ -57,7 +60,8 @@
                                                     <li><a href="/ghostwriting-biography/">Biography</a></li>
                                                     <li><a href="/ghostwriting-non-fiction/">Non Fiction</a></li>
                                                     <li><a href="/ghostwriting-fiction/">Fiction</a></li>
-                                                    <li><a href="/ghostwriting-informative/">Informative Writing</a></li>
+                                                    <li><a href="/ghostwriting-informative/">Informative Writing</a>
+                                                    </li>
                                                 </ul>
                                             </div>
                                         </li>
@@ -74,8 +78,10 @@
                                         <li><a href="/editing-proof-reading/">Proofreading</a></li>
                                         <li><a href="/editing-line-editing/">Line Editing</a></li>
                                         <li><a href="/editing-book-cover-design/">Book Cover Design </a></li>
-                                        <li><a href="/editing-book-editing-formating/">Book Editing & Formatting </a></li>
-                                        <li><a href="/editing-book-review-consultation/">Book Reviews & Consultation Services </a></li>
+                                        <li><a href="/editing-book-editing-formating/">Book Editing & Formatting </a>
+                                        </li>
+                                        <li><a href="/editing-book-review-consultation/">Book Reviews & Consultation
+                                                Services </a></li>
                                     </ul>
                                 </div>
                             </li>
@@ -83,10 +89,14 @@
                                 <a href="javascript:;">Publishing</a>
                                 <div class="dropdown">
                                     <ul>
-                                        <li><a href="/publishing-distribution-royalty-setup/">Distribution Royalty Setup</a></li>
-                                        <li><a href="/publishing-finding-literary-agent/">Finding a Literary Agent</a></li>
-                                        <li><a href="/publishing-paperback-distribution/">Paperback Distribution</a></li>
-                                        <li><a href="/publishing-self-publishing-service/">Self Publishing Services</a></li>
+                                        <li><a href="/publishing-distribution-royalty-setup/">Distribution Royalty
+                                                Setup</a></li>
+                                        <li><a href="/publishing-finding-literary-agent/">Finding a Literary Agent</a>
+                                        </li>
+                                        <li><a href="/publishing-paperback-distribution/">Paperback Distribution</a>
+                                        </li>
+                                        <li><a href="/publishing-self-publishing-service/">Self Publishing Services</a>
+                                        </li>
 
                                     </ul>
                                 </div>
@@ -102,15 +112,23 @@
                                             <a href="javascript:;">Branded Content</a>
                                             <div class="dropdown">
                                                 <ul>
-                                                    <li><a href="/writing-services-web-copywriting/">Web Copywriting</a></li>
-                                                    <li><a href="/writing-services-seo-content-writing/">SEO Content Writing</a></li>
-                                                    <li><a href="/writing-services-creative-writing/">Creative Writing</a></li>
-                                                    <li><a href="/writing-services-article-writing/">Article Writing</a></li>
+                                                    <li><a href="/writing-services-web-copywriting/">Web Copywriting</a>
+                                                    </li>
+                                                    <li><a href="/writing-services-seo-content-writing/">SEO Content
+                                                            Writing</a></li>
+                                                    <li><a href="/writing-services-creative-writing/">Creative
+                                                            Writing</a></li>
+                                                    <li><a href="/writing-services-article-writing/">Article Writing</a>
+                                                    </li>
                                                     <li><a href="/writing-services-blog-writing/">Blog Writing</a></li>
-                                                    <li><a href="/writing-services-speech-writing/">Speech Writing</a></li>
-                                                    <li><a href="/writing-services-e-bookwriting/">eBook Writing</a></li>
-                                                    <li><a href="/writing-services-editing-proofreading/">Editing & Proofreading</a></li>
-                                                    <li><a href="/writing-services-guest-post-writing/">Guest Posts</a></li>
+                                                    <li><a href="/writing-services-speech-writing/">Speech Writing</a>
+                                                    </li>
+                                                    <li><a href="/writing-services-e-bookwriting/">eBook Writing</a>
+                                                    </li>
+                                                    <li><a href="/writing-services-editing-proofreading/">Editing &
+                                                            Proofreading</a></li>
+                                                    <li><a href="/writing-services-guest-post-writing/">Guest Posts</a>
+                                                    </li>
                                                 </ul>
                                             </div>
                                         </li>
@@ -119,9 +137,11 @@
                                             <div class="dropdown">
                                                 <ul>
                                                     <li><a href="/writing-services-brochures/">Brochures</a></li>
-                                                    <li><a href="/writing-services-ad-copywriting/">Ad Copywriting</a></li>
+                                                    <li><a href="/writing-services-ad-copywriting/">Ad Copywriting</a>
+                                                    </li>
                                                     <li><a href="/writing-services-newsletter/">Newsletter</a></li>
-                                                    <li><a href="/writing-services-social-media-content/">Social Media Content</a></li>
+                                                    <li><a href="/writing-services-social-media-content/">Social Media
+                                                            Content</a></li>
                                                     <li><a href="/writing-services-Infographics/">Infographics</a></li>
                                                 </ul>
                                             </div>
@@ -130,12 +150,16 @@
                                             <a href="javascript:;">Professional Content</a>
                                             <div class="dropdown">
                                                 <ul>
-                                                    <li><a href="/writing-services-wikipedia-writing/">Wikipedia Writing</a></li>
+                                                    <li><a href="/writing-services-wikipedia-writing/">Wikipedia
+                                                            Writing</a></li>
                                                     <li><a href="/writing-services-book-editing/">Book Editing</a></li>
                                                     <li><a href="/writing-services-publications/">Publications</a></li>
-                                                    <li><a href="/writing-services-data-analysis/">Data Analysis</a></li>
-                                                    <li><a href="/writing-services-dissertation-thesis/">Dissertation & Thesis</a></li>
-                                                    <li><a href="/writing-services-web-design-development/">Web Design & Development</a></li>
+                                                    <li><a href="/writing-services-data-analysis/">Data Analysis</a>
+                                                    </li>
+                                                    <li><a href="/writing-services-dissertation-thesis/">Dissertation &
+                                                            Thesis</a></li>
+                                                    <li><a href="/writing-services-web-design-development/">Web Design &
+                                                            Development</a></li>
                                                 </ul>
                                             </div>
                                         </li>
@@ -143,13 +167,20 @@
                                             <a href="javascript:;">Business Content</a>
                                             <div class="dropdown">
                                                 <ul>
-                                                    <li><a href="/writing-services-email-writing/">Email Writing</a></li>
-                                                    <li><a href="/writing-services-press-release-writing/">Press Release Writing</a></li>
-                                                    <li><a href="/writing-services-business-proposals-writing/">Business Proposal Writing</a></li>
-                                                    <li><a href="/writing-services-white-papers-writing/">White Paper Writing</a></li>
-                                                    <li><a href="/writing-services-product-description/">Product Descriptions</a></li>
-                                                    <li><a href="/writing-services-casestudy-writing/">Case Study Writing</a></li>
-                                                    <li><a href="/writing-services-letter-writing/">Letter Writing</a></li>
+                                                    <li><a href="/writing-services-email-writing/">Email Writing</a>
+                                                    </li>
+                                                    <li><a href="/writing-services-press-release-writing/">Press Release
+                                                            Writing</a></li>
+                                                    <li><a href="/writing-services-business-proposals-writing/">Business
+                                                            Proposal Writing</a></li>
+                                                    <li><a href="/writing-services-white-papers-writing/">White Paper
+                                                            Writing</a></li>
+                                                    <li><a href="/writing-services-product-description/">Product
+                                                            Descriptions</a></li>
+                                                    <li><a href="/writing-services-casestudy-writing/">Case Study
+                                                            Writing</a></li>
+                                                    <li><a href="/writing-services-letter-writing/">Letter Writing</a>
+                                                    </li>
                                                 </ul>
                                             </div>
                                         </li>
@@ -160,7 +191,7 @@
                             <li>
                                 <a href="/author-website/">Author Website</a>
                             </li>
-                            
+
                         </ul>
                     </div>
                 </div>
@@ -168,4 +199,4 @@
         </div>
 
     </div>
-</header> 
+</header>
