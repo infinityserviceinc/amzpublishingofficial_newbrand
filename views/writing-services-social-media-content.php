@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Social Media Content Services | Engage Your Followers | AMZ Publishing Official</title>
+<meta name="description" content="Engage your followers with expert social media content services. Enhance your online presence with AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

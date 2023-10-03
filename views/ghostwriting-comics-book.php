@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Comics Book Ghostwriting | Bring Your Stories to Life</title>
+<meta name="description" content="Dive into the world of comics with our ghostwriting services. Craft visually engaging narratives with the expertise of AMZ Publishing Official's skilled ghostwriters.">
 
 <?php include_once('includes/head.php'); ?>
 

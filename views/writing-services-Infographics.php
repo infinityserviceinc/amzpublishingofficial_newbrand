@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Infographics Writing Services | Visualize Information | AMZ Publishing Official</title>
+<meta name="description" content="Visualize information with infographics writing services. Communicate complex data visually through AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

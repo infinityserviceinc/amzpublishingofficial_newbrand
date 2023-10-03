@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<title>Web Copywriting Services | Engage Online Audiences | AMZ Publishing Official</title>
+<meta name="description" content="Engage online audiences with expert web copywriting services. Elevate your online content with AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

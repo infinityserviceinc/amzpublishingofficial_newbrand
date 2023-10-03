@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<title>Ad Copywriting Services | Persuade and Convert | AMZ Publishing Official</title>
+<meta name="description" content="Persuade and convert with ad copywriting services. Craft compelling ad campaigns with AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Finding a Literary Agent | Your Path to Publishing | AMZ Publishing Official</title>
+<meta name="description" content="Discover the path to publishing success by finding a literary agent. Get guidance and support from AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

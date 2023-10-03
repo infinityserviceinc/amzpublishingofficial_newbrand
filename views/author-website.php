@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Author Website Services | Showcase Your Work Online | AMZ Publishing Official</title>
+<meta name="description" content="Showcase your work online with author website services. Create a compelling online presence with AMZ Publishing Official.">
+
 <?php include_once('includes/head.php'); ?>
 
 <body>

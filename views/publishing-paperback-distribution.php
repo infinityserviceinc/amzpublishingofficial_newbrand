@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Paperback Distribution Services | Reach Paperback Readers | AMZ Publishing Official</title>
+<meta name="description" content="Reach paperback book readers with our distribution services. Publish and distribute your work in paperback format with AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

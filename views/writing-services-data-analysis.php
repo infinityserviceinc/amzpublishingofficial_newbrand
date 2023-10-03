@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Data Analysis Services | Statistical Analysis | AMZ Publishing Official</title>
+<meta name="description" content="Unlock valuable insights with our data analysis services at AMZ Publishing Official. Our skilled analysts provide comprehensive statistical analysis for informed decision-making.">
 
 <?php include_once('includes/head.php'); ?>
 

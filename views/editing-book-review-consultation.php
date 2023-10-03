@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Book Review Consultation Services | AMZ Publishing Official</title>
+<meta name="description" content="Get expert book review consultations to refine your work. Elevate your writing with AMZ Publishing Official's consultation services.">
 
 <?php include_once('includes/head.php'); ?>
 

@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>How It Works | AMZ Publishing Official Services Explained</title>
+<meta name="description" content="Discover how AMZ Publishing Official works and provides exceptional writing and design services. Explore our streamlined process for client success.">
 
 <?php include_once('includes/head.php'); ?>
 

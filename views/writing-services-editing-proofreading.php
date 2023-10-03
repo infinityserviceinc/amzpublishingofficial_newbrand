@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<title>Editing & Proofreading Services | Polish Your Content | AMZ Publishing Official</title>
+<meta name="description" content="Polish your content with editing and proofreading services. Ensure accuracy and clarity with AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

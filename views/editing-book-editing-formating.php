@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Book Editing and Formatting Services | AMZ Publishing Official</title>
+<meta name="description" content="Ensure your book is professionally edited and formatted. Achieve publishing excellence with AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

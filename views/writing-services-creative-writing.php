@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Creative Writing Services | Unlock Your Imagination | AMZ Publishing Official</title>
+<meta name="description" content="Unlock your imagination with creative writing services. Transform ideas into captivating stories with AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

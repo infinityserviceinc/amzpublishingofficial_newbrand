@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<title>Book Editing Services | Professional Editors | AMZ Publishing Official</title>
+<meta name="description" content="Enhance your manuscript with top-notch book editing services from AMZ Publishing Official. Our experienced editors ensure your book reaches its full potential.">
 
 <?php include_once('includes/head.php'); ?>
 

@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<title>Press Release Writing Services | Professional PR | AMZ Publishing Official</title>
+<meta name="description" content="Announce your news with impact using AMZ Publishing Official's press release writing services. Our skilled writers create compelling PR content that gets noticed.">
 
 <?php include_once('includes/head.php'); ?>
 

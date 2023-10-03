@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
+<title>Contact AMZ Publishing Official | Get in Touch Today</title>
+<meta name="description" content="Have questions or need assistance? Contact AMZ Publishing Official today. We're here to help you with your writing and design needs.">
     <?php include_once('includes/head.php'); ?>
-</head>
+
 
 <body>
 <?php include_once('includes/header.php'); ?>

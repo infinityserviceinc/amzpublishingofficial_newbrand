@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Memoir Ghostwriting | Preserve Your Life Stories </title>
+<meta name="description" content="Preserve your life stories and experiences with our memoir ghostwriting services. Your journey, beautifully told and professionally written by AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

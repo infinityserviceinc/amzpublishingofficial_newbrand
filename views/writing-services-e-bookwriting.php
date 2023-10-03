@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<title>E-Book Writing Services | Create Compelling E-Books | AMZ Publishing Official</title>
+<meta name="description" content="Create compelling e-books with our professional writing services. Elevate your digital presence with AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

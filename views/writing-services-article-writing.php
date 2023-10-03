@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<title>Writing Services | Inform and Engage | AMZ Publishing Official</title>
+<meta name="description" content="Inform and engage your audience with expert article writing services. Share valuable insights with AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

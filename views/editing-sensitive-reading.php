@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Sensitive Reading Services | AMZ Publishing Official</title>
+<meta name="description" content="Ensure sensitive reading and handling of your content. Trust AMZ Publishing Official for professional and respectful editing services.">
 
 <?php include_once('includes/head.php'); ?>
 

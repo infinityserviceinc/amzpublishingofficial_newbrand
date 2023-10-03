@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<title>Case Study Writing Services | Real-World Success Stories | AMZ Publishing Official</title>
+<meta name="description" content="Showcase your achievements with well-crafted case studies from AMZ Publishing Official. Our writers bring real-world success stories to life.">
 
 <?php include_once('includes/head.php'); ?>
 

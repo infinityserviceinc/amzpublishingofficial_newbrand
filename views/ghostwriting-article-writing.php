@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Professional Article Ghostwriting | AMZ Publishing Official</title>
+<meta name="description" content="Craft compelling articles with our professional ghostwriting services. Share your insights and expertise with the world through our experienced ghostwriters at AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Guest Post Writing Services | Expand Your Reach | AMZ Publishing Official</title>
+<meta name="description" content="Expand your reach with guest post writing services. Share your expertise with a wider audience through AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

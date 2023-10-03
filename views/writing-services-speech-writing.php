@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<title>Speech Writing Services | Express with Impact | AMZ Publishing Official</title>
+<meta name="description" content="Express with impact through speech writing services. Craft memorable speeches with AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

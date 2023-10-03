@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<title>Email Writing Services | Effective Communication | AMZ Publishing Official</title>
+<meta name="description" content="Craft persuasive and engaging emails with AMZ Publishing Official's email writing services. Enhance your communication and reach your audience effectively.">
 
 <?php include_once('includes/head.php'); ?>
 

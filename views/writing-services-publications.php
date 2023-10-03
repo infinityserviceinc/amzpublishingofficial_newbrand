@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Professional Publications Writing Services | AMZ Publishing Official</title>
+<meta name="description" content="AMZ Publishing Official offers expert publication writing services to showcase your ideas. Our writers craft engaging and informative content for various publications.">
 
 <?php include_once('includes/head.php'); ?>
 

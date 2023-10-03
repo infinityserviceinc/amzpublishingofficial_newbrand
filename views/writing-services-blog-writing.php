@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Blog Writing Services | Engage Your Audience | AMZ Publishing Official</title>
+<meta name="description" content="Engage your audience with expert blog writing services. Share valuable content and insights with AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

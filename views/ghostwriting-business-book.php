@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Business Book Ghostwriting | Your Vision, Our Words </title>
+<meta name="description" content="Transform your business ideas into a published book. Collaborate with us at AMZ Publishing Official to share your knowledge and experiences in a professionally written business book.">
 
 <?php include_once('includes/head.php'); ?>
 

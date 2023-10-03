@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Beta Reader Services | Improve Manuscripts </title>
+<meta name="description" content="Improve your manuscript with beta reader services. Get valuable feedback to enhance your work with AMZ Publishing Official.">
+
 <?php include_once('includes/head.php'); ?>
 
 <body>

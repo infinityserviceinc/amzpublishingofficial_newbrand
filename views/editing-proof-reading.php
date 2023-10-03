@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Professional Proofreading Services | AMZ Publishing Official</title>
+<meta name="description" content="Perfect your manuscript with professional proofreading services. Eliminate errors and enhance clarity with AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

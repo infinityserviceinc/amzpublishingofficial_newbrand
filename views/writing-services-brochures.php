@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<title>Brochure Writing Services | Inform and Impress | AMZ Publishing Official</title>
+<meta name="description" content="Inform and impress with brochure writing services. Create informative and visually appealing brochures with AMZ Publishing Official">
 
 <?php include_once('includes/head.php'); ?>
 

@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Auto-Biography Ghostwriting | Share Your Life's Journey </title>
+<meta name="description" content="Share your life's journey through auto-biography ghostwriting. Let AMZ Publishing Official bring your personal story to the world with expert ghostwriting.">
 
 <?php include_once('includes/head.php'); ?>
 

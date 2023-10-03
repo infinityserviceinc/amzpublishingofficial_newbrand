@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Line Editing Services | Enhance Writing </title>
+<meta name="description" content="Enhance the quality of your writing with line editing services. Refine your prose and style with AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

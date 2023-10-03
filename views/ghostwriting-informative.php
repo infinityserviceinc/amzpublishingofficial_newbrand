@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Informative Content Ghostwriting | Share Knowledge </title>
+<meta name="description" content="Share knowledge and insights through informative content. Collaborate with AMZ Publishing Official for expert informative ghostwriting services">
 
 <?php include_once('includes/head.php'); ?>
 

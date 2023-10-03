@@ -2,7 +2,8 @@
 <html lang="en">
 
 
-
+<title>Book Cover Design Services | Eye-Catching Covers | AMZ Publishing Official</title>
+<meta name="description" content="Create eye-catching book covers that captivate readers. Explore our design services at AMZ Publishing Official.">
  
 <?php include_once('includes/head.php'); ?>
 

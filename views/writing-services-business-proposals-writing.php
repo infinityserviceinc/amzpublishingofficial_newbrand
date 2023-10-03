@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<title>Business Proposals Writing Services | AMZ Publishing Official</title>
+<meta name="description" content="Win over clients and investors with persuasive business proposals from AMZ Publishing Official. Our expert writers create convincing proposals for your success.">
 
 <?php include_once('includes/head.php'); ?>
 

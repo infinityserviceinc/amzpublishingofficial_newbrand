@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<title>Self-Help Book Ghostwriting | Transform Lives with Words </title>
+<meta name="description" content=" Empower and inspire others with self-help books. Let us help you make a difference through expert self-help book ghostwriting services at AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>AMZ Publishing Official - Your Creative Writing Partner</title>
+<meta name="description" content="Explore the world of creative writing with AMZ Publishing Official. We bring your stories to life with passion and expertise, delivering the quality you deserve.">
+
 <?php include_once('includes/head.php'); ?>
 
 <body>

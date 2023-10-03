@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Expert Children's Book Ghostwriting | AMZ Publishing Official</title>
+<meta name="description" content="Create captivating children's stories with our expert ghostwriting services. Your imagination, our words—transforming your ideas into beautifully written tales with AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

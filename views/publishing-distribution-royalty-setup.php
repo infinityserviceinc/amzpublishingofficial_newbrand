@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<title>Publishing Distribution & Royalty Setup Services | AMZ Publishing Official</title>
+<meta name="description" content="Ensure your book reaches the right audience with distribution and royalty setup services. Explore our services at AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

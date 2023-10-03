@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Non-Fiction Ghostwriting | Share Expertise and Knowledge </title>
+<meta name="description" content="Share your expertise and knowledge with non-fiction ghostwriting. Educate and inspire with the help of our skilled ghostwriters at AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<title>Dissertation & Thesis Writing Services | Expert Writers | AMZ Publishing Official</title>
+<meta name="description" content="Get professional help with your dissertation or thesis at AMZ Publishing Official. Our expert writers ensure high-quality academic work that meets your requirements.">
 
 <?php include_once('includes/head.php'); ?>
 

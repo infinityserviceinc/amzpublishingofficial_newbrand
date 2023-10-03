@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Expert Fiction Ghostwriting | Craft Compelling </title>
+<meta name="description" content="Craft compelling fiction stories with expert ghostwriting services. Bring your imagination to life with AMZ Publishing Official's professional ghostwriters.">
 
 <?php include_once('includes/head.php'); ?>
 

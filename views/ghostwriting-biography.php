@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Biography Ghostwriting | Celebrate Remarkable Lives </title>
+<meta name="description" content="Celebrate remarkable lives and achievements with biography ghostwriting services. Capturing legacies beautifully and professionally at AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

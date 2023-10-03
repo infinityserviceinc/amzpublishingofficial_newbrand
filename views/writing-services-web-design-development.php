@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Web Design & Development Services | AMZ Publishing Official</title>
+<meta name="description" content="Transform your online presence with AMZ Publishing Official's web design and development services. We create stunning and user-friendly websites tailored to your needs.">
 
 <?php include_once('includes/head.php'); ?>
 

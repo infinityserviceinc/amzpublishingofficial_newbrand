@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<title>Self-Publishing Services | Realize Your Publishing Dreams | AMZ Publishing Official</title>
+<meta name="description" content="Realize your publishing dreams with self-publishing services. Empower your journey with AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

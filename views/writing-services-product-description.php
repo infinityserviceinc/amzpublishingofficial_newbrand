@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<title>Product Description Writing Services | AMZ Publishing Official</title>
+<meta name="description" content="Captivate your customers with enticing product descriptions from AMZ Publishing Official. Our writers create compelling content that drives sales and engagement.">
 
 <?php include_once('includes/head.php'); ?>
 

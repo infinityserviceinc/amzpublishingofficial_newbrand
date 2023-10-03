@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Professional Wikipedia Writing Services | AMZ Publishing Official</title>
+<meta name="description" content="Trust AMZ Publishing Official for expert Wikipedia writing services. Our team creates well-researched and compliant Wikipedia articles that stand out.">
 
 <?php include_once('includes/head.php'); ?>
 

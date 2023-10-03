@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Letter Writing Services | Personalized Communication | AMZ Publishing Official</title>
+<meta name="description" content="Express yourself effectively with AMZ Publishing Official's letter writing services. Our writers craft personalized and impactful letters for any occasion.">
 
 <?php include_once('includes/head.php'); ?>
 

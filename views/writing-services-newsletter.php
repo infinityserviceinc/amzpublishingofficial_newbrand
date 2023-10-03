@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<title>Newsletter Writing Services | Stay Connected | AMZ Publishing Official</title>
+<meta name="description" content="Stay connected with newsletter writing services. Share updates and insights with your audience through AMZ Publishing Official.">
 
 <?php include_once('includes/head.php'); ?>
 

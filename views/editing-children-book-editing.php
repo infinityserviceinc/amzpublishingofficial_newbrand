@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<title>Children's Book Editing Services | AMZ Publishing Official</title>
+<meta name="description" content=" Ensure the quality of children's books with professional editing services. Trust AMZ Publishing Official for top-notch children's book editing.">
 
 <?php include_once('includes/head.php'); ?>
 
