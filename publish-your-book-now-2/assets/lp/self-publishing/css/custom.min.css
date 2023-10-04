@@ -1810,7 +1810,7 @@ section.helpingSec h6 {
 }
 
 figure.sideform_img_wrap{
-    transform: translateX(-90px);
+    /* transform: translateX(-90px); */
 }
 
 .sec {
