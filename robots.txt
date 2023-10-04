@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-
+Sitemap: https://www.amzpublishingofficial.com/sitemap.xml
