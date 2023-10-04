@@ -65,7 +65,7 @@
     <header>
         <div class="container">
             <nav class="navbar navbar-expand-lg justify-content-between">
-                <a class="navbar-brand" href="/">
+                <a class="navbar-brand" href="#">
                     <img src="assets/images/logo-lo.png" alt="logo">
                 </a>
                 <ul class="navLinks">
@@ -1213,7 +1213,7 @@
         <div class="paymentSec">
             <div class="container ftDetail">
                 <div>
-                    <a href="/"> <img src="assets/images/logo-lo.png" style="width: 200px; filter:brightness(0);"
+                    <a href="#"> <img src="assets/images/logo-lo.png" style="width: 200px; filter:brightness(0);"
                             class="footer-logo Lazy" alt="" loading="lazy"></a>
                 </div>
                 <div>

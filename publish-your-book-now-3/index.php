@@ -87,7 +87,7 @@
             <div class="container">
                 <div class="row d-flex align-items-center justify-content-between">
                     <div class="col-md-3 col-sm-3 col-lg-3 col-7">
-                        <a href="/lp-publishing-3/">
+                        <a href="#">
                             <img src="images/logo-lo.png" style="width: 90%;" class="img-fluid LazyLoad">
                         </a>
                     </div>
