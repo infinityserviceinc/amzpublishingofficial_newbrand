@@ -979,6 +979,8 @@ section.packages_sec {
     line-height: 20px;
     margin: 20px 0 30px !important;
     text-align: left;
+    color: black;
+    padding: 20px;
 }
 
 .packages_iner ul {

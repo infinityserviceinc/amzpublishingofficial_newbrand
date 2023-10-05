@@ -246,7 +246,7 @@ ul.navLinks li a h4 span {
     padding-left: 1rem;
 }
 
-.banner-contnt ul li::before {
+/* .banner-contnt ul li::before {
     content: "";
     position: absolute;
     background: var(--theme-color);
@@ -254,7 +254,7 @@ ul.navLinks li a h4 span {
     height: 2px;
     top: 0.6rem;
     left: 0;
-}
+} */
 
 .banner-contnt ul {
     margin: 1.5rem 0;
@@ -2693,4 +2693,12 @@ header.StickyHeader.stick {
         background-color: #f7922c;
         color: white;
     }
+}
+.prtnrs-sec.d-flex ul.badgess {
+    display: flex;
+    align-items: center;
+}
+
+.prtnrs-sec.d-flex ul.badgess li {
+    flex: 0 0 17.5%;
 }

@@ -31,27 +31,27 @@
 
     <!-- Google Tag Manager -->
     <script>
-    (function(w, d, s, l, i) {
-        w[l] = w[l] || [];
-        w[l].push({
-            'gtm.start': new Date().getTime(),
-            event: 'gtm.js'
-        });
-        var f = d.getElementsByTagName(s)[0],
-            j = d.createElement(s),
-            dl = l != 'dataLayer' ? '&l=' + l : '';
-        j.async = true;
-        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-        f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-PG5GPLC6');
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-PG5GPLC6');
     </script><!-- End Google Tag Manager -->
 
 
 
     <script>
-    gtag('config', 'AW-11309421415/kwRLCLnIyNYYEOem4JAq', {
-        'phone_conversion_number': '(872) 704-9770'
-    });
+        gtag('config', 'AW-11309421415/kwRLCLnIyNYYEOem4JAq', {
+            'phone_conversion_number': '(872) 704-9770'
+        });
     </script>
 
 </head>
@@ -93,12 +93,14 @@
             <div class="row align-items-center">
                 <div class="col-xl-7 col-lg-7 col-md-12">
                     <div class="banner-contnt">
-                        <h2 class="secheading"><span>AMZ Publishing Official </span> a Place Where Stories Never Take a
-                            Nap
+                        <h2 class="secheading"><span>Publish your book in just $499 </span>
                         </h2>
-                        <p>Let Your Authorship Ascends to Infinite Cosmic of Literary Brilliance!</p>
+                        <p>A one-stop shop for all your publishing needs
+                            An exclusive bundle of proofreading, formatting, cover design, eBooks and Paperback
+                            Publishing on Amazon</p>
 
-                        <ul>
+
+                        <!-- <ul>
                             <li>Multifaceted Offerings: Complete Solutions for Your Writing Journey.
                             </li>
                             <li>Elevate Your Words: Quality Book Publishing and Ghostwriting.
@@ -106,7 +108,7 @@
                             <li>Guiding You Forward: Valuable Insights into the Publishing Process. </li>
                             <li>Always Here for You: Prompt Customer Support for Every Query. </li>
                             <li>Perfection Made Possible: Unlimited Revisions for Your Masterpiece.</li>
-                        </ul>
+                        </ul> -->
                         <a href="javaScrip:;" class="themeBtn" data-fancybox="" data-src="#popupform">Let's Get
                             Started</a>
                         <a href="javascript:;" class="borderbtn chat"><i class="fas fa-comment-dots"></i> Live Chat</a>
@@ -119,7 +121,7 @@
                             <h4>
                                 Avail 50% Off On</h4>
                             <h6>
-                                Publishing Services
+                                book publishing
                             </h6>
                             <!-- <div class="seal">
                                 <img src="https://ghostwriterscrew.com/assets/publishing-new/images/images-form-seal.webp" alt="">
@@ -152,33 +154,19 @@
                 </div>
             </div>
             <div class="prtnrs-sec d-flex">
-                <img src="loading.gif" data-src="assets/images/client-logo6.png" alt="" class=" Lazy wow slideInLeft"
-                    data-wow-delay="0.3s"
-                    style="visibility: visible; animation-delay: 0.3s; animation-name: slideInLeft;">
-                <img src="loading.gif" data-src="assets/images/client-logo4.png" alt="" class=" Lazy wow slideInLeft"
-                    data-wow-delay="0.3s"
-                    style="visibility: visible; animation-delay: 0.3s; animation-name: slideInLeft; ">
-                <img src="loading.gif" data-src="assets/images/image-spark.png" alt="" class=" Lazy wow slideInLeft"
-                    data-wow-delay="0.3s"
-                    style="visibility: visible; animation-delay: 0.3s; animation-name: slideInLeft; width: 210px; filter: grayscale(1);">
-                <img src="loading.gif" data-src="assets/images/client-logo-09.png" alt="" class=" Lazy wow slideInLeft"
-                    data-wow-delay="0.3s"
-                    style="visibility: visible; animation-delay: 0.3s; animation-name: slideInLeft; width: 210px;">
+               
+            <ul class="badgess">
+                                <li><img src="assets/images/bingo1.png" alt=""></li>
+                                <li><img src="assets/images/bingo2.png" alt=""></li>
+                                <li><img src="assets/images/bingo3.png" alt=""></li>
+                                <li><img src="assets/images/bingo4.png" alt=""></li>
+                                <li><img src="assets/images/bingo5.png" alt=""></li>
+                                <li><img src="assets/images/bingo6.png" alt=""></li>
+
+
+                            </ul>
             </div>
-            <div class="prtnrs-sec here_we d-flex d-none">
-                <img src="loading.gif" data-src="assets/images/client-logo6.png" alt="" class=" Lazy wow slideInLeft"
-                    data-wow-delay="0.3s"
-                    style="visibility: visible; animation-delay: 0.3s; animation-name: slideInLeft; width: 100%;">
-                <img src="loading.gif" data-src="assets/images/client-logo4.png" alt="" class=" Lazy wow slideInLeft"
-                    data-wow-delay="0.3s"
-                    style="visibility: visible; animation-delay: 0.3s; animation-name: slideInLeft;width: 100%; ">
-                <img src="loading.gif" data-src="assets/images/image-spark.png" alt="" class=" Lazy wow slideInLeft"
-                    data-wow-delay="0.3s"
-                    style="visibility: visible; animation-delay: 0.3s; animation-name: slideInLeft; width: 100%; filter: grayscale(1);">
-                <img src="loading.gif" data-src="assets/images/client-logo-09.png" alt="" class=" Lazy wow slideInLeft"
-                    data-wow-delay="0.3s"
-                    style="visibility: visible; animation-delay: 0.3s; animation-name: slideInLeft; width: 100%;">
-            </div>
+           
         </div>
 
     </div>
@@ -217,6 +205,190 @@
             </div>
         </div>
     </section>
+
+
+    <section class="packages_sec" id="pricing">
+        <div class="container">
+            <div class="row ">
+                <div class="col-md-12">
+                    <div class="global_iner text-center">
+                        <h5>AMZ Publishing Official </h5>
+                        <h2>Bestsellers' Packages</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row  book_sleder  justify-content-center">
+                <div class="col-md-4 item">
+                    <div class="packages_iner">
+                        <h3>Standard Book Publishing</h3>
+                        <h6>Starting From</h6>
+                        <h2>$499</h2>
+                        <p>EDITING, FORMATTING, SPELL CHECK & TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
+                            STANDARDS.</p>
+                        <ul>
+                            <li class="first">Publishing on Amazon</li>
+                            <li>Ebook, paperback and hardcover</li>
+                            <li>Proofreading</li>
+                            <li>Adjusting the typesetting and layout according to publishing standards</li>
+                            <li>Formatting</li>
+                            <li>Authors and books profile</li>
+                            <li>Finalized digital files</li>
+                            <li>Book cover design</li>
+                            <li>Amazon optimization</li>
+                            <li>100% Ownership Rights</li>
+
+                        </ul>
+                        <ul class="logo_img">
+                            <li>
+                                <img alt="American Author House - Satisfaction Guarantee"
+                                    src="assets/images/guarantee.png">
+                            </li>
+                            <!-- <li>
+                                <img src="assets/images/money-back.png">
+                            </li> -->
+                        </ul>
+                        <button type="button" class="btn chatt popup_button">Order Now</button>
+                    </div>
+                </div>
+                <div class="col-md-4 item">
+                    <div class="packages_iner">
+                        <h3>Extended Book Publishing</h3>
+                        <h6>Starting From</h6>
+                        <h2>$1199</h2>
+                        <p>EDITING, FORMATTING, SPELL CHECK & TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
+                            STANDARDS.</p>
+                        <ul>
+                            <li class="first">Publishing on the top 5 platforms</li>
+                            <li>Ebook, paperback and hardcover</li>
+                            <li>Proofreading</li>
+                            <li>Adjusting the typesetting and layout according to publishing standards</li>
+                            <li>Formatting</li>
+                            <li>Authors and books profile</li>
+                            <li>Finalized digital files</li>
+                            <li>Book cover design</li>
+                            <li>Platform optimization</li>
+                            <li>100% Ownership Rights</li>
+                        </ul>
+                        <ul class="logo_img">
+                            <li>
+                                <img alt="American Author House - Satisfaction Guarantee"
+                                    src="assets/images/guarantee.png">
+                            </li>
+                            <!-- <li>
+                                <img src="assets/images/money-back.png">
+                            </li> -->
+                        </ul>
+                        <button type="button" class="btn chatt popup_button">Order Now</button>
+                    </div>
+                </div>
+                <div class="col-md-4 item">
+                    <div class="packages_iner">
+                        <h3>Mighty <?php $currentMonth = date('M'); echo "$currentMonth";
+?> Package Publishing +1 month free marketing</h3>
+                        <h6>Starting From</h6>
+                        <h2>$1499</h2>
+                        <p>EDITING, FORMATTING, SPELL CHECK & TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
+                            STANDARDS</p>
+                        <ul>
+                            <li class="first">Publishing on the top 5 platforms</li>
+                            <li>Ebook, paperback and hardcover</li>
+                            <li>Proofreading</li>
+                            <li>Adjusting the typesetting and layout according to publishing standards</li>
+                            <li>Formatting</li>
+                            <li>Authors and books profile</li>
+                            <li>Finalized digital files</li>
+                            <li>Book cover design</li>
+                            <li>Platform optimization</li>
+                            <li>100% Ownership Rights</li>
+                        </ul>
+                        <ul class="logo_img">
+                            <li>
+                                <img alt="Vanilla Heart Books And Authors - Satisfaction Guarantee"
+                                    src="assets/images/guarantee.png">
+                            </li>
+                            <!-- <li>
+                                <img src="assets/images/money-back.png">
+                            </li> -->
+                        </ul>
+                        <button type="button" class="btn chatt popup_button">Order Now</button>
+                    </div>
+                </div>
+                <div class="col-md-4 item">
+                    <div class="packages_iner">
+                        <h3>Extensive Book Publishing</h3>
+                        <h6>Starting From</h6>
+                        <h2>$2499</h2>
+                        <p>EDITING, FORMATTING, SPELL CHECK &amp; TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
+                            STANDARDS.</p>
+                        <ul>
+                            <li class="first">Authors Website</li>
+                            <li>Publishing on the top 5 platforms</li>
+                            <li>Ebook, paperback and hardcover</li>
+                            <li>Proofreading</li>
+                            <li>Adjusting the typesetting and layout according to publishing standards</li>
+                            <li>Formatting
+                            </li>
+                            <li>Authors and books profile
+                            </li>
+                            <li>Finalized digital files
+                            </li>
+                            <li>Book cover design
+                            </li>
+                            <li>Platform optimization
+                            </li>
+                            <li>3 Months Extensive Book Marketing with Book Distribution
+                            </li>
+                            <li>100% Ownership Rights</li>
+
+                        </ul>
+                        <ul class="logo_img">
+                            <li>
+                                <img alt="American Author House - Satisfaction Guarantee"
+                                    src="assets/images/guarantee.png">
+                            </li>
+                            <!-- <li>
+                                <img src="assets/images/money-back.png">
+                            </li> -->
+                        </ul>
+                        <button type="button" class="btn chatt popup_button">Order Now</button>
+                    </div>
+                </div>
+                <!-- <div class="col-md-4 item">
+                    <div class="packages_iner">
+                        <h3>Limited Time Publishing Package</h3>
+                        <h6>Starting From</h6>
+                        <h2>$299</h2>
+                        <p>EDITING, FORMATTING, SPELL CHECK &amp; TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
+                            STANDARDS.</p>
+                        <ul>
+                            <li class="first">Publishing on Amazon KDP in eBook format</li>
+                            <li>Proofreading and book formatting (as per International Publishing Standards)</li>
+                            <li>Final digital proof of the book for your approval before publishing</li>
+                            <li>Creation of Author's and Book Profiles</li>
+                            <li>Dedicated Online Dashboard</li>
+                            <li>Dedicated Project Manager</li>
+                            <li> Editing & Proofreading of the manuscript</li>
+                            <li> Dedicated Project Manager</li>
+                            <li> 1 Author’s Copy</li>
+                            <li class="last"> 100% Ownership Rights</li>
+                        </ul>
+                        <ul class="logo_img">
+                            <li>
+                                <img alt="American Author House - Satisfaction Guarantee"
+                                    src="assets/images/guarantee.png">
+                            </li>
+                            <li>
+                                <img src="assets/images/money-back.png">
+                            </li>
+                        </ul>
+                        <button type="button" class="btn chatt popup_button">Order Now</button>
+                    </div>
+                </div> -->
+
+            </div>
+        </div>
+    </section>
+
 
 
     <section class="process sec_pt sec_pb" id="process">
@@ -763,193 +935,7 @@
 
     </div> -->
 
-    <section class="packages_sec" id="pricing">
-        <div class="container">
-            <div class="row ">
-                <div class="col-md-12">
-                    <div class="global_iner text-center">
-                        <h5>AMZ Publishing Official </h5>
-                        <h2>Bestsellers' Packages</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row  book_sleder  justify-content-center">
-                <div class="col-md-4 item">
-                    <div class="packages_iner">
-                        <h3>Author’s Starter Kit Package</h3>
-                        <h6>Starting From</h6>
-                        <h2>$699</h2>
-                        <!-- <p>EDITING, FORMATTING, SPELL CHECK &amp; TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
-                            STANDARDS.</p> -->
-                        <ul>
-                            <li class="first">Publishing on Amazon and AMZ in the formats of your choice i.e, ebook,
-                                paperback, hardback Professional Formatting and Typesetting of the manuscript</li>
-                            <li>Final digital proof of the book for your approval before publishing (Print and Digital
-                                Version)</li>
-                            <li> Publishing on the platforms of your choice as per your chosen plan</li>
-                            <li> Creation of Author’s and Book’s profile (To promote the book and attract the relevant
-                                audience organically)</li>
-                            <li>Dedicated Online Dashboard</li>
-                            <li> Book Cover Design (3 sample designs) </li>
-                            <li> Editing & Proofreading of the manuscript</li>
-                            <li> Dedicated Project Manager</li>
-                            <li> 1 Author’s Copy</li>
-                            <!-- <li class="last"> 100% Ownership Rights</li> -->
-                        </ul>
-                        <ul class="logo_img">
-                            <li>
-                                <img alt="American Author House - Satisfaction Guarantee"
-                                    src="assets/images/guarantee.png">
-                            </li>
-                            <!-- <li>
-                                <img src="assets/images/money-back.png">
-                            </li> -->
-                        </ul>
-                        <button type="button" class="btn chatt popup_button">Order Now</button>
-                    </div>
-                </div>
-                <div class="col-md-4 item">
-                    <div class="packages_iner">
-                        <h3>Comprehensive Best-Seller Package</h3>
-                        <h6>Starting From</h6>
-                        <h2>$1199</h2>
-                        <!-- <p>EDITING, FORMATTING, SPELL CHECK &amp; TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
-                            STANDARDS.</p> -->
-                        <ul>
-                            <li class="first">Publishing on 5 platforms including Amazon, AMZ, Barnes & Noble, Google
-                                Books and Apple Books in the formats of your choice i.e, ebook, paperback, hardback+ 4
-                                author's copy Professional Formatting and Typesetting of the manuscript</li>
-                            <li>Final digital proof of the book for your approval before publishing (Print and Digital
-                                Version)</li>
-                            <li>Publishing on the platforms of your choice as per your chosen plan</li>
-                            <li>Creation of Author’s and Book’s profile (To promote the book and attract the relevant
-                                audience organically)</li>
-                            <li>Dedicated Online Dashboard</li>
-                            <li>Book Cover Design (3 sample designs) </li>
-                            <li>Editing & Proofreading of the manuscript</li>
-                            <li>Dedicated Project Manager</li>
-                            <li>1 month Social Media Marketing </li>
-                            <!-- <li class="last">100% Ownership Rights</li> -->
-                        </ul>
-                        <ul class="logo_img">
-                            <li>
-                                <img alt="American Author House - Satisfaction Guarantee"
-                                    src="assets/images/guarantee.png">
-                            </li>
-                            <!-- <li>
-                                <img src="assets/images/money-back.png">
-                            </li> -->
-                        </ul>
-                        <button type="button" class="btn chatt popup_button">Order Now</button>
-                    </div>
-                </div>
-                <div class="col-md-4 item">
-                    <div class="packages_iner">
-                        <h3>Fortune Best Seller Package</h3>
-                        <h6>Starting From</h6>
-                        <h2>$2999</h2>
-                        <!-- <p>EDITING, FORMATTING, SPELL CHECK &amp; TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
-                            STANDARDS</p> -->
-                        <ul>
-                            <li class="first">Publishing on top 20 platforms including Amazon, AMZ, Barnes & Noble,
-                                Google Books and Apple Books in the formats of your choice i.e, ebook, paperback,
-                                hardback+ 4 author's copy</li>
-                            <li> Final digital proof of the book for your approval before publishing (Print and Digital
-                                Version)</li>
-                            <li> Publishing on the platforms of your choice as per your chosen plan</li>
-                            <li>Creation of Author’s and Book’s profile (To promote the book and attract the relevant
-                                audience organically)</li>
-                            <li> Dedicated Online Dashboard</li>
-                            <li> Book Cover Design (3 sample designs) </li>
-                            <li> Editing & Proofreading of the manuscript </li>
-                            <li>Dedicated Project Manager</li>
-                            <li>2 month Social Media Marketing on Fb,Insta to increase sales of the book</li>
-                            <li>1 Month Author Awareness Marketing to increase the online presence of the author and
-                                increase sales </li>
-                        </ul>
-                        <ul class="logo_img">
-                            <li>
-                                <img alt="Vanilla Heart Books And Authors - Satisfaction Guarantee"
-                                    src="assets/images/guarantee.png">
-                            </li>
-                            <!-- <li>
-                                <img src="assets/images/money-back.png">
-                            </li> -->
-                        </ul>
-                        <button type="button" class="btn chatt popup_button">Order Now</button>
-                    </div>
-                </div>
-                <div class="col-md-4 item">
-                    <div class="packages_iner">
-                        <h3>Children’s Book Publishing Pro</h3>
-                        <h6>Starting From</h6>
-                        <h2>$1499</h2>
-                        <!-- <p>EDITING, FORMATTING, SPELL CHECK &amp; TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
-                            STANDARDS.</p> -->
-                        <ul>
-                            <li class="first">Publishing on 5 platforms including Amazon, AMZ, Barnes & Noble, Google
-                                Books and Apple Books in the formats of your choice i.e., eBook, paperback, hardback+ 4
-                                author's copy Professional Formatting and Typesetting of the manuscript</li>
-                            <li>Final digital proof of the book for your approval before publishing (Print and Digital
-                                Version)</li>
-                            <li>Publishing on the platforms of your choice as per your chosen plan</li>
-                            <li>Creation of Author’s and Book’s profile (To promote the book and attract the relevant
-                                audience organically)</li>
-                            <li>Dedicated Online Dashboard</li>
-                            <li>Book Cover Design (3 sample designs) </li>
-                            <li>Editing & Proofreading of the manuscript </li>
-                            <li>Dedicated Project Manager</li>
-                            <li>12 Custom Illustration’s included (Per Illustrations separately $30) </li>
-                            <li>Distribution of the book in stores like apple,Walmart,target</li>
-                            <!-- <li class="last">100% Ownership Rights</li> -->
-                        </ul>
-                        <ul class="logo_img">
-                            <li>
-                                <img alt="American Author House - Satisfaction Guarantee"
-                                    src="assets/images/guarantee.png">
-                            </li>
-                            <!-- <li>
-                                <img src="assets/images/money-back.png">
-                            </li> -->
-                        </ul>
-                        <button type="button" class="btn chatt popup_button">Order Now</button>
-                    </div>
-                </div>
-                <div class="col-md-4 item">
-                    <div class="packages_iner">
-                        <h3>Limited Time Publishing Package</h3>
-                        <h6>Starting From</h6>
-                        <h2>$299</h2>
-                        <!-- <p>EDITING, FORMATTING, SPELL CHECK &amp; TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
-                            STANDARDS.</p> -->
-                        <ul>
-                            <li class="first">Publishing on Amazon KDP in eBook format</li>
-                            <li>Proofreading and book formatting (as per International Publishing Standards)</li>
-                            <li>Final digital proof of the book for your approval before publishing</li>
-                            <li>Creation of Author's and Book Profiles</li>
-                            <li>Dedicated Online Dashboard</li>
-                            <li>Dedicated Project Manager</li>
-                            <!-- <li> Editing & Proofreading of the manuscript</li>
-                            <li> Dedicated Project Manager</li>
-                            <li> 1 Author’s Copy</li> -->
-                            <!-- <li class="last"> 100% Ownership Rights</li> -->
-                        </ul>
-                        <ul class="logo_img">
-                            <li>
-                                <img alt="American Author House - Satisfaction Guarantee"
-                                    src="assets/images/guarantee.png">
-                            </li>
-                            <!-- <li>
-                                <img src="assets/images/money-back.png">
-                            </li> -->
-                        </ul>
-                        <button type="button" class="btn chatt popup_button">Order Now</button>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
+   
 
 
     <section class="testimonialSec">
@@ -1285,14 +1271,14 @@
     <!-- <script src="assets/lp/self-publishing/js/js-libs.js"></script> -->
 
     <script type="text/javascript">
-    var ip = "MTM3LjU5LjIyNy40NQ==";
-    var url = "aHR0cHM6Ly93d3cuYW16Ym9va3NwdWJsaXNoaW5ncy5jb20vbHAvcHVibGlzaGluZw==";
-    var authCode = "Mjg1";
-    var isDebug = "";
-    var socketUrl = "https://chat.ledgecrm.com/";
-    var token = "P5QP1eRp45GJYmhDbJeyZ9OOghtxJZljo4ZRyWxU";
-    var base_url = window.location.protocol + "//" + window.location.hostname;
-    var url = window.location.href;
+        var ip = "MTM3LjU5LjIyNy40NQ==";
+        var url = "aHR0cHM6Ly93d3cuYW16Ym9va3NwdWJsaXNoaW5ncy5jb20vbHAvcHVibGlzaGluZw==";
+        var authCode = "Mjg1";
+        var isDebug = "";
+        var socketUrl = "https://chat.ledgecrm.com/";
+        var token = "P5QP1eRp45GJYmhDbJeyZ9OOghtxJZljo4ZRyWxU";
+        var base_url = window.location.protocol + "//" + window.location.hostname;
+        var url = window.location.href;
     </script>
 
     <script src="assets/js/jquery.js" type="text/javascript"></script>
@@ -1309,32 +1295,32 @@
     </script>
     <!-- End of  Zendesk Widget script -->
     <script>
-    zE(function() {
-        $zopim.livechat.setOnUnreadMsgs(function(numUnread) {
-            if (numUnread > 0 && !$zopim.livechat.window.getDisplay()) {
-                $zopim.livechat.window.show();
-            }
-        })
-    });
-
-    if (window.innerWidth < 600) {
-        zE(function() {
-            zE.activate();
+        zE(function () {
+            $zopim.livechat.setOnUnreadMsgs(function (numUnread) {
+                if (numUnread > 0 && !$zopim.livechat.window.getDisplay()) {
+                    $zopim.livechat.window.show();
+                }
+            })
         });
 
-    }
-    </script>
-    <script>
-    $('.chat, .chatt').click(function() {
-        $zopim.livechat.window.toggle();
-    });
-    </script>
-    <script>
-    var isloading = true;
+        if (window.innerWidth < 600) {
+            zE(function () {
+                zE.activate();
+            });
 
-    function removeLoading() {
-        if (isloading) {
-            $("head").append(`
+        }
+    </script>
+    <script>
+        $('.chat, .chatt').click(function () {
+            $zopim.livechat.window.toggle();
+        });
+    </script>
+    <script>
+        var isloading = true;
+
+        function removeLoading() {
+            if (isloading) {
+                $("head").append(`
       <script src="assets/lp/self-publishing/js/js-libs.js"><\/script>
       <script src="assets/js/custom.js" type="text/javascript"><\/script>
     <script src="assets/js/web-workers/backend/web-worker-backend.js" type="text/javascript"><\/script>
@@ -1346,142 +1332,142 @@
                     
 `)
 
-            $('.Lazy').each(function() {
-                $(this).attr("src", $(this).attr('data-src'))
-            })
-            isloading = false
+                $('.Lazy').each(function () {
+                    $(this).attr("src", $(this).attr('data-src'))
+                })
+                isloading = false
+            }
         }
-    }
-    $(document).mousemove(removeLoading)
-    $(document).on("touchmove", removeLoading)
-    setInterval(removeLoading, 20000);
+        $(document).mousemove(removeLoading)
+        $(document).on("touchmove", removeLoading)
+        setInterval(removeLoading, 20000);
     </script>
 
 
 
     <script>
-    $('.book_sleder').slick({
-            dots: false,
-            arrows: true,
-            infinite: true,
-            speed: 300,
-            autoplay: true,
-            slidesToShow: 3,
-            slidesToScroll: 1,
-            responsive: [{
-                    breakpoint: 1399,
-                    settings: {
-                        slidesToShow: 3,
-                        slidesToScroll: 1,
-                        infinite: true,
-                        dots: false
-                    }
-                }, {
-                    breakpoint: 1200,
-                    settings: {
-                        slidesToShow: 3,
-                        slidesToScroll: 1,
-                        infinite: true,
-                        dots: false
-                    }
-                },
-                {
-                    breakpoint: 992,
-                    settings: {
-                        slidesToShow: 1,
-                        slidesToScroll: 1,
+        $('.book_sleder').slick({
+                dots: false,
+                arrows: true,
+                infinite: true,
+                speed: 300,
+                autoplay: true,
+                slidesToShow: 3,
+                slidesToScroll: 1,
+                responsive: [{
+                        breakpoint: 1399,
+                        settings: {
+                            slidesToShow: 3,
+                            slidesToScroll: 1,
+                            infinite: true,
+                            dots: false
+                        }
+                    }, {
+                        breakpoint: 1200,
+                        settings: {
+                            slidesToShow: 3,
+                            slidesToScroll: 1,
+                            infinite: true,
+                            dots: false
+                        }
+                    },
+                    {
+                        breakpoint: 992,
+                        settings: {
+                            slidesToShow: 1,
+                            slidesToScroll: 1,
 
-                    }
-                },
-                {
-                    breakpoint: 767,
-                    settings: {
-                        slidesToShow: 1,
-                        slidesToScroll: 1
+                        }
+                    },
+                    {
+                        breakpoint: 767,
+                        settings: {
+                            slidesToShow: 1,
+                            slidesToScroll: 1
 
-                    }
-                },
-                {
-                    breakpoint: 600,
-                    settings: {
-                        slidesToShow: 1,
-                        slidesToScroll: 1
+                        }
+                    },
+                    {
+                        breakpoint: 600,
+                        settings: {
+                            slidesToShow: 1,
+                            slidesToScroll: 1
 
+                        }
+                    },
+                    {
+                        breakpoint: 480,
+                        settings: {
+                            slidesToShow: 1,
+                            slidesToScroll: 1
+                        }
                     }
-                },
-                {
-                    breakpoint: 480,
-                    settings: {
-                        slidesToShow: 1,
-                        slidesToScroll: 1
-                    }
-                }
-                // You can unslick at a given breakpoint now by adding:
-                // settings: "unslick"
-                // instead of a settings object
-            ]
-        }),
-        $('.here_we').slick({
-            dots: true,
-            arrows: false,
-            infinite: true,
-            speed: 300,
-            autoplay: true,
-            slidesToShow: 5,
-            slidesToScroll: 1,
-            responsive: [{
-                    breakpoint: 1399,
-                    settings: {
-                        slidesToShow: 4,
-                        slidesToScroll: 1,
-                        infinite: true,
-                        dots: false
-                    }
-                }, {
-                    breakpoint: 1200,
-                    settings: {
-                        slidesToShow: 3,
-                        slidesToScroll: 1,
-                        infinite: true,
-                        dots: false
-                    }
-                },
-                {
-                    breakpoint: 992,
-                    settings: {
-                        slidesToShow: 1,
-                        slidesToScroll: 1,
+                    // You can unslick at a given breakpoint now by adding:
+                    // settings: "unslick"
+                    // instead of a settings object
+                ]
+            }),
+            $('.here_we').slick({
+                dots: true,
+                arrows: false,
+                infinite: true,
+                speed: 300,
+                autoplay: true,
+                slidesToShow: 5,
+                slidesToScroll: 1,
+                responsive: [{
+                        breakpoint: 1399,
+                        settings: {
+                            slidesToShow: 4,
+                            slidesToScroll: 1,
+                            infinite: true,
+                            dots: false
+                        }
+                    }, {
+                        breakpoint: 1200,
+                        settings: {
+                            slidesToShow: 3,
+                            slidesToScroll: 1,
+                            infinite: true,
+                            dots: false
+                        }
+                    },
+                    {
+                        breakpoint: 992,
+                        settings: {
+                            slidesToShow: 1,
+                            slidesToScroll: 1,
 
-                    }
-                },
-                {
-                    breakpoint: 767,
-                    settings: {
-                        slidesToShow: 2,
-                        slidesToScroll: 1
+                        }
+                    },
+                    {
+                        breakpoint: 767,
+                        settings: {
+                            slidesToShow: 2,
+                            slidesToScroll: 1
 
-                    }
-                },
-                {
-                    breakpoint: 600,
-                    settings: {
-                        slidesToShow: 2,
-                        slidesToScroll: 1
+                        }
+                    },
+                    {
+                        breakpoint: 600,
+                        settings: {
+                            slidesToShow: 2,
+                            slidesToScroll: 1
 
+                        }
+                    },
+                    {
+                        breakpoint: 480,
+                        settings: {
+                            slidesToShow: 1,
+                            slidesToScroll: 1
+                        }
                     }
-                },
-                {
-                    breakpoint: 480,
-                    settings: {
-                        slidesToShow: 1,
-                        slidesToScroll: 1
-                    }
-                }
-                // You can unslick at a given breakpoint now by adding:
-                // settings: "unslick"
-                // instead of a settings object
-            ]
-        });
+                    // You can unslick at a given breakpoint now by adding:
+                    // settings: "unslick"
+                    // instead of a settings object
+                ]
+            });
     </script>
 </body>
 
