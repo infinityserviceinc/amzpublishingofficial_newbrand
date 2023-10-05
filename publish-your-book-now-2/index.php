@@ -93,14 +93,12 @@
             <div class="row align-items-center">
                 <div class="col-xl-7 col-lg-7 col-md-12">
                     <div class="banner-contnt">
-                        <h2 class="secheading"><span>Publish your book in just $499 </span>
-                        </h2>
-                        <p>A one-stop shop for all your publishing needs
-                            An exclusive bundle of proofreading, formatting, cover design, eBooks and Paperback
-                            Publishing on Amazon</p>
+                        <h2 class="secheading"><span>AMZ Publishing Official </span> a Place Where Stories Never Take a
+                            Nap</h2>
+                        <p>Let Your Authorship Ascends to Infinite Cosmic of Literary Brilliance!</p>
 
 
-                        <!-- <ul>
+                        <ul>
                             <li>Multifaceted Offerings: Complete Solutions for Your Writing Journey.
                             </li>
                             <li>Elevate Your Words: Quality Book Publishing and Ghostwriting.
@@ -108,7 +106,7 @@
                             <li>Guiding You Forward: Valuable Insights into the Publishing Process. </li>
                             <li>Always Here for You: Prompt Customer Support for Every Query. </li>
                             <li>Perfection Made Possible: Unlimited Revisions for Your Masterpiece.</li>
-                        </ul> -->
+                        </ul>
                         <a href="javaScrip:;" class="themeBtn" data-fancybox="" data-src="#popupform">Let's Get
                             Started</a>
                         <a href="javascript:;" class="borderbtn chat"><i class="fas fa-comment-dots"></i> Live Chat</a>
@@ -121,7 +119,7 @@
                             <h4>
                                 Avail 50% Off On</h4>
                             <h6>
-                                book publishing
+                                Book Publishing
                             </h6>
                             <!-- <div class="seal">
                                 <img src="https://ghostwriterscrew.com/assets/publishing-new/images/images-form-seal.webp" alt="">
@@ -159,7 +157,7 @@
                                 <li><img src="assets/images/bingo1.png" alt=""></li>
                                 <li><img src="assets/images/bingo2.png" alt=""></li>
                                 <li><img src="assets/images/bingo3.png" alt=""></li>
-                                <li><img src="assets/images/bingo4.png" alt=""></li>
+                                <!-- <li><img src="assets/images/bingo4.png" alt=""></li> -->
                                 <li><img src="assets/images/bingo5.png" alt=""></li>
                                 <li><img src="assets/images/bingo6.png" alt=""></li>
 
@@ -176,16 +174,13 @@
 
                 <div class="col-xl-8 col-lg-8 col-md-12">
                     <h6>Your Journey to Authorship Starts Here</h6>
-                    <h2 class="secheading"><span>Unlock Your Potential</span></h2>
+                    <h2 class="secheading"><span>Publish your book in just $499</span></h2>
 
-                    <p>We offer professional ghostwriting, engaging audiobooks, copyright cataloging, captivating book
-                        cover designs, and valuable beta reader feedback. Our support extends to major-scale book
-                        publishing with proper mandates, promoting creativity and responsible practices.
-
+                    <p>A one-stop shop for all your publishing needs An exclusive bundle of proofreading, formatting, cover design, eBooks and Paperback Publishing on Amazon
                     </p>
-                    <p>With our comprehensive solutions and support, we strive to make the book writing, editing, and
+                    <!-- <p>With our comprehensive solutions and support, we strive to make the book writing, editing, and
                         book publishing process smooth and successful for authors and publishers alike. We firmly
-                        believe in promoting creativity, diversity, and originality in the literary world.</p>
+                        believe in promoting creativity, diversity, and originality in the literary world.</p> -->
                     <div class="btnSec">
                         <a href="javascript:;" class="themeBtn" data-fancybox="" data-src="#popupform">Let's Get
                             Started</a>
@@ -1351,7 +1346,7 @@
                 arrows: true,
                 infinite: true,
                 speed: 300,
-                autoplay: true,
+                autoplay: false,
                 slidesToShow: 3,
                 slidesToScroll: 1,
                 responsive: [{

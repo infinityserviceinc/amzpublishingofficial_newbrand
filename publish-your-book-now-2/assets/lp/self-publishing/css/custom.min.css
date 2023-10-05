@@ -246,7 +246,7 @@ ul.navLinks li a h4 span {
     padding-left: 1rem;
 }
 
-/* .banner-contnt ul li::before {
+.banner-contnt ul li::before {
     content: "";
     position: absolute;
     background: var(--theme-color);
@@ -254,7 +254,7 @@ ul.navLinks li a h4 span {
     height: 2px;
     top: 0.6rem;
     left: 0;
-} */
+}
 
 .banner-contnt ul {
     margin: 1.5rem 0;
@@ -2700,5 +2700,13 @@ header.StickyHeader.stick {
 }
 
 .prtnrs-sec.d-flex ul.badgess li {
-    flex: 0 0 17.5%;
+    flex: 0 0 19.5%;
 }
+
+/* @media only screen and (max-width:1380px){
+    button.slick-next.slick-arrow {
+        position: relative;
+        top: -570px;
+        left: 1170px;
+    }
+} */
