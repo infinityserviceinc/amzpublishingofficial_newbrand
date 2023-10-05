@@ -93,8 +93,7 @@
             <div class="row align-items-center">
                 <div class="col-xl-7 col-lg-7 col-md-12">
                     <div class="banner-contnt">
-                        <h2 class="secheading"><span>AMZ Publishing Official </span> a Place Where Stories Never Take a
-                            Nap</h2>
+                        <h2 class="secheading">Are You Looking To Publish Your Book On <span>Amazon</span>?</h2>
                         <p>Let Your Authorship Ascends to Infinite Cosmic of Literary Brilliance!</p>
 
 
