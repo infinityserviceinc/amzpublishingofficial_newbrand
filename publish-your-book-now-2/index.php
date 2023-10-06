@@ -98,13 +98,13 @@
 
 
                         <ul>
-                            <li>Multifaceted Offerings: Complete Solutions for Your Writing Journey.
+                            <li>Get your Book Out There today Through Amazon Publishing Services.
                             </li>
-                            <li>Elevate Your Words: Quality Book Publishing and Ghostwriting.
+                            <li>Allow Us To Help You Achieve Your Publishing Goals With Amazon Self Publishing.
                             </li>
-                            <li>Guiding You Forward: Valuable Insights into the Publishing Process. </li>
-                            <li>Always Here for You: Prompt Customer Support for Every Query. </li>
-                            <li>Perfection Made Possible: Unlimited Revisions for Your Masterpiece.</li>
+                            <li>Grab The Desired Audience Today Through Amazon Kindle Publishing. </li>
+                            <li>Not Just Amazon Book Publishing We Also Get you On Multiple Platforms. </li>
+                            <li>Publishing On Multiple Platforms Gain More Reach Means More Sales.</li>
                         </ul>
                         <a href="javaScrip:;" class="themeBtn" data-fancybox="" data-src="#popupform">Let's Get
                             Started</a>
@@ -173,7 +173,7 @@
 
                 <div class="col-xl-8 col-lg-8 col-md-12">
                     <h6>Your Journey to Authorship Starts Here</h6>
-                    <h2 class="secheading"><span>Publish your book in just $499</span></h2>
+                    <h2 class="secheading"><span>Self Publish Your Book In Just $499</span></h2>
 
                     <p>A one-stop shop for all your publishing needs An exclusive bundle of proofreading, formatting, cover design, eBooks and Paperback Publishing on Amazon
                     </p>
@@ -1463,6 +1463,17 @@
                 ]
             });
     </script>
+    <!-- Hotjar Tracking Code for AMZ Publishing Official LP -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:3684574,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
 </body>
 
 
