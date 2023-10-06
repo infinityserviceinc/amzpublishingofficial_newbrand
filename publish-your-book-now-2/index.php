@@ -1297,12 +1297,12 @@
             })
         });
 
-        if (window.innerWidth < 600) {
+        
             zE(function () {
                 zE.activate();
             });
 
-        }
+        
     </script>
     <script>
         $('.chat, .chatt').click(function () {
