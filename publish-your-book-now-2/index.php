@@ -214,7 +214,7 @@
             <div class="row  book_sleder2  justify-content-center">
                 <div class="col-md-3 item">
                     <div class="packages_iner">
-                        <h3>Standard Book Publishing</h3>
+                        <h3>Standard Book <br> Publishing</h3>
                         <h6>Starting From</h6>
                         <h2>$499</h2>
                         <p>EDITING, FORMATTING, SPELL CHECK & TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
@@ -246,7 +246,7 @@
                 </div>
                 <div class="col-md-3 item">
                     <div class="packages_iner">
-                        <h3>Extended Book Publishing</h3>
+                        <h3>Extended Book <br> Publishing</h3>
                         <h6>Starting From</h6>
                         <h2>$1199</h2>
                         <p>EDITING, FORMATTING, SPELL CHECK & TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
@@ -309,7 +309,7 @@
                 </div>
                 <div class="col-md-3 item">
                     <div class="packages_iner">
-                        <h3>Extensive Book Publishing</h3>
+                        <h3>Extensive Book <br> Publishing</h3>
                         <h6>Starting From</h6>
                         <h2>$2499</h2>
                         <p>EDITING, FORMATTING, SPELL CHECK &amp; TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
