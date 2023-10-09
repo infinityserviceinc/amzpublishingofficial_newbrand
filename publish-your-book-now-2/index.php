@@ -139,7 +139,7 @@
                                     <div class="col-md-12 ">
                                         <div class="btnsub show-s">
                                             <div id="formResult"></div>
-                                            <button type="submit" name="signupForm" class="darkBtn">Become an Author
+                                            <button type="submit" name="signupForm" class="darkBtn">Submit
                                             </button>
                                         </div>
                                     </div>
@@ -202,7 +202,7 @@
 
 
     <section class="packages_sec" id="pricing">
-        <div class="container">
+        <div class="container-fluid">
             <div class="row ">
                 <div class="col-md-12">
                     <div class="global_iner text-center">
@@ -211,8 +211,8 @@
                     </div>
                 </div>
             </div>
-            <div class="row  book_sleder  justify-content-center">
-                <div class="col-md-4 item">
+            <div class="row  book_sleder2  justify-content-center">
+                <div class="col-md-3 item">
                     <div class="packages_iner">
                         <h3>Standard Book Publishing</h3>
                         <h6>Starting From</h6>
@@ -244,7 +244,7 @@
                         <button type="button" class="btn chatt popup_button">Order Now</button>
                     </div>
                 </div>
-                <div class="col-md-4 item">
+                <div class="col-md-3 item">
                     <div class="packages_iner">
                         <h3>Extended Book Publishing</h3>
                         <h6>Starting From</h6>
@@ -275,7 +275,7 @@
                         <button type="button" class="btn chatt popup_button">Order Now</button>
                     </div>
                 </div>
-                <div class="col-md-4 item">
+                <div class="col-md-3 item">
                     <div class="packages_iner">
                         <h3>Mighty <?php $currentMonth = date('M'); echo "$currentMonth";
 ?> Package Publishing +1 month free marketing</h3>
@@ -307,7 +307,7 @@
                         <button type="button" class="btn chatt popup_button">Order Now</button>
                     </div>
                 </div>
-                <div class="col-md-4 item">
+                <div class="col-md-3 item">
                     <div class="packages_iner">
                         <h3>Extensive Book Publishing</h3>
                         <h6>Starting From</h6>
@@ -1241,8 +1241,11 @@
 
     <div style="display: none;" id="popupform" class="halloween-popup inlineBlock" tabindex="-1" role="dialog"
         aria-labelledby="popupform">
+        <div class="modal-header" bis_skin_checked="1"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" fdprocessedid="0122n"><i class="fa fa-times" aria-hidden="true"></i></button>
+            </div>
         <div class="halloween-popup-inner" data-form-type="signup_form">
-            <h3><small class="month"></small> <small class="year"></small> <span>GET 50% OFF NOW</span></h3>
+        <h5>Limited Time Offer</h5>
+        <h3><span>85%</span> Off on<br>all services!</h3>
             <form id="regForm" class="validate-popupform leadForm" method="post" action="/leads/">
                 <input type="text" placeholder="Enter your Name" name="name" required>
                 <input type="text" placeholder="Enter your Email" name="email" required>
@@ -1473,6 +1476,18 @@
         r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
         a.appendChild(r);
     })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<script>
+$(document).ready(function(){
+    $(".btn-close").click(function(){
+        $("#popupform, #fancybox-container-2").css({
+            "display": "none",
+            // "opacity": "0"
+        });
+    });
+});
+
+
 </script>
 </body>
 
