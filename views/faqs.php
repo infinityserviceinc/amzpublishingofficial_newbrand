@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<title>Frequently Asked Questions (FAQs) | AMZ Publishing Official</title>
+<meta name="description" content="Explore our comprehensive FAQs to find answers to common questions about AMZ Publishing. Discover how our services can elevate your publishing journey.">
 <?php include_once('includes/head.php'); ?>
 
 <body>

@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<title>Customer Reviews | AMZ Publishing Official - Real Feedback, Real Results</title>
+<meta name="description" content="Read authentic customer reviews and testimonials about AMZ Publishing services. See why authors trust us for their publishing needs. Real feedback, real results.">
 
 <?php include_once('includes/head.php'); ?>
 
