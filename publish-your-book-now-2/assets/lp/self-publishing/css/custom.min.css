@@ -5496,15 +5496,15 @@ button.btn-close {
     flex-direction: column;
     border: 2px solid #fff;
     border-radius: 15px;
-    box-shadow: 0 0 1px 2px #1c8374, 0 0 1px 2px #1c8374 inset;
-    filter: drop-shadow(0px 0px 5px #1c8374);
+    box-shadow: 0 0 1px 2px #f7922c, 0 0 1px 2px #f7922c inset;
+    filter: drop-shadow(0px 0px 5px #f7922c);
     z-index: 9;
     cursor: pointer;
     animation: 1s linear infinite bf-animate;
 }
 @keyframes bf-animate {
     0%, 100% {
-        filter: drop-shadow(0px 0px 5px #1c8374);
+        filter: drop-shadow(0px 0px 5px #f7922c);
         transform: translateY(-5px);
     }
     
@@ -5529,14 +5529,14 @@ button.btn-close {
     justify-content: center;
     align-items: center;
     border-radius: 5px;
-    box-shadow: 0 0 1px 2px #1c8374, 0 0 1px 2px #1c8374 inset;
+    box-shadow: 0 0 1px 2px #f7922c, 0 0 1px 2px #f7922c inset;
     filter: drop-shadow(0px 0px 5px #e70046);
     margin-bottom: 4px;
     animation: 1s linear infinite bf-animate-2;
 }
 @keyframes bf-animate-2{
     0%, 100% {
-        filter: drop-shadow(0px 0px 5px #1c8374);
+        filter: drop-shadow(0px 0px 5px #f7922c);
     }
     
     50% {
@@ -5589,9 +5589,9 @@ button.btn-close {
 .popup_form_wrp form input::placeholder, .popup_form_wrp form textarea::placeholder {color: rgba(0, 0, 0, 0.44); font-size: 14px; }
 .popup_form_wrp form textarea {border-radius: 15px; height: 130px; padding: 15px 18px; }
 .popup_form_wrp form select {font-size: 14px; font-weight: 500; }
-.modal-content {/* border-radius: 20px; */}
-.modal-content {/* border: 2px solid #e64d26 !important; */background: black;top: 90px;}
-.popup_form_wrp h2:before {display: ;position: absolute;background: #e64d26;width: 10px;height: 40px;left: -20px;border-radius: 5px;}
+/* .modal-content {border-radius: 20px;} */
+.modal-content {background: black;top: 90px;}
+/* .popup_form_wrp h2:befposition: absolute;background: #e64d26;width: 10px;height: 40px;left: -20px;border-radius: 5px;} */
 
 span.color_form {
     font-size: 28px;
@@ -5609,7 +5609,7 @@ button.btn-close:after {content: '';display: block;position: absolute;background
 button.btn-close:before {content: '';display: block;position: absolute;background: #fff;width: 4px;height: 26px;top: 5px;transform: rotate(129deg);left: 17px;border-radius: 5px;}
 button.btn-close:hover {background: #F3AD16; opacity: 1; }
 
-button.popup_button {background: linear-gradient(180deg, #39AFF9 0%, #007CCA 100%);box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);border-radius: 20px;border: none;font-style: normal;font-weight: 700;font-size: 20px;line-height: 23px;color: #FFFFFF;text-transform:capitalize;width: 200px;height: 50px;font-family: 'Raleway';}
+button.popup_button {/* background: linear-gradient(180deg, #39AFF9 0%, #007CCA 100%); */box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);border-radius: 20px;border: none;font-style: normal;font-weight: 700;font-size: 20px;line-height: 23px;color: #FFFFFF;text-transform:capitalize;width: 200px;height: 50px;font-family: 'Raleway';justify-content: center;}
 button.popup_button:hover {background: #f3ad16; }
 
 .popup_form_wrp h5 {font-size: 22px;line-height: 28px;color: #f7922c ;margin: 0 !important;text-align: center;}
@@ -5645,4 +5645,7 @@ button.popup_button:hover {background: #f3ad16; }
 input[type="submit"] {
     background: #f7922c !important;
     border: none !important;
+}
+.parent_here {
+    margin: 0 0 -30px 0;
 }

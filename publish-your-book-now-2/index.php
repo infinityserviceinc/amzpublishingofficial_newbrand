@@ -27,7 +27,7 @@
     <link rel="stylesheet" href="assets/lp/self-publishing/css/responsive.css">
     <link rel="shortcut icon" href="../favicon.ico">
     <title>Book Publishing Services At 50% Discount | AMZ Publishing Official</title>
-    <!-- <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
 
 
     <!-- Google Tag Manager -->
@@ -495,7 +495,7 @@
 
                     </ul>
                     <div class="portfolio-slide tab-content" id="myTabContent">
-                        <div class="tab-pane fade active show" id="book1" role="tabpanel" aria-labelledby="book-tab1">
+                        <div class="tab-pane  active show" id="book1" role="tabpanel" aria-labelledby="book-tab1">
                             <div class="owl-carousel owl-portfolio owl-theme">
                                 <div class="item">
                                     <div class="info-port">
@@ -529,7 +529,7 @@
 
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="book2" role="tabpanel" aria-labelledby="book-tab2">
+                        <div class="tab-pane " id="book2" role="tabpanel" aria-labelledby="book-tab2">
                             <div class="owl-carousel owl-portfolio owl-theme">
                                 <div class="item">
                                     <div class="info-port">
@@ -563,7 +563,7 @@
 
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="book3" role="tabpanel" aria-labelledby="book-tab3">
+                        <div class="tab-pane " id="book3" role="tabpanel" aria-labelledby="book-tab3">
                             <div class="owl-carousel owl-portfolio owl-theme">
                                 <div class="item">
                                     <div class="info-port">
@@ -597,7 +597,7 @@
 
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="book4" role="tabpanel" aria-labelledby="book-tab4">
+                        <div class="tab-pane " id="book4" role="tabpanel" aria-labelledby="book-tab4">
                             <div class="owl-carousel owl-portfolio owl-theme">
                                 <div class="item">
                                     <div class="info-port">
@@ -627,7 +627,7 @@
 
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="book5" role="tabpanel" aria-labelledby="book-tab5">
+                        <div class="tab-pane " id="book5" role="tabpanel" aria-labelledby="book-tab5">
                             <div class="owl-carousel owl-portfolio owl-theme">
                                 <div class="item">
                                     <div class="info-port">
@@ -661,7 +661,7 @@
 
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="book6" role="tabpanel" aria-labelledby="book-tab6">
+                        <div class="tab-pane " id="book6" role="tabpanel" aria-labelledby="book-tab6">
                             <div class="owl-carousel owl-portfolio owl-theme">
                                 <div class="item">
                                     <div class="info-port">
@@ -692,7 +692,7 @@
 
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="book7" role="tabpanel" aria-labelledby="book-tab7">
+                        <div class="tab-pane " id="book7" role="tabpanel" aria-labelledby="book-tab7">
                             <div class="owl-carousel owl-portfolio owl-theme">
                                 <div class="item">
                                     <div class="info-port">
