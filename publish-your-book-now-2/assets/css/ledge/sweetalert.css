@@ -1176,3 +1176,6 @@ section#pricing {
     margin-top: 20px;
 }
 }
+div#fancybox-container-3 {
+    display: none !important;
+}

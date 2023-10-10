@@ -12,9 +12,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="assets/lp/self-publishing/css/bootstrap.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <!-- <link rel="stylesheet" href="assets/lp/self-publishing/css/bootstrap.min.css"> -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css">
-    <link rel="stylesheet" href="assets/lp/self-publishing/css/jquery.fancybox.min.css">
+    <!-- <link rel="stylesheet" href="assets/lp/self-publishing/css/jquery.fancybox.min.css"> -->
     <link rel="stylesheet" href="assets/lp/self-publishing/css/owl.css">
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
@@ -26,7 +27,7 @@
     <link rel="stylesheet" href="assets/lp/self-publishing/css/responsive.css">
     <link rel="shortcut icon" href="../favicon.ico">
     <title>Book Publishing Services At 50% Discount | AMZ Publishing Official</title>
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
+    <!-- <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" /> -->
 
 
     <!-- Google Tag Manager -->
@@ -48,11 +49,11 @@
 
 
 
-    <script>
+    <!-- <script>
         gtag('config', 'AW-11309421415/kwRLCLnIyNYYEOem4JAq', {
             'phone_conversion_number': '(872) 704-9770'
         });
-    </script>
+    </script> -->
 
 </head>
 
@@ -78,7 +79,7 @@
                                 <span> Live Chat
                             </h4>
                         </a></li>
-                    <li><a href="javascript:;" class="themeBtn" id="autopop" data-fancybox="" data-src="#popupform">Get
+                    <li><a href="javascript:;" class="themeBtn" data-bs-toggle="modal" data-bs-target="#exampleModal">Get
                             A
                             Free Quote</a></li>
                 </ul>
@@ -106,7 +107,7 @@
                             <li>Not Just Amazon Book Publishing We Also Get you On Multiple Platforms. </li>
                             <li>Publishing On Multiple Platforms Gain More Reach Means More Sales.</li>
                         </ul>
-                        <a href="javaScrip:;" class="themeBtn" data-fancybox="" data-src="#popupform">Let's Get
+                        <a href="javaScrip:;" class="themeBtn" data-bs-toggle="modal" data-bs-target="#exampleModal">Let's Get
                             Started</a>
                         <a href="javascript:;" class="borderbtn chat"><i class="fas fa-comment-dots"></i> Live Chat</a>
 
@@ -181,7 +182,7 @@
                         book publishing process smooth and successful for authors and publishers alike. We firmly
                         believe in promoting creativity, diversity, and originality in the literary world.</p> -->
                     <div class="btnSec">
-                        <a href="javascript:;" class="themeBtn" data-fancybox="" data-src="#popupform">Let's Get
+                        <a href="javascript:;" class="themeBtn" data-bs-toggle="modal" data-bs-target="#exampleModal">Let's Get
                             Started</a>
                         <a href="javascript:;" class="themeBtn chat"><i class="fas fa-comment-dots"></i> Live
                             Chat</a>
@@ -189,9 +190,9 @@
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-12">
                     <div class="about-img">
-                        <h4><span>AMZ Publishing Official </span> Is the Residency of Excellency!</h4>
-                        <p>Transforming Books Into Bestsellers for Your Author's Glory</p>
-                        <a href="javascript:;" class="themeBtn" data-fancybox="" data-src="#popupform">Let's Get
+                        <h4><span>AMZ Publishing Official </span> Is the Residency of Excellency in Amazon Kindle Publishing!</h4>
+                        <p>Elevating Your Author's Glory with Amazon Book Publishing Services, Turning Books Into Bestsellers!</p>
+                        <a href="javascript:;" class="themeBtn" data-bs-toggle="modal" data-bs-target="#exampleModal">Let's Get
                             Started</a>
                     </div>
 
@@ -241,7 +242,7 @@
                                 <img src="assets/images/money-back.png">
                             </li> -->
                         </ul>
-                        <button type="button" class="btn chatt popup_button">Order Now</button>
+                        <button type="button" class="btn chatt popup_button" data-bs-toggle="modal" data-bs-target="#exampleModal">Order Now</button>
                     </div>
                 </div>
                 <div class="col-md-3 item">
@@ -272,7 +273,7 @@
                                 <img src="assets/images/money-back.png">
                             </li> -->
                         </ul>
-                        <button type="button" class="btn chatt popup_button">Order Now</button>
+                        <button type="button" class="btn chatt popup_button" data-bs-toggle="modal" data-bs-target="#exampleModal">Order Now</button>
                     </div>
                 </div>
                 <div class="col-md-3 item">
@@ -304,7 +305,7 @@
                                 <img src="assets/images/money-back.png">
                             </li> -->
                         </ul>
-                        <button type="button" class="btn chatt popup_button">Order Now</button>
+                        <button type="button" class="btn chatt popup_button" data-bs-toggle="modal" data-bs-target="#exampleModal">Order Now</button>
                     </div>
                 </div>
                 <div class="col-md-3 item">
@@ -344,7 +345,7 @@
                                 <img src="assets/images/money-back.png">
                             </li> -->
                         </ul>
-                        <button type="button" class="btn chatt popup_button">Order Now</button>
+                        <button type="button" class="btn chatt popup_button" data-bs-toggle="modal" data-bs-target="#exampleModal">Order Now</button>
                     </div>
                 </div>
                 <!-- <div class="col-md-4 item">
@@ -375,7 +376,7 @@
                                 <img src="assets/images/money-back.png">
                             </li>
                         </ul>
-                        <button type="button" class="btn chatt popup_button">Order Now</button>
+                        <button type="button" class="btn chatt popup_button" data-bs-toggle="modal" data-bs-target="#exampleModal">Order Now</button>
                     </div>
                 </div> -->
 
@@ -748,7 +749,7 @@
                         achieve their dreams. Our mission is to provide a platform that celebrates creativity and
                         supports writers in reaching a global audience.</p>
                     <div class="btnSec">
-                        <a href="javascript:;" class="themeBtn" data-fancybox="" data-src="#popupform">Let's Get
+                        <a href="javascript:;" class="themeBtn" data-bs-toggle="modal" data-bs-target="#exampleModal">Let's Get
                             Started</a>
                         <a href="javascript:;" class="themeBtn chat"> <i class="fas fa-comment-dots"></i> Live
                             Chat</a>
@@ -826,7 +827,7 @@
                 </div>
             </div>
             <div class="parent_here">
-                <a href="javascript:void(0);" class="themeBtn btnCenter" data-fancybox="" data-src="#popupform">Let's
+                <a href="javascript:void(0);" class="themeBtn btnCenter" data-bs-toggle="modal" data-bs-target="#exampleModal">Let's
                     Get
                     Started</a>
             </div>
@@ -1238,7 +1239,46 @@
         </div>
     </section>
 
+    <!-- modal -->
+<!-- Button trigger modal -->
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        	<div class="popup_form_wrp">
+                <h5>LIMITED TIME OFFER</h5>
+                <h3><span>50%</span> Off on<br>all services!</h3>
+    <!-- <p><b>Discuss your app idea</b> with our consultants <b>today</b></p> -->
+    <form action="/leads/" method="POST">
+        <input type="hidden" name="route" value="/lp-2/">
+        <input type="hidden" name="brand" value="">
+        <input type="hidden" name="token" value="">
+        <input type="hidden" name="tag" value="banner-right-form">
+        <input type="hidden" name="price" value="null">
+        <input type="hidden" name="news" value="1">
+        <input type="text" name="name" placeholder="Full Name" required="">
+        <input type="email" name="email" placeholder="Email Address" required="">
+        <input type="tel" name="phone" placeholder="Phone Number" minlength="10" maxlength="11" required="">        
+        <!-- <select class="form-select" name="acomp" aria-label="Default select example">
+            <option selected="">Which best describes you?</option>
+            <option value="App Company">Have an App Company</option>
+            <option value="A Startup">A Startup</option>
+        </select> -->
+        <textarea name="brief" placeholder="Enter a brief description about your project"></textarea>
+        <input type="submit" value="Submit">
+    </form> 
+</div>
+      </div>
+    </div>
+  </div>
+</div>
 
+
+<!-- 
     <div style="display: none;" id="popupform" class="halloween-popup inlineBlock" tabindex="-1" role="dialog"
         aria-labelledby="popupform">
         <div class="modal-header" bis_skin_checked="1"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" fdprocessedid="0122n"><i class="fa fa-times" aria-hidden="true"></i></button>
@@ -1256,13 +1296,26 @@
                 </div>
             </form>
         </div>
-    </div>
+    </div> -->
 
     <div class="bottom_call_to_action">
         <a href="tel:+1 888 285 2656">Ready? Click to Call</a>
     </div>
 
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <a  data-bs-toggle="modal" data-bs-target="#exampleModal">
+	<div class="black_friday" bis_skin_checked="1">
+		<div class="black_friday_top" bis_skin_checked="1">
+			<p>50% off</p>
+		</div>
+        <h2>Sign up Now</h2>
+		
+
+	</div>
+</a>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+
+    <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script> -->
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
     <!-- <script src="assets/lp/self-publishing/js/js-libs.js"></script> -->
@@ -1278,7 +1331,7 @@
         var url = window.location.href;
     </script>
 
-    <script src="assets/js/jquery.js" type="text/javascript"></script>
+    <!-- <script src="assets/js/jquery.js" type="text/javascript"></script> -->
     <!-- <script src="assets/js/custom.js" type="text/javascript"></script>
     <script src="assets/js/web-workers/backend/web-worker-backend.js" type="text/javascript"></script>
     <script src="assets/js/socketPackage/socket.io.js" type="text/javascript"></script>
@@ -1312,6 +1365,8 @@
             $zopim.livechat.window.toggle();
         });
     </script>
+
+
     <script>
         var isloading = true;
 
@@ -1342,7 +1397,7 @@
 
 
 
-    <script>
+    <!-- <script>
         $('.book_sleder').slick({
                 dots: false,
                 arrows: true,
@@ -1465,7 +1520,7 @@
                     // instead of a settings object
                 ]
             });
-    </script>
+    </script> -->
     <!-- Hotjar Tracking Code for AMZ Publishing Official LP -->
 <script>
     (function(h,o,t,j,a,r){
@@ -1478,16 +1533,33 @@
     })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
 </script>
 <script>
-$(document).ready(function(){
-    $(".btn-close").click(function(){
-        $("#popupform, #fancybox-container-2").css({
-            "display": "none",
-            // "opacity": "0"
+
+</script>
+<!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> -->
+<script>
+      $('.btn-close').on('click', function() {
+            $('.fade').css({
+                // 'opacity': '0',
+                'display': 'none'
+                
+            });
         });
-    });
-});
-
-
+</script>
+<script>
+//   $(document).ready(function() {
+//   setTimeout(function() {
+//     $('a.themeBtn').trigger('click');
+//   }, 10000);
+// });
+// setTimeout(function() {
+//   $('#exampleModal').css({
+//     "display": "block",
+//     "opacity": "1"
+//   });
+// }, 10000);
+setTimeout(function() {
+  $('#exampleModal').modal('show');
+}, 10000);
 </script>
 </body>
 
