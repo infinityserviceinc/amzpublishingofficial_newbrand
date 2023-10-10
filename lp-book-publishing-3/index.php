@@ -326,9 +326,7 @@
 							<li>
 								<img alt="Amazon Publishing Direct - Satisfaction Guarantee" src="assets/images/guarantee.png">
 							</li>
-							<li>
-								<img src="assets/images/money-back.png">
-							</li>
+							
 						</ul>
 						<button type="button" class="btn btn-primary popup_button" data-bs-toggle="modal" data-bs-target="#exampleModal">Sign Up Now</button>
 					</div>
@@ -355,9 +353,7 @@
 							<li>
 								<img alt="Amazon Publishing Direct - Satisfaction Guarantee" src="assets/images/guarantee.png">
 							</li>
-							<li>
-								<img src="assets/images/money-back.png">
-							</li>
+							
 						</ul>
 						<button type="button" class="btn btn-primary popup_button" data-bs-toggle="modal" data-bs-target="#exampleModal">Sign Up Now</button>
 					</div>
@@ -388,9 +384,7 @@ echo "$month";
 							<li>
 								<img alt="Vanilla Heart Books And Authors - Satisfaction Guarantee" src="assets/images/guarantee.png">
 							</li>
-							<li>
-								<img src="assets/images/money-back.png">
-							</li>
+							
 						</ul>
 						<button type="button" class="btn btn-primary popup_button" data-bs-toggle="modal" data-bs-target="#exampleModal">Sign Up Now</button>
 					</div>
@@ -419,9 +413,7 @@ echo "$month";
 							<li>
 								<img alt="Amazon Publishing Direct - Satisfaction Guarantee" src="assets/images/guarantee.png">
 							</li>
-							<li>
-								<img src="assets/images/money-back.png">
-							</li>
+							
 						</ul>
 											<button type="button" class="btn btn-primary popup_button" data-bs-toggle="modal" data-bs-target="#exampleModal">Sign Up Now</button>
 					</div>
@@ -443,9 +435,7 @@ echo "$month";
 							<li>
 								<img alt="Amazon Publishing Direct - Satisfaction Guarantee" src="assets/images/guarantee.png">
 							</li>
-							<li>
-								<img src="assets/images/money-back.png">
-							</li>
+							
 						</ul>
 											<button type="button" class="btn btn-primary popup_button" data-bs-toggle="modal" data-bs-target="#exampleModal">Sign Up Now</button>
 					</div>
