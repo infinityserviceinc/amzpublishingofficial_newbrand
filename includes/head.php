@@ -20,7 +20,7 @@ if (isset($_SERVER['HTTPS'])) {
         content="AMZ Publishing Official elevates your book with our comprehensive services. Expert ghostwriting, professional publishing, and meticulous editing.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="canonical" href="index.html" />
-    <link rel="shortcut icon" href="images/favicon.png" />
+    <link rel="shortcut icon" href="favicon.png" />
     <link href="css/all.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
