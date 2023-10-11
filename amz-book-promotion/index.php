@@ -398,63 +398,63 @@
         						</div> -->
 
 								<div class="port-bx">
-		        						<a href="images/port-1.png" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/port-1.png">
+		        						<a href="images/1.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/1.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 		        					<div class="port-bx">
-		        						<a href="images/port-2.png" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/port-2.png">
+		        						<a href="images/2.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/2.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 		        					<div class="port-bx">
-		        						<a href="images/port-3.png" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/port-3.png">
+		        						<a href="images/3.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/3.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 		        					<div class="port-bx">
-		        						<a href="images/port-4.png" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/port-4.png">
+		        						<a href="images/5.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/5.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 		        					<div class="port-bx">
-		        						<a href="images/port-5.png" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/port-5.png">
+		        						<a href="images/6.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/6.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 		        					<div class="port-bx">
-		        						<a href="images/port-6.png" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/port-6.png">
+		        						<a href="images/4.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/4.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 
 									<div class="port-bx">
-		        						<a href="images/port-7.png" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/port-7.png">
+		        						<a href="images/7.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/7.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 		        					<div class="port-bx">
-		        						<a href="images/port-8.png" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/port-8.png">
+		        						<a href="images/8.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/8.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 		        					<div class="port-bx">
-		        						<a href="images/port-9.png" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/port-9.png">
+		        						<a href="images/9.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/9.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 		        					<div class="port-bx">
-		        						<a href="images/port-10.png" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/port-10.png">
+		        						<a href="images/10.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/10.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 		        					<div class="port-bx">
-		        						<a href="images/port-11.png" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/port-11.png">
+		        						<a href="images/11.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/11.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 		        					<div class="port-bx">
-		        						<a href="images/port-12.png" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/port-12.png">
+		        						<a href="images/12.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/12.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
