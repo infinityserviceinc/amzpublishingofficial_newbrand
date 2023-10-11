@@ -847,8 +847,7 @@
                         data-aos-duration="1200">
                         <div class="footer-fast-text">
                             <img src="images/logo.webp" class="img-fluid LazyLoad">
-                            <p>Overcome the hurdle of being a non-wordsmith and fulfill your book dreams with AMZ
-                                Publishers Pro. We're your comprehensive solution, understanding and capturing your
+                            <p>Overcome the hurdle of being a non-wordsmith and fulfill your book dreams with AMZ Publishing Official. We're your comprehensive solution, understanding and capturing your
                                 ideas through our skilled wordsmiths, making your book a reality.</p>
                         </div>
                     </div>

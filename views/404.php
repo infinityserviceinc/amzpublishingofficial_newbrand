@@ -1,26 +1,12 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-
-
-<head>
-    <?php include_once("includes/head.php")?>
-</head>
-
-<body>
-    <?php include_once("includes/header.php")?>
-    <section class="our-banner home-banner">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 text-center">
-                    <h1>
-                        404 Page Not Found
-                    </h1>
-                </div>
-            </div>
-        </div>
-    </section>
-   
-    <?php include_once('includes/footer.php'); ?>
-</body>
-
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+    Page Not Found.
+    </body>
 </html>

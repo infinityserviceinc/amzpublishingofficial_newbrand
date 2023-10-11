@@ -185,7 +185,7 @@ TxtRotate.prototype.tick = function () {
   // INJECT CSS
 //   var css = document.createElement("style");
 //   css.type = "text/css";
-//   css.innerHTML = ".txt-rotate > .wrap { border-right: 0.08em solid #FD9A00 }";
+//   css.innerHTML = ".txt-rotate > .wrap { border-right: 0.08em solid #fe5f29 }";
 //   document.body.appendChild(css);
 // };
 

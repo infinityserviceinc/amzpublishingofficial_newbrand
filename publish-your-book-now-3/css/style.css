@@ -65,7 +65,7 @@ body::-webkit-scrollbar-track {
 }
 
 body::-webkit-scrollbar-thumb {
-    background-image: linear-gradient(to right, #fd9a00, #fd9a00, #fd9a00, #fd9a00, #fd9a00);
+    background-image: linear-gradient(to right, #fe5f29, #fe5f29, #fe5f29, #fe5f29, #fe5f29);
     border-radius: 25px;
 }
 
@@ -285,7 +285,7 @@ body::-webkit-scrollbar-thumb {
     padding: 12px;
     background: rgb(0 0 0 / 30%);
     border: none;
-    border: 2px dashed#fd9a00;
+    border: 2px dashed#fe5f29;
     font-size: 14px;
     color: #fff;
     margin-bottom: 10px;
@@ -1372,7 +1372,7 @@ ul#tab li.active {
     width: 200px;
     padding: 9px;
     border: none;
-    background: #FD9A00;
+    background: #fe5f29;
     color: #fff;
     font-family: 'Bebas Neue', sans-serif;
     font-size: 20px;
@@ -1504,7 +1504,7 @@ ul#tab li.active {
     content: "";
     position: absolute;
     background-image: url(../images/check_icon.png);
-    color: #FD9A00;
+    color: #fe5f29;
     width: 17px;
     height: 16px;
     left: 0;
@@ -1561,7 +1561,7 @@ ul#tab li.active {
     padding: 12px;
     border: none;
     background: #fff;
-    color: #FD9A00;
+    color: #fe5f29;
     border-radius: 7px;
     font-size: 17px;
     text-transform: capitalize;
@@ -1897,7 +1897,7 @@ ul#tab li.active {
     width: 180px;
     padding: 10px;
     border: none;
-    background: #FD9A00;
+    background: #fe5f29;
     color: #fff;
     margin-right: 20px;
     border-radius: 7px;
@@ -1918,7 +1918,7 @@ ul#tab li.active {
     width: 140px;
     padding: 12px;
     border: none;
-    background: #FD9A00;
+    background: #fe5f29;
     color: #fff;
     border-radius: 7px;
     font-size: 17px;
@@ -1934,7 +1934,7 @@ ul#tab li.active {
     width: 160px;
     padding: 12px;
     border: none;
-    background: #FD9A00;
+    background: #fe5f29;
     color: #fff;
     border-radius: 7px;
     font-size: 17px;
@@ -1951,7 +1951,7 @@ ul#tab li.active {
 width: 5px;
    /*The height fits to the text*/
 height: 100%;
-background-color: #fd9a00;
+background-color: #fe5f29;
    /*Position the sidebar at the right of the text*/
    position: absolute;
 right: 0;

@@ -235,7 +235,7 @@
                         </ul>
                         <ul class="logo_img">
                             <li>
-                                <img alt="American Author House - Satisfaction Guarantee"
+                                <img alt="AMZ Publishing Official - Satisfaction Guarantee"
                                     src="assets/images/guarantee.png">
                             </li>
                             <!-- <li>
@@ -266,7 +266,7 @@
                         </ul>
                         <ul class="logo_img">
                             <li>
-                                <img alt="American Author House - Satisfaction Guarantee"
+                                <img alt="AMZ Publishing Official - Satisfaction Guarantee"
                                     src="assets/images/guarantee.png">
                             </li>
                             <!-- <li>
@@ -338,7 +338,7 @@
                         </ul>
                         <ul class="logo_img">
                             <li>
-                                <img alt="American Author House - Satisfaction Guarantee"
+                                <img alt="AMZ Publishing Official - Satisfaction Guarantee"
                                     src="assets/images/guarantee.png">
                             </li>
                             <!-- <li>
@@ -369,7 +369,7 @@
                         </ul>
                         <ul class="logo_img">
                             <li>
-                                <img alt="American Author House - Satisfaction Guarantee"
+                                <img alt="AMZ Publishing Official - Satisfaction Guarantee"
                                     src="assets/images/guarantee.png">
                             </li>
                             <li>

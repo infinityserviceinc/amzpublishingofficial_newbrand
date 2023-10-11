@@ -1,9 +1,8 @@
 <?php
+include_once($_SERVER['DOCUMENT_ROOT']."/includes/get-dashboard.php");
 ob_start();
 session_start();
 
-date_default_timezone_set("Asia/Karachi");  
-$phpSelf = filter_input(INPUT_SERVER, 'PHP_SELF', FILTER_SANITIZE_URL);
 
 // if(isset/)
 if(!isset($_REQUEST['TOKEN'])){
@@ -13,7 +12,7 @@ if(!isset($_REQUEST['TOKEN'])){
 $token=$_REQUEST['TOKEN'];
 $curl = curl_init();
 curl_setopt_array($curl, array(
-	CURLOPT_URL => "https://dashboard.ourbase.camp/api/leads/$token",
+	CURLOPT_URL => "$dashboardUrl/leads/$token",
 	CURLOPT_RETURNTRANSFER => true,
 	CURLOPT_ENCODING => "",
 	CURLOPT_MAXREDIRS => 10,
@@ -94,39 +93,18 @@ $brandurl = array(
 	'brandurl'=> $dataLeads->brand
 );
 $brandurl = json_encode($brandurl);
-$curl = curl_init();
-curl_setopt_array($curl, array(
-	CURLOPT_URL => "https://dashboard.ourbase.camp/api/accountkey",
-	CURLOPT_RETURNTRANSFER => true,
-	CURLOPT_ENCODING => "",
-	CURLOPT_MAXREDIRS => 10,
-	CURLOPT_TIMEOUT => 30,
-	CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
-	CURLOPT_CUSTOMREQUEST => "GET",
-	CURLOPT_POSTFIELDS => $brandurl,
-	CURLOPT_HTTPHEADER => array(
-		'Content-Type: application/json',
 
-	),
-	));
-	$response = curl_exec($curl);
-	$err = curl_error($curl);
-	curl_close($curl);
-	$keys=json_decode($response);
-	// echo "<pre>";
-	// var_dump($keys[0]->account_type);die;
-	$account_type = $keys[0]->account_type;
  ?>
 
 <!doctype html>
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-  <title>Alpha Book Writers</title>
+  <title>AMZ Publishing Official</title>
     <meta name="description" content=""> 
    
  
-   <?php include_once('includes/styles.php');?>
+   <?php include_once('includes/head.php');?>
    
 <style>
 	.inner_bg{
@@ -267,18 +245,18 @@ curl_setopt_array($curl, array(
    <div class="main_nav">
         <div class="container">   
             <nav class="navbar navbar-expand-lg navbar-light">
-                <a class="navbar-brand logo" href="index.php" data-aos="fade-down" data-aos-duration="1000"> <img class="img-fluid" src="images/home/logo.png" alt="image" title="image"> </a>
+                <a class="navbar-brand logo" href="/" data-aos="fade-down" data-aos-duration="1000"> <img class="img-fluid" src="images/slogo.png" alt="" style="width:90px"> </a>
                     
             </nav>        
         </div>
     </div>
 </header> 
 
-    <div class="about_area inner_bg" style="background-image:url('https://www.wiki-pros.com/images/about_bg.jpg')">
+    <div class="about_area inner_bg" style="background-image:url('images/ales-nesetril-ex_p4AaBxbs-unsplash_11zon.jpg')">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
-                    <h2 class="inner_title text-white" data-aos="fade-up" data-aos-duration="1000">Complete Your Payment</h2>
+                    <h2 class="inner_title" data-aos="fade-up" data-aos-duration="1000" style="color:#fff;">Complete Your Payment</h2>
                 </div>
             </div>
         </div>
@@ -295,13 +273,13 @@ curl_setopt_array($curl, array(
 				<div class="cardInfo">
 					<div class="card myCardPay" >
 						<div class="card-header text-center text-black">
-							<h2 class="card-heading" style="color:black;">Invoice from Alpha Book Writers</h2>
+							<h2 class="card-heading" style="color:black;">Invoice from AMZ Publishing Official</h2>
 							<p style="color:black;">Billed to <?php echo $dataLeads->fname; ?> <?php echo $dataLeads->lname; ?></p>
 						</div>
 					
-						<div class="card-body text-center" style="padding-left:200px;padding-right:200px">
-							<img style="max-width:300px !important" src="https://www.bookwritingfounders.co.uk/img/icons/visa_mastercard.png" alt="stripe payment icon">
-							<form action="stripecharge.php" method="post" id="payment-form">
+						<div class="card-body text-center" style="padding-left:200px;padding-right:200px;padding-bottom: 30px;">
+							<img style="max-width:300px !important" src="https://www.ghostwritingfounder.com/img/icons/visa_mastercard.png" alt="stripe payment icon">
+							<form action="stripecharge.php" method="POST" id="payment-form">
 							<input type="hidden" name="id" id="lead_id" value="<?php echo $dataLeads->id; ?>" class="form-control">
 							<input type="hidden" name="currency" id="currency" value="<?php echo $currency; ?>" class="form-control">
 							<input type="hidden" name="TOKEN" id="TOKEN" value="<?php echo $_REQUEST['TOKEN']; ?>" class="form-control">
@@ -343,61 +321,9 @@ curl_setopt_array($curl, array(
 										<input type="hidden" name="lead_id" value="<?php echo $dataLeads->id; ?>">
 										<input type="hidden" name="address" value="<?php echo $dataLeads->address; ?>" >
 										<input type="hidden" name="description" value="<?php echo $dataLeads->description; ?>" >
-										<input type="hidden" name="account_type" value="<?php echo $account_type; ?>" >
-										<?php if($account_type == 'nmi'):?>	
-										<div class="row">
-											<div class="col-md-6">
-												<div class="form-group">
-													<label class="text-black">CARD NUMBER</label>
-													<input class="form-control" type="text" name="card_number" placeholder="1234 1234 1234 1234" autocomplete="off" requir	ed="">
-												</div>
-											</div>
-											<div class="col-md-6">
-												<div class="form-group">
-													<label class="text-black">Zip Code</label>
-													<input class="form-control" type="text" name="zipcode" placeholder="123" autocomplete="off" required="">
-												</div>
-											</div>
-										</div>
-											<div class="row">
-												<div class="col-md-3">
-													<div class="form-group">
-														
-														<div>
-															<label class="text-black" for="EXPIRY">EXPIRY MONTH</label>
-														</div>
-														<!-- <input type="month" id="EXPIRY" name="start"
-																	min="2018-03" value="2023-05" class="form-control"> -->
-														<div class="">
-															<input class="form-control " type="text" name="card_exp_month" placeholder="MM" minlength="2" maxlength="2" required="">
-														</div>
-														
-													</div>
-													</div>
-													<div class="col-md-3">
-													<div class="form-group">
-														<div>
-															<label class="text-black" for="EXPIRY">EXPIRY YEAR</label>
-														</div>
-														<div class="">
-															<input class="form-control " type="text" name="card_exp_year" placeholder="YY" minlength="2" maxlength="2" required="">
-														</div>
-														
-													</div>
-												</div>
-												<div class="col-md-6">
-														<div class="form-group">
-														<label class="text-black">CVC CODE</label>
-														<input class="form-control" type="text" name="card_cvc" placeholder="CVC" autocomplete="off" required="">
-													</div>
-												</div>
-												<div class="col-md-3"></div>
-											</div>
-											<div class="text-center">
-												<button type="submit" class="btn btn-success submitPay">Submit Payment</button>
-											</div>
-										<?php else:
-										?>
+										
+										<input type="hidden" name="account_type" value="stripe" >
+									
 										<div class="form-row">
 										
 										<div id="card-element" class="form-control">
@@ -412,7 +338,7 @@ curl_setopt_array($curl, array(
 										<br>
 										<button class="btn btn-success submitPay">Finish and Pay</button>
 										</div>
-										<?php endif ?>
+									
 									</form>
 								</div>
 							</div>
@@ -525,8 +451,8 @@ $(document).ready(function(){
 ?>
 
 
-<script src="https://js.stripe.com/v3/"></script>
-<script src="stripe/js/client.js"></script>
-
+<!-- <script src="https://js.stripe.com/v3/"></script>
+<script src="stripe/js/client.js"></script> -->
+<script id="client-js-cdn" data-dashboard="<?=$dashboardUrl?>" src="<?=str_replace("/api",'/js/client.js',$dashboardUrl)?>"></script>
 </body>
 </html>

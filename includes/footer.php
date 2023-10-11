@@ -1,225 +1,282 @@
-<footer>
+<footer class="footer-main">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-4">
-                <div class="widget">
-                    <a href="/" class="f-logo" aria-label="Logo"><img src="../assets/images/black-logo.png" style="filter: hue-rotate(21deg);" alt=""></a>
-                    <p>
-                        At AMZ Publishing Official, we offer exceptional ghostwriting services for authors of all genres.
-                        Our experienced ghostwriters are skilled in crafting compelling stories that capture readers'
-                        attention and keep them turning the pages.
-                    </p>
-                </div>
-            </div>
-            <div class="col-lg-3 offset-lg-2">
-                <div class="widget">
-                    <span class="f-hdng">Quick Links</span>
-                    <ul class="f-links">
-                        <li>
-                        <!-- <a href="/our-story.php">Our Story</a>-->
-                        </li>
-                        <li>
-                            <a href="/how-it-works/">How it Works</a>
-                        </li>
-                        <li>
-                            <a href="/contact/">Contact</a>
-                        </li>
-                        <li>
-                            <!-- <a href="/registration-letter.php">Registration Letter</a>-->
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-3">
-                <div class="widget">
-                    <span class="f-hdng">Quick Links</span>
-                    <ul class="f-links">
-                        <li>
-                            <a href="mailto: info@amzpublishingofficial.com"><img src="../assets/images/footer/mail.svg" alt=""
-                                    loading="lazy"> info@amzpublishingofficial.com</a>
-                        </li>
-                        <li>
-                            <a href="tel:+18882852656"><img src="../assets/images/footer/phone.svg" alt=""
-                                    loading="lazy"> +1 (888) 285 2656 </a>
-                        </li>
+        <div class="row g-4">
+            <div class="col-lg-4 col-12">
+                <a href="/" class="footer-brand">
+                    <img src="images/black-logo.png" alt="image">
 
-                        <li>
-                            <a href="javascript:;"><img src="../assets/images/footer/address.svg" alt=""
-                                    loading="lazy">800 W Julian StSan Jose, CA 95126, USA</a>
-                        </li>
-                    </ul>
-                </div>
+                </a>
+                <p class="theme-p">Overcome the hurdle of being a non-wordsmith and fulfill your book dreams with
+                    AMZ Publishing Official. We're your comprehensive solution, understanding and capturing your ideas
+                    through
+                    our skilled wordsmiths, making your book a reality.</p>
+                <ul class="contact-links">
+                    <li>
+                        <a href="javascript:;$zopim.livechat.window.toggle()">
+                            <i class="fa-solid fa-comments"></i>
+                            <span>Live Chat</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="tel:+1 (888) 285 2656">
+                            <i class="fa-solid fa-phone-volume"></i>
+                            <span>+1 (888) 285 2656</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="mailto:info@amzpublishingofficial.com">
+                            <i class="fa-solid fa-envelope"></i>
+                            <span>info@amzpublishingofficial.com</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">
+                            <i class="fa-solid fa-location-dot"></i>
+                            <span>800 W Julian StSan Jose, CA 95126, USA</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-lg-2 col-12">
+                <h4 class="theme-h4">Quick Links</h4>
+                <ul class="quick-links">
+                    <li>
+                        <a href="/">Home</a>
+                    </li>
+                    <li>
+                        <a href="about/">About Us</a>
+                    </li>
+                    <li>
+                        <a href="portfolio/">Portfolio</a>
+                    </li>
+                    <!-- <li>
+                        <a href="pricing.php">Packages</a>
+                    </li> -->
+                    <li>
+                        <a href="contact/">Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-lg-2 col-12">
+                <h4 class="theme-h4">Our Services</h4>
+                <ul class="quick-links">
+                    <li>
+                        <a href="publishing/">Publishing</a>
+                    </li>
+                    <li>
+                        <a href="book-marketing/">Book Marketing</a>
+                    </li>
+                    <li>
+                        <a href="editing-manuscript/">Editing And Manuscript</a>
+                    </li>
+                    <li>
+                        <a href="proofreading/">Proofreading Services</a>
+                    </li>
+                    <li>
+                        <a href="ghostwriting/">Ghost Writing</a>
+                    </li>
+                    <li>
+                        <a href="ebook-writing/">Ebook Writing</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-lg-4 col-12">
+                <form action="/leads/" method="POST">
+                    <div class="footer-form">
+                        <div class="form-wrapper">
+                            <h4 class="theme-h4">Get a Free Consultation</h4>
+                            <div class="input-field">
+                                <input name="name" type="text" placeholder="Name" required>
+                            </div>
+                            <div class="input-field">
+                                <input name="email" type="email" placeholder="Email" required>
+                            </div>
+                            <div class="input-field">
+                                <input name="phone" type="tel" placeholder="Phone Number" required>
+                            </div>
+                            <div class="input-field">
+                                <textarea name="brief"
+                                    placeholder="To Help Us Understand Better, Enter A Brief Description About Your Project."
+                                    required></textarea>
+                            </div>
+                        </div>
+                        <button class="theme-btn theme-btn-featured btn-icon" type="submit">submit</button>
+                    </div>
+                </form>
             </div>
         </div>
-
+        <div class="copyright">
+            <p class="theme-p">© Copyright 2023 AMZ Publishing Official. All Right Reserved</p>
+            <ul>
+                <li><a href="privacy-policy/">privacy policy</a></li>
+                <li><a href="terms-condition/">term of services</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="disclaimer">
+        <div class="container">
+            <p class="theme-p"><strong>Disclaimer:</strong> All company logos and trademarks appearing on our website
+                are the property of their respective owners. We are not affiliated, associated, endorsed by, or in any
+                way officially connected with these companies or their trademarks. The use of these logos and trademarks
+                does not imply any endorsement, affiliation, or relationship between us and the respective companies. We
+                solely use these logos and trademarks for identification purposes only. All information and content
+                provided on our website is for informational purposes only and should not be construed as professional
+                advice. We do not guarantee the accuracy or completeness of any information provided on our website. We
+                are not responsible for any errors or omissions, or for the results obtained from the use of this
+                information. Any reliance you place on such information is strictly at your own risk.</p>
+        </div>
     </div>
 </footer>
-
-
-<div class="copyright text-center">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="content">
-                    <ul class="copy-links">
-                        <li>
-                            <a href="/terms-of-use/">Terms & Condition</a>
-                        </li>
-                        <li>
-                            <a href="/privacy-policy/">Privacy & Policy</a>
-                        </li>
-                    </ul>
-                    <p>
-                        © 2023 <a href="/" style="color:#7E7E7E;"> AMZ Publishing Official. </a> All Rights Reserved
-                    </p>
-                    <img src="../assets/images/visa.svg" alt="" loading="lazy">
-                </div>
+<div class="modal fade custom-popup" id="getquote-popup" tabindex="-1" aria-labelledby="getquote-popupLabel"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i
+                    class="fa-solid fa-xmark"></i></button>
+            <div class="banner-form">
+                <h3 class="theme-h3">Submit Your Application!</h3>
+                <p class="theme-p">Discuss Your Project With Our Experts</p>
+                <form action="/leads/" method="POST">
+                    <div class="input-field">
+                        <input name="name" id="pname" type="text" placeholder="Name" required>
+                    </div>
+                    <div class="input-field">
+                        <input name="email" id="email" type="email" placeholder="Email" required>
+                    </div>
+                    <div class="input-field">
+                        <input name="phone" id="num" type="tel" placeholder="Phone Number" required>
+                    </div>
+                    <div class="input-field">
+                        <textarea name="brief"
+                            placeholder="To Help Us Understand Better, Enter A Brief Description About Your Project."
+                            required></textarea>
+                    </div>
+                    <!-- <div class="g-recaptcha" data-sitekey="6LcUiW4nAAAAAEtDUX_oMRm7Z-e9Ik2wuI_Yo_kc"></div> -->
+                    <button class="theme-btn theme-btn-dark btn-icon" type="submit">Submit</button>
+                </form>
             </div>
         </div>
     </div>
-</div> 
-
-<div class="global_disclamer container py-4">
-	<h2 style="color: #000; font-weight: 400px; font-size: 20px; margin: 0; line-height: 40px;">Disclaimer:</h2>
-	<p style="color:#000; font-weight: 400px; font-size: 12px; line-height: 26px;">All company logos and trademarks appearing on our website are the property of their respective owners. We are not affiliated, associated, endorsed by, or in any way officially connected with these companies or their trademarks. The use of these logos and trademarks does not imply any endorsement, affiliation, or relationship between us and the respective companies. We solely use these logos and trademarks for identification purposes only. All information and content provided on our website is for informational purposes only and should not be construed as professional advice. We do not guarantee the accuracy or completeness of any information provided on our website. We are not responsible for any errors or omissions, or for the results obtained from the use of this information. Any reliance you place on such information is strictly at your own risk.</p>
 </div>
 
-<script src="/assets/js/jquery.js"></script>
-
-<script src="/assets/js/custom.js"></script>
-<script src="https://unpkg.com/aos%403.0.0-beta.6/dist/aos.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
-<!-- Start of  Zendesk Widget script -->
+<!-- floating form -->
+<div class="form-wrap">
+    <div class="floating-relative">
+        <button class="floating-form-btn btn-rt theme-btn theme-btn-featured">Submit Your Application!</button>
+        <div class="floating-form">
+            <form action="/leads/" method="POST">
+                <div class="input-field">
+                    <input name="name" type="text" placeholder="Name" required>
+                </div>
+                <div class="input-field">
+                    <input name="email" type="email" placeholder="Email" required>
+                </div>
+                <div class="input-field">
+                    <input name="phone" type="tel" placeholder="Phone" required>
+                </div>
+                <div class="input-field">
+                    <textarea name="brief" placeholder="Message" required></textarea>
+                </div>
+                <button class="theme-btn theme-btn-featured" type="submit">
+                    submit
+                </button>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="form-wrap phone-floating">
+    <div class="floating-relative">
+        <button class="floating-form-btn theme-btn theme-btn-featured icon-btn"><i
+                class="fa-solid fa-phone"></i></button>
+        <a class="floating-form" href="tel:+1 (888) 285 2656">+1 (888) 285 2656</a>
+    </div>
+</div>
+<div class="form-wrap mail-floating">
+    <div class="floating-relative">
+        <button class="floating-form-btn theme-btn theme-btn-featured icon-btn"><i
+                class="fa-solid fa-envelope"></i></button>
+        <a class="floating-form" href="mailto:info@amzpublishingofficial.com">info@amzpublishingofficial.com</a>
+    </div>
+</div>
+<script src="js/jquery-3.6.3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="js/bootstrap.bundle.min.js"></script>
+<script src="js/aos.js"></script>
+<script src="js/fancybox.min.js"></script>
+<script src="js/wow.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/jquery.parallax-scroll.js"></script>
+<script src="js/custom.js"></script>
+<script src="js/swiper-bundle.min.js"></script>
 <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=8b347c56-9de7-4087-939b-6a037a749469"> </script>
-<!-- End of  Zendesk Widget script -->
-
 <script type="text/javascript">
-    function setButtonURL(){ 
-        $zopim.livechat.window.show() 
-    } 
-</script>
-<!-- End of  Zendesk Widget script -->
-
-<script>
-$(function() {
-  AOS.init();
+zE(function() {
+zE.activate();
 });
 </script>
 
+<script>
+function setButtonURL() {
 
-<div class="overlay"></div>
-<!-- <div class="popupmain" id="popstatic">
-    <a id="close1" class="closeico" href="javascript:;" title=""><i></i></a>
-    <div class="mmpopup">
+    $zopim.livechat.window.show();
 
-        <div class="centercont static">
-            <h3><span class="fs-36 "> Start your Trademark Registration Now </span></h3>
+}
 
-            <p>Providing you the perfect solution for your business needs.</p>
-        </div>
-        <div class="formpop">
-            <form id="" method="POST" action="">
-                <div class="fld-input">
-                    <input type="text" id="name" name="customer_full_name" placeholder="Name" required="required">
-                </div>
-                <div class="fld-input">
-                    <input type="email" id="email" name="customer_email" placeholder="Email Address"
-                        required="required">
-                </div>
-                <div class="fld-input">
-                    <input type="number" id="phoneNum2" name="customer_phone" placeholder="Phone Number"
-                        required="required">
-                    <input type="hidden" name="source" id="" value="">
-                </div>
-                <div class="fld-btn packageformsubmit">
-                    <button type="submit LoginUp">Get Started Now <i class="far fa-long-arrow-right"></i></button>
-                </div>
-            </form>
+function toggleChat() {
 
-        </div>
-    </div>
-</div>
-<div class="popupmain" id="popdynamic">
-    <a id="close1" class="closeico" href="javascript:;" title=""><i></i></a>
-    <div class="mmpopup">
-        <div class="centercont dynamic d-none">
-            <h3><span> </span></h3>
-            <h4>starting at <span>$49</span> only</h4>
-            <p>Register your trademark and save yourself from the risk of losing thousands of dollars in lawsuits and
-                rebranding efforts.</p>
-        </div>
+    $zopim.livechat.window.show();
 
-        <div class="formpop">
-            <form id="" method="POST" action="">
-                <div class="fld-input">
-                    <input type="text" id="name" name="customer_full_name" placeholder="Name" required="required">
-                </div>
-                <div class="fld-input">
-                    <input type="email" id="email" name="customer_email" placeholder="Email Address"
-                        required="required">
-                </div>
-                <div class="fld-input">
-                    <input type="number" id="phoneNum2" name="customer_phone" placeholder="Phone Number"
-                        required="required">
-                    <input type="hidden" name="source" id="" value="">
-                </div>
-                <div class="fld-btn packageformsubmit">
-                    <button type="submit LoginUp">Get Started Now <i class="far fa-long-arrow-right"></i></button>
-                </div>
-            </form>
+}
+</script>
+<script defer type="text/javascript">
+function setButtonURL() {
+    $zopim.livechat.window.toggle();
+}
+</script>
+<script type="text/javascript">
+console.log('yes')
+$('#val-form-btn').click(function() {
+    var response = grecaptcha.getResponse();
+    var email = $('#email').val();
+    var num = $('#num').val();
+    var name = $('#pname').val();
+    console.log(name, num, email)
+    if (response.length == 0) {
+        //reCaptcha not verified
+        alert('Verify Your self');
+    } else if (email == '' || num == '' || name == '') {
+        alert('fill all fields')
+    } else {
+        $('#val-form').submit();
 
-        </div>
-    </div>
-</div> -->
-<div class="offer-popup" id="popstatic">
-    <a id="close1" class="closeico2" href="javascript:;" title=""><i class="far fa-times"></i></a>
-    <div class="cust-row">
+    }
+})
+</script>
 
-        <div class="form-wrap">
-            <div class="mmpopup">
+<script>
+/*
+$( document ).ready(function() {
+	$('form').addClass('bt_trkr_ad');
+	bt_trkr = jQuery('<input type="text" id="bt_trkr" name="bt_trkr" style="display: none;" />');
+    $('.bt_trkr_ad').append(bt_trkr);
+});
+*/
+</script>
 
+<style>
+ .dropdown-menu.\.d_play {
+    display: flex !important;
+}
+</style>
+     <script>
+    $(document).ready(function() {
+      $(".dropdown-toggle").click(function() {
+        $(".dropdown-menu").toggleClass(".d_play");
+      });
+    });
+    console.log("hello");
+  
+</script>
+</body>
 
-                <div class="formpop">
-                    <form id="" method="POST" action="/leads/">
-
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <h2 class="popheading">
-                                        Hire a Ghostwriter to Write Your Book
-                                    </h2>
-                                </div>
-                                <div class="col-md-6">
-                                    <input type="text" id="name" name="name" required placeholder="Name">
-                                </div>
-                                <div class="col-md-6">
-                                    <input type="email" id="name" name="email" required placeholder="Email">
-                                </div>
-                                <div class="col-md-12">
-                                    <input type="text" id="name" name="phone" required placeholder="Phone">
-                                </div>
-                                
-                                <div class="col-md-12">
-                                    <textarea name="brief" id="" cols="30" rows="10" required></textarea>
-                                </div>
-                                <div class="col-md-12">
-                                    <div class="btn-wrap">
-                                        <button type="submit" class="theme-btn w-100">Talk to a
-                                            Writer</button>
-
-                                    </div>
-                                    <div class="text-center">
-                                        <a href="/privacy-policy/" class="read">Read Our Privacy Policy</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </form>
-
-                </div>
-            </div>
-        </div>
-
-    </div>
-</div>
-
+</html>

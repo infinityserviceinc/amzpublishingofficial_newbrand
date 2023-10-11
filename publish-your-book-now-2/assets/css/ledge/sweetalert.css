@@ -1054,7 +1054,7 @@ button.popup_button {
     background: var(--theme-color);
     border-radius: 30px;
     border: 1px solid var(--btn-gradient);
-    box-shadow: 0 0 0 2px #f6921e;
+    box-shadow: 0 0 0 2px #fe731e;
     -webkit-animation: 2s cubic-bezier(.25, 0, 0, 1) 3s infinite pulse;
     animation: 2s cubic-bezier(.25, 0, 0, 1) 3s infinite pulse;
 }

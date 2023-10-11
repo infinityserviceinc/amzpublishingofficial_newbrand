@@ -30,18 +30,23 @@ function get_client_ip() {
 $route = explode('?',$_REQUEST['route']);
 $route = $route[0];
 
-$reference_url;
-if (strlen($_SESSION['refer_url']) > 500) {
-    $reference_url = substr($_SESSION['refer_url'], 0, 500);
-} else {
-    $reference_url = $_SESSION['refer_url'];
-}
+$brief = $_REQUEST['brief'];
+
+$brief .= isset($_REQUEST['manuscript'])? " Manuscript: ".$_REQUEST['manuscript']: "";
+$brief .= isset($_REQUEST['published'])? ", Published: ".$_REQUEST['published']: "";
+$brief .= isset($_REQUEST['type_of_book'])? ", Type_of_book: ".$_REQUEST['type_of_book']: "";
+
+// $brief .= count($_REQUEST['services-tempp']) > 0? ", Services: ".implode(", ",$_REQUEST['services']): "";
+
+
+
+
 $data=array(
     'name'=> $_REQUEST['name'],
     'email'=>$_REQUEST['email'],
     'phone'=>$_REQUEST['phone'],
     'website_url'=>$_SERVER['HTTP_HOST'],
-    'brief'=>$_REQUEST['brief'],
+    'brief'=> $brief,
     'source'=> $_SESSION['lead_type'],
     'news'=>1,
     'route'=>$route ,
@@ -51,8 +56,6 @@ $data=array(
     'domain' => $_SERVER['HTTP_HOST'],
     'ip_address' => get_client_ip(),
     'server_ip' => $_SERVER['SERVER_ADDR']??$_SERVER['SERVER_ADDR'],
-    'reference_url' => $reference_url ?? null,
-
 );
 
 // print_r($data);

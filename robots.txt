@@ -1,3 +1,7 @@
+
 User-agent: *
 Allow: /
-Sitemap: https://www.amzpublishingofficial.com/sitemap.xml
+
+Disallow:leads/
+
+Sitemap: https://www.kdpbookwriters.com/sitemap.xml

@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "CabinetGrotesk";
+    font-weight: 900;
+    src: url('cabinet-grotesk/CabinetGrotesk-Black.otf');
+  }
+  @font-face {
+    font-family: "CabinetGrotesk";
+    font-weight: 800;
+    src: url('cabinet-grotesk/CabinetGrotesk-Extrabold.otf');
+  }
+  @font-face {
+    font-family: "CabinetGrotesk";
+    font-weight: 700;
+    src: url('cabinet-grotesk/CabinetGrotesk-Bold.otf');
+  }
+  @font-face {
+    font-family: "CabinetGrotesk";
+    font-weight: 500;
+    src: url('cabinet-grotesk/CabinetGrotesk-Medium.otf');
+  }
+  @font-face {
+    font-family: "CabinetGrotesk";
+    font-weight: 400;
+    src: url('cabinet-grotesk/CabinetGrotesk-Regular.otf');
+  }
+  @font-face {
+    font-family: "CabinetGrotesk";
+    font-weight: 300;
+    src: url('cabinet-grotesk/CabinetGrotesk-Light.otf');
+  }
+  @font-face {
+    font-family: "CabinetGrotesk";
+    font-weight: 200;
+    src: url('cabinet-grotesk/CabinetGrotesk-Extralight.otf');
+  }
+  @font-face {
+    font-family: "CabinetGrotesk";
+    font-weight: 100;
+    src: url('cabinet-grotesk/CabinetGrotesk-Thin.otf');
+  }
