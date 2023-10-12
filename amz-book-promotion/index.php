@@ -201,7 +201,7 @@
         			<div class="col-sm-6">
         				<div class="about-side-img">
         					<img class="shape-img-st myLazy" src="images/loading.gif" data-src="images/shape-img.png">
-        					<img class="about-side-img-st myLazy" src="images/loading.gif" data-src="images/about-side-img.png">
+        					<img class="about-side-img-st myLazy" src="images/loading.gif" data-src="images/cta-side-img.png">
         				</div>
         			</div>
         			<div class="col-sm-6">
@@ -599,7 +599,7 @@
         			</div>
         			<div class="col-sm-7">
         				<div class="cta-img">
-        					<img src="images/loading.gif" class="myLazy" data-src="images/cta-side-img.png">
+        					<img src="images/loading.gif" class="myLazy" data-src="images/amz-sec.webp">
         				</div>
         			</div>
         		</div>
