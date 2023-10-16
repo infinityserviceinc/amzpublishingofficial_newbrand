@@ -253,7 +253,7 @@
                     <div class="col-lg-9 col-12">
                         <div class="sec-title">
                             <h2 class="theme-h2">Why Should You Trust Our Editing Team</h2>
-                            <p class="theme-p">All of our book marketers, like every other professional on GBW, have
+                            <p class="theme-p">All of our book marketers, like every other professional on Amz Publishing Official, have
                                 been
                                 thoroughly vetted and their credentials validated.</p>
                         </div>

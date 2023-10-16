@@ -228,7 +228,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-9 col-12">
                         <div class="sec-title">
-                            <h2 class="theme-h2">What makes The AMZ Publishing Official Marketing Team credible?</h2>
+                            <h2 class="theme-h2">What makes AMZ Publishing Official Marketing Team credible?</h2>
                             <p class="theme-p">When it comes to choosing a book publisher team to work with, there are a
                                 lot
                                 of options out there. It can be difficult to know which one to trust, especially if

@@ -95,7 +95,7 @@
                         <p class="theme-p">Once the author has finalized a book, the next step is publishing and
                             printing the book. We contribute to making your book a legacy and free you from the hassle
                             of finding a printer. Our book printing and delivery services are effortlessly bespoke,
-                            timeless, and quick. At AMZ Publishing Official. co, we are committed to producing top-quality
+                            timeless, and quick. At AMZ Publishing Official we are committed to producing top-quality
                             books in our master certified on-house printing shop. Every book that we print in our
                             facility meets digital printing's high standards be it offset printing, print-on-demand, or
                             short-run printing. Our printing press handles your books with the utmost care and delicacy.
@@ -190,7 +190,7 @@
                                     <div class="publishing-work-card">
                                         <img src="images/01.webp" alt="image">
                                         <h4 class="theme-h3">Widespread Expertise</h4>
-                                        <p class="theme-p">With AMZ Publishing Official. co, the sky is your limit. Our
+                                        <p class="theme-p">With AMZ Publishing Official the sky is your limit. Our
                                             printing experts know your niche and the type of suitable materials.
                                             Whatever genre your book belongs to, we print it using cutting-edge
                                             technology and produce copies that everyone will fall in love with

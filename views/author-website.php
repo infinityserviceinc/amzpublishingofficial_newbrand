@@ -96,7 +96,7 @@
                         <p class="theme-p">AMZ Publishing Official directors decided we would have a whole lot more fun
                             working together and building something amazing than we would on our separate career paths.
                         </p>
-                        <p class="theme-p">The Director of SBM comes from the visual arts. He’s done virtually
+                        <p class="theme-p">The Director of AMZ Publishing Official comes from the visual arts. He’s done virtually
                             everything visually creative you can imagine, from enormous oil paintings to life-sized
                             classical Greek statues to furnishing architectural enrichments for Russian castles.</p>
                         <ul class="theme-btn-ul">

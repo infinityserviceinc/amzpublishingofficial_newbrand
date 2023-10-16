@@ -4,17 +4,19 @@
 <?php include_once("includes/head.php")?>
 
 <style>
-    .hover figure img {
-	-webkit-transform: scale(1);
-	transform: scale(1);
-	-webkit-transition: .3s ease-in-out;
-	transition: .3s ease-in-out;
+.hover figure img {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
 }
+
 .hover figure:hover img {
-	-webkit-transform: scale(1.2);
-	transform: scale(0.9);
+    -webkit-transform: scale(1.2);
+    transform: scale(0.9);
 }
 </style>
+
 <body>
     <?php include_once("includes/header.php")?> <main>
         <section class="home-banner" style="background-image: url(images/about-banner.webp)">
@@ -103,18 +105,19 @@
                     </div>
                     <div class="col-lg-6 col-12">
                         <h2 class="theme-h2">Book Illustration Services</h2>
-                        <p class="theme-p">AMZ Publishing Official (SBM) Book Illustration Services’ team comprehends the
+                        <p class="theme-p">AMZ Publishing Official Book Illustration Services’ team comprehends the
                             importance of
                             cover art and illustrations in children’s books, picture books, comic books, graphic
                             novels, interactive eBooks, textbooks, and training manuals. The right images and
                             illustrations will translate the information, sentiment, whimsy, or emotional tones the
-                            author is trying to convey. SBM accomplished Illustrators work closely with authors to
+                            author is trying to convey. AMZ Publishing Official accomplished Illustrators work closely
+                            with authors to
                             ensure their message, theme, characters, and style shine through. We’ve handled
                             illustrating books from scratch, as well as conceptualized artwork illustrations to match
                             previous works.</p>
                         <p class="theme-p">Whether you're looking for illustrations for your book cover or an entire
                             book, or only
-                            want to have your sketches transformed into digital images, SBM's team of book
+                            want to have your sketches transformed into digital images, AMZ Publishing Official  team of book
                             illustrators will create engaging illustrations that captivate audiences.</p>
                         <ul class="theme-btn-ul">
                             <li>
@@ -183,7 +186,7 @@
                     <div class="col-lg-6 col-12">
                         <h6 class="theme-tagline">Our Dedicated</h6>
                         <h2 class="theme-h2">BOOK ILLUSTRATION SERVICES</h2>
-                        <p class="theme-p">Here are six unique ways SBM will provide the very best book illustrations
+                        <p class="theme-p">Here are six unique ways AMZ Publishing Official  will provide the very best book illustrations
                             for any of your book
                             requirements</p>
                     </div>
@@ -206,7 +209,7 @@
                             <div class="publishing-work-card">
                                 <img src="images/01.webp" alt="image">
                                 <h4 class="theme-h3">Children’s Book Illustrations</h4>
-                                <p class="theme-p">SBM uses trending illustration styles, including watercolor, etching,
+                                <p class="theme-p">AMZ Publishing Official  uses trending illustration styles, including watercolor, etching,
                                     and graphic design, to
                                     create highly colorful, vivid expressions that will enchant younger audiences and
                                     stimulate
@@ -219,7 +222,7 @@
                             <div class="publishing-work-card">
                                 <img src="images/02.webp" alt="image">
                                 <h4 class="theme-h3">Textbook Illustration</h4>
-                                <p class="theme-p">SBM researches the author’s written content to create educational,
+                                <p class="theme-p">AMZ Publishing Official  researches the author’s written content to create educational,
                                     uncluttered images for both
                                     digital and print textbooks. We rely on simple designs, cohesive color schemes, and
                                     visual
@@ -232,7 +235,7 @@
                             <div class="publishing-work-card">
                                 <img src="images/03.webp" alt="image">
                                 <h4 class="theme-h3">Picture Book Illustrations</h4>
-                                <p class="theme-p">SBM uses specialized design and drawing software, including Adobe
+                                <p class="theme-p">AMZ Publishing Official uses specialized design and drawing software, including Adobe
                                     Creative Cloud and
                                     Procreate, along with traditional and digital illustration techniques. We consult
                                     with authors to
@@ -246,7 +249,7 @@
                             <div class="publishing-work-card">
                                 <img src="images/04.webp" alt="image">
                                 <h4 class="theme-h3">Training Manual Illustration</h4>
-                                <p class="theme-p">SBM understands that many people comprehend things better with visual
+                                <p class="theme-p">AMZ Publishing Official understands that many people comprehend things better with visual
                                     aids rather than text.
                                     We turn training manual text into images that can be basic or elaborate depending on
                                     content
@@ -259,7 +262,7 @@
                             <div class="publishing-work-card">
                                 <img src="images/05.webp" alt="image">
                                 <h4 class="theme-h3">Comic Book Illustrations</h4>
-                                <p class="theme-p">The SBM team is immersed in comic and animation trends to create
+                                <p class="theme-p">AMZ Publishing Official team is immersed in comic and animation trends to create
                                     dramatic sketch, ink, color,
                                     and creative captions illustrations that capture the genre’s nostalgia while pushing
                                     artistic
@@ -273,7 +276,7 @@
                             <div class="publishing-work-card">
                                 <img src="images/06.png" alt="image">
                                 <h4 class="theme-h3">Book Cover Illustrations</h4>
-                                <p class="theme-p">SBM takes a balanced approach to cover illustration design for text,
+                                <p class="theme-p">AMZ Publishing Official takes a balanced approach to cover illustration design for text,
                                     title, and images to ensure the
                                     layout and typography that attracts readers and communicate key book themes. We
                                     include online
@@ -286,80 +289,90 @@
                 </div>
             </div>
         </section>
-        <section class="portfolios padding-sec">
-        <div class="container">
+        <section class="portfolios pt-1">
+            <div class="container">
                 <div class="row justify-content-between align-items-center">
                     <div class="col-lg-12 col-12">
                         <!-- <h6 class="theme-tagline text-center">Our Top-class</h6> -->
-                        <h2 class="theme-h2 text-center" style="    text-transform: capitalize;">some of our childrens book illustartions</h2>
+                        <h2 class="theme-h2 text-center" style="    text-transform: capitalize;">some of our childrens
+                            book illustartions</h2>
                         <!-- <p class="theme-p text-center">We offer an extensive range of book illustration services</p> -->
                     </div>
-                   
+
                 </div>
                 <div class="publishing-work-listing">
                     <div class="row justify-content-center align-items-center">
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="hover">
-                            <figure>
-                                <img src="images/portfolio-6.png" width="100%" style="    margin-top: 41px;" alt=""></figure>
+                                <figure>
+                                    <img src="images/portfolio-6.png" width="100%" style="    margin-top: 41px;" alt="">
+                                </figure>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="hover">
-                            <figure>
-                                <img src="images/portfolio-7.png" width="100%" style="    margin-top: 41px;" alt=""></figure>
+                                <figure>
+                                    <img src="images/portfolio-7.png" width="100%" style="    margin-top: 41px;" alt="">
+                                </figure>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="hover">
-                            <figure>
-                                <img src="images/portfolio-8.png" width="100%" style="    margin-top: 41px;" alt=""></figure>
+                                <figure>
+                                    <img src="images/portfolio-8.png" width="100%" style="    margin-top: 41px;" alt="">
+                                </figure>
                             </div>
-                            
+
                         </div>
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="hover">
-                            <figure>
-                                <img src="images/portfolio-1.png" width="100%" style="    margin-top: 41px;" alt=""></figure>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-12">
-                            <div class="hover">
-                            <figure>
-                                <img src="images/portfolio-2.png" width="100%" style="    margin-top: 41px;" alt=""></figure>
-                            </div>
-                           
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-12">
-                            <div class="hover">
-                            <figure>
-                                <img src="images/portfolio-3.png" width="100%" style="    margin-top: 41px;" alt=""></figure>
+                                <figure>
+                                    <img src="images/portfolio-1.png" width="100%" style="    margin-top: 41px;" alt="">
+                                </figure>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="hover">
-                            <figure>
-                                <img src="images/portfolio-4.png" width="100%" style="    margin-top: 41px;" alt=""></figure>
+                                <figure>
+                                    <img src="images/portfolio-2.png" width="100%" style="    margin-top: 41px;" alt="">
+                                </figure>
+                            </div>
+
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="hover">
+                                <figure>
+                                    <img src="images/portfolio-3.png" width="100%" style="    margin-top: 41px;" alt="">
+                                </figure>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="hover">
-                            <figure>
-                                <img src="images/portfolio-9.png" width="100%" style="    margin-top: 41px;" alt=""></figure>
+                                <figure>
+                                    <img src="images/portfolio-4.png" width="100%" style="    margin-top: 41px;" alt="">
+                                </figure>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="hover">
-                            <figure>
-                                <img src="images/portfolio-5.png" width="100%" style="    margin-top: 41px;" alt=""></figure>
+                                <figure>
+                                    <img src="images/portfolio-9.png" width="100%" style="    margin-top: 41px;" alt="">
+                                </figure>
                             </div>
                         </div>
-                       
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="hover">
+                                <figure>
+                                    <img src="images/portfolio-5.png" width="100%" style="    margin-top: 41px;" alt="">
+                                </figure>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
                 <div class="col-lg-12 mt-2">
                     <div class="row">
-                    <ul class="theme-btn-ul ms-auto justify-content-center">
+                        <ul class="theme-btn-ul ms-auto justify-content-center">
                             <li>
                                 <a class="theme-btn theme-btn-dark btn-icon"
                                     href="javascript:;$zopim.livechat.window.toggle()">live chat</a>
@@ -379,7 +392,8 @@
                     <div class="col-lg-9 col-12">
                         <div class="sec-title">
                             <h2 class="theme-h2">Why Should You Trust Our Editing Team</h2>
-                            <p class="theme-p">All of our book marketers, like every other professional on GBW, have
+                            <p class="theme-p">All of our book marketers, like every other professional on Amz
+                                Publishing Official, have
                                 been
                                 thoroughly vetted and their credentials validated.</p>
                         </div>
@@ -408,7 +422,7 @@
                 </div>
             </div>
         </section>
-       
+
         <section class="write-own-book padding-sec">
             <div class="container">
                 <div class="row justify-content-center">

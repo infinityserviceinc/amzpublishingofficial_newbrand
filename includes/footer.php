@@ -47,7 +47,7 @@
                         <a href="about/">About Us</a>
                     </li>
                     <li>
-                        <a href="portfolio/">Portfolio</a>
+                        <a href="portfolio/">Our Portfolio</a>
                     </li>
                     <!-- <li>
                         <a href="pricing.php">Packages</a>
@@ -61,13 +61,13 @@
                 <h4 class="theme-h4">Our Services</h4>
                 <ul class="quick-links">
                     <li>
-                        <a href="publishing/">Publishing</a>
+                        <a href="publishing/">Book Publishing</a>
                     </li>
                     <li>
                         <a href="book-marketing/">Book Marketing</a>
                     </li>
                     <li>
-                        <a href="editing-manuscript/">Editing And Manuscript</a>
+                        <a href="editing-manuscript/">Book Editing</a>
                     </li>
                     <li>
                         <a href="proofreading/">Proofreading Services</a>

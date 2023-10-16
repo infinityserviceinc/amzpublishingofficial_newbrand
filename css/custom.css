@@ -717,7 +717,8 @@ button:focus {
 .process-work .process-stp img {
   width: 56%;
   margin-bottom: 20px;
-  margin-left: 25px;
+  margin-left: 50px;
+  filter: hue-rotate(333deg);
 }
 
 .what-kind-genre {
@@ -804,6 +805,7 @@ button:focus {
   background-image: url(../images/professionally-published-book.webp);
   color: #fff;
   text-align: center;
+  filter: hue-rotate(333deg);
 }
 
 .professionally-book-published .theme-tagline {
@@ -907,6 +909,7 @@ button:focus {
   background-repeat: no-repeat;
   background-position: center top;
   color: #fff;
+  filter: hue-rotate(333deg);
 }
 
 .cant-wait-manuscript .cta-link {
@@ -1055,6 +1058,7 @@ button:focus {
 .service-logo-bar {
   background-image: url(../images/services-logobar.webp);
   background-size: cover;
+  filter: hue-rotate(333deg);
 }
 
 .who-book-publishing-work .theme-h2 {
@@ -1079,9 +1083,7 @@ button:focus {
 }
 
 /*popup end*/
-.publishing-work-listing {
-  padding-top: 50px;
-}
+
 
 .publishing-work-listing .publishing-work-card {
   position: relative;
@@ -1144,6 +1146,7 @@ button:focus {
   background-repeat: no-repeat;
   background-position: center top;
   color: #fff;
+  filter: hue-rotate(333deg);
 }
 
 .why-should-beleive .sec-title {
@@ -1797,6 +1800,7 @@ button:focus {
     /* flex-direction: column; */
     padding: 5px 0;
     flex-wrap: wrap;
+    margin-bottom: 50px;
   }
 
   .theme-btn-ul li {
@@ -1889,6 +1893,7 @@ ul.category-list li img {
   width: 70px;
   object-fit: contain;
   margin-bottom: 10px;
+  filter: hue-rotate(333deg);
 }
 .txt-contact-bx p {
   font-size: 24px;

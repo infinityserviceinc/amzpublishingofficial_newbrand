@@ -232,8 +232,8 @@
                         <p class="theme-p">With our help, more than 450 first-time authors have written books, had them
                             published, and gone on to launch businesses that serve their customer base. We have insiders
                             from the publishing industry on our internal staff, including former workers from Random
-                            House, HarperCollins, Wiley, and Simon &Schuster. We've already changed 1.3 million lives
-                            with our books. Our track record is self-evident. You WILL write a book with us that has the
+                            House, HarperCollins, Wiley, and Simon & Schuster. We've already changed 1.3 million lives
+                            with our books. Our track record is self-evident. You Will write a book with us that has the
                             potential to change the lives of thousands of readers. On paper, we might have the
                             appearance of being a ghostwriting service, but our primary focus is on fostering trust.
                             People frequently entrust us with their life's work or story when they ask for our help.
