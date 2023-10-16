@@ -567,7 +567,7 @@ div#accordionExample {
     .services-box {
         text-align: center;
         border: 0;
-        padding-right: 0;
+        /* padding-right: 0; */
     }
     
     .services-box:before {
@@ -616,8 +616,8 @@ div#accordionExample {
     }
     
     .get-btn, .chat-btn {
-        padding: 10px 10px;
-        font-size: 15px;
+        padding: 10px 20px;
+        font-size: 14px;
     }
     
     section.cta-sec .bnr-btn {

@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-    
-
-<!-- Added by HTTrack -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
         <meta charset="UTF-8" />
         <title>Market Your Book With Expert Book Marketers </title>
@@ -17,7 +13,7 @@
         <link rel="stylesheet" href="css/accordian-jquery-ui.css">
         
         <link rel="stylesheet" type="text/css" href="css/style.css" />
-		<link rel="icon" type="image/x-icon" href="images/favicon.png">
+		<link rel="shortcut icon" href="../../favicon.png" />
         <link rel="stylesheet" type="text/css" href="css/responsive.css" />
         
         <link
@@ -36,6 +32,9 @@
 				background: red !important;
 				color: green !important;
 			}
+			.portfolio-sec .slick-dots{
+				display: none !important;
+			}
 		</style>
 		
 		<!-- <link rel="stylesheet" type="text/css" href="http://kenwheeler.github.io/slick/slick/slick-theme.css"/> -->
@@ -47,8 +46,7 @@
                 <div class="row">
                     <div class="col-sm-4">
                         <div class="logo-div">
-                            <img src="../../../images/black-logo.png" alt=""  style="width:200px;filter: brightness(0) invert(1);
-"/>
+                           <a href="/"> <img src="../../../images/black-logo.png" alt=""  style="width:200px;filter: brightness(0) invert(1);"/></a>
                         </div>
                     </div>
                     <div class="col-sm-8">
@@ -327,7 +325,7 @@
         		<div class="row">
         			<div class="col-sm-12">
         				<div class="hd-txt rating-txt">
-        					<h2> Achievement in the 7 Years</h2>
+        					<h2> Achievements in the 7 Years</h2>
         				</div>
         			</div>
         			<div class="col-sm-12 p0">
@@ -336,13 +334,13 @@
         						<li>
         							<div class="rating-div">
         								<h2><span class="count">900</span>+</h2>
-        								<p>Project Completed</p>
+        								<p>Projects Completed</p>
         							</div>
         						</li>
         						<li>
         							<div class="rating-div">
         								<h2><span class="count">7</span>+</h2>
-        								<p>Year of Experience</p>
+        								<p>Years of Experience</p>
         							</div>
         						</li>
         						<li>
@@ -354,7 +352,7 @@
         						<li>
         							<div class="rating-div">
         								<h2><span class="count">100</span>%</h2>
-        								<p>Statisfaction Rate</p>
+        								<p>Satisfaction Rate</p>
         							</div>
         						</li>
         					</ul>
@@ -398,63 +396,63 @@
         						</div> -->
 
 								<div class="port-bx">
-		        						<a href="images/1.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/1.jpg">
+		        						<a href="images/1.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" width="200" height="300" src="images/loading.gif" data-src="images/1.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 		        					<div class="port-bx">
-		        						<a href="images/2.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/2.jpg">
+		        						<a href="images/2.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" width="200" height="300" src="images/loading.gif" data-src="images/2.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 		        					<div class="port-bx">
-		        						<a href="images/3.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/3.jpg">
+		        						<a href="images/3.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" width="200" height="300" src="images/loading.gif" data-src="images/3.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 		        					<div class="port-bx">
-		        						<a href="images/5.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/5.jpg">
+		        						<a href="images/5.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" width="200" height="300" src="images/loading.gif" data-src="images/5.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 		        					<div class="port-bx">
-		        						<a href="images/6.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/6.jpg">
+		        						<a href="images/6.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" width="200" height="300" src="images/loading.gif" data-src="images/6.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 		        					<div class="port-bx">
-		        						<a href="images/4.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/4.jpg">
+		        						<a href="images/4.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" width="200" height="300" src="images/loading.gif" data-src="images/4.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 
 									<div class="port-bx">
-		        						<a href="images/7.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/7.jpg">
+		        						<a href="images/7.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" width="200" height="300" src="images/loading.gif" data-src="images/7.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 		        					<div class="port-bx">
-		        						<a href="images/8.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/8.jpg">
+		        						<a href="images/8.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" width="200" height="300" src="images/loading.gif" data-src="images/8.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 		        					<div class="port-bx">
-		        						<a href="images/9.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/9.jpg">
+		        						<a href="images/9.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" width="200" height="300" src="images/loading.gif" data-src="images/9.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 		        					<div class="port-bx">
-		        						<a href="images/10.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/10.jpg">
+		        						<a href="images/10.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" width="200" height="300" src="images/loading.gif" data-src="images/10.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 		        					<div class="port-bx">
-		        						<a href="images/11.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/11.jpg">
+		        						<a href="images/11.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" width="200" height="300" src="images/loading.gif" data-src="images/11.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
 		        					<div class="port-bx">
-		        						<a href="images/12.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" src="images/loading.gif" data-src="images/12.jpg">
+		        						<a href="images/12.jpg" class="fancybox" rel="ligthbox" tabindex="0"> <img class="myLazy" width="200" height="300" src="images/loading.gif" data-src="images/12.jpg">
 								            <div class="box-content"> <i class="fa-solid fa-plus"></i> </div>
 								        </a>
 		        					</div>
@@ -725,38 +723,8 @@
         			<div class="row">
         				<div class="testi-slider-main">
         					<div class="testi-slider">
-        						<div>
-        							<div class="testi-bx">
-        								<img src="images/testi-img-1.png">
-        								<p>I had a fantastic experience working with AMZ Publishing Official's book marketing service. They were able to effectively target my book's audience and increase its visibility on various online platforms. I highly recommend their services to any author looking to improve their book's sales and exposure.</p>
-        								<div class="testi-name-str">
-        									<h4><b>Emeryn Alexandria</b></h4>
-        									<div class="testi-star">
-        										<i class="fa-solid fa-star"></i>
-        										<i class="fa-solid fa-star"></i>
-        										<i class="fa-solid fa-star"></i>
-        										<i class="fa-solid fa-star"></i>
-        										<i class="fa-solid fa-star"></i>
-        									</div>
-        								</div>
-        							</div>
-        						</div>
-        						<div>
-        							<div class="testi-bx">
-        								<img src="images/testi-img-2.png">
-        								<p>AMZ Publishing Official's book marketing service was exactly what I needed to get my book noticed. They were knowledgeable, and professional, and provided detailed reports on the progress of my book's marketing campaign. I am thrilled with the results and would use their services again.</p>
-        								<div class="testi-name-str">
-        									<h4><b>Phoenix Xavier</b></h4>
-        									<div class="testi-star">
-        										<i class="fa-solid fa-star"></i>
-        										<i class="fa-solid fa-star"></i>
-        										<i class="fa-solid fa-star"></i>
-        										<i class="fa-solid fa-star"></i>
-        										<i class="fa-solid fa-star"></i>
-        									</div>
-        								</div>
-        							</div>
-        						</div>
+        						
+        					
         						<div>
         							<div class="testi-bx">
         								<img src="images/testi-img-3.png">
@@ -789,22 +757,7 @@
         								</div>
         							</div>
         						</div>
-                                <div>
-                                    <div class="testi-bx">
-                                        <img src="images/testi-img-2.png">
-                                        <p>AMZ Publishing Official's book marketing service was exactly what I needed to get my book noticed. They were knowledgeable, and professional, and provided detailed reports on the progress of my book's marketing campaign. I am thrilled with the results and would use their services again.</p>
-                                        <div class="testi-name-str">
-                                            <h4><b>Phoenix Xavier</b></h4>
-                                            <div class="testi-star">
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                            
 
                                 <div>
                                     <div class="testi-bx">
@@ -838,38 +791,8 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div>
-                                    <div class="testi-bx">
-                                        <img src="images/testi-img-3.png">
-                                        <p>The team at AMZ Publishing Official understands the ins and outs of book marketing. They helped me develop a comprehensive marketing plan for my book and provided invaluable guidance throughout the entire process. I am so grateful for their expertise and highly recommend their services to anyone looking to promote their book.</p>
-                                        <div class="testi-name-str">
-                                            <h4><b>Skye Evangeline</b></h4>
-                                            <div class="testi-star">
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div>
-                                    <div class="testi-bx">
-                                        <img src="images/testi-img-4.png">
-                                        <p>AMZ Publishing Official's book marketing service exceeded my expectations in every way. They were able to generate buzz around my book through social media and email marketing campaigns, resulting in a significant increase in sales. I am so impressed with their work and would work with them again in the future.</p>
-                                        <div class="testi-name-str">
-                                            <h4><b>Sterling Giovanni</b></h4>
-                                            <div class="testi-star">
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                                
+                                
 
         						
         					</div>
@@ -966,7 +889,7 @@
         				<div class="bnr-txt">
         					
         					<div class="ftr-logo">
-        						<img src="../../../images/black-logo.png" alt="" style="width:200px; filter: brightness(0) invert(1);" >
+        						<a href="/"><img src="../../../images/black-logo.png" alt="" style="width:250px; filter: brightness(0) invert(1);" ></a>
         					</div>
         					<p>We offer professional and customized marketing services to our clients at an affordable cost. We also help our clients promote their work on different media and channels, utilizing cutting-edge tools and expertise. </p>
         					
@@ -1575,7 +1498,7 @@ $(document).on('show','.accordion', function (e) {
                if ($(window).width() < 850) {
 
    $('.serv-main-col').slick({
-    dots: true,
+    dots: false,
     infinite: true,
     arrows: true,
     speed: 400,
