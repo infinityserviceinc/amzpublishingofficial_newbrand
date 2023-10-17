@@ -66,7 +66,7 @@ a {
     padding: 10px 50px;
     background: rgb(255, 255, 255);
     min-width: 180px;
-    font-size: 14px;
+    font-size: 11px;
     font-weight: 500;
     color: rgb(0, 0, 0);
     border-radius: 17px;
@@ -825,6 +825,7 @@ hr.divider-serv {
     align-items: center;
     line-height: 30px;
     color: #fff;
+    font-size: 13px;
 }
 
 .pricing-box {
@@ -1668,6 +1669,12 @@ C {
 }
 
 
+.toptss {
+    margin-top: -25px;
+}
+.toptsss {
+   margin-top: -31px;
+}
 
 @media (max-width: 600px){
     .form-bnr-div{
@@ -1677,4 +1684,13 @@ C {
     .bnr-rating{
         display: none;
     }
+    .testi-slider-main .testi-bx p {
+        font-size: 14px;
+    }
+}
+@media (max-width: 1370px) {
+    .portfolio-sec .hd-txt h2:before{
+        width: 296px;
+    }
+   
 }

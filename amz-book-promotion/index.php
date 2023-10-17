@@ -496,16 +496,16 @@
         							<div class="pricing-list">
         								<ul>
                                           <li><i class="fa-solid fa-circle-check"></i>Google Preview Book</li>
-                                          <li><i class="fa-solid fa-circle-check" style="margin-top: -33px;"></i>Social Media Promotion for 3 months - Facebook & Instagram</li>
+                                          <li><i class="fa-solid fa-circle-check toptss" ></i>Social Media Promotion for 3 months - Facebook & Instagram</li>
                                           <li><i class="fa-solid fa-circle-check"></i>Marketing Strategy Call - 90 Min</li>
                                           <li><i class="fa-solid fa-circle-check"></i>Amazon Optimization- 3 months</li>
-                                          <li><i class="fa-solid fa-circle-check" style="margin-top: -33px;"></i>Search Engine Optimization - (3 Months)</li>
+                                          <li><i class="fa-solid fa-circle-check"></i>Search Engine Optimization - (3 Months)</li>
                                           <!-- <li><i class="fa-solid fa-circle-check"></i>Video Reviews- 3 Reviews</li> -->
-                                          <li><i class="fa-solid fa-circle-check" style="margin-top: -33px;"></i>Book Launch Animated Video - one 1-minute video</li>
+                                          <li><i class="fa-solid fa-circle-check toptss"></i>Book Launch Animated Video - one 1-minute video</li>
                                           <!-- <li><i class="fa-solid fa-circle-check"></i>Complete Author Website Design & Deployment</li> -->
                                           <!-- <li><i class="fa-solid fa-circle-check"></i>Promotional Bookmarks Design- 2</li> -->
                                           <!-- <li><i class="fa-solid fa-circle-check"></i>Promotional Business Cards Design- 2</li> -->
-                                          <li><i class="fa-solid fa-circle-check" style="margin-top: -63px;"></i>Blogs - 5 (Blogs are written and posted on high-authority domain platforms)</li>
+                                          <li><i class="fa-solid fa-circle-check toptsss"></i>Blogs - 5 (Blogs are written and posted on high-authority domain platforms)</li>
                                           <li><i class="fa-solid fa-circle-check"></i>Media outlet – 1 (NY Weekly)</li>
                                           <li><i class="fa-solid fa-circle-check"></i>Press Release on 80+ Platforms– 1</li>
 	        							</ul>
@@ -527,16 +527,16 @@
                                             <li><i class="fa fa-check-circle"></i>Social Media Promotion for 3 months</li>
                                             <li><i class="fa fa-check-circle"></i>Marketing Strategy Call - 90 Min</li>
                                             <li><i class="fa fa-check-circle"></i>Amazon Optimization- 3 months</li>
-                                            <li><i class="fa fa-check-circle" style="margin-top: -33px;"></i>Search Engine Optimization - (3 Months)</li>
+                                            <li><i class="fa fa-check-circle " ></i>Search Engine Optimization - (3 Months)</li>
                                             <!-- <li><i class="fa fa-check-circle"></i>Video Reviews- 5 Reviews</li> -->
-                                            <li><i class="fa fa-check-circle" style="margin-top: -33px;"></i>Book Launch Animated Video - one 1-minute video</li>
+                                            <li><i class="fa fa-check-circle toptss" ></i>Book Launch Animated Video - one 1-minute video</li>
                                             <li><i class="fa fa-check-circle"></i>Author Website Setup & Deployment</li>
                                             <li><i class="fa fa-check-circle"></i>Promotional Bookmarks Design</li>
                                             <li><i class="fa fa-check-circle"></i>Promotional Postcards Design</li>
                                             <li><i class="fa fa-check-circle"></i>Promotional Business Cards Design</li>
-                                            <li><i class="fa fa-check-circle" style="margin-top: -63px;"></i>Blogs - 10 (Blogs are written and posted on high-authority domain platforms)</li>
+                                            <li><i class="fa fa-check-circle toptss" ></i>Blogs - 10 (Blogs are written and posted on high-authority domain platforms)</li>
                                             <li><i class="fa fa-check-circle"></i>Press Release on 80+ Platforms– 3</li>
-                                            <li><i class="fa fa-check-circle" style="margin-top: -33px;"></i>Media Outlets (LA Wire,NY Wire,NY Weekly)</li>
+                                            <li><i class="fa fa-check-circle " ></i>Media Outlets (LA Wire,NY Wire,NY Weekly)</li>
                                             <li><i class="fa fa-check-circle"></i>Google Knowledge Panel</li>
 	        							</ul>
         							</div>
@@ -557,18 +557,18 @@
                                             <li><i class="fa fa-check-circle"></i>Social Media Promotion for 6 months</li>
                                             <li><i class="fa fa-check-circle"></i>Marketing Strategy Call - 90 Min</li>
                                             <li><i class="fa fa-check-circle"></i>Amazon Optimization- 6 months</li>
-                                            <li><i class="fa fa-check-circle" style="margin-top: -33px;"></i>Search Engine Optimization - (6 Months)</li>
+                                            <li><i class="fa fa-check-circle toptss" ></i>Search Engine Optimization - (6 Months)</li>
                                             <!-- <li><i class="fa fa-check-circle"></i>Video Reviews- 10 Reviews</li> -->
-                                            <li><i class="fa fa-check-circle" style="margin-top: -33px;"></i>Book Launch Animated Video – (2) 60 seconds videos</li>
+                                            <li><i class="fa fa-check-circle toptss" ></i>Book Launch Animated Video – (2) 60 seconds videos</li>
                                             <li><i class="fa fa-check-circle"></i>Author Website Setup- 1</li>
                                             <li><i class="fa fa-check-circle"></i>Promotional Bookmarks Design</li>
                                             <li><i class="fa fa-check-circle"></i>Promotional Postcards Design</li>
                                             <li><i class="fa fa-check-circle"></i>Promotional Business Cards Design</li>
                                             <li><i class="fa fa-check-circle"></i>Promotional Animated Logo</li>
                                             <li><i class="fa fa-check-circle"></i>Blogs/Articles Marketing- 30</li>
-                                            <li><i class="fa fa-check-circle" style="margin-top: -63px;"></i>Blogs -15 (Blogs are written and posted on high-authority domain platforms)</li>
+                                            <li><i class="fa fa-check-circle toptsss" ></i>Blogs -15 (Blogs are written and posted on high-authority domain platforms)</li>
                                             <li><i class="fa fa-check-circle" ></i>Press Release Campaign - 6</li>
-                                            <li><i class="fa fa-check-circle" style="margin-top: -63px;"></i>Media Outlets (The American Reporter,Entertainment Post,LA Wire,NY Wire,NY Weekly)</li>
+                                            <li><i class="fa fa-check-circle " ></i>Media Outlets (The American Reporter,Entertainment Post,LA Wire,NY Wire,NY Weekly)</li>
                                             <li><i class="fa fa-check-circle"></i>Wikipedia Page for the book</li>
                                             <li><i class="fa fa-check-circle"></i>Google Knowledge Panel </li>
 	        							</ul>
