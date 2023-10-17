@@ -124,6 +124,7 @@ button:focus {
 
 .theme-keypoints.keypoints-white {
   color: #fff;
+  margin-left: 158px;
 }
 
 .theme-keypoints li {
@@ -1802,7 +1803,9 @@ button:focus {
     flex-wrap: wrap;
     margin-bottom: 50px;
   }
-
+  .theme-keypoints.keypoints-white {
+   margin-left: 0px;
+  }
   .theme-btn-ul li {
     margin: 0 6px 10px 0 !important;
   }

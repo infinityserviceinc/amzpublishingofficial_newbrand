@@ -13,7 +13,7 @@
         <link rel="stylesheet" href="css/accordian-jquery-ui.css">
         
         <link rel="stylesheet" type="text/css" href="css/style.css" />
-		<link rel="shortcut icon" href="../../favicon.png" />
+		<link rel="shortcut icon" href="../../favicon.ico" />
         <link rel="stylesheet" type="text/css" href="css/responsive.css" />
         
         <link

@@ -260,7 +260,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-9 col-12">
                         <div class="sec-title">
-                            <h2 class="theme-h2">What makes The Amazon Book Publisher’s Marketing Team credible?</h2>
+                            <h2 class="theme-h2">What makes Amz Publishing Official Marketing Team credible?</h2>
                             <p class="theme-p">When it comes to choosing a book publisher team to work with, there are a
                                 lot
                                 of options out there. It can be difficult to know which one to trust, especially if
@@ -268,16 +268,19 @@
                                 first-time author. That's why we're here to explain why you should believe in our book
                                 publisher team.</p>
                         </div>
-                        <ul class="theme-keypoints keypoints-white">
-                            <li>An experienced and reputable team</li>
-                            <li>Quality control</li>
-                            <li>Personalized service</li>
-                            <li>Wide distribution network</li>
-                            <li>Transparent Process</li>
-                            <li>Positive reviews and testimonials</li>
-                            <li>Competitive Pricing</li>
-                            <li>Continued support</li>
-                        </ul>
+                        <div class="justify-content-center">
+
+                            <ul class="theme-keypoints keypoints-white">
+                                <li>An experienced and reputable team</li>
+                                <li>Quality control</li>
+                                <li>Personalized service</li>
+                                <li>Wide distribution network</li>
+                                <li>Transparent Process</li>
+                                <li>Positive reviews and testimonials</li>
+                                <li>Competitive Pricing</li>
+                                <li>Continued support</li>
+                            </ul>
+                        </div>
                         <ul class="theme-btn-ul">
                             <li>
                                 <a class="theme-btn theme-btn-dark btn-icon"
