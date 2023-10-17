@@ -2,7 +2,10 @@
 <html>
 
 <?php include_once("includes/head.php")?>
+<title>AMZ Publishing Official - Your Creative Writing Partner</title>
 
+<meta name="description"
+    content="Explore the world of creative writing with AMZ Publishing Official. We bring your stories to life with passion and expertise, delivering the quality you deserve.">
 <body>
     <main>
         <?php include_once("includes/header.php")?>

@@ -2,7 +2,10 @@
 <html>
 
 <?php include_once("includes/head.php")?>
+<title>Contact AMZ Publishing Official | Get in Touch Today</title>
 
+<meta name="description"
+    content="Have questions or need assistance? Contact AMZ Publishing Official today. We're here to help you with your writing and design needs.">
 <body>
     <?php include_once("includes/header.php")?><main>
         <section class="home-banner" style="background-image: url(images/pricing-banner.webp)">

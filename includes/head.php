@@ -10,16 +10,16 @@ if (isset($_SERVER['HTTPS'])) {
 	$requesMet = "http";
 }
 ?>
-<base href="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].'/' ?>">
-
+<html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
 <head>
-    <title>Ghostwriting, Publishing, and Editing Services - AMZ Publishing Official</title>
+    <meta name="robots" content="index, follow">
+    <base href="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].'/' ?>">
+    <link rel="alternet" href="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'] ?>" hreflang="en-us">
     <meta charset="UTF-8">
-    <meta name="description"
-        content="AMZ Publishing Official elevates your book with our comprehensive services. Expert ghostwriting, professional publishing, and meticulous editing.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="index.html" />
+    <link rel="canonical" href="<?=$requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']?>">
     <link rel="shortcut icon" href="favicon.ico" />
     <link href="css/all.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
@@ -31,4 +31,27 @@ if (isset($_SERVER['HTTPS'])) {
     <link href="css/owl.theme.default.css" rel="stylesheet" type="text/css">
     <link href="css/swiper-bundle.min.css" rel="stylesheet" type="text/css">
     <link href="css/custom.css" rel="stylesheet" type="text/css">
+    <link rel="canonical" href="<?php echo "https://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]"; ?>">
+    <link rel="alternate" href="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].''.$_SERVER['REQUEST_URI'] ?>"
+        hreflang="en-US">
+    <link rel="alternate" href="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].''.$_SERVER['REQUEST_URI'] ?>"
+        hreflang="x-default">
+    <!-- Google Tag Manager -->
+    <script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-PG5GPLC6');
+    </script>
+    <!-- End Google Tag Manager -->
 </head>

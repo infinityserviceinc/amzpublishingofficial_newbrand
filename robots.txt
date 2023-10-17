@@ -1,7 +1,3 @@
 
 User-agent: *
 Allow: /
-
-Disallow:leads/
-
-Sitemap: https://www.kdpbookwriters.com/sitemap.xml
