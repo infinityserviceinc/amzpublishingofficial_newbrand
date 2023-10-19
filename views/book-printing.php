@@ -2,7 +2,10 @@
 <html>
 
 <?php include_once("includes/head.php")?>
+<title>High-Quality Book Printing Services | AMZ Publishing Official </title>
 
+<meta name="description"
+    content="Print your book with the highest quality standards at AMZ Publishing Official. Explore our book printing services.">
 <body>
     <?php include_once("includes/header.php")?><main>
         <section class="home-banner" style="background-image: url(images/book-marketing-banner.webp)">

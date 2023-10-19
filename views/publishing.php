@@ -2,7 +2,10 @@
 <html>
 
 <?php include_once("includes/head.php")?>
+<title>Comprehensive Book Publishing Services | AMZ Publishing Official </title>
 
+<meta name="description"
+    content="Achieve your publishing goals with comprehensive book publishing services from AMZ Publishing Official. Make your book a reality.">
 <body>
     <?php include_once("includes/header.php")?><main>
         <section class="home-banner" style="background-image: url(images/about-banner.webp)">

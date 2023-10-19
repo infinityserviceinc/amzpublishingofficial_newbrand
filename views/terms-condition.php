@@ -2,7 +2,10 @@
 <html>
 
 <?php include_once("includes/head.php")?>
+<title>Terms and Conditions | AMZ Publishing Official </title>
 
+<meta name="description"
+    content="Review the terms and conditions of AMZ Publishing Official. Learn about our policies for quality publishing services.">
 <body>
     <?php include_once("includes/header.php")?><main>
         <section class="terms-condition conditions-sec">

@@ -2,7 +2,10 @@
 <html>
 
 <?php include_once("includes/head.php")?>
+<title>Manuscript Editing Services | AMZ Publishing Official </title>
 
+<meta name="description"
+    content="Refine your manuscript with professional editing services from AMZ Publishing Official. Ensure your writing is polished.">
 <body>
     <?php include_once("includes/header.php")?>
     <main>

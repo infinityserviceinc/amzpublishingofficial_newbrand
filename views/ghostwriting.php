@@ -2,7 +2,10 @@
 <html>
 
 <?php include_once("includes/head.php")?>
+<title>Professional Ghostwriting Services | AMZ Publishing Official </title>
 
+<meta name="description"
+    content="Get your story told with professional ghostwriting services at AMZ Publishing Official. Collaborate with experienced writers.">
 <body>
     <?php include_once("includes/header.php")?><main>
         <section class="home-banner" style="background-image: url(images/ghostwriting-banner.webp)">

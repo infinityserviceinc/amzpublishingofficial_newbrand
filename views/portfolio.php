@@ -2,7 +2,10 @@
 <html>
 
 <?php include_once("includes/head.php")?>
+<title>Portfolio | AMZ Publishing Official  Projects and Works</title>
 
+<meta name="description"
+    content="Explore AMZ Publishing Official 's portfolio of successful projects and works. See the quality of our publishing services.">
 <body>
     <?php include_once("includes/header.php")?><main>
         <section class="home-banner" style="background-image: url(images/pricing-banner.webp)">

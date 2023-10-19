@@ -2,7 +2,10 @@
 <html>
 
 <?php include_once("includes/head.php")?>
+<title>Author Website Setup | AMZ Publishing Official </title>
 
+<meta name="description"
+    content="Set up your author website with AMZ Publishing Official. Connect with your readers and promote your books effectively.">
 <body>
     <?php include_once("includes/header.php")?> <main>
         <section class="home-banner" style="background-image: url(images/ghostwriting-banner.webp)">
