@@ -2,7 +2,10 @@
 <html>
 
 <?php include_once("includes/head.php")?>
+<title>Effective Book Marketing Services | AMZ Publishing Official </title>
 
+<meta name="description"
+    content="Promote your book effectively with book marketing services from AMZ Publishing Official. Reach your target audience and boost sales.">
 <body>
     <?php include_once("includes/header.php")?><main>
         <section class="home-banner" style="background-image: url(images/book-marketing-banner.webp)">

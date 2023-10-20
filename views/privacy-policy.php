@@ -2,7 +2,10 @@
 <html>
 
 <?php include_once("includes/head.php")?>
+<title>Privacy Policy | AMZ Publishing Official </title>
 
+<meta name="description"
+    content="Review the privacy policy of AMZ Publishing Official. We prioritize the security and protection of your personal information.">
 <body>
     <?php include_once("includes/header.php")?><main>
         <section class="privacy-policy conditions-sec">

@@ -2,7 +2,10 @@
 <html>
 
 <?php include_once("includes/head.php")?>
+<title>About AMZ Publishing Official | Our Story and Mission</title>
 
+<meta name="description"
+    content="Learn about AMZ Publishing Official 's story and mission. We are committed to helping authors succeed in the publishing world.">
 <body>
     <?php include_once("includes/header.php")?> <main>
         <section class="home-banner" style="background-image: url(images/about-banner.webp)">

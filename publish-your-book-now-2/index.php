@@ -1216,7 +1216,7 @@
         </footer>
     </section>
 
-    <section class="disclaimer">
+    <!-- <section class="disclaimer">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -1237,7 +1237,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- modal -->
 <!-- Button trigger modal -->

@@ -113,7 +113,7 @@
             </ul>
         </div>
     </div>
-    <div class="disclaimer">
+    <!-- <div class="disclaimer">
         <div class="container">
             <p class="theme-p"><strong>Disclaimer:</strong> All company logos and trademarks appearing on our website
                 are the property of their respective owners. We are not affiliated, associated, endorsed by, or in any
@@ -125,7 +125,7 @@
                 are not responsible for any errors or omissions, or for the results obtained from the use of this
                 information. Any reliance you place on such information is strictly at your own risk.</p>
         </div>
-    </div>
+    </div> -->
 </footer>
 <div class="modal fade custom-popup" id="getquote-popup" tabindex="-1" aria-labelledby="getquote-popupLabel"
     aria-hidden="true">

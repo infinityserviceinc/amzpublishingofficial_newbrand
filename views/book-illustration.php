@@ -2,7 +2,10 @@
 <html>
 
 <?php include_once("includes/head.php")?>
+<title>Professional Book Illustration Services | AMZ Publishing Official </title>
 
+<meta name="description"
+    content="Enhance your book with captivating illustrations. Explore our professional book illustration services at AMZ Publishing Official.">
 <style>
 .hover figure img {
     -webkit-transform: scale(1);

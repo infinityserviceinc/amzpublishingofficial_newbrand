@@ -2,7 +2,10 @@
 <html>
 
 <?php include_once("includes/head.php")?>
+<title>Professional Book Writing Services | AMZ Publishing Official </title>
 
+<meta name="description"
+    content="Turn your ideas into a well-written book with professional book writing services from AMZ Publishing Official.">
 <body>
     <?php include_once("includes/header.php")?>
     <main>

@@ -2,7 +2,10 @@
 <html>
 
 <?php include_once("includes/head.php")?>
+<title>Expert Proofreading Services | AMZ Publishing Official </title>
 
+<meta name="description"
+    content="Ensure your manuscript is error-free with expert proofreading services at AMZ Publishing Official. Enhance the quality of your writing.">
 <body>
     <?php include_once("includes/header.php")?><main>
         <section class="home-banner" style="background-image: url(images/proofreading-banner.webp)">

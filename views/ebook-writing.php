@@ -2,7 +2,10 @@
 <html>
 
 <?php include_once("includes/head.php")?>
+<title>Ebook Writing Services | AMZ Publishing Official </title>
 
+<meta name="description"
+    content="Turn your ideas into engaging ebooks with ebook writing services from AMZ Publishing Official. Start your digital publishing journey.">
 <body>
     <?php include_once("includes/header.php")?><main>
         <section class="home-banner" style="background-image: url(images/pricing-banner.webp)">

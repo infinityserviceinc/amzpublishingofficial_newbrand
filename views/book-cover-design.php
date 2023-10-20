@@ -2,7 +2,10 @@
 <html>
 
 <?php include_once("includes/head.php")?>
+<title>Creative Book Cover Design | AMZ Publishing Official </title>
 
+<meta name="description"
+    content="Capture readers' attention with creative book cover design from AMZ Publishing Official. Your book deserves an eye-catching cover.">
 <body>
     <?php include_once("includes/header.php")?> <main>
         <section class="home-banner" style="background-image: url(images/about-banner.webp)">

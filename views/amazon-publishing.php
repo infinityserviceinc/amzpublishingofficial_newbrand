@@ -2,7 +2,10 @@
 <html>
 
 <?php include_once("includes/head.php")?>
+<title>Amazon Publishing Services | AMZ Publishing Official </title>
 
+<meta name="description"
+    content="Maximize your book's reach with Amazon publishing services from AMZ Publishing Official. Harness the power of the world's largest online bookstore.">
 <body>
     <?php include_once("includes/header.php")?><main>
         <section class="home-banner" style="background-image: url(images/about-banner.webp)">
