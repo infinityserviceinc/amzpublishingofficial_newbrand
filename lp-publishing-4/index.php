@@ -41,7 +41,7 @@
                                     <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
                                     <li class="nav-item"><a class="nav-link" href="#testimonials">Testimonials</a></li>
                                     <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/lp-childrens-book/">Children’s Book </a></li>
+                                    <!-- <li class="nav-item"><a class="nav-link" href="/lp-childrens-book/">Children’s Book </a></li> -->
                                     <li class="nav-item">
                                         <div class="global_btn">
                                             <button type="button"><a href="javascript: void(0);" onclick="$zopim.livechat.window.toggle()">Live Chat</a></button>
@@ -489,7 +489,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="process_points">
-                        <ul>
+                        <ul class="ttff">
                             <li>
                                 <span>1</span>
                                 <div class="shape_box">
@@ -1008,6 +1008,76 @@
 
         ]
     });
+    </script>
+    <script>
+   if (window.innerWidth < 767) {
+    $('.ttff').slick({
+        dots: true,
+		arrows: false,
+        infinite: true,
+        speed: 300,
+        autoplay: true,
+        slidesToShow: 5,
+        slidesToScroll: 1,
+        responsive: [
+            {
+                breakpoint: 1399,
+                settings: {
+                    slidesToShow: 4,
+                    slidesToScroll: 1,
+                    infinite: true,
+                    dots: false
+                }
+            },{
+                breakpoint: 1200,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 1,
+                    infinite: true,
+                    dots: false
+                }
+            },
+            {
+                breakpoint: 992,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    dots: false
+
+                }
+            },
+            {
+                breakpoint: 767,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    dots: false
+
+                }
+            },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    dots: false
+
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1,
+                    dots: false
+                }
+            }
+            // You can unslick at a given breakpoint now by adding:
+            // settings: "unslick"
+            // instead of a settings object
+        ]
+    });
+}
     </script>
 
 
