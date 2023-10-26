@@ -1,47 +1,8 @@
 <?php
-
-// $dir = array_slice(scandir(__DIR__),2);
-
-// $folders = [];
-
-
-// foreach($dir as $file){
-//     if(is_dir($file)){
-//         $newDir = array_slice(scandir('./'.$file),2);
-        
-//         foreach($newDir as $innerDir){
-//             if($innerDir == "index.html"){
-//                 rename('./'.$file.'/'.$innerDir,$file.".php");
-                
-//             }else{
-//                 // echo $innerDir." /".$file." <br>";
-//             }
-//         }
-//     }
-//     else{
-//         // echo $file." files <br>";
-//     }
-// }
-
-// foreach($folders as $folder){
-
-// }
-
-// // var_dump($dir);
-// die;
-
-
-
-
-
-
-
-
-
-
 ob_start();
 session_start();
 
+$basePath = "/";
 
 $url = $_SERVER['REQUEST_URI'];
 
@@ -64,8 +25,8 @@ foreach($files as $file){
     $without_extension = '/'.pathinfo($file, PATHINFO_FILENAME).'/';
     array_push($fileWithOutExt,$without_extension);
 }
-
-if($url=="/"){
+$checkUrl = ($basePath!="/"?$basePath."/":"/");
+if($url== $checkUrl){
     require $dir.'/home.php';
     die();
 }
@@ -78,7 +39,7 @@ if (in_array($url,$fileWithOutExt)) {
     
 }
 else{
-    header("location:/");
     require $dir.'/404.php';
+    header("Location: /404.php", true, 404);
 }
 ?>

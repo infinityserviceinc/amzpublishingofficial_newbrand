@@ -106,7 +106,7 @@
             </div>
         </div>
         <div class="copyright">
-            <p class="theme-p">© Copyright 2023 AMZ Publishing Official. All Right Reserved</p>
+            <p class="theme-p">© Copyright 2023 <a href="/"> AMZ Publishing Official. </a> All Right Reserved</p>
             <ul>
                 <li><a href="privacy-policy/">privacy policy</a></li>
                 <li><a href="terms-condition/">term of services</a></li>

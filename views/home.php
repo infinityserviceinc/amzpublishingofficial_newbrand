@@ -2,6 +2,7 @@
 <html>
 
 <?php include_once("includes/head.php")?>
+<meta name="keywords" content="AMZ PUBLISHING OFFICIAL">
 <title>AMZ Publishing Official - Your Creative Writing Partner</title>
 
 <meta name="description"
