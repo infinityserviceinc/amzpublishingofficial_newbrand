@@ -248,8 +248,8 @@
                     </div>
                 </div>
             </div>
-            <div class="row  book_sleder  justify-content-center" style="padding-bottom: 50px;">
-                <div class="col-md-4 item">
+            <div class="row  justify-content-center" style="padding-bottom: 50px;">
+                <div class="col-md-3 item">
                     <div class="packages_iner">
                     <h3>Standard Book <br> Publishing</h3>
                         <h6>Starting From</h6>
@@ -280,7 +280,7 @@
                         <button type="button" class="btn chatt popup_button" onclick="$zopim.livechat.window.toggle()">Live Chat</button>
                     </div>
                 </div>
-                <div class="col-md-4 item">
+                <div class="col-md-3 item">
                     <div class="packages_iner">
                     <h3>Extended Book <br> Publishing</h3>
                         <h6>Starting From</h6>
@@ -311,7 +311,7 @@
                         <button type="button" class="btn chatt popup_button" onclick="$zopim.livechat.window.toggle()">Live Chat</button>
                     </div>
                 </div>
-                <div class="col-md-4 item">
+                <div class="col-md-3 item">
                     <div class="packages_iner">
                     <h3>Mighty <?php $currentMonth = date('M'); echo "$currentMonth";
 ?> Package Publishing +1 month free marketing</h3>
@@ -320,7 +320,7 @@
                         <p>EDITING, FORMATTING, SPELL CHECK & TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
                             STANDARDS</p>
                         <ul>
-                        <li class="first">Publishing on the top 5 platforms</li>
+                        <li class="first">Publishing on the top 10 platforms</li>
                             <li>Ebook, paperback and hardcover</li>
                             <li>Proofreading</li>
                             <li>Adjusting the typesetting and layout according to publishing standards</li>
@@ -343,7 +343,7 @@
                         <button type="button" class="btn chatt popup_button" onclick="$zopim.livechat.window.toggle()">Live Chat</button>
                     </div>
                 </div>
-                <div class="col-md-4 item">
+                <div class="col-md-3 item">
                     <div class="packages_iner">
                     <h3>Extensive Book <br> Publishing</h3>
                         <h6>Starting From</h6>
@@ -352,7 +352,7 @@
                             STANDARDS.</p>
                         <ul>
                         <li class="first">Authors Website</li>
-                            <li>Publishing on the top 5 platforms</li>
+                            <li>Publishing on the top 20 platforms</li>
                             <li>Ebook, paperback and hardcover</li>
                             <li>Proofreading</li>
                             <li>Adjusting the typesetting and layout according to publishing standards</li>
