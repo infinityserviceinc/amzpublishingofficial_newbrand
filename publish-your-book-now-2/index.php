@@ -1249,29 +1249,39 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-        	<div class="popup_form_wrp">
-                <h5>LIMITED TIME OFFER</h5>
-                <h3><span>50%</span> Off on<br>all services!</h3>
-    <!-- <p><b>Discuss your app idea</b> with our consultants <b>today</b></p> -->
-    <form action="/leads/" method="POST">
-        <input type="hidden" name="route" value="/lp-2/">
-        <input type="hidden" name="brand" value="">
-        <input type="hidden" name="token" value="">
-        <input type="hidden" name="tag" value="banner-right-form">
-        <input type="hidden" name="price" value="null">
-        <input type="hidden" name="news" value="1">
-        <input type="text" name="name" placeholder="Full Name" required="">
-        <input type="email" name="email" placeholder="Email Address" required="">
-        <input type="tel" name="phone" placeholder="Phone Number" minlength="10" maxlength="11" required="">        
-        <!-- <select class="form-select" name="acomp" aria-label="Default select example">
-            <option selected="">Which best describes you?</option>
-            <option value="App Company">Have an App Company</option>
-            <option value="A Startup">A Startup</option>
-        </select> -->
-        <textarea name="brief" placeholder="Enter a brief description about your project"></textarea>
-        <input type="submit" value="Submit">
-    </form> 
-</div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="inner_img">
+            <img src="assets/images/pop.png" alt="">
+                </div>
+            </div>
+            <div class="col-md-6">
+
+                <div class="popup_form_wrp">
+                    <h5>LIMITED TIME OFFER</h5>
+                    <h3><span>50%</span> Off on<br>all services!</h3>
+        <!-- <p><b>Discuss your app idea</b> with our consultants <b>today</b></p> -->
+        <form action="/leads/" method="POST">
+            <input type="hidden" name="route" value="/lp-2/">
+            <input type="hidden" name="brand" value="">
+            <input type="hidden" name="token" value="">
+            <input type="hidden" name="tag" value="banner-right-form">
+            <input type="hidden" name="price" value="null">
+            <input type="hidden" name="news" value="1">
+            <input type="text" name="name" placeholder="Full Name" required="">
+            <input type="email" name="email" placeholder="Email Address" required="">
+            <input type="tel" name="phone" placeholder="Phone Number" minlength="10" maxlength="11" required="">        
+            <!-- <select class="form-select" name="acomp" aria-label="Default select example">
+                <option selected="">Which best describes you?</option>
+                <option value="App Company">Have an App Company</option>
+                <option value="A Startup">A Startup</option>
+            </select> -->
+            <textarea name="brief" placeholder="Enter a brief description about your project"></textarea>
+            <input type="submit" value="Submit">
+        </form> 
+    </div>
+            </div>
+        </div>
       </div>
     </div>
   </div>
@@ -1561,6 +1571,86 @@ setTimeout(function() {
   $('#exampleModal').modal('show');
 }, 10000);
 </script>
+<style>
+    
+.black_friday {
+    width: 250px;
+    padding: 15px;
+    background: url("assets/lp/self-publishing/images/pupu.jpg");
+    background-size: contain;
+    color: #fff;
+    position: fixed;
+    bottom: 30px;
+    left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid #fff;
+    border-radius: 15px;
+    box-shadow: 0 0 1px 2px #f7922c, 0 0 1px 2px #f7922c inset;
+    filter: drop-shadow(0px 0px 5px #f7922c);
+    z-index: 9;
+    cursor: pointer;
+    animation: 1s linear infinite bf-animate;
+}
+@keyframes bf-animate {
+    0%, 100% {
+        filter: drop-shadow(0px 0px 5px #f7922c);
+        transform: translateY(-5px);
+    }
+    
+    50% {
+        filter: drop-shadow(0px 0px 5px #fff);
+        box-shadow: 0 0 1px 2px #fff, 0 0 1px 2px #fff inset;
+        border-color: #000;
+        transform: translateY(0);
+    }
+    80% {
+        filter: drop-shadow(0px 0px 5px #fff);
+        box-shadow: 0 0 1px 2px #fff, 0 0 1px 2px #fff inset;
+        border-color: #000;
+    }
+}
+.black_friday .black_friday_top {
+    padding: 0;
+
+    color: #fff;
+    border: 2px solid #fcffeb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: 0 0 1px 2px #f7922c, 0 0 1px 2px #f7922c inset;
+    filter: drop-shadow(0px 0px 5px #e70046);
+    margin-bottom: 4px;
+    animation: 1s linear infinite bf-animate-2;
+}
+@keyframes bf-animate-2{
+    0%, 100% {
+        filter: drop-shadow(0px 0px 5px #f7922c);
+    }
+    
+    50% {
+        filter: drop-shadow(0px 0px 5px #fff);
+        box-shadow: 0 0 1px 2px #fff, 0 0 1px 2px #fff inset;
+        border-color: #000;
+        transform: translateX(0);
+    }
+    80% {
+        filter: drop-shadow(0px 0px 5px #fff);
+        box-shadow: 0 0 1px 2px #fff, 0 0 1px 2px #fff inset;
+        border-color: #000;
+    }
+}
+.black_friday h2 {
+    font-size: 25px !important;
+    margin: 0;
+    font-weight: 600;
+    color: #fff;
+}
+
+</style>
 </body>
 
 

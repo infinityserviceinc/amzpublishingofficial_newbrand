@@ -665,7 +665,8 @@ header ul li i {
 .black_friday {
     width: 250px;
     height: 152px;
-    background: url("../../../../assets/lp/self-publishing/images/webp/black-friday-bg.webp");
+    background: url("../../../../assets/lp/self-publishing/images/popu.jpg");
+    background-size:contain ;
     color: #fff;
     position: fixed;
     bottom: 30px;
@@ -1515,6 +1516,17 @@ textarea.txt::placeholder {
 }
 
 @media screen and (max-width: 576px) {
+    .modal-content {
+        left: 0 !important;
+        width: 100% !important;
+        top: 70px !important;
+    }
+    .modal-body{
+        width: 100% !important;
+    }
+    .inner_img {
+        display: none;
+    }
     .halloween-popup {
         width: 300px;
         padding: 0;
@@ -2928,7 +2940,7 @@ ul.navLinks li a h4 span {
 /*Main slider CSS Start*/
 .mainbanner {
     padding: 160px 0 0;
-    background-image: url(../../../../assets/lp/self-publishing/images/banner-img.webp) !important;
+    background-image: url(../../../../assets/lp/self-publishing/images/hallo_ween_ban.jpg) !important;
     background-position: center;
     background-size: cover;
     height: auto;
@@ -5482,87 +5494,11 @@ button.btn-close {
     transition: all .3s ease-in-out;
 }
 
-.black_friday {
-    width: 250px;
-    padding: 15px;
-    background: #000;
-    color: #fff;
-    position: fixed;
-    bottom: 30px;
-    left: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    border: 2px solid #fff;
-    border-radius: 15px;
-    box-shadow: 0 0 1px 2px #f7922c, 0 0 1px 2px #f7922c inset;
-    filter: drop-shadow(0px 0px 5px #f7922c);
-    z-index: 9;
-    cursor: pointer;
-    animation: 1s linear infinite bf-animate;
-}
-@keyframes bf-animate {
-    0%, 100% {
-        filter: drop-shadow(0px 0px 5px #f7922c);
-        transform: translateY(-5px);
-    }
-    
-    50% {
-        filter: drop-shadow(0px 0px 5px #fff);
-        box-shadow: 0 0 1px 2px #fff, 0 0 1px 2px #fff inset;
-        border-color: #000;
-        transform: translateY(0);
-    }
-    80% {
-        filter: drop-shadow(0px 0px 5px #fff);
-        box-shadow: 0 0 1px 2px #fff, 0 0 1px 2px #fff inset;
-        border-color: #000;
-    }
-}
-.black_friday .black_friday_top {
-    padding: 0;
-    background: 0 0;
-    color: #fff;
-    border: 2px solid #fcffeb;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 5px;
-    box-shadow: 0 0 1px 2px #f7922c, 0 0 1px 2px #f7922c inset;
-    filter: drop-shadow(0px 0px 5px #e70046);
-    margin-bottom: 4px;
-    animation: 1s linear infinite bf-animate-2;
-}
-@keyframes bf-animate-2{
-    0%, 100% {
-        filter: drop-shadow(0px 0px 5px #f7922c);
-    }
-    
-    50% {
-        filter: drop-shadow(0px 0px 5px #fff);
-        box-shadow: 0 0 1px 2px #fff, 0 0 1px 2px #fff inset;
-        border-color: #000;
-        transform: translateX(0);
-    }
-    80% {
-        filter: drop-shadow(0px 0px 5px #fff);
-        box-shadow: 0 0 1px 2px #fff, 0 0 1px 2px #fff inset;
-        border-color: #000;
-    }
-}
-.black_friday h2 {
-    font-size: 25px !important;
-    margin: 0;
-    font-weight: 600;
-    color: #fff;
-}
-
 
 
 /* dhjsfklsdgaeliehrfjbfbrgf */
 .modal-header {padding: 0 !important;border: none !important;margin-bottom: 20px;}
-.modal-body {padding: 0 !important; }
+.modal-body {padding: 0 !important;width: 970px;height: 466px;/* top: 60px; */}
 .modal {background: #0000008c; }
 .modal-dialog {position: absolute; left: 0; right: 0; margin: auto; }
 .popup_form_wrp {padding: 0 15px; }
@@ -5585,12 +5521,12 @@ button.btn-close {
     padding: 10px 10px;
     margin: 0 0 15px 0;
 }
-.popup_form_wrp form {margin: 30px 0 0 0; }
+.popup_form_wrp form {margin: 10px 0 0 0;}
 .popup_form_wrp form input::placeholder, .popup_form_wrp form textarea::placeholder {color: rgba(0, 0, 0, 0.44); font-size: 14px; }
-.popup_form_wrp form textarea {border-radius: 15px; height: 130px; padding: 15px 18px; }
+.popup_form_wrp form textarea {border-radius: 15px;height: 110px;padding: 15px 18px;}
 .popup_form_wrp form select {font-size: 14px; font-weight: 500; }
 /* .modal-content {border-radius: 20px;} */
-.modal-content {background: black;top: 90px;}
+.modal-content {background: black;top: 90px;width: 970px;height: 565px;left: -280px;border-radius: 36px;}
 /* .popup_form_wrp h2:befposition: absolute;background: #e64d26;width: 10px;height: 40px;left: -20px;border-radius: 5px;} */
 
 span.color_form {
@@ -5624,10 +5560,10 @@ button.popup_button:hover {background: #f3ad16; }
 }
 
 .popup_form_wrp h3 {
-    font-size: 28px;
+    font-size: 22px;
     line-height: 34px;
     color: #fff;
-    margin: 0 0 10px 0 !important;
+    margin: 0 0 0px 0 !important;
     text-transform: capitalize;
     display: flex;
     align-items: center;
