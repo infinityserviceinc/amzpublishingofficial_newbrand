@@ -239,7 +239,7 @@
     </section>
 
     <section class="packages_sec" id="pricing" style="background:#fefaf6; margin-top:50px;">
-        <div class="container">
+        <div class="container-fluid">
             <div class="row ">
                 <div class="col-md-12">
                     <div class="global_iner text-center">
