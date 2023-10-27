@@ -147,7 +147,7 @@
     }
     .mainbanner {
         padding: 170px 0 0;
-        background: #05141a !important;
+        /* background: #05141a !important; */
     }
     a.chat.borderbtn.headbtn {
         padding: 10px 26px;
