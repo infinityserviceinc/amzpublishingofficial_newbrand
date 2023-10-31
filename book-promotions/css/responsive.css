@@ -1,0 +1,150 @@
+@media (max-width:1280px) {
+    .process-box {
+        width: 80%
+    }
+
+    .process-box h2 {
+        font-size: 27px
+    }
+
+    .process-box.procs-bx-1,
+    .process-box.procs-bx-2,
+    .process-box.procs-bx-3,
+    .process-box.procs-bx-4 {
+        left: 25px
+    }
+
+    .proces-line-img {
+        left: -30px;
+        bottom: -25px;
+        width: 100%
+    }
+}
+
+@media (min-width:320px) and (max-width:767px) {
+
+    .hd-txt.serv-txt,
+    .indust-tab-lst .nav-tabs li a,
+    .process-box,
+    .serv-bx,
+    .why-choose-list ul li,
+    section.cta-sec .hd-txt h2,
+    section.cta-sec .hd-txt p {
+        text-align: center
+    }
+
+    .bnr-txt h1,
+    .hd-txt h2,
+    .indus-tab-txt h2 {
+        font-size: 40px
+    }
+
+    .wow {
+        animation-name: none !important;
+        visibility: visible !important
+    }
+
+    .head_top .row,
+    .main-banner .form-st form {
+        flex-direction: column
+    }
+
+    .banner-img-bk img,
+    .proces-line-img,
+    .serv-bx h3 br,
+    .serv-cta-btn .serv-cta-tel.popup-btn,
+    .serv-cta-btn.inr-tab-btn.header-btn.cta-tab-btn a.serv-cta-tel.popup-btn {
+        display: none
+    }
+
+    .logo img,
+    .our-serv-sec .col-sm-12 {
+        display: table
+    }
+
+    .bnr-txt h1 {
+        padding-top: 25px
+    }
+
+    .main-banner .form-st form input {
+        margin-bottom: 10px
+    }
+
+    .main-banner .form-st {
+        margin-bottom: 20px
+    }
+
+    .industry-sec .tab-content .col-sm-12,
+    .serv-cta-div {
+        flex-direction: column;
+        justify-content: center;
+        text-align: center
+    }
+
+    .serv-cta-img {
+        margin-top: 0
+    }
+
+    .serv-cta-btn {
+        justify-content: center
+    }
+
+    .client-logo {
+        margin-bottom: 50px
+    }
+
+    .serv-bx {
+        padding: 15px 20px
+    }
+
+    .serv-bx p {
+        width: 100%
+    }
+
+    .industry-sec .tab-content {
+        padding-top: 50px
+    }
+
+    .indus-tab-img {
+        margin-top: 100px
+    }
+
+    .why-choose-list ul li {
+        width: 100%
+    }
+
+    .why-choose-list ul {
+        margin-top: 50px
+    }
+
+    section.cta-sec .hd-txt h2 {
+        font-size: 35px
+    }
+
+    .cta-side-img {
+        margin-top: 40px
+    }
+
+    .process-box {
+        left: 0 !important;
+        right: 0 !important;
+        top: 0 !important;
+        bottom: 0 !important;
+        width: 100%
+    }
+
+    .process-sec {
+        padding: 50px 0
+    }
+
+    .logo img {
+        width: 80%;
+        margin-top:20px !important;
+    }
+    .hd-txt p{
+        padding: 0 20px;
+    }
+    .slick-slider{
+        margin-top: 20px;
+    }
+}
