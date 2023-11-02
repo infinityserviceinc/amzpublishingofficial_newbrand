@@ -1266,7 +1266,7 @@
 
                 <div class="popup_form_wrp">
                     <h5>LIMITED TIME OFFER</h5>
-                    <h3><span>60%</span> Off on<br>all services!</h3>
+                    <h3><span>50%</span> Off on<br>all services!</h3>
         <!-- <p><b>Discuss your app idea</b> with our consultants <b>today</b></p> -->
         <form action="/leads/" method="POST">
             <input type="hidden" name="route" value="/lp-2/">
