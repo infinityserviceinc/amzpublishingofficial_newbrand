@@ -15,10 +15,14 @@ html {
 
 body {
     position: relative;
-
     overflow-x: hidden;
     height: 100%;
     font-family: "Poppins", sans-serif;
+}
+
+body.modal-open {
+    overflow-x: hidden;
+    overflow-y: auto !important;
 }
 
 @media (min-width: 1700px) {
@@ -266,9 +270,9 @@ ul.navLinks li a h4 span {
     top: 0;
 }
 
-.banner-contnt {
+/* .banner-contnt {
     margin-top: 5rem;
-}
+} */
 
 .secheading {
     font-size: 43px;
@@ -2752,7 +2756,6 @@ html {
 
 body {
     position: relative;
-
     overflow-x: hidden;
     height: 100%;
     font-family: "Poppins", sans-serif;
@@ -2949,7 +2952,8 @@ ul.navLinks li a h4 span {
 /*Main slider CSS Start*/
 .mainbanner {
     padding: 160px 0 0;
-    background-image: url(../../../../assets/lp/self-publishing/images/hallo_ween_ban.jpg) !important;
+    /* background-image: url(../../../../assets/lp/self-publishing/images/hallo_ween_ban.jpg) !important; */
+    background-image: url(../../../../assets/lp/self-publishing/images/banner-img.webp) !important;
     background-position: center;
     background-size: cover;
     height: auto;
@@ -3003,9 +3007,9 @@ ul.navLinks li a h4 span {
     top: 0;
 }
 
-.banner-contnt {
+/* .banner-contnt {
     margin-top: 5rem;
-}
+} */
 
 .secheading {
     font-size: 43px;

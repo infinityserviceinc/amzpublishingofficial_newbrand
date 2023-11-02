@@ -310,15 +310,16 @@
                 </div>
                 <div class="col-md-3 item">
                     <div class="packages_iner">
-                        <h3>Extensive Book <br> Publishing</h3>
+                        <h3>Amazon Best <br> Seller</h3>
                         <h6>Starting From</h6>
-                        <h2>$2499</h2>
+                        <h2>$4799</h2>
                         <p>EDITING, FORMATTING, SPELL CHECK &amp; TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
                             STANDARDS.</p>
                         <ul>
                             <li class="first">Authors Website</li>
                             <li>Publishing on the top 5 platforms</li>
                             <li>Ebook, paperback and hardcover</li>
+                            <li>Audio Book</li>
                             <li>Proofreading</li>
                             <li>Adjusting the typesetting and layout according to publishing standards</li>
                             <li>Formatting
@@ -331,10 +332,16 @@
                             </li>
                             <li>Platform optimization
                             </li>
-                            <li>3 Months Extensive Book Marketing with Book Distribution
+                            <li>6 Months Extensive Book Marketing with Book Distribution Globally
                             </li>
-                            <li>100% Ownership Rights</li>
-
+                            <li>6 Months Social Media Marketing (Facebook, Twitter, Instagram, TikTok, and More)</li>
+                            <li>20 Author Sample Copies</li>
+                            <li> Featured Articles</li>
+                            <li>  Featured Press Releases</li>
+                            <li>  NY Times & USA Today Best Seller</li>
+                            <li>  Online Reputation Management</li>
+                            <li>  Video Trailer</li>
+                            <li>  Amazon Listing</li>
                         </ul>
                         <ul class="logo_img">
                             <li>
@@ -1259,7 +1266,7 @@
 
                 <div class="popup_form_wrp">
                     <h5>LIMITED TIME OFFER</h5>
-                    <h3><span>50%</span> Off on<br>all services!</h3>
+                    <h3><span>60%</span> Off on<br>all services!</h3>
         <!-- <p><b>Discuss your app idea</b> with our consultants <b>today</b></p> -->
         <form action="/leads/" method="POST">
             <input type="hidden" name="route" value="/lp-2/">
@@ -1576,7 +1583,8 @@ setTimeout(function() {
 .black_friday {
     width: 250px;
     padding: 15px;
-    background: url("assets/lp/self-publishing/images/pupu.jpg");
+    /* background: url("assets/lp/self-publishing/images/pupu.jpg"); */
+    background: #000;
     background-size: contain;
     color: #fff;
     position: fixed;
