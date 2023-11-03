@@ -253,7 +253,7 @@
                         <p>EDITING, FORMATTING, SPELL CHECK & TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
                             STANDARDS.</p>
                         <ul>
-                            <li class="first">Publishing on the top 10 global platforms</li>
+                            <li class="first">Publishing on the top 5 global platforms</li>
                             <li>Ebook, paperback and hardcover</li>
                             <li>Proofreading</li>
                             <li>Adjusting the typesetting and layout according to publishing standards</li>
@@ -285,7 +285,7 @@
                         <p>EDITING, FORMATTING, SPELL CHECK & TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
                             STANDARDS</p>
                         <ul>
-                            <li class="first">Publishing on the top 5 platforms</li>
+                            <li class="first">Publishing on the top 10 platforms</li>
                             <li>Ebook, paperback and hardcover</li>
                             <li>Proofreading</li>
                             <li>Adjusting the typesetting and layout according to publishing standards</li>
@@ -317,7 +317,7 @@
                             STANDARDS.</p>
                         <ul>
                             <li class="first">Authors Website</li>
-                            <li>Publishing on the top 5 platforms</li>
+                            <li>Publishing on the top 20 platforms</li>
                             <li>Ebook, paperback and hardcover</li>
                             <li>Audio Book</li>
                             <li>Proofreading</li>
