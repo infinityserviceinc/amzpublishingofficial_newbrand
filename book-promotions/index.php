@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
 
-    <title>Rank#1 Book Publishing Company | AMZ Publishing Official</title>
+    <title>Rank#1 Book Publishing Company | Amazon Publishing Official</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
@@ -15,40 +15,22 @@
     <link rel="stylesheet" type="text/css" href="css/animate.css">
     <link rel="stylesheet" type="text/css" href="css/fancybox.css">
     <link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
-    
+
     <link rel="stylesheet" type="text/css" href="css/slick.css">
     <!-- Slick Slider CSS -->
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
 
-<!-- Slick Slider Theme CSS (Optional) -->
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+    <!-- Slick Slider Theme CSS (Optional) -->
+    <link rel="stylesheet" type="text/css"
+        href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css" />
 
     <link href="css/pro.min.css" rel="stylesheet">
-    <link rel="shortcut icon" href="images/favicon.png" type="images/favicon" />
+    <link rel="shortcut icon" href="images/favicon.ico" type="images/favicon" />
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/16.0.0/css/intlTelInput.css">
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap">
-<!-- Google Tag Manager -->
-<script>
-    (function(w, d, s, l, i) {
-        w[l] = w[l] || [];
-        w[l].push({
-            'gtm.start': new Date().getTime(),
-            event: 'gtm.js'
-        });
-        var f = d.getElementsByTagName(s)[0],
-            j = d.createElement(s),
-            dl = l != 'dataLayer' ? '&l=' + l : '';
-        j.async = true;
-        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-        f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-P4X9DNWR');
-    </script><!-- End Google Tag Manager -->
-    <!-- Google Tag Manager (noscript) --><noscript><iframe
-            src="https://www.googletagmanager.com/ns.html?id=GTM-P4X9DNWR" height="0" width="0"
-            style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) -->
-    </head>
+</head>
 <style type="text/css">
 .serv-col-main a {
     color: #000;
@@ -66,11 +48,12 @@
                 <div class="col-12 col-md-12 col-sm-12 col-lg-12 col-xl-12 col-xxl-12">
                     <ul>
 
-                        <li><a href="tel:+18882852656"><img width="27" height="15" alt="The writer tree"
-                                    src="images/flag.webp" class="img-fluid" alt="img">+18882852656</a></li>
-                        <li><a href="tel:"><i class="far fa-envelope"></i></a></li>
-                        <li><a href="javascript:;" onclick="Tawk_API.toggle()"><i class="fal fa-comment"></i>Live
-                                Chat</a></li>
+                        <li><a href="tel:+18886012146"><img width="27" height="15" alt="The writer tree"
+                                    src="images/flag.webp" class="img-fluid" alt="img">+18886012146</a></li>
+                        <li><a href="mailto:info@amzpublishingofficial.com"><i class="fa fa-envelope" aria-hidden="true"></i>
+                                    info@amzpublishingofficial.com
+                                </a></li>
+                        
                     </ul>
                 </div>
             </div>
@@ -86,8 +69,8 @@
                 </div>
                 <div class="col-sm-8">
                     <div class="serv-cta-btn inr-tab-btn header-btn cta-tab-btn">
-                        <a href="tel:+18882852656" class="serv-cta-tel"><img width="27" height="15" alt="The writer tree"
-                                src="images/flag.webp">+18882852656</a>
+                        <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15"
+                                alt="The writer tree" src="images/flag.webp">+18886012146</a>
                         <a href="javascript:;" data-toggle="modal" data-target="#staticBackdrop1"
                             class="serv-cta-tel">Get Started</a>
                         <a href="javascript:;" class="serv-cta-chat chats" onclick="Tawk_API.toggle()">Live Chat</a>
@@ -96,12 +79,6 @@
             </div>
         </div>
     </div>
-
-
-
-
-
-
 
 
     <section class="main-banner">
@@ -135,18 +112,20 @@
                     <div class="form-st wow fadeInUp" data-wow-duration="4s">
                         <form method="POST" class="right" action="/leads/">
                             <div class="form-div form-div-1">
-                                <input type="text" autocomplete="off" placeholder="Enter your name" name="name" required />
+                                <input type="text" autocomplete="off" placeholder="Enter your name" name="name"
+                                    required />
                             </div>
-                            <div class="form-div form-div-2"> 
-                                <input type="email" autocomplete="off" placeholder="Enter Email" name="email" required />
+                            <div class="form-div form-div-2">
+                                <input type="email" autocomplete="off" placeholder="Enter Email" name="email"
+                                    required />
                             </div>
                             <div class="form-div form-div-3">
-                                <input  name="phone" type="text" placeholder="Enter Phone Number"
+                                <input name="phone" type="text" placeholder="Enter Phone Number"
                                     title="Minimum 7 characters " required />
                             </div>
                             <div class="text-center form-div-btn">
-                                <input class="btn_green" type="submit" name="quote"
-                                    value="Get a free quote" /> <i class="fa fa-arrow-right" aria-hidden="true"></i>
+                                <input class="btn_green" type="submit" name="quote" value="Get a free quote" /> <i
+                                    class="fa fa-arrow-right" aria-hidden="true"></i>
 
 
                             </div>
@@ -173,32 +152,30 @@
                             <div class="cl-logo-slider">
                                 <div>
                                     <div class="cl-logo-img" data-toggle="modal" data-target="#staticBackdrop1">
-                                        <img width="200" height="51" alt="The writer tree" loading="lazy"
-                                            src="images/ll-1.png">
+                                        <img alt="The writer tree" loading="lazy" src="images/ll-1.png">
                                     </div>
                                 </div>
                                 <div>
                                     <div class="cl-logo-img" data-toggle="modal" data-target="#staticBackdrop1">
-                                        <img width="200" height="51" alt="The writer tree" loading="lazy"
-                                            src="images/ll-3.png">
+                                        <img alt="The writer tree" loading="lazy" src="images/ll-3.png">
                                     </div>
                                 </div>
                                 <div>
                                     <div class="cl-logo-img" data-toggle="modal" data-target="#staticBackdrop1">
-                                        <img width="200" height="51" alt="The writer tree" loading="lazy"
-                                            src="images/ll-2.png">
+                                        <img alt="The writer tree" loading="lazy" src="images/ll-2.png"
+                                            style="margin-top:12px;">
                                     </div>
                                 </div>
                                 <div>
                                     <div class="cl-logo-img" data-toggle="modal" data-target="#staticBackdrop1">
-                                        <img width="200" height="51" alt="The writer tree" loading="lazy"
-                                            src="images/ll-4.png">
+                                        <img alt="The writer tree" loading="lazy" src="images/ll-4.png"
+                                            style="margin-top:12px;">
                                     </div>
                                 </div>
                                 <div>
                                     <div class="cl-logo-img" data-toggle="modal" data-target="#staticBackdrop1">
-                                        <img width="200" height="51" alt="The writer tree" loading="lazy"
-                                            src="images/ll-5.png">
+                                        <img alt="The writer tree" loading="lazy" src="images/ll-5.png"
+                                            style="margin-top:5px;">
                                     </div>
                                 </div>
 
@@ -224,9 +201,9 @@
                             <div class="serv-cta">
                                 <h3>The Best Place for Book Writing and Publishing!</h3>
                                 <div class="serv-cta-btn">
-                                    <a href="tel:+18882852656" class="serv-cta-tel"><img width="27" height="15"
+                                    <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15"
                                             alt="The writer tree" src="images/flag.webp">
-                                        +18882852656</a>
+                                        +18886012146</a>
                                     <a href="javascript:;" onclick="Tawk_API.toggle()" class="serv-cta-chat chats">Live
                                         Chat</a>
                                 </div>
@@ -239,7 +216,7 @@
                         </div>
                     </div>
                 </div>
-                
+
             </div>
 
         </div>
@@ -254,12 +231,18 @@
                 </div>
                 <div class="col-sm-12 indust-tab-lst fontli">
                     <ul id="nav-tabs-wrapper" class="nav nav-tabs nav-tabs-horizontal">
-                        <li class="active "><a href="#tab1" data-toggle="tab" aria-expanded="false">Author Brand Recognition</a></li>
-                        <li class=""><a href="#tab2" data-toggle="tab" aria-expanded="false">Social Media Management</a></li>
-                        <li class=""><a href="#tab3" data-toggle="tab" aria-expanded="false">Social Media Campaigns</a></li>
-                        <li class=""><a href="#tab4" data-toggle="tab" aria-expanded="false">Marketing Strategies</a></li>
-                        <li class=""><a href="#tab5" data-toggle="tab" aria-expanded="false">Finding the Right Audience</a></li>
-                        <li class=""><a href="#tab6" data-toggle="tab" aria-expanded="false">Author Website Designing / Re-Designing</a></li>
+                        <li class="active "><a href="#tab1" data-toggle="tab" aria-expanded="false">Author Brand
+                                Recognition</a></li>
+                        <li class=""><a href="#tab2" data-toggle="tab" aria-expanded="false">Social Media Management</a>
+                        </li>
+                        <li class=""><a href="#tab3" data-toggle="tab" aria-expanded="false">Social Media Campaigns</a>
+                        </li>
+                        <li class=""><a href="#tab4" data-toggle="tab" aria-expanded="false">Marketing Strategies</a>
+                        </li>
+                        <li class=""><a href="#tab5" data-toggle="tab" aria-expanded="false">Finding the Right
+                                Audience</a></li>
+                        <li class=""><a href="#tab6" data-toggle="tab" aria-expanded="false">Author Website Designing /
+                                Re-Designing</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-12">
@@ -269,15 +252,17 @@
                                 <div class="col-sm-7">
                                     <div class="indus-tab-txt">
                                         <h2 style="font-size: 46px;">Author Brand Recognition</h2>
-                                        <p>We will establish you as a recognizable and respected author with our author brand
-                                    recognition strategy. We'll help you build a strong personal brand that connects
-                                    with your target audience.
+                                        <p>We will establish you as a recognizable and respected author with our author
+                                            brand
+                                            recognition strategy. We'll help you build a strong personal brand that
+                                            connects
+                                            with your target audience.
                                         </p>
                                     </div>
                                     <div class="serv-cta-btn inr-tab-btn">
-                                        <a href="tel:+18882852656" class="serv-cta-tel"><img width="27" height="15"
+                                        <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15"
                                                 alt="The writer tree" src="images/flag.webp">
-                                            +18882852656</a>
+                                            +18886012146</a>
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
@@ -287,9 +272,8 @@
                                 </div>
                                 <div class="col-sm-5">
                                     <div class="indus-tab-img">
-                                        <img width="100%" height="100%" alt="The writer tree"
-                                            src="images/aa.png" data-toggle="modal"
-                                            data-target="#staticBackdrop1">
+                                        <img width="100%" height="100%" alt="The writer tree" src="images/aa.png"
+                                            data-toggle="modal" data-target="#staticBackdrop1">
                                     </div>
                                 </div>
                             </div>
@@ -300,14 +284,16 @@
                                 <div class="col-sm-7">
                                     <div class="indus-tab-txt">
                                         <h2 style="font-size: 46px;">Social Media Management</h2>
-                                        <p>We will control your online presence with our social media management services. We'll
-                                    set up and manage your social media accounts, post content, and interact with your
-                                    followers to keep your presence active and interesting.</p>
+                                        <p>We will control your online presence with our social media management
+                                            services. We'll
+                                            set up and manage your social media accounts, post content, and interact
+                                            with your
+                                            followers to keep your presence active and interesting.</p>
                                     </div>
                                     <div class="serv-cta-btn inr-tab-btn">
-                                        <a href="tel:+18882852656" class="serv-cta-tel"><img width="27" height="15"
+                                        <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15"
                                                 alt="The writer tree" src="images/flag.webp">
-                                            +18882852656</a>
+                                            +18886012146</a>
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
@@ -329,13 +315,15 @@
                                     <div class="indus-tab-txt">
                                         <h2 style="font-size: 46px;">Social Media Campaigns</h2>
                                         <p>We will maximize your book's reach with targeted social media book marketing
-                                    campaigns. Our team will create, launch, and manage campaigns on platforms like
-                                    Facebook, Twitter, LinkedIn, and Instagram to reach your target audience.</p>
+                                            campaigns. Our team will create, launch, and manage campaigns on platforms
+                                            like
+                                            Facebook, Twitter, LinkedIn, and Instagram to reach your target audience.
+                                        </p>
                                     </div>
                                     <div class="serv-cta-btn inr-tab-btn">
-                                        <a href="tel:+18882852656" class="serv-cta-tel"><img width="27" height="15"
+                                        <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15"
                                                 alt="The writer tree" src="images/flag.webp">
-                                            +18882852656</a>
+                                            +18886012146</a>
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
@@ -358,14 +346,16 @@
                                     <div class="indus-tab-txt">
                                         <h2 style="font-size: 46px;">Marketing Strategies</h2>
                                         <p>We develop marketing plans and strategies while keeping in mind your targeted
-                                    audience and motives, and we take your book to the next level. Our team of experts
-                                    will come up with a plan to market your book in a way that increases sales and
-                                    conversions.</p>
+                                            audience and motives, and we take your book to the next level. Our team of
+                                            experts
+                                            will come up with a plan to market your book in a way that increases sales
+                                            and
+                                            conversions.</p>
                                     </div>
                                     <div class="serv-cta-btn inr-tab-btn">
-                                        <a href="tel:+18882852656" class="serv-cta-tel"><img width="27" height="15"
+                                        <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15"
                                                 alt="The writer tree" src="images/flag.webp">
-                                            +18882852656</a>
+                                            +18886012146</a>
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
@@ -387,14 +377,16 @@
                                 <div class="col-sm-7">
                                     <div class="indus-tab-txt">
                                         <h2 style="font-size: 46px;">Finding the Right Audience</h2>
-                                        <p>We find the right readers for your book with our audience discovery services. We will
-                                    help you identify and target your ideal audience through competitive market research
-                                    and data analysis.</p>
+                                        <p>We find the right readers for your book with our audience discovery services.
+                                            We will
+                                            help you identify and target your ideal audience through competitive market
+                                            research
+                                            and data analysis.</p>
                                     </div>
                                     <div class="serv-cta-btn inr-tab-btn">
-                                        <a href="tel:+18882852656" class="serv-cta-tel"><img width="27" height="15"
+                                        <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15"
                                                 alt="The writer tree" src="images/flag.webp">
-                                            +18882852656</a>
+                                            +18886012146</a>
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
@@ -415,14 +407,16 @@
                                 <div class="col-sm-7">
                                     <div class="indus-tab-txt">
                                         <h2 style="font-size: 46px;">Author Website Designing / Re-Designing</h2>
-                                        <p>We attract more readers and make a great first impression with a professional author
-                                    website. Our services for designing and re-designing websites will help you make a
-                                    beautiful, easy-to-use site that shows off your book and author brand.</p>
+                                        <p>We attract more readers and make a great first impression with a professional
+                                            author
+                                            website. Our services for designing and re-designing websites will help you
+                                            make a
+                                            beautiful, easy-to-use site that shows off your book and author brand.</p>
                                     </div>
                                     <div class="serv-cta-btn inr-tab-btn">
-                                        <a href="tel:+18882852656" class="serv-cta-tel"><img width="27" height="15"
+                                        <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15"
                                                 alt="The writer tree" src="images/flag.webp">
-                                            +18882852656</a>
+                                            +18886012146</a>
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
@@ -452,8 +446,8 @@
                         <p>Don't hide your writing creativity beneath a pile of words; instead, let our book marketing
                             agency assist you in making your creativity visible to the world.</p>
                         <div class="serv-cta-btn inr-tab-btn cta-tab-btn">
-                            <a href="tel:+18882852656" class="serv-cta-tel"><img width="27" height="15"
-                                    alt="The writer tree" src="images/flag.webp"> +18882852656</a>
+                            <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15"
+                                    alt="The writer tree" src="images/flag.webp"> +18886012146</a>
                             <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                 data-target="#staticBackdrop1">Get Started</a>
                             <a href="javascript:;" class="serv-cta-chat chats" onclick="Tawk_API.toggle()">Live Chat</a>
@@ -481,43 +475,43 @@
                 <div class="resume_inner">
                     <div class="col-md-2">
                         <div class="resume_box box18 wow bounceInLeft"> <a href="images/portfolio/t-1.webp"
-                                data-fancybox="group" rel="ligthbox"> <img width="100%" height="100%" alt="The writer tree"
-                                    src="images/portfolio/t-1.webp">
+                                data-fancybox="group" rel="ligthbox"> <img width="100%" height="100%"
+                                    alt="The writer tree" src="images/portfolio/t-1.webp">
                                 <div class="box-content"> <i class="fa fa-plus"></i> </div>
                             </a> </div>
                     </div>
                     <div class="col-md-2">
                         <div class="resume_box box18 wow bounceInLeft"> <a href="images/portfolio/t-2.webp"
-                                data-fancybox="group" rel="ligthbox"> <img width="100%" height="100%" alt="The writer tree"
-                                    src="images/portfolio/t-2.webp">
+                                data-fancybox="group" rel="ligthbox"> <img width="100%" height="100%"
+                                    alt="The writer tree" src="images/portfolio/t-2.webp">
                                 <div class="box-content"> <i class="fa fa-plus"></i> </div>
                             </a> </div>
                     </div>
                     <div class="col-md-2">
                         <div class="resume_box box18 wow bounceInUp"> <a href="images/portfolio/t-3.webp"
-                                data-fancybox="group" rel="ligthbox"> <img width="100%" height="100%" alt="The writer tree"
-                                    src="images/portfolio/t-3.webp">
+                                data-fancybox="group" rel="ligthbox"> <img width="100%" height="100%"
+                                    alt="The writer tree" src="images/portfolio/t-3.webp">
                                 <div class="box-content"> <i class="fa fa-plus"></i> </div>
                             </a> </div>
                     </div>
                     <div class="col-md-2">
                         <div class="resume_box box18 wow bounceInUp"> <a href="images/portfolio/t-4.webp"
-                                data-fancybox="group" rel="ligthbox"> <img width="100%" height="100%" alt="The writer tree"
-                                    src="images/portfolio/t-4.webp">
+                                data-fancybox="group" rel="ligthbox"> <img width="100%" height="100%"
+                                    alt="The writer tree" src="images/portfolio/t-4.webp">
                                 <div class="box-content"> <i class="fa fa-plus"></i> </div>
                             </a> </div>
                     </div>
                     <div class="col-md-2">
                         <div class="resume_box box18 wow bounceInRight"> <a href="images/portfolio/t-5.webp"
-                                data-fancybox="group" rel="ligthbox"> <img width="100%" height="100%" alt="The writer tree"
-                                    src="images/portfolio/t-5.webp">
+                                data-fancybox="group" rel="ligthbox"> <img width="100%" height="100%"
+                                    alt="The writer tree" src="images/portfolio/t-5.webp">
                                 <div class="box-content"> <i class="fa fa-plus"></i> </div>
                             </a> </div>
                     </div>
                     <div class="col-md-2">
                         <div class="resume_box box18 wow bounceInRight"> <a href="images/portfolio/t-6.webp"
-                                data-fancybox="group" rel="ligthbox"> <img width="100%" height="100%" alt="The writer tree"
-                                    src="images/portfolio/t-6.webp">
+                                data-fancybox="group" rel="ligthbox"> <img width="100%" height="100%"
+                                    alt="The writer tree" src="images/portfolio/t-6.webp">
                                 <div class="box-content"> <i class="fa fa-plus"></i> </div>
                             </a> </div>
                     </div>
@@ -541,8 +535,8 @@
                             writing the book, it should pay off; therefore, our team of online book marketing services
                             provides the services that pay off for your creativity.</p>
                         <div class="serv-cta-btn inr-tab-btn cta-tab-btn">
-                            <a href="tel:+18882852656" class="serv-cta-tel"><img width="27" height="15"
-                                    alt="The writer tree" src="images/flag.webp"> +18882852656</a>
+                            <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15"
+                                    alt="The writer tree" src="images/flag.webp"> +18886012146</a>
                             <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                 data-target="#staticBackdrop1">Get Started</a>
                             <a href="javascript:;" class="serv-cta-chat chats" onclick="Tawk_API.toggle()">Live Chat</a>
@@ -587,9 +581,9 @@
                                         </p>
                                     </div>
                                     <div class="serv-cta-btn inr-tab-btn">
-                                        <a href="tel:+18882852656" class="serv-cta-tel"><img width="27" height="15"
+                                        <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15"
                                                 alt="The writer tree" src="images/flag.webp">
-                                            +18882852656</a>
+                                            +18886012146</a>
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
@@ -617,9 +611,9 @@
                                             book blogs and websites, and generate buzz for your book.</p>
                                     </div>
                                     <div class="serv-cta-btn inr-tab-btn">
-                                        <a href="tel:+18882852656" class="serv-cta-tel"><img width="27" height="15"
+                                        <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15"
                                                 alt="The writer tree" src="images/flag.webp">
-                                            +18882852656</a>
+                                            +18886012146</a>
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
@@ -646,9 +640,9 @@
                                             sales.</p>
                                     </div>
                                     <div class="serv-cta-btn inr-tab-btn">
-                                        <a href="tel:+18882852656" class="serv-cta-tel"><img width="27" height="15"
+                                        <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15"
                                                 alt="The writer tree" src="images/flag.webp">
-                                            +18882852656</a>
+                                            +18886012146</a>
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
@@ -675,9 +669,9 @@
                                             book's unique qualities and generate buzz in the drama community.</p>
                                     </div>
                                     <div class="serv-cta-btn inr-tab-btn">
-                                        <a href="tel:+18882852656" class="serv-cta-tel"><img width="27" height="15"
+                                        <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15"
                                                 alt="The writer tree" src="images/flag.webp">
-                                            +18882852656</a>
+                                            +18886012146</a>
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
@@ -705,9 +699,9 @@
                                             to buy it.</p>
                                     </div>
                                     <div class="serv-cta-btn inr-tab-btn">
-                                        <a href="tel:+18882852656" class="serv-cta-tel"><img width="27" height="15"
+                                        <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15"
                                                 alt="The writer tree" src="images/flag.webp">
-                                            +18882852656</a>
+                                            +18886012146</a>
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
@@ -733,9 +727,9 @@
                                             your book, and scare them with your creative power words.</p>
                                     </div>
                                     <div class="serv-cta-btn inr-tab-btn">
-                                        <a href="tel:+18882852656" class="serv-cta-tel"><img width="27" height="15"
+                                        <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15"
                                                 alt="The writer tree" src="images/flag.webp">
-                                            +18882852656</a>
+                                            +18886012146</a>
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
@@ -762,9 +756,9 @@
                                             your book's unique storytelling qualities.</p>
                                     </div>
                                     <div class="serv-cta-btn inr-tab-btn">
-                                        <a href="tel:+18882852656" class="serv-cta-tel"><img width="27" height="15"
+                                        <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15"
                                                 alt="The writer tree" src="images/flag.webp">
-                                            +18882852656</a>
+                                            +18886012146</a>
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
@@ -790,9 +784,9 @@
                                             and blogs, and drive sales and conversions.</p>
                                     </div>
                                     <div class="serv-cta-btn inr-tab-btn">
-                                        <a href="tel:+18882852656" class="serv-cta-tel"><img width="27" height="15"
+                                        <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15"
                                                 alt="The writer tree" src="images/flag.webp">
-                                            +18882852656</a>
+                                            +18886012146</a>
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
@@ -817,9 +811,9 @@
                                             Our team will engage the audience that loves to read romantic stories.</p>
                                     </div>
                                     <div class="serv-cta-btn inr-tab-btn">
-                                        <a href="tel:+18882852656" class="serv-cta-tel"><img width="27" height="15"
+                                        <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15"
                                                 alt="The writer tree" src="images/flag.webp">
-                                            +18882852656</a>
+                                            +18886012146</a>
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
@@ -920,8 +914,8 @@
                 </div>
             </div>
             <div class="serv-cta-btn inr-tab-btn cta-tab-btn">
-                <a href="tel:+18882852656" class="serv-cta-tel"><img width="27" height="15" alt="The writer tree"
-                        src="images/flag.webp"> +18882852656</a>
+                <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15" alt="The writer tree"
+                        src="images/flag.webp"> +18886012146</a>
                 <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal" data-target="#staticBackdrop1">Get
                     Started</a>
                 <a href="javascript:;" class="serv-cta-chat chats" onclick="Tawk_API.toggle()">Live Chat</a>
@@ -950,8 +944,8 @@
                     </div>
                     <div>
                         <div class="serv-cta-btn inr-tab-btn cta-tab-btn">
-                            <a href="tel:+18882852656" class="serv-cta-tel"><img width="27" height="15"
-                                    alt="The writer tree" src="images/flag.webp"> +18882852656</a>
+                            <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15"
+                                    alt="The writer tree" src="images/flag.webp"> +18886012146</a>
                             <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                 data-target="#staticBackdrop1">Get Started</a>
                             <a href="javascript:;" class="serv-cta-chat chats" onclick="Tawk_API.toggle()">Live Chat</a>
@@ -1018,105 +1012,97 @@
 
         </div>
     </section>
-    <section  class="cta__2 bg-detail spacing__x" >
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12 text-center">
-					<h2 class="h2Heading">Tips for having a successful Brand Identity</h2>
-					<p>The logo is usually the base of creating all your other designs. What we mean by that is that it
-						sets a tone for other designs to come after it. Take an example of a renowned consumer brand.
-						When you see anything featuring their colors, the brand instantly comes to your mind. That color
-						combination is present everywhere that has even a remote connection to them.
-						Your brand identity is deeply connected to your logo's theme and style. It can also be said
-						brand identity is set when you create a logo.
-					</p>
-					<!-- <img src="img/services/Vector-Smart-Object.png" alt="image vactor " class="img-fluid "> -->
+    <section class="cta__2 bg-detail spacing__x">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <h2 class="h2Heading">Tips for Establishing a Strong Brand Identity On Social Platforms</h2>
+                    <p>
+                        Book marketing and branding comprise various stages. With us, it never starts with creating a page or maintaining a Facebook presence. We work on various strategies to set the tone surrounding your book. 
+                    </p>
+                    <!-- <img src="img/services/Vector-Smart-Object.png" alt="image vactor " class="img-fluid "> -->
 
-					<div class="bookWithContentArea">
-						<div class="row">
-							<div class="col-md-3 p-0 bookWithContent">
-								<div class=" one-box p-md-0">
-									<button class="serv-cta-chat chats">Think
-										Like An Analyst</button>
-									<p class="para text-center pt-1">
-										Branding is more than coming up with a catchy slogan. Instead, it depends on the
-										skill and ability of the designer. It would help if you thought like a marketing
-										manager rather than an owner.
-								</p></div>
-								<div class=" two-box p-md-0">
-									<button class="serv-cta-chat chats">Consistency Is
-										Key</button>
-									<p class="para text-center pt-1">
-										Make sure that the efforts that go into your business's brand management are as
-										consistent as possible. You cannot focus heavily on one timespan and ignore it
-										in the next.
-									</p>
-								</div>
-								<div class=" three-box p-md-0">
-									<button class="serv-cta-chat chats">Know Your
-										Audience</button>
-									<p class="para text-center pt-1">
-										Make sure that everything that you're doing to target your share of the market.
-										Do the things they like and pay attention to your audience only and not someone
-										else's
-									</p>
-								</div>
-								<div class=" three-box p-md-0">
-									<button class="serv-cta-chat chats">Define Your
-										Budget
+                    <div class="bookWithContentArea">
+                        <div class="row">
+                            <div class="col-md-3 p-0 bookWithContent">
+                                <div class=" one-box p-md-0">
+                                    <button class="serv-cta-chat chats">
+                                        Cover Designing is the Key
+                                    </button>
+                                    <p class="para text-center pt-1">
+                                        Think of well-known book series or authors; when you encounter their distinctive cover designs, their entire literary world immediately comes to mind. We help you work on the colors, imagery, and typography in your book’s design to shape your identity. 
+                                    </p>
+                                </div>
+                                <div class=" two-box p-md-0">
+                                    <button class="serv-cta-chat chats">
+                                        Adopt an Analytical Approach 
+                                    </button>
+                                    <p class="para text-center pt-1">
+                                        In the world of book marketing, branding goes beyond crafting a catchy slogan. It hinges on the skills and expertise of the designer, who should think more like a savvy marketing manager than a mere book owner.
+                                    </p>
+                                </div>
+                                <div class=" three-box p-md-0">
+                                    <button class="serv-cta-chat chats">
+                                        Consistency Is Crucial 
+                                    </button>
+                                    <p class="para text-center pt-1">
+                                        To ensure your book’s brand remains strong, maintain a consistent approach throughout your marketing efforts. Avoid fluctuating between heavy marketing efforts and periods of neglect.
+                                    </p>
+                                </div>
+                                <div class=" three-box p-md-0">
+                                    <button class="serv-cta-chat chats">
+                                        Understand Your Reader Base
+                                    </button>
+                                    <p class="para text-center pt-1">
+                                        Your primary focus should be catering to your target audience’s preferences and interests. We help you tailor your marketing efforts to align readers’ expectations rather than trying to appeal to a different demographic.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-md-6 p-0 ">
+                                <img src="images/books.jpg" class="img-fluid imgBook" alt="book image">
+                            </div>
+                            <div class="col-md-3 p-0">
+                                <div class=" four-box p-md-0">
+                                    <button class="serv-cta-chat chats">
+                                        Set a Marketing Budget 
+                                    </button>
+                                    <p class="para text-center pt-1">
+                                        Budgeting plays a vital role in book marketing success. The amount you allocate to marketing will directly impact the results you achieve. As a general rule, more substantial investments often lead to better outcomes.
+                                    </p>
+                                </div>
+                                <div class=" five-box p-md-0">
+                                    <button class="serv-cta-chat chats">
+                                        Commit to Long-Term Branding 
+                                    </button>
+                                    <p class="para text-center pt-1">
+                                        While branding may not yield instant results in book marketing, patience is key. You must have unwavering faith in your book and consistently make the best strategic decisions.
+                                    </p>
+                                </div>
+                                <div class=" six-box p-md-0">
+                                    <button class="serv-cta-chat chats">
+                                        Differentiate Your Book 
+                                    </button>
+                                    <p class="para text-center pt-1">
+                                        In a crowded market, it’s likely that your book isn’t the first of its kind. To stand out, we help you employ strategies that set your book apart from the competition.
+                                    </p>
+                                </div>
+                                <div class=" six-box p-md-0">
+                                    <button class="serv-cta-chat chats">
+                                        Develop a Thoughtful Plan 
+                                    </button>
+                                    <p class="para text-center pt-1">
+                                        A well-thought-out plan is invaluable in book marketing. With us, craft a strategic plan and adhere to it meticulously to ensure the success of your branding efforts.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
 
-									</button>
-									<p class="para text-center pt-1">
-										Budgeting is a very important process because marketing depends on how much to
-										spend on it, the more you spend, the better results you’ll get.
-									</p>
-								</div>
-							</div>
-							<div class="col-md-6 p-0 ">
-								<img src="images/books.jpg" class="img-fluid imgBook" alt="book image">
-							</div>
-							<div class="col-md-3 p-0">
-								<div class=" four-box p-md-0">
-									<button class="serv-cta-chat chats">Commitment Is
-										Vital</button>
-									<p class="para text-center pt-1">
-										While branding may not bear instant fruits, wait for a while. You need to
-										completely believe in your brand and make the best decisions available to you.
-									</p>
-								</div>
-								<div class=" five-box p-md-0">
-									<button class="serv-cta-chat chats">Stand Out</button>
-									<p class="para text-center pt-1">
-										Chance are, your business is not the first of its kind. The market is already
-										highly competitive. Make sure that you're doing all you can to distinguish
-										yourself.
-									</p>
-								</div>
-								<div class=" six-box p-md-0">
-									<button class="serv-cta-chat chats">Having A
-										Dedicated Plan</button>
-									<p class="para text-center pt-1">
-										It always helps to have a plan before doing anything in particular. The same
-										goes for branding, have a plan set in motion, and make sure that you follow it
-										perfectly.
-									</p>
-								</div>
-								<div class=" six-box p-md-0">
-									<button class="serv-cta-chat chats">Start building an Online Presence Early
-									</button>
-									<p class="para text-center pt-1">
-										We will start making your online presence like website, social media account, and reviews platforms.
-									</p>
-								</div>
-							</div>
-						</div>
+                    </div>
 
-					</div>
-					
-				</div>
-			</div>
-		</div>
-</section>
+                </div>
+            </div>
+        </div>
+    </section>
     <section class="our-testimonial bg-detail spacing__x"
         style="    background: url(images/footer-bg.webp) repeat 0 0;">
         <div class="container-fluid">
@@ -1125,23 +1111,23 @@
                     <div class="img-box text-right ">
                         <ul class="single-review-slider">
                             <li>
-                            <img width="100%" height="100%" alt="The writer tree" loading="lazy"
-                            src="images/mix/testimonial-img-01.webp" class="img-fluid" data-toggle="modal"
-                            data-target="#staticBackdrop1">
+                                <img width="100%" height="100%" alt="The writer tree" loading="lazy"
+                                    src="images/mix/testimonial-img-01.webp" class="img-fluid" data-toggle="modal"
+                                    data-target="#staticBackdrop1">
                             </li>
                             <li>
-                            <img width="100%" height="100%" alt="The writer tree" loading="lazy"
-                            src="images/mix/chu.png" class="img-fluid" data-toggle="modal"
-                            data-target="#staticBackdrop1">
+                                <img width="100%" height="100%" alt="The writer tree" loading="lazy"
+                                    src="images/mix/chu.png" class="img-fluid" data-toggle="modal"
+                                    data-target="#staticBackdrop1">
                             </li>
                             <li>
-                            <img width="100%" height="100%" alt="The writer tree" loading="lazy"
-                            src="images/mix/chu1.png" class="img-fluid" data-toggle="modal"
-                            data-target="#staticBackdrop1">
+                                <img width="100%" height="100%" alt="The writer tree" loading="lazy"
+                                    src="images/mix/chu1.png" class="img-fluid" data-toggle="modal"
+                                    data-target="#staticBackdrop1">
                             </li>
                         </ul>
 
-                              
+
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-12 col-12 col-xs-12 col-md-12">
@@ -1202,150 +1188,176 @@
         </div>
     </section>
     <section class="faq-section">
-  <div class="container">
-    <h2 class="faq-title">Frequently Asked Questions</h2>
-    <p class="faq-description">Before contacting us, you might want to check whether your question is one of our frequently asked questions.</p>
-    <div class="faq-accordion">
-      <div class="faq-item">
-        <input type="checkbox" id="faq-item-1">
-        <label for="faq-item-1" class="faq-question">What is meant by book promotion? <span class="faq-toggle-icon" style="font-size: 20px;
+        <div class="container">
+            <h2 class="faq-title">Frequently Asked Questions</h2>
+            <p class="faq-description">Before contacting us, you might want to check whether your question is one of our
+                frequently asked questions.</p>
+            <div class="faq-accordion">
+                <div class="faq-item">
+                    <input type="checkbox" id="faq-item-1">
+                    <label for="faq-item-1" class="faq-question">What is meant by book promotion? <span
+                            class="faq-toggle-icon" style="font-size: 20px;
     color: #339aa1; float: inline-end;">+</span></label>
-        <div class="faq-answer">
-          <p>Book promotion involves both online marketing and bookstore promotion to make your book known to the intended audience and encourage sales.</p>
-        </div>
-      </div>
-      <div class="faq-item">
-        <input type="checkbox" id="faq-item-2">
-        <label for="faq-item-2" class="faq-question">What is the job of a book marketer? <span class="faq-toggle-icon" style="font-size: 20px;
-    color: #339aa1; float: inline-end;">+</span></label>
-        <div class="faq-answer">
-          <p>The primary role of a book marketer is to utilize diverse communication channels to promote an author's book effectively and reach the intended audience.</p>
-        </div>
-      </div>
-      <div class="faq-item">
-        <input type="checkbox" id="faq-item-3">
-        <label for="faq-item-3" class="faq-question">Should I hire a book marketer? <span class="faq-toggle-icon" style="font-size: 20px;
-    color: #339aa1; float: inline-end;">+</span></label>
-        <div class="faq-answer">
-          <p>To ensure your book gains the attention and recognition it deserves, hiring a professional book marketer online is essential.</p>
-        </div>
-      </div>
-      <div class="faq-item">
-        <input type="checkbox" id="faq-item-4">
-        <label for="faq-item-4" class="faq-question">What things should I consider when hiring a book marketer? <span class="faq-toggle-icon" style="font-size: 20px;
-    color: #339aa1; float: inline-end;">+</span></label>
-        <div class="faq-answer">
-          <p>When looking to hire a book marketer, it is essential to take into account factors such as their experience, certification, portfolio, website, and level of professionalism.</p>
-        </div>
-      </div>
-      <div class="faq-item">
-        <input type="checkbox" id="faq-item-5">
-        <label for="faq-item-5" class="faq-question">How much do book marketing services cost? <span class="faq-toggle-icon" style="font-size: 20px;
-    color: #339aa1; float: inline-end;">+</span></label>
-        <div class="faq-answer">
-          <p>Despite the initial cost, investing in book marketing services can lead to profitable returns over time.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+                    <div class="faq-answer">
+                        <p>Book promotion involves both online marketing and bookstore promotion to make your book known to the intended audience and encourage sales.
 
-<style>
+</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <input type="checkbox" id="faq-item-2">
+                    <label for="faq-item-2" class="faq-question">What is the job of a book marketer? <span
+                            class="faq-toggle-icon" style="font-size: 20px;
+    color: #339aa1; float: inline-end;">+</span></label>
+                    <div class="faq-answer">
+                        <p>The primary role of a book marketer is to utilize diverse communication channels to promote an author's book effectively and reach the intended audience.
+
+</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <input type="checkbox" id="faq-item-3">
+                    <label for="faq-item-3" class="faq-question">Should I hire a book marketer? <span
+                            class="faq-toggle-icon" style="font-size: 20px;
+    color: #339aa1; float: inline-end;">+</span></label>
+                    <div class="faq-answer">
+                        <p>To ensure your book gains the attention and recognition it deserves, hiring a professional book marketer online is essential.
+
+</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <input type="checkbox" id="faq-item-4">
+                    <label for="faq-item-4" class="faq-question">What things should I consider when hiring a book marketer?<span
+                            class="faq-toggle-icon" style="font-size: 20px;
+    color: #339aa1; float: inline-end;">+</span></label>
+                    <div class="faq-answer">
+                        <p>When looking to hire a book marketer, it is essential to take into account factors such as their experience, certification, portfolio, website, and level of professionalism.
+
+</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <input type="checkbox" id="faq-item-5">
+                    <label for="faq-item-5" class="faq-question">How much do book marketing services cost?
+                        <span class="faq-toggle-icon" style="font-size: 20px;
+    color: #339aa1; float: inline-end;">+</span></label>
+                    <div class="faq-answer">
+                        <p>Despite the initial cost, investing in book marketing services can lead to profitable returns over time.
+
+</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <style>
     section.sec_9 {
-    padding: 80px 0;
-}
-.client_inner {
-    text-align: center;
-}
-.come-in:nth-child(odd) {
-    animation-duration: 1.5s;
-}
-section.sec_9 h2 {
-    color: #051d38;
-}
-.client_inner h2 {
-    font-size: 38px;
-    font-weight: bold;
-    color: #fff;
-}
-section.sec_9 h2 span {
-    color: #48bac4;
-}
-.client_inner p {
-    font-size: 18px;
-    width: 70%;
-    margin: auto !important;
-}
-.come-in {
-    transform: translate3d(0, 100px, 0);
-    animation: come-in 1s ease forwards;
-}
-div#accordionExample {
-    width: 90%;
-    margin: auto;
-}
-.accordion-item {
-    border: none !important;
-    border-top: 1px solid #ccc !important;
-}
+        padding: 80px 0;
+    }
 
-.faq-section {
-  /* background: #f7f7f7; */
-  padding: 40px 0;
-  /* text-align: center; */
-}
+    .client_inner {
+        text-align: center;
+    }
 
-.faq-title {
-  font-size: 30px;
-  margin-bottom: 20px;
-  text-align:center;
+    .come-in:nth-child(odd) {
+        animation-duration: 1.5s;
+    }
 
-}
+    section.sec_9 h2 {
+        color: #051d38;
+    }
 
-.faq-description {
-  font-size: 16px;
-  margin-bottom: 40px;
-  text-align:center;
-}
+    .client_inner h2 {
+        font-size: 38px;
+        font-weight: bold;
+        color: #fff;
+    }
 
-.faq-accordion {
-  max-width: 100%;
-  margin: 0 auto;
-}
+    section.sec_9 h2 span {
+        color: #48bac4;
+    }
 
-.faq-item {
-    margin: 10px 0;
-    border: 1px solid #339aa1;
-    /* border-radius: 5px; */
-}
+    .client_inner p {
+        font-size: 18px;
+        width: 70%;
+        margin: auto !important;
+    }
 
-.faq-item input {
-  display: none;
-}
+    .come-in {
+        transform: translate3d(0, 100px, 0);
+        animation: come-in 1s ease forwards;
+    }
 
-.faq-question {
-    display: block;
-    padding: 20px;
-    background: #fff;
-    cursor: pointer;
-    font-weight: 500;
-    font-family: 'Poppins';
-}
+    div#accordionExample {
+        width: 90%;
+        margin: auto;
+    }
 
-.faq-answer {
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.3s;
-  background: #fff;
-  padding-left: 20px;
+    .accordion-item {
+        border: none !important;
+        border-top: 1px solid #ccc !important;
+    }
 
-}
+    .faq-section {
+        /* background: #f7f7f7; */
+        padding: 40px 0;
+        /* text-align: center; */
+    }
 
-.faq-item input:checked + .faq-question + .faq-answer {
-  max-height: 200px; /* Adjust as needed */
-}
+    .faq-title {
+        font-size: 30px;
+        margin-bottom: 20px;
+        text-align: center;
 
-/* .faq-toggle-icon::after {
+    }
+
+    .faq-description {
+        font-size: 16px;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+    .faq-accordion {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+
+    .faq-item {
+        margin: 10px 0;
+        border: 1px solid #339aa1;
+        /* border-radius: 5px; */
+    }
+
+    .faq-item input {
+        display: none;
+    }
+
+    .faq-question {
+        display: block;
+        padding: 20px;
+        background: #fff;
+        cursor: pointer;
+        font-weight: 500;
+        font-family: 'Poppins';
+    }
+
+    .faq-answer {
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.3s;
+        background: #fff;
+        padding-left: 20px;
+
+    }
+
+    .faq-item input:checked+.faq-question+.faq-answer {
+        max-height: 200px;
+        /* Adjust as needed */
+    }
+
+    /* .faq-toggle-icon::after {
   content: "+";
 }
 
@@ -1362,15 +1374,17 @@ div#accordionExample {
 
 .faq-item input:checked + .faq-question + .faq-answer {
   max-height: 200px; /* Adjust as needed */
-} */
+    }
 
-</style>
+    */
+    </style>
     <div class="packages-sec bg-detail leftinner" style="background-image: url(images/packagesbg.webp);">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6 col-sm-12 col-12 col-xs-12 col-md-12 my-auto">
                     <h2 class="text-left color-white">Let Us Create Your Book Presence like a Legacy</h2>
-                    <p class="text-left color-white">AMZ Publishing Official is a renowned name in the book industry, serving
+                    <p class="text-left color-white">Amazon Publishing Official is a renowned name in the book industry,
+                        serving
                         book writing, book marketing, and book publication services for years. Among our expert services
                         are:</p>
                     <ul class="checklist">
@@ -1411,7 +1425,8 @@ div#accordionExample {
                                                         <div class="col-lg-12">
                                                             <div class="fldset">
                                                                 <input id="username" name="name" minlength="2"
-                                                                    type="text" placeholder="Enter your name" required />
+                                                                    type="text" placeholder="Enter your name"
+                                                                    required />
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-12">
@@ -1428,8 +1443,7 @@ div#accordionExample {
                                                         </div>
                                                         <div class="col-lg-12">
                                                             <div class="fldset massage-field">
-                                                                <textarea placeholder="Message"
-                                                                    name="brief"></textarea>
+                                                                <textarea placeholder="Message" name="brief"></textarea>
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-12">
@@ -1488,9 +1502,9 @@ div#accordionExample {
             <a href="javascript:;" class="chat_wrap borderOnly" onclick="Tawk_API.toggle()">
                 <span class="icoo"><i class="fa-comment fas"></i></span>
                 <span>Chat With Us</span> </a>
-            <a href="tel:+18882852656" class="call_wrap borderOnly">
+            <a href="tel:+18886012146" class="call_wrap borderOnly">
                 <span class="icoo"><i class="fa-phone-alt fas"></i></span>
-                <span>+18882852656</span> </a>
+                <span>+18886012146</span> </a>
         </div>
         <div class="clickbutton borderOnly">
             <div class="crossplus">Get 65% Off Today</div>
@@ -1514,14 +1528,13 @@ div#accordionExample {
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="fldset">
-                                            <input id="cemail" type="text" name="email"
-                                                placeholder="Enter email here" required />
+                                            <input id="cemail" type="text" name="email" placeholder="Enter email here"
+                                                required />
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="fldset">
-                                            <input name="phone" type="text"
-                                                placeholder="Phone Number" required />
+                                            <input name="phone" type="text" placeholder="Phone Number" required />
                                         </div>
                                     </div>
 
@@ -1560,14 +1573,13 @@ div#accordionExample {
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="fldset">
-                                            <input id="cemail" type="text" name="email"
-                                                placeholder="Enter email here" required />
+                                            <input id="cemail" type="text" name="email" placeholder="Enter email here"
+                                                required />
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="fldset">
-                                            <input name="phone" type="text"
-                                                placeholder="Phone Number" required />
+                                            <input name="phone" type="text" placeholder="Phone Number" required />
                                         </div>
                                     </div>
 
@@ -1600,12 +1612,13 @@ div#accordionExample {
                     <div class="col-lg-12">
                         <div class="get-in-touch">
                             <p>Get in Touch With Us
-                                <a href="tel:+18882852656"><i class="fa fa-phone" aria-hidden="true"></i>+18882852656</a>
+                                <a href="tel:+18886012146"><i class="fa fa-phone"
+                                        aria-hidden="true"></i>+18886012146</a>
                                 <a href="mailto:info@amzpublishingofficial.com"><i class="fa fa-envelope"
                                         aria-hidden="true"></i>
                                     info@amzpublishingofficial.com
                                 </a>
-                                <a href="javascript:;"><i class="fa fa-map-marker" aria-hidden="true"></i>800 W Julian StSan Jose, CA 95126, USA</a>
+                                <a href="javascript:;"><i class="fa fa-map-marker" aria-hidden="true"></i>1599 Market StSan Francisco, CA 94103, USA</a>
                             </p>
                         </div>
                     </div>
@@ -1617,7 +1630,7 @@ div#accordionExample {
                 <div class="row justify-content-center">
                     <div class="col-lg-9">
                         <div class="copyright">
-                            <p>Copyright © AMZ Publishing Official 2023. All rights reserved.</p>
+                            <p>Copyright © Amazon Publishing Official 2023. All rights reserved.</p>
                         </div>
                     </div>
 
@@ -1630,7 +1643,8 @@ div#accordionExample {
                     <div class="col">
                         <p class="disclaimer">
                             <strong>Disclaimer:</strong><br />
-                            The services provided by AMZ Publishing Official become clients' property once delivered. AMZ Publishing Official will not hold any ownership rights once your work is successfully accepted by a
+                            The services provided by Amazon Publishing Official become clients' property once delivered. Harper
+                            Book Writers will not hold any ownership rights once your work is successfully accepted by a
                             publishing
                             house.
                         </p>
@@ -1640,7 +1654,140 @@ div#accordionExample {
         </div>
     </footer>
 
+    <style>
+    
+    .black_fridays {
+        width: 250px;
+        padding: 15px;
+        background: #000;
+        background-size: contain;
 
+        color: #fff;
+        position: fixed;
+        bottom: 30px;
+        left: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        border: 2px solid #fff;
+        border-radius: 15px;
+        box-shadow: 0 0 1px 2px #00838c, 0 0 1px 2px #00838c inset;
+    filter: drop-shadow(0px 0px 5px #f7922c);
+        z-index: 9;
+        cursor: pointer;
+        animation: 1s linear infinite bf-animate
+    }
+    
+    @keyframes bf-animate {
+    
+        0%,
+        100% {
+            filter: drop-shadow(0px 0px 5px #1c8374);
+            transform: translateY(-5px)
+        }
+    
+        50% {
+            filter: drop-shadow(0px 0px 5px #fff);
+            box-shadow: 0 0 1px 2px #fff, 0 0 1px 2px #fff inset;
+            border-color: #000;
+            transform: translateY(0)
+        }
+    
+        80% {
+            filter: drop-shadow(0px 0px 5px #fff);
+            box-shadow: 0 0 1px 2px #fff, 0 0 1px 2px #fff inset;
+            border-color: #000
+        }
+    }
+    
+    .black_fridays h2 {
+    font-size: 25px !important;
+    margin: 0;
+    margin-top: 10px;
+    /* font-weight: 600; */
+    color: #fff;
+}
+    
+    .black_fridays h2 span {
+        padding-left: 5px;
+        -webkit-text-stroke: 1px #fff;
+        text-shadow: 1px 2px 15px #fff;
+        filter: drop-shadow(0px 0px 25px #fff);
+        color: #fff;
+     
+        font-weight: 600;
+    }
+    
+    .black_fridays .black_friday_tops {
+        padding: 10px;
+        background: 0 0;
+        color: #fff;
+        border: 2px solid #fcffeb;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+        box-shadow: 0 0 1px 2px #00838c, 0 0 1px 2px #00838c inset;
+    filter: drop-shadow(0px 0px 5px #f7922c);
+        margin-bottom: 5px;
+        animation: 1s linear infinite bf-animate-2
+    }
+    
+    @keyframes bf-animate-2 {
+    
+        0%,
+        100% {
+            filter: drop-shadow(0px 0px 5px #1c8374)
+        }
+    
+        50% {
+            filter: drop-shadow(0px 0px 5px #fff);
+            box-shadow: 0 0 1px 2px #fff, 0 0 1px 2px #fff inset;
+            border-color: #000;
+            transform: translateX(0)
+        }
+    
+        80% {
+            filter: drop-shadow(0px 0px 5px #fff);
+            box-shadow: 0 0 1px 2px #fff, 0 0 1px 2px #fff inset;
+            border-color: #000
+        }
+    }
+    
+    .black_fridays .black_friday_tops p {
+        font-size: 20px !important;
+        margin-bottom: 0;
+        color: #fff;
+    
+        padding: 0
+    }
+    
+    @keyframes ping {
+        0% {
+            filter: drop-shadow(1px 1px 10px #fff)
+        }
+    
+        50% {
+            filter: unset
+        }
+    
+        100% {
+            filter: drop-shadow(1px 1px 10px #fff)
+        }
+    }
+    
+    </style>
+    <a href="javascript:;" data-toggle="modal" data-target="#staticBackdrop1">>
+        <div class="black_fridays">
+            <div class="black_friday_tops">
+                <p>50% off</p>
+            </div>
+            <h2>Sign up Now</h2>
+            
+    
+        </div>
+    </a>
 
 
     <!--modal -->
@@ -1664,140 +1811,139 @@ div#accordionExample {
         </div>
     </a>
     <!-- <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script> -->
-	<script src="js/jquery-1.10.2.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/wow.min.js"></script>
+    <script src="js/jquery-1.10.2.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/wow.min.js"></script>
 
-<script src="js/slick.js"></script>
-<!-- <script src="js/accordian-jquery-ui.js"></script> -->
-<script src="js/owl.carousel.min.js"></script>
-<!-- jQuery (Required for Slick Slider) -->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="js/fancybox.js"></script>
-<!-- Slick Slider JavaScript -->
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script> -->
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/16.0.0/js/intlTelInput.min.js"></script> -->
+    <script src="js/slick.js"></script>
+    <!-- <script src="js/accordian-jquery-ui.js"></script> -->
+    <script src="js/owl.carousel.min.js"></script>
+    <!-- jQuery (Required for Slick Slider) -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="js/fancybox.js"></script>
+    <!-- Slick Slider JavaScript -->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script> -->
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/16.0.0/js/intlTelInput.min.js"></script> -->
 
-<script src="js/custom.js"></script>
-<script src="js/chat.js"></script>
+    <script src="js/custom.js"></script>
+    <script src="js/chat.js"></script>
 
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const faqQuestions = document.querySelectorAll(".faq-question");
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const faqQuestions = document.querySelectorAll(".faq-question");
 
-  faqQuestions.forEach((question) => {
-    question.addEventListener("click", function () {
-      const icon = question.querySelector(".faq-toggle-icon");
-      const answer = question.nextElementElement;
+        faqQuestions.forEach((question) => {
+            question.addEventListener("click", function() {
+                const icon = question.querySelector(".faq-toggle-icon");
+                const answer = question.nextElementElement;
 
-      if (icon.textContent === "+") {
-        icon.textContent = "-";
-      } else {
-        icon.textContent = "+";
-      }
+                if (icon.textContent === "+") {
+                    icon.textContent = "-";
+                } else {
+                    icon.textContent = "+";
+                }
+            });
+        });
     });
-  });
-});
-</script>
-<script>
+    </script>
+    <script>
     $(document).ready(function() {
-    // Check the screen width
-    var screenWidth = $(window).width();
+        // Check the screen width
+        var screenWidth = $(window).width();
 
-    // Initialize the Slick slider if the screen width is less than 767px
-    if (screenWidth < 767) {
-    $('.book_slider').slick({
-        dots: false,
-		arrows: false,
-        infinite: true,
-        speed: 300,
-        autoplay: true,
-        slidesToShow: 5,
-        slidesToScroll: 1,
-        responsive: [
-            {
-                breakpoint: 1399,
-                settings: {
-                    slidesToShow: 4,
-                    slidesToScroll: 1,
-                    infinite: true,
-                    dots: false
-                }
-            },{
-                breakpoint: 1200,
-                settings: {
-                    slidesToShow: 3,
-                    slidesToScroll: 1,
-                    infinite: true,
-                    dots: false
-                }
-            },
-            {
-                breakpoint: 992,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1,
+        // Initialize the Slick slider if the screen width is less than 767px
+        if (screenWidth < 767) {
+            $('.book_slider').slick({
+                dots: false,
+                arrows: false,
+                infinite: true,
+                speed: 300,
+                autoplay: true,
+                slidesToShow: 5,
+                slidesToScroll: 1,
+                responsive: [{
+                        breakpoint: 1399,
+                        settings: {
+                            slidesToShow: 4,
+                            slidesToScroll: 1,
+                            infinite: true,
+                            dots: false
+                        }
+                    }, {
+                        breakpoint: 1200,
+                        settings: {
+                            slidesToShow: 3,
+                            slidesToScroll: 1,
+                            infinite: true,
+                            dots: false
+                        }
+                    },
+                    {
+                        breakpoint: 992,
+                        settings: {
+                            slidesToShow: 1,
+                            slidesToScroll: 1,
 
-                }
-            },
-            {
-                breakpoint: 767,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1
+                        }
+                    },
+                    {
+                        breakpoint: 767,
+                        settings: {
+                            slidesToShow: 1,
+                            slidesToScroll: 1
 
-                }
-            },
-            {
-                breakpoint: 600,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1
+                        }
+                    },
+                    {
+                        breakpoint: 600,
+                        settings: {
+                            slidesToShow: 1,
+                            slidesToScroll: 1
 
-                }
-            },
-            {
-                breakpoint: 480,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1
-                }
-            }
-            // You can unslick at a given breakpoint now by adding:
-            // settings: "unslick"
-            // instead of a settings object
-        ]
+                        }
+                    },
+                    {
+                        breakpoint: 480,
+                        settings: {
+                            slidesToShow: 1,
+                            slidesToScroll: 1
+                        }
+                    }
+                    // You can unslick at a given breakpoint now by adding:
+                    // settings: "unslick"
+                    // instead of a settings object
+                ]
+            });
+        }
     });
-}
-});
-</script>
+    </script>
 
 
 
 
     <!-- Start of  Zendesk Widget script -->
-    
-    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=8b347c56-9de7-4087-939b-6a037a749469"> </script>
-<!-- End of  Zendesk Widget script -->
+
+    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=8b347c56-9de7-4087-939b-6a037a749469">
+    </script>
+    <!-- End of  Zendesk Widget script -->
 
 
-<script>
+    <script>
+    function setButtonURL() {
 
-function setButtonURL() {
+        $zopim.livechat.window.show();
 
-$zopim.livechat.window.show();
+    }
 
-}
+    function toggleChat() {
 
-function toggleChat() {
+        $zopim.livechat.window.show();
 
-$zopim.livechat.window.show();
-
-}
-</script>
-<script>
-zE(function() {
+    }
+    </script>
+    <script>
+    zE(function() {
         $zopim.livechat.setOnUnreadMsgs(function(numUnread) {
             if (numUnread > 0 && !$zopim.livechat.window.getDisplay()) {
                 $zopim.livechat.window.show();
@@ -1816,17 +1962,19 @@ zE(function() {
         $zopim.livechat.window.show();
 
     }
-</script>
-<script type="text/javascript">
-zE(function() {
-    zE.activate();
-});
-</script>
+    </script>
+    <script type="text/javascript">
+    zE(function() {
+        zE.activate();
+    });
+    </script>
 
-<!--Start of Tawk.to Script-->
+    <!--Start of Tawk.to Script-->
 
 
 </body>
 
-</html></body>
+</html>
+</body>
+
 </html>

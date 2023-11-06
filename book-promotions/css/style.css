@@ -3432,9 +3432,7 @@ section {
 .serv-bx h3{
     font-size: 23px;
 }
-.fontli .nav-tabs li a{
-    font-size: 15px !important;
-}
+/* s */
 .fontli .nav-tabs{
     margin-left: 44px;
 }
@@ -5019,4 +5017,32 @@ b.text_off {
     color: white;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+}
+.cl-logo-slider .cl-logo-img img{
+    width: 60% !important;
+}
+
+::-webkit-scrollbar {
+    width: 2px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+
+@media(max-width:767px){
+    /* .nav-tabs>li {
+        float: unset;
+    } */
 }
