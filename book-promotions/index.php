@@ -99,7 +99,7 @@
                                 readers</li>
                             <li data-toggle="modal" data-target="#staticBackdrop1">Turn your visitors into paying
                                 readers</li>
-                            <li data-toggle="modal" data-target="#staticBackdrop1">Get <b class="text_off">65%</b> Off
+                            <li data-toggle="modal" data-target="#staticBackdrop1">Get <b class="text_off">50%</b> Off
                                 Today</li>
                             <li data-toggle="modal" data-target="#staticBackdrop1">Fast turnaround time</li>
                             <li data-toggle="modal" data-target="#staticBackdrop1">24/7 customer support</li>
@@ -1412,7 +1412,7 @@
                         <img alt="The writer tree" class="element" src="images/mix/banner-form-img.webp">
                         <div class="banner-form bg-color-1">
                             <div class="text-center">
-                                <h3>Sign up to AVAIL<span>65% Discount</span></h3>
+                                <h3>Sign up to AVAIL<span>50% Discount</span></h3>
                                 <!-- <p>Discuss Your Project With Our Experts</p> -->
                             </div>
                             <section class="banform">
@@ -1482,7 +1482,7 @@
                     <div class="halloween-blur"></div>
                 </div> -->
                     <div class="halloween-popup-inner">
-                        <h3>Avail Amazing <span>65% Discount Now!</span></h3>
+                        <h3>Avail Amazing <span>50% Discount Now!</span></h3>
                         <form method="post" action="/leads/">
                             <div class="halloween-filed d-block" id="form1">
                                 <input type="text" placeholder="Enter your Name" name="name" required>
@@ -1507,11 +1507,11 @@
                 <span>+18886012146</span> </a>
         </div>
         <div class="clickbutton borderOnly">
-            <div class="crossplus">Get 65% Off Today</div>
+            <div class="crossplus">Get 50% Off Today</div>
         </div>
         <div class="banner-form borderOnly">
             <button id="cross-side-bar-btn"><span><i class="fal fa-times"></i></span></button>
-            <h3>Chat With Us to Avail <br><span>65% Discount Now!</span></h3>
+            <h3>Chat With Us to Avail <br><span>50% Discount Now!</span></h3>
             <div class="banform">
                 <div>
                     <div class="row">
@@ -1558,7 +1558,7 @@
         </div>
         <div class="banner-form">
             <button id="cross-side-bar-btn2"><span><i class="fal fa-times"></i></span></button>
-            <h3>Chat With Us to Avail <br><span>65% Off Today</span></h3>
+            <h3>Chat With Us to Avail <br><span>50% Off Today</span></h3>
             <div class="banform">
                 <div>
                     <div class="row">
@@ -1778,7 +1778,7 @@
     }
     
     </style>
-    <a href="javascript:;" data-toggle="modal" data-target="#staticBackdrop1">>
+    <a href="javascript:;" data-toggle="modal" data-target="#staticBackdrop1">
         <div class="black_fridays">
             <div class="black_friday_tops">
                 <p>50% off</p>
@@ -1797,7 +1797,7 @@
             <div class="black_friday_top">
                 <p>SALE</p>
             </div>
-            <h2>Get <span>65% Off</span></h2>
+            <h2>Get <span>50% Off</span></h2>
             <div class="countdown">
                 <span>00</span>
                 <span>:</span>
