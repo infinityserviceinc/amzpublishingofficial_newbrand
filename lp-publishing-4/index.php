@@ -22,7 +22,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-2">
-                    <div class="logo">
+                    <div class="logo" style="width:220px;">
                         <a href="/"><img src="assets/images/logo.png"></a>
                     </div>
                 </div>
@@ -248,7 +248,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row  justify-content-center" style="padding-bottom: 50px;">
+            <div class="row  justify-content-center ttffu" style="padding-bottom: 50px;">
                 <div class="col-md-3 item">
                     <div class="packages_iner">
                     <h3>Standard Book <br> Publishing</h3>
@@ -314,7 +314,7 @@
                 <div class="col-md-3 item">
                     <div class="packages_iner">
                     <h3>Mighty <?php $currentMonth = date('M'); echo "$currentMonth";
-?> Package Publishing +1 month free marketing</h3>
+?> Package Publishing <span style="font-size:14px;">+</span>1 month free marketing</h3>
                         <h6>Starting From</h6>
                         <h2>$1499</h2>
                         <p>EDITING, FORMATTING, SPELL CHECK & TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
@@ -1068,6 +1068,76 @@
                 breakpoint: 480,
                 settings: {
                     slidesToShow: 2,
+                    slidesToScroll: 1,
+                    dots: false
+                }
+            }
+            // You can unslick at a given breakpoint now by adding:
+            // settings: "unslick"
+            // instead of a settings object
+        ]
+    });
+}
+    </script>
+    <script>
+   if (window.innerWidth < 767) {
+    $('.ttffu').slick({
+        dots: true,
+		arrows: false,
+        infinite: true,
+        speed: 300,
+        autoplay: true,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        responsive: [
+            {
+                breakpoint: 1399,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    infinite: true,
+                    dots: false
+                }
+            },{
+                breakpoint: 1200,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    infinite: true,
+                    dots: false
+                }
+            },
+            {
+                breakpoint: 992,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    dots: false
+
+                }
+            },
+            {
+                breakpoint: 767,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    dots: false
+
+                }
+            },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    dots: false
+
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
                     slidesToScroll: 1,
                     dots: false
                 }
