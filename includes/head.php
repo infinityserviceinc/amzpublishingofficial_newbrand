@@ -21,7 +21,7 @@ if (isset($_SERVER['HTTPS'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="canonical" href="<?=$requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']?>">
     <link rel="shortcut icon" href="favicon.ico" />
-    <link href="css/all.css" rel="stylesheet">
+    <link href="css/all.css" rel="stylesheet" async>
 
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
     
