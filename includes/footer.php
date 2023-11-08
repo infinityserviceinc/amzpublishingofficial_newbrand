@@ -207,7 +207,7 @@
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/jquery.parallax-scroll.js"></script>
 <script src="js/custom.js"></script>
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js" integrity="sha512-q583ppKrCRc7N5O0n2nzUiJ+suUv7Et1JGels4bXOaMFQcamPk9HjdUknZuuFjBNs7tsMuadge5k9RzdmO+1GQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=8b347c56-9de7-4087-939b-6a037a749469"> </script>
 <script type="text/javascript">
 zE(function() {

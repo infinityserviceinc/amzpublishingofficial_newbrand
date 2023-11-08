@@ -79,7 +79,7 @@
                     </div>
                     <div class="col-lg-7 col-12">
                         <div class="logo-logobar">
-                            <img class="img-fluid" src="images/logo-logobar.webp" alt="image">
+                            <img class="img-fluid lazyload" data-src="images/logo-logobar.webp" alt="image">
                         </div>
                     </div>
                     <div class="col-lg-2 col-12">
@@ -196,7 +196,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-12">
-                        <img class="img-fluid" src="images/about-img.png" alt="image">
+                        <img class="img-fluid lazyload" data-src="images/about-img.webp" alt="image">
                     </div>
                     <div class="col-lg-6 col-12">
                         <h2 class="theme-h2">Why Authors Love Working with AMZ Publishing Official?</h2>
@@ -252,7 +252,7 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-12">
                         <div class="process-stp">
-                            <img class="img-fluid" src="images/process-item-1.webp" alt="image">
+                            <img class="img-fluid lazyload" data-src="images/process-item-1.webp" alt="image">
                             <h4 class="theme-h4">Professional Authors</h4>
                             <p class="theme-p">Enlist our pool of skilled ghostwriters to craft your books, infusing
                                 them with creativity and expertise for top-notch copies.</p>
@@ -260,7 +260,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-12">
                         <div class="process-stp">
-                            <img class="img-fluid" src="images/process-item-2.webp" alt="image">
+                            <img class="img-fluid lazyload" data-src="images/process-item-2.webp" alt="image">
                             <h4 class="theme-h4">Full Quality Guarantee</h4>
                             <p class="theme-p">Our diligent quality control manager thoroughly examines and verifies all
                                 work, ensuring uncompromised excellence in every aspect.</p>
@@ -268,7 +268,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-12">
                         <div class="process-stp">
-                            <img class="img-fluid" src="images/process-item-3.webp" alt="image">
+                            <img class="img-fluid lazyload" data-src="images/process-item-3.webp" alt="image">
                             <h4 class="theme-h4">In-Depth Research</h4>
                             <p class="theme-p">Success in ghostwriting hinges on meticulous research. Our adept team
                                 delves deep into your subject, ensuring accuracy and authority, making your book
@@ -277,7 +277,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-12">
                         <div class="process-stp">
-                            <img class="img-fluid" src="images/process-item-4.webp" alt="image">
+                            <img class="img-fluid lazyload" data-src="images/process-item-4.webp" alt="image">
                             <h4 class="theme-h4">Timely Completion</h4>
                             <p class="theme-p">Require a speedy turnaround? Our expert ghostwriters efficiently deliver
                                 high-quality books on time, with no compromise on excellence, ready for prompt
@@ -332,42 +332,42 @@
                         <div class="genre-slider owl-carousel owl-theme">
                             <div class="item">
                                 <div class="genre-item">
-                                    <img class="img-fluid" src="images/portfolio/fiction/1.jpg" alt="image">
+                                    <img class="img-fluid lazyload" data-src="images/portfolio/fiction/1.jpg" alt="image">
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="genre-item">
-                                    <img class="img-fluid" src="images/portfolio/fiction/2.webp" alt="image">
+                                    <img class="img-fluid lazyload" data-src="images/portfolio/fiction/2.webp" alt="image">
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="genre-item">
-                                    <img class="img-fluid" src="images/portfolio/fiction/3.webp" alt="image">
+                                    <img class="img-fluid lazyload" data-src="images/portfolio/fiction/3.webp" alt="image">
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="genre-item">
-                                    <img class="img-fluid" src="images/portfolio/fiction/4.webp" alt="image">
+                                    <img class="img-fluid lazyload" data-src="images/portfolio/fiction/4.webp" alt="image">
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="genre-item">
-                                    <img class="img-fluid" src="images/portfolio/fiction/5.webp" alt="image">
+                                    <img class="img-fluid lazyload" data-src="images/portfolio/fiction/5.webp" alt="image">
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="genre-item">
-                                    <img class="img-fluid" src="images/portfolio/fiction/6.webp" alt="image">
+                                    <img class="img-fluid lazyload" data-src="images/portfolio/fiction/6.webp" alt="image">
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="genre-item">
-                                    <img class="img-fluid" src="images/portfolio/fiction/7.webp" alt="image">
+                                    <img class="img-fluid lazyload" data-src="images/portfolio/fiction/7.webp" alt="image">
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="genre-item">
-                                    <img class="img-fluid" src="images/portfolio/fiction/8.webp" alt="image">
+                                    <img class="img-fluid lazyload" data-src="images/portfolio/fiction/8.webp" alt="image">
                                 </div>
                             </div>
                             <div class="item">
@@ -386,22 +386,22 @@
                         <div class="genre-slider owl-carousel owl-theme">
                             <div class="item">
                                 <div class="genre-item">
-                                    <img class="img-fluid" src="images/portfolio/non-fictions/1.webp" alt="image">
+                                    <img class="img-fluid lazyload" data-src="images/portfolio/non-fictions/1.webp" alt="image">
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="genre-item">
-                                    <img class="img-fluid" src="images/portfolio/non-fictions/2.webp" alt="image">
+                                    <img class="img-fluid lazyload" data-src="images/portfolio/non-fictions/2.webp" alt="image">
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="genre-item">
-                                    <img class="img-fluid" src="images/portfolio/non-fictions/3.webp" alt="image">
+                                    <img class="img-fluid lazyload" data-src="images/portfolio/non-fictions/3.webp" alt="image">
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="genre-item">
-                                    <img class="img-fluid" src="images/portfolio/non-fictions/4.webp" alt="image">
+                                    <img class="img-fluid lazyload" data-src="images/portfolio/non-fictions/4.webp" alt="image">
                                 </div>
                             </div>
                             <div class="item">
@@ -416,7 +416,7 @@
                             </div>
                             <div class="item">
                                 <div class="genre-item">
-                                    <img class="img-fluid" src="images/portfolio/non-fictions/7.webp" alt="image">
+                                    <img class="img-fluid lazyload" data-src="images/portfolio/non-fictions/7.webp" alt="image">
                                 </div>
                             </div>
                             <div class="item">
@@ -493,7 +493,7 @@
                         <div class="genre-slider owl-carousel owl-theme">
                             <div class="item">
                                 <div class="genre-item">
-                                    <img class="img-fluid" src="images/portfolio/informative/1.webp" alt="image">
+                                    <img class="img-fluid lazyload" data-src="images/portfolio/informative/1.webp" alt="image">
                                 </div>
                             </div>
                             <div class="item">
@@ -518,7 +518,7 @@
                             </div>
                             <div class="item">
                                 <div class="genre-item">
-                                    <img class="img-fluid" src="images/portfolio/informative/6.webp" alt="image">
+                                    <img class="img-fluid lazyload" data-src="images/portfolio/informative/6.webp" alt="image">
                                 </div>
                             </div>
                             <div class="item">
@@ -591,7 +591,7 @@
                             </div>
                             <div class="item">
                                 <div class="genre-item">
-                                    <img class="img-fluid" src="images/portfolio/children-book/6.webp" alt="image">
+                                    <img class="img-fluid lazyload" data-src="images/portfolio/children-book/6.webp" alt="image">
                                 </div>
                             </div>
                             <div class="item">
@@ -628,7 +628,7 @@
                         </ul>
                     </div>
                     <div class="col-lg-7 col-12">
-                        <img class="img-fluid" src="images/cta-2-img.webp" alt="image">
+                        <img class="img-fluid lazyload" data-src="images/cta-2-img.webp" alt="image">
                     </div>
                 </div>
             </div>
@@ -654,62 +654,62 @@
             <div class="best-selling-slider owl-carousel owl-theme">
                 <div class="item">
                     <div class="genre-item">
-                        <img class="img-fluid" src="images/portfolio/fiction/1.jpg" alt="image">
+                        <img class="img-fluid lazyload" data-src="images/portfolio/fiction/1.jpg" alt="image">
                     </div>
                 </div>
                 <div class="item">
                     <div class="genre-item">
-                        <img class="img-fluid" src="images/portfolio/fiction/2.webp" alt="image">
+                        <img class="img-fluid lazyload" data-src="images/portfolio/fiction/2.webp" alt="image">
                     </div>
                 </div>
                 <div class="item">
                     <div class="genre-item">
-                        <img class="img-fluid" src="images/portfolio/fiction/3.webp" alt="image">
+                        <img class="img-fluid lazyload" data-src="images/portfolio/fiction/3.webp" alt="image">
                     </div>
                 </div>
                 <div class="item">
                     <div class="genre-item">
-                        <img class="img-fluid" src="images/portfolio/fiction/4.webp" alt="image">
+                        <img class="img-fluid lazyload" data-src="images/portfolio/fiction/4.webp" alt="image">
                     </div>
                 </div>
                 <div class="item">
                     <div class="genre-item">
-                        <img class="img-fluid" src="images/portfolio/fiction/5.webp" alt="image">
+                        <img class="img-fluid lazyload" data-src="images/portfolio/fiction/5.webp" alt="image">
                     </div>
                 </div>
                 <div class="item">
                     <div class="genre-item">
-                        <img class="img-fluid" src="images/portfolio/fiction/6.webp" alt="image">
+                        <img class="img-fluid lazyload" data-src="images/portfolio/fiction/6.webp" alt="image">
                     </div>
                 </div>
                 <div class="item">
                     <div class="genre-item">
-                        <img class="img-fluid" src="images/portfolio/fiction/1.jpg" alt="image">
+                        <img class="img-fluid lazyload" data-src="images/portfolio/fiction/1.jpg" alt="image">
                     </div>
                 </div>
                 <div class="item">
                     <div class="genre-item">
-                        <img class="img-fluid" src="images/portfolio/fiction/2.webp" alt="image">
+                        <img class="img-fluid lazyload" data-src="images/portfolio/fiction/2.webp" alt="image">
                     </div>
                 </div>
                 <div class="item">
                     <div class="genre-item">
-                        <img class="img-fluid" src="images/portfolio/fiction/3.webp" alt="image">
+                        <img class="img-fluid lazyload" data-src="images/portfolio/fiction/3.webp" alt="image">
                     </div>
                 </div>
                 <div class="item">
                     <div class="genre-item">
-                        <img class="img-fluid" src="images/portfolio/fiction/4.webp" alt="image">
+                        <img class="img-fluid lazyload" data-src="images/portfolio/fiction/4.webp" alt="image">
                     </div>
                 </div>
                 <div class="item">
                     <div class="genre-item">
-                        <img class="img-fluid" src="images/portfolio/fiction/5.webp" alt="image">
+                        <img class="img-fluid lazyload" data-src="images/portfolio/fiction/5.webp" alt="image">
                     </div>
                 </div>
                 <div class="item">
                     <div class="genre-item">
-                        <img class="img-fluid" src="images/portfolio/fiction/6.webp" alt="image">
+                        <img class="img-fluid lazyload" data-src="images/portfolio/fiction/6.webp" alt="image">
                     </div>
                 </div>
             </div>
@@ -776,7 +776,7 @@
                                         additional
                                         effort!”</p>
                                     <div class="user">
-                                        <img class="img-fluid" src="images/user-1.webp" alt="image">
+                                        <img class="img-fluid lazyload" data-src="images/user-1.webp" alt="image">
                                         <div class="user-det">
                                             <h6 class="user-title">Ethan David</h6>
                                             <p class="theme-p">Customer</p>
@@ -791,7 +791,7 @@
                                         throughout the timeline of the project and they submitted exactly
                                         what I was looking for. Good job guys!”</p>
                                     <div class="user">
-                                        <img class="img-fluid" src="images/user-2.webp" alt="image">
+                                        <img class="img-fluid lazyload" data-src="images/user-2.webp" alt="image">
                                         <div class="user-det">
                                             <h6 class="user-title">Anne Gardner</h6>
                                             <p class="theme-p">Customer</p>
@@ -807,7 +807,7 @@
                                         lectures! Naturally, I plan on hiring them again very soon!”
                                     </p>
                                     <div class="user">
-                                        <img class="img-fluid" src="images/user-3.webp" alt="image">
+                                        <img class="img-fluid lazyload" data-src="images/user-3.webp" alt="image">
                                         <div class="user-det">
                                             <h6 class="user-title">Bruce Owens</h6>
                                             <p class="theme-p">Customer</p>
@@ -824,7 +824,7 @@
                                         regarded
                                         service”</p>
                                     <div class="user">
-                                        <img class="img-fluid" src="images/user-4.webp" alt="image">
+                                        <img class="img-fluid lazyload" data-src="images/user-4.webp" alt="image">
                                         <div class="user-det">
                                             <h6 class="user-title">Mark Daniel</h6>
                                             <p class="theme-p">Customer</p>
@@ -841,7 +841,7 @@
                                         loves
                                         it!”</p>
                                     <div class="user">
-                                        <img class="img-fluid" src="images/user-5.webp" alt="image">
+                                        <img class="img-fluid lazyload" data-src="images/user-5.webp" alt="image">
                                         <div class="user-det">
                                             <h6 class="user-title">John Sumner</h6>
                                             <p class="theme-p">Customer</p>
@@ -860,7 +860,7 @@
                                         only happened because they kept me in the loop from start to finish. Keep up the
                                         good work guys!”</p>
                                     <div class="user">
-                                        <img class="img-fluid" src="images/user-6.webp" alt="image">
+                                        <img class="img-fluid lazyload" data-src="images/user-6.webp" alt="image">
                                         <div class="user-det">
                                             <h6 class="user-title">Portia Fey</h6>
                                             <p class="theme-p">Customer</p>
