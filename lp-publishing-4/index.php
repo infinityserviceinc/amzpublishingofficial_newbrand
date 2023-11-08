@@ -23,7 +23,7 @@
             <div class="row align-items-center">
                 <div class="col-md-2">
                     <div class="logo" style="width:220px;">
-                        <a href="/"><img src="assets/images/logo.png"></a>
+                        <a href="/"><img class="lazyload" data-src="assets/images/logo.png"></a>
                     </div>
                 </div>
                 <div class="col-md-10">
@@ -65,18 +65,18 @@
                     <div class="banner_inner">
                         <!-- <h1>Amazon Publishing Official Changing Lives With Your Stories </h1> -->
                         <h1>Share Your Story with The Rest Of The World.</h1>
-                        <img src="assets/images/trust.png" alt="">
+                        <img class="lazyload" data-src="assets/images/trust.png" alt="">
                     </div>
                     <div class="global_btn text-center">
                         <button type="button"><a href="javascript: void(0);" onclick="$zopim.livechat.window.toggle()">Live Chat</a></button>
                         <button type="button"><a href="tel:+18882852656">+1 (888) 285 2656</a></button>
                     </div>
                     <ul class="new_badgess">
-                        <li><img src="assets/images/clutch-badge.png" alt="image"></li>
-                        <li><img src="assets/images/top-markeintg-agencies.png" alt="image"></li>
-                        <li><img src="assets/images/best-content-marketing.png" alt="image"></li>
-                        <li><img src="assets/images/design-rush-badge.png" alt="image"></li>
-                        <li><img src="assets/images/top-seo-badge-home.webp" alt="image"></li>
+                        <li><img class="lazyload" data-src="assets/images/clutch-badge.png" alt="image"></li>
+                        <li><img class="lazyload" data-src="assets/images/top-markeintg-agencies.png" alt="image"></li>
+                        <li><img class="lazyload" data-src="assets/images/best-content-marketing.png" alt="image"></li>
+                        <li><img class="lazyload" data-src="assets/images/design-rush-badge.png" alt="image"></li>
+                        <li><img class="lazyload" data-src="assets/images/top-seo-badge-home.webp" alt="image"></li>
                     </ul>
                 </div>
                 <div class="col-md-5">
@@ -120,14 +120,14 @@
 
                     <div class="banner_images">
                         <ul class="banner_slider">
-                            <li><img src="assets/images/smal_book_1.png" alt=""></li>
-                            <li><img src="assets/images/smal_book_2.webp" alt=""></li>
-                            <li><img src="assets/images/smal_book_3.webp" alt=""></li>
-                            <li><img src="assets/images/smal_book_4.webp" alt=""></li>
-                            <li><img src="assets/images/smal_book_5.webp" alt=""></li>
-                            <li><img src="assets/images/smal_book_6.webp" alt=""></li>
-                            <li><img src="assets/images/smal_book_7.webp" alt=""></li>
-                            <li><img src="assets/images/smal_book_5.png" alt=""></li>
+                            <li><img class="lazyload" data-src="assets/images/smal_book_1.png" alt=""></li>
+                            <li><img class="lazyload" data-src="assets/images/smal_book_2.webp" alt=""></li>
+                            <li><img class="lazyload" data-src="assets/images/smal_book_3.webp" alt=""></li>
+                            <li><img class="lazyload" data-src="assets/images/smal_book_4.webp" alt=""></li>
+                            <li><img class="lazyload" data-src="assets/images/smal_book_5.webp" alt=""></li>
+                            <li><img class="lazyload" data-src="assets/images/smal_book_6.webp" alt=""></li>
+                            <li><img class="lazyload" data-src="assets/images/smal_book_7.webp" alt=""></li>
+                            <li><img class="lazyload" data-src="assets/images/smal_book_5.png" alt=""></li>
                         </ul>
                     </div>
                     <div class="global_btn text-center">
@@ -159,7 +159,7 @@
                 </div>
                 <div class="col-md-5">
                     <div class="words_img">
-                        <img src="assets/images/words_img.webp" alt="">
+                        <img class="lazyload" data-src="assets/images/words_img.webp" alt="">
                     </div>
                 </div>
             </div>
@@ -180,14 +180,14 @@
             <div class="row top_btom_border">
                 <div class="col-md-4">
                     <div class="table_box">
-                        <img src="assets/images/table_icon.png" alt="">
+                        <img class="lazyload" data-src="assets/images/table_icon.png" alt="">
                         <h4>Creative Partners</h4>
                         <p>We collaborate with you (the author) to craft a masterpiece that's uniquely yours.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="table_box">
-                        <img src="assets/images/table_icon_2.png" alt="">
+                        <img class="lazyload" data-src="assets/images/table_icon_2.png" alt="">
                         <h4>Amazing Solutions</h4>
                         <p>We understand that your book is as unique as your fingerprint. That's why we offer customized
                             solutions.</p>
@@ -195,7 +195,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="table_box">
-                        <img src="assets/images/table_icon_3.png" alt="">
+                        <img class="lazyload" data-src="assets/images/table_icon_3.png" alt="">
                         <h4>Unmatched Expertise</h4>
                         <p>From Pulitzer Prize-winning ghostwriters to eagle-eyed editors, we've assembled a dream team
                             to ensure your work is nothing less than exceptional.</p>
@@ -203,7 +203,7 @@
                 </div>
                 <div class="col-md-4 mt-5">
                     <div class="table_box">
-                        <img src="assets/images/table_icon_4.png" alt="">
+                        <img class="lazyload" data-src="assets/images/table_icon_4.png" alt="">
                         <h4>Ownership and Control</h4>
                         <p>Unlike traditional publishing, with Amazon Publishing Official, you retain creative control and
                             ownership of your work.</p>
@@ -211,7 +211,7 @@
                 </div>
                 <div class="col-md-4 mt-5">
                     <div class="table_box">
-                        <img src="assets/images/table_icon_5.png" alt="">
+                        <img class="lazyload" data-src="assets/images/table_icon_5.png" alt="">
                         <h4>Global Reach</h4>
                         <p>With Amazon's extensive distribution network, your book has the potential to reach countless
                             readers worldwide.</p>
@@ -219,7 +219,7 @@
                 </div>
                 <div class="col-md-4 mt-5">
                     <div class="table_box">
-                        <img src="assets/images/table_icon_6.png" alt="">
+                        <img class="lazyload" data-src="assets/images/table_icon_6.png" alt="">
                         <h4>Author-Centric Approach</h4>
                         <p>Our commitment is to you. Your success is our success. Your journey is our journey, and
                             together, we'll make it unforgettable.</p>
@@ -274,7 +274,7 @@
                                     src="assets/images/guarantee.png">
                             </li>
                             <!-- <li>
-                                <img src="assets/images/money-back.png">
+                                <img class="lazyload" data-src="assets/images/money-back.png">
                             </li> -->
                         </ul>
                         <button type="button" class="btn chatt popup_button" onclick="$zopim.livechat.window.toggle()">Live Chat</button>
@@ -305,7 +305,7 @@
                                     src="assets/images/guarantee.png">
                             </li>
                             <!-- <li>
-                                <img src="assets/images/money-back.png">
+                                <img class="lazyload" data-src="assets/images/money-back.png">
                             </li> -->
                         </ul>
                         <button type="button" class="btn chatt popup_button" onclick="$zopim.livechat.window.toggle()">Live Chat</button>
@@ -337,7 +337,7 @@
                                     src="assets/images/guarantee.png">
                             </li>
                             <!-- <li>
-                                <img src="assets/images/money-back.png">
+                                <img class="lazyload" data-src="assets/images/money-back.png">
                             </li> -->
                         </ul>
                         <button type="button" class="btn chatt popup_button" onclick="$zopim.livechat.window.toggle()">Live Chat</button>
@@ -376,7 +376,7 @@
                                     src="assets/images/guarantee.png">
                             </li>
                             <!-- <li>
-                                <img src="assets/images/money-back.png">
+                                <img class="lazyload" data-src="assets/images/money-back.png">
                             </li> -->
                         </ul>
                         
@@ -419,7 +419,7 @@
                 </div>
                 <div class="col-md-5">
                     <div class="words_img">
-                        <img src="assets/images/1234.webp" alt="">
+                        <img class="lazyload" data-src="assets/images/1234.webp" alt="">
                     </div>
                 </div>
             </div>
@@ -433,7 +433,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="service_img">
-                        <img src="assets/images/service_inner.webp" alt="">
+                        <img class="lazyload" data-src="assets/images/service_inner.webp" alt="">
                     </div>
                     <div class="global_btn mt-5">
                         <button type="button"><a href="javascript: void(0);"
@@ -493,49 +493,49 @@
                             <li>
                                 <span>1</span>
                                 <div class="shape_box">
-                                    <img src="assets/images/shape_1.png" alt="">
+                                    <img class="lazyload" data-src="assets/images/shape_1.png" alt="">
                                     <p>Place an order</p>
                                 </div>
                             </li>
                             <li>
                                 <span>2</span>
                                 <div class="shape_box">
-                                    <img src="assets/images/shape_2.png" alt="">
+                                    <img class="lazyload" data-src="assets/images/shape_2.png" alt="">
                                     <p>Send us your manuscript and book cover (via mail, email, or upload to our online portal)</p>
                                 </div>
                             </li>
                             <li>
                                 <span>3</span>
                                 <div class="shape_box">
-                                    <img src="assets/images/shape_3.png" alt="">
+                                    <img class="lazyload" data-src="assets/images/shape_3.png" alt="">
                                     <p>A genre expert editor reviews the manuscript and does the proofreading and editing</p>
                                 </div>
                             </li>
                             <li>
                                 <span>4</span>
                                 <div class="shape_box">
-                                    <img src="assets/images/shape_4.png" alt="">
+                                    <img class="lazyload" data-src="assets/images/shape_4.png" alt="">
                                     <p>The book layout is designed as per your preferred size of the book and international publishing standards</p>
                                 </div>
                             </li>
                             <li>
                                 <span>5</span>
                                 <div class="shape_box">
-                                    <img src="assets/images/shape_5.png" alt="">
+                                    <img class="lazyload" data-src="assets/images/shape_5.png" alt="">
                                     <p>The book cover is finalized, or we design one based on your idea if you have a concept</p>
                                 </div>
                             </li>
                             <li>
                                 <span>6</span>
                                 <div class="shape_box">
-                                    <img src="assets/images/shape_1.png" alt="">
+                                    <img class="lazyload" data-src="assets/images/shape_1.png" alt="">
                                     <p>You review and approve the final print-ready files</p>
                                 </div>
                             </li>
                             <li>
                                 <span>7</span>
                                 <div class="shape_box">
-                                    <img src="assets/images/shape_2.png" alt="">
+                                    <img class="lazyload" data-src="assets/images/shape_2.png" alt="">
                                     <p>Book is published in the formats of your choice i.e., eBook, paperback, hardback</p>
                                 </div>
                             </li>
@@ -564,7 +564,7 @@
                 <div class="col-md-4 mt-5">
                     <div class="work_box">
                         <div class="item_wrap">
-                            <img src="assets/images/work_img_1.webp" alt="">
+                            <img class="lazyload" data-src="assets/images/work_img_1.webp" alt="">
                         </div>
                         <div class="item_wrap">
                             <h3>Private Practice</h3>
@@ -575,7 +575,7 @@
                 <div class="col-md-4 mt-5">
                     <div class="work_box">
                         <div class="item_wrap">
-                            <img src="assets/images/work_img_2.webp" alt="">
+                            <img class="lazyload" data-src="assets/images/work_img_2.webp" alt="">
                         </div>
                         <div class="item_wrap">
                             <h3>Voice Carry</h3>
@@ -586,7 +586,7 @@
                 <div class="col-md-4 mt-5">
                     <div class="work_box">
                         <div class="item_wrap">
-                            <img src="assets/images/work_img_3.webp" alt="">
+                            <img class="lazyload" data-src="assets/images/work_img_3.webp" alt="">
                         </div>
                         <div class="item_wrap">
                             <h3>The Last Sister</h3>
@@ -597,7 +597,7 @@
                 <div class="col-md-4 mt-5">
                     <div class="work_box">
                         <div class="item_wrap">
-                            <img src="assets/images/work_img_4.webp" alt="">
+                            <img class="lazyload" data-src="assets/images/work_img_4.webp" alt="">
                         </div>
                         <div class="item_wrap">
                             <h3>The Greed Pond</h3>
@@ -608,7 +608,7 @@
                 <div class="col-md-4 mt-5">
                     <div class="work_box">
                         <div class="item_wrap">
-                            <img src="assets/images/work_img_5.webp" alt="">
+                            <img class="lazyload" data-src="assets/images/work_img_5.webp" alt="">
                         </div>
                         <div class="item_wrap">
                             <h3>Defending Raven</h3>
@@ -619,7 +619,7 @@
                 <div class="col-md-4 mt-5">
                     <div class="work_box">
                         <div class="item_wrap">
-                            <img src="assets/images/work_img_6.webp" alt="">
+                            <img class="lazyload" data-src="assets/images/work_img_6.webp" alt="">
                         </div>
                         <div class="item_wrap">
                             <h3>Halsey Street</h3>
@@ -655,7 +655,7 @@
                             <li>
                                 <div class="sldier_wraper">
                                     <div class="item">
-                                        <img src="assets/images/owner_img.webp" alt="">
+                                        <img class="lazyload" data-src="assets/images/owner_img.webp" alt="">
                                     </div>
                                     <div class="item">
                                         <h2>William Joseph</h2>
@@ -663,28 +663,28 @@
                                             in the World of publishing. Their editing expertise polished my manuscript
                                             to perfection, and their dedication to my book's success was unwavering.
                                         </p>
-                                        <img src="assets/images/stars.webp" alt="">
+                                        <img class="lazyload" data-src="assets/images/stars.webp" alt="">
                                     </div>
                                 </div>
                             </li>
                             <li>
                                 <div class="sldier_wraper">
                                     <div class="item">
-                                        <img src="assets/images/owner_img_2.webp" alt="">
+                                        <img class="lazyload" data-src="assets/images/owner_img_2.webp" alt="">
                                     </div>
                                     <div class="item">
                                         <h2>Amanda Smith</h2>
                                         <p>Amazon Publishing Official has been my guiding star. I couldn't have asked for
                                             a better partner on my author journey. They undoubtedly have a remarkable
                                             team with immense knowledge and expertise. </p>
-                                        <img src="assets/images/stars.webp" alt="">
+                                        <img class="lazyload" data-src="assets/images/stars.webp" alt="">
                                     </div>
                                 </div>
                             </li>
                             <li>
                                 <div class="sldier_wraper">
                                     <div class="item">
-                                        <img src="assets/images/owner_img.webp" alt="">
+                                        <img class="lazyload" data-src="assets/images/owner_img.webp" alt="">
                                     </div>
                                     <div class="item">
                                         <h2>William Joseph</h2>
@@ -692,21 +692,21 @@
                                             in the World of publishing. Their editing expertise polished my manuscript
                                             to perfection, and their dedication to my book's success was unwavering.
                                         </p>
-                                        <img src="assets/images/stars.webp" alt="">
+                                        <img class="lazyload" data-src="assets/images/stars.webp" alt="">
                                     </div>
                                 </div>
                             </li>
                             <li>
                                 <div class="sldier_wraper">
                                     <div class="item">
-                                        <img src="assets/images/owner_img_2.webp" alt="">
+                                        <img class="lazyload" data-src="assets/images/owner_img_2.webp" alt="">
                                     </div>
                                     <div class="item">
                                         <h2>Amanda Smith</h2>
                                         <p>Amazon Publishing Official has been my guiding star. I couldn't have asked for
                                             a better partner on my author journey. They undoubtedly have a remarkable
                                             team with immense knowledge and expertise. </p>
-                                        <img src="assets/images/stars.webp" alt="">
+                                        <img class="lazyload" data-src="assets/images/stars.webp" alt="">
                                     </div>
                                 </div>
                             </li>
@@ -743,7 +743,7 @@
                     <div class="author_inner">
                         <h2>Are You Prepared to Share Your Masterpiece with the World? <br>Get Your Adventure Started
                             Today!</h2>
-                        <img src="assets/images/side.webp" alt="">
+                        <img class="lazyload" data-src="assets/images/side.webp" alt="">
                     </div>
                 </div>
             </div>
@@ -769,7 +769,7 @@
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="footer_inner">
-                        <a href="/"><img src="assets/images/logo.webp" alt=""></a>
+                        <a href="/"><img class="lazyload" data-src="assets/images/logo.webp" alt=""></a>
                         <p><a href="/">Amazon Publishing Official</a> provides authors with the tools, expertise, and
                             support to publish their work and begin a successful literary journey.</p>
                     </div>
@@ -777,14 +777,14 @@
                 <div class="col-md-6">
                     <div class="footer_social">
                         <ul>
-                            <li><a href="#"><img src="assets/images/Facebook.png" alt=""></a></li>
-                            <li><a href="#"><img src="assets/images/Instagram.png" alt=""></a></li>
-                            <li><a href="#"><img src="assets/images/Twitter.png" alt=""></a></li>
-                            <li><a href="#"><img src="assets/images/web.png" alt=""></a></li>
+                            <li><a href="#"><img class="lazyload" data-src="assets/images/Facebook.png" alt=""></a></li>
+                            <li><a href="#"><img class="lazyload" data-src="assets/images/Instagram.png" alt=""></a></li>
+                            <li><a href="#"><img class="lazyload" data-src="assets/images/Twitter.png" alt=""></a></li>
+                            <li><a href="#"><img class="lazyload" data-src="assets/images/web.png" alt=""></a></li>
                         </ul>
                     </div>
                     <div class="footer_badge">
-                        <img src="assets/images/bagdes.webp" alt="">
+                        <img class="lazyload" data-src="assets/images/bagdes.webp" alt="">
                     </div>
                 </div>
             </div>
@@ -825,7 +825,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/js/all.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js" integrity="sha512-q583ppKrCRc7N5O0n2nzUiJ+suUv7Et1JGels4bXOaMFQcamPk9HjdUknZuuFjBNs7tsMuadge5k9RzdmO+1GQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script>
         function setButtonURL() {
 
