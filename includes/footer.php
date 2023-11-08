@@ -254,7 +254,7 @@ function removeLoading() {
 $(document).mousemove(removeLoading)
 $(document).scroll(removeLoading)
 $(document).on("touchmove", removeLoading)
-setInterval(removeLoading, 10000);
+setInterval(removeLoading, 15000);
 </script>
 <script>
 function setButtonURL() {
