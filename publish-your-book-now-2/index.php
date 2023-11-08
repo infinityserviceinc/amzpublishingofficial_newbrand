@@ -278,8 +278,7 @@
                 </div>
                 <div class="col-md-3 item">
                     <div class="packages_iner">
-                        <h3>Mighty <?php $currentMonth = date('M'); echo "$currentMonth";
-?> Package Publishing +1 month free marketing</h3>
+                        <h3>Mighty <?php $currentMonth = date('M'); echo "$currentMonth";?> Package Publishing +1 month free marketing</h3>
                         <h6>Starting From</h6>
                         <h2>$1499</h2>
                         <p>EDITING, FORMATTING, SPELL CHECK & TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
@@ -316,21 +315,21 @@
                         <p>EDITING, FORMATTING, SPELL CHECK &amp; TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
                             STANDARDS.</p>
                         <ul>
-                            <li class="first">Authors Website</li>
+                            <li class="first">Author's Website</li>
                             <li>Publishing on the top 20 platforms</li>
-                            <li>Ebook, paperback and hardcover</li>
+                            <li>Ebook, Paperback and Hardcover</li>
                             <li>Audio Book</li>
                             <li>Proofreading</li>
                             <li>Adjusting the typesetting and layout according to publishing standards</li>
                             <li>Formatting
                             </li>
-                            <li>Authors and books profile
+                            <li>Authors and Books Profile
                             </li>
-                            <li>Finalized digital files
+                            <li>Finalized Digital Files
                             </li>
-                            <li>Book cover design
+                            <li>Book Cover Design
                             </li>
-                            <li>Platform optimization
+                            <li>Platform Optimization
                             </li>
                             <li>6 Months Extensive Book Marketing with Book Distribution Globally
                             </li>
