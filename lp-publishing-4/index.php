@@ -9,7 +9,7 @@
     <title>Amazon Publishing Official: #1 Book Writing, Editing & Publishing Services</title>
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+    
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css">
     <link rel="icon" type="image/x-icon" href="favicon.png">
 </head>
@@ -823,7 +823,6 @@
     <!-- script -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/js/all.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js" integrity="sha512-q583ppKrCRc7N5O0n2nzUiJ+suUv7Et1JGels4bXOaMFQcamPk9HjdUknZuuFjBNs7tsMuadge5k9RzdmO+1GQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script>
@@ -1149,7 +1148,28 @@
     });
 }
     </script>
+<script>
+var isloading = true;
 
+function removeLoading() {
+    if (isloading) {
+        $("head").append(`
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/js/all.min.js"><\/script>
+
+`)
+
+        $('.myLazy').each(function() {
+            $(this).attr("src", $(this).attr('data-src'))
+        })
+        isloading = false
+    }
+}
+$(document).mousemove(removeLoading)
+$(document).scroll(removeLoading)
+$(document).on("touchmove", removeLoading)
+setInterval(removeLoading, 10000);
+</script>
 
 </body>
 
