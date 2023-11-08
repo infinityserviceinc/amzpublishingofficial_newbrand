@@ -270,8 +270,8 @@
                         </ul>
                         <ul class="logo_img">
                             <li class="first last">
-                                <img alt="Amazon Publishing Official - Satisfaction Guarantee"
-                                    src="assets/images/guarantee.webp">
+                                <img alt="Amazon Publishing Official - Satisfaction Guarantee" class="lazyload"
+                                    data-src="assets/images/guarantee.webp">
                             </li>
                             <!-- <li>
                                 <img class="lazyload" data-src="assets/images/money-back.png">
@@ -301,8 +301,8 @@
                         </ul>
                         <ul class="logo_img">
                             <li class="first last">
-                                <img alt="Amazon Publishing Official - Satisfaction Guarantee"
-                                    src="assets/images/guarantee.webp">
+                                <img alt="Amazon Publishing Official - Satisfaction Guarantee" class="lazyload"
+                                    data-src="assets/images/guarantee.webp">
                             </li>
                             <!-- <li>
                                 <img class="lazyload" data-src="assets/images/money-back.png">
@@ -333,8 +333,8 @@
                         </ul>
                         <ul class="logo_img">
                             <li class="first last">
-                                <img alt="Vanilla Heart Books And Authors - Satisfaction Guarantee"
-                                    src="assets/images/guarantee.webp">
+                                <img alt="Vanilla Heart Books And Authors - Satisfaction Guarantee" class="lazyload"
+                                    data-src="assets/images/guarantee.webp">
                             </li>
                             <!-- <li>
                                 <img class="lazyload" data-src="assets/images/money-back.png">
@@ -372,8 +372,8 @@
                         </ul>
                         <ul class="logo_img">
                             <li class="first last">
-                                <img alt="Amazon Publishing Official - Satisfaction Guarantee"
-                                    src="assets/images/guarantee.webp">
+                                <img alt="Amazon Publishing Official - Satisfaction Guarantee" class="lazyload"
+                                    data-src="assets/images/guarantee.webp">
                             </li>
                             <!-- <li>
                                 <img class="lazyload" data-src="assets/images/money-back.png">
