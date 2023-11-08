@@ -121,12 +121,12 @@
                     <div class="banner_images">
                         <ul class="banner_slider">
                             <li><img src="assets/images/smal_book_1.png" alt=""></li>
-                            <li><img src="assets/images/smal_book_2.png" alt=""></li>
-                            <li><img src="assets/images/smal_book_3.png" alt=""></li>
-                            <li><img src="assets/images/smal_book_4.png" alt=""></li>
-                            <li><img src="assets/images/smal_book_5.png" alt=""></li>
-                            <li><img src="assets/images/smal_book_6.png" alt=""></li>
-                            <li><img src="assets/images/smal_book_7.png" alt=""></li>
+                            <li><img src="assets/images/smal_book_2.webp" alt=""></li>
+                            <li><img src="assets/images/smal_book_3.webp" alt=""></li>
+                            <li><img src="assets/images/smal_book_4.webp" alt=""></li>
+                            <li><img src="assets/images/smal_book_5.webp" alt=""></li>
+                            <li><img src="assets/images/smal_book_6.webp" alt=""></li>
+                            <li><img src="assets/images/smal_book_7.webp" alt=""></li>
                             <li><img src="assets/images/smal_book_5.png" alt=""></li>
                         </ul>
                     </div>
@@ -159,7 +159,7 @@
                 </div>
                 <div class="col-md-5">
                     <div class="words_img">
-                        <img src="assets/images/words_img.png" alt="">
+                        <img src="assets/images/words_img.webp" alt="">
                     </div>
                 </div>
             </div>
@@ -419,7 +419,7 @@
                 </div>
                 <div class="col-md-5">
                     <div class="words_img">
-                        <img src="assets/images/1234.png" alt="">
+                        <img src="assets/images/1234.webp" alt="">
                     </div>
                 </div>
             </div>
@@ -433,7 +433,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="service_img">
-                        <img src="assets/images/service_inner.png" alt="">
+                        <img src="assets/images/service_inner.webp" alt="">
                     </div>
                     <div class="global_btn mt-5">
                         <button type="button"><a href="javascript: void(0);"
@@ -564,7 +564,7 @@
                 <div class="col-md-4 mt-5">
                     <div class="work_box">
                         <div class="item_wrap">
-                            <img src="assets/images/work_img_1.png" alt="">
+                            <img src="assets/images/work_img_1.webp" alt="">
                         </div>
                         <div class="item_wrap">
                             <h3>Private Practice</h3>
@@ -575,7 +575,7 @@
                 <div class="col-md-4 mt-5">
                     <div class="work_box">
                         <div class="item_wrap">
-                            <img src="assets/images/work_img_2.png" alt="">
+                            <img src="assets/images/work_img_2.webp" alt="">
                         </div>
                         <div class="item_wrap">
                             <h3>Voice Carry</h3>
@@ -586,7 +586,7 @@
                 <div class="col-md-4 mt-5">
                     <div class="work_box">
                         <div class="item_wrap">
-                            <img src="assets/images/work_img_3.png" alt="">
+                            <img src="assets/images/work_img_3.webp" alt="">
                         </div>
                         <div class="item_wrap">
                             <h3>The Last Sister</h3>
@@ -597,7 +597,7 @@
                 <div class="col-md-4 mt-5">
                     <div class="work_box">
                         <div class="item_wrap">
-                            <img src="assets/images/work_img_4.png" alt="">
+                            <img src="assets/images/work_img_4.webp" alt="">
                         </div>
                         <div class="item_wrap">
                             <h3>The Greed Pond</h3>
@@ -608,7 +608,7 @@
                 <div class="col-md-4 mt-5">
                     <div class="work_box">
                         <div class="item_wrap">
-                            <img src="assets/images/work_img_5.png" alt="">
+                            <img src="assets/images/work_img_5.webp" alt="">
                         </div>
                         <div class="item_wrap">
                             <h3>Defending Raven</h3>
@@ -619,7 +619,7 @@
                 <div class="col-md-4 mt-5">
                     <div class="work_box">
                         <div class="item_wrap">
-                            <img src="assets/images/work_img_6.png" alt="">
+                            <img src="assets/images/work_img_6.webp" alt="">
                         </div>
                         <div class="item_wrap">
                             <h3>Halsey Street</h3>
@@ -655,7 +655,7 @@
                             <li>
                                 <div class="sldier_wraper">
                                     <div class="item">
-                                        <img src="assets/images/owner_img.png" alt="">
+                                        <img src="assets/images/owner_img.webp" alt="">
                                     </div>
                                     <div class="item">
                                         <h2>William Joseph</h2>
@@ -663,28 +663,28 @@
                                             in the World of publishing. Their editing expertise polished my manuscript
                                             to perfection, and their dedication to my book's success was unwavering.
                                         </p>
-                                        <img src="assets/images/stars.png" alt="">
+                                        <img src="assets/images/stars.webp" alt="">
                                     </div>
                                 </div>
                             </li>
                             <li>
                                 <div class="sldier_wraper">
                                     <div class="item">
-                                        <img src="assets/images/owner_img_2.png" alt="">
+                                        <img src="assets/images/owner_img_2.webp" alt="">
                                     </div>
                                     <div class="item">
                                         <h2>Amanda Smith</h2>
                                         <p>Amazon Publishing Official has been my guiding star. I couldn't have asked for
                                             a better partner on my author journey. They undoubtedly have a remarkable
                                             team with immense knowledge and expertise. </p>
-                                        <img src="assets/images/stars.png" alt="">
+                                        <img src="assets/images/stars.webp" alt="">
                                     </div>
                                 </div>
                             </li>
                             <li>
                                 <div class="sldier_wraper">
                                     <div class="item">
-                                        <img src="assets/images/owner_img.png" alt="">
+                                        <img src="assets/images/owner_img.webp" alt="">
                                     </div>
                                     <div class="item">
                                         <h2>William Joseph</h2>
@@ -692,21 +692,21 @@
                                             in the World of publishing. Their editing expertise polished my manuscript
                                             to perfection, and their dedication to my book's success was unwavering.
                                         </p>
-                                        <img src="assets/images/stars.png" alt="">
+                                        <img src="assets/images/stars.webp" alt="">
                                     </div>
                                 </div>
                             </li>
                             <li>
                                 <div class="sldier_wraper">
                                     <div class="item">
-                                        <img src="assets/images/owner_img_2.png" alt="">
+                                        <img src="assets/images/owner_img_2.webp" alt="">
                                     </div>
                                     <div class="item">
                                         <h2>Amanda Smith</h2>
                                         <p>Amazon Publishing Official has been my guiding star. I couldn't have asked for
                                             a better partner on my author journey. They undoubtedly have a remarkable
                                             team with immense knowledge and expertise. </p>
-                                        <img src="assets/images/stars.png" alt="">
+                                        <img src="assets/images/stars.webp" alt="">
                                     </div>
                                 </div>
                             </li>
@@ -743,7 +743,7 @@
                     <div class="author_inner">
                         <h2>Are You Prepared to Share Your Masterpiece with the World? <br>Get Your Adventure Started
                             Today!</h2>
-                        <img src="assets/images/side.png" alt="">
+                        <img src="assets/images/side.webp" alt="">
                     </div>
                 </div>
             </div>
@@ -769,7 +769,7 @@
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="footer_inner">
-                        <a href="/"><img src="assets/images/logo.png" alt=""></a>
+                        <a href="/"><img src="assets/images/logo.webp" alt=""></a>
                         <p><a href="/">Amazon Publishing Official</a> provides authors with the tools, expertise, and
                             support to publish their work and begin a successful literary journey.</p>
                     </div>
@@ -784,7 +784,7 @@
                         </ul>
                     </div>
                     <div class="footer_badge">
-                        <img src="assets/images/bagdes.png" alt="">
+                        <img src="assets/images/bagdes.webp" alt="">
                     </div>
                 </div>
             </div>

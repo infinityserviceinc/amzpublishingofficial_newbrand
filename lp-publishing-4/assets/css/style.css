@@ -134,7 +134,7 @@ section.sec_1 {
 
 .sec_1.home_banner {
   position: relative;
-  background: url('../images/home-banner-bg.png');
+  background: url('../images/home-banner-bg.webp');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center top;
