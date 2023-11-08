@@ -3,7 +3,7 @@
         <div class="row g-4">
             <div class="col-lg-4 col-12">
                 <a href="/" class="footer-brand">
-                    <img src="images/black-logo.png" alt="image">
+                    <img src="images/black-logo.webp" alt="image">
 
                 </a>
                 <p class="theme-p">Overcome the hurdle of being a non-wordsmith and fulfill your book dreams with
@@ -202,7 +202,7 @@
 
 <script src="js/bootstrap.bundle.min.js"></script>
 <script src="js/aos.js"></script>
-<script src="js/fancybox.min.js"></script>
+
 <script src="js/wow.js"></script>
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/jquery.parallax-scroll.js"></script>
@@ -221,6 +221,10 @@ var isloading = true;
 function removeLoading() {
     if (isloading) {
         $("head").append(`
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+        <link href="css/animate.min.css" rel="stylesheet" type="text/css">
+        <link href="css/all.css" rel="stylesheet">
+        <script src="js/fancybox.min.js"><\/script>
         <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"><\/script>
         <script src="js/swiper-bundle.min.js"><\/script>
         <script>

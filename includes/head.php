@@ -21,10 +21,10 @@ if (isset($_SERVER['HTTPS'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="canonical" href="<?=$requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']?>">
     <link rel="shortcut icon" href="favicon.ico" />
-    <link href="css/all.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+    
+
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
-    <link href="css/animate.min.css" rel="stylesheet" type="text/css">
+    
     <link href="css/aos.css" rel="stylesheet" type="text/css">
     <link href="css/fancybox.min.css" rel="stylesheet" type="text/css">
     <link href="css/owl.carousel.min.css" rel="stylesheet" type="text/css">
