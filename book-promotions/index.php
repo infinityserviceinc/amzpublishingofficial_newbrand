@@ -1016,7 +1016,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2 class="h2Heading">Tips for Establishing a Strong Brand Identity On Social Platforms</h2>
+                    <h2 class="h2Heading" style="font-size:50px;">Tips for Establishing a Strong Brand Identity On Social Platforms</h2>
                     <p>
                         Book marketing and branding comprise various stages. With us, it never starts with creating a page or maintaining a Facebook presence. We work on various strategies to set the tone surrounding your book. 
                     </p>
@@ -1189,7 +1189,7 @@
     </section>
     <section class="faq-section">
         <div class="container">
-            <h2 class="faq-title">Frequently Asked Questions</h2>
+            <h2 class="faq-title" style="font-size:50px;">Frequently Asked Questions</h2>
             <p class="faq-description">Before contacting us, you might want to check whether your question is one of our
                 frequently asked questions.</p>
             <div class="faq-accordion">
