@@ -223,7 +223,7 @@ function removeLoading() {
         $("head").append(`
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
         <link href="css/animate.min.css" rel="stylesheet" type="text/css">
-        <link href="css/all.css" rel="stylesheet">
+        
         <script src="js/fancybox.min.js"><\/script>
         <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"><\/script>
         <script src="js/swiper-bundle.min.js"><\/script>
