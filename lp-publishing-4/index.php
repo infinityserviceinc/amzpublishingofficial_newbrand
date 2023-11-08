@@ -23,7 +23,7 @@
             <div class="row align-items-center">
                 <div class="col-md-2">
                     <div class="logo" style="width:220px;">
-                        <a href="/"><img class="lazyload" data-src="assets/images/logo.png"></a>
+                        <a href="/"><img class="lazyload" data-src="assets/images/logo.webp"></a>
                     </div>
                 </div>
                 <div class="col-md-10">
@@ -120,14 +120,14 @@
 
                     <div class="banner_images">
                         <ul class="banner_slider">
-                            <li><img class="lazyload" data-src="assets/images/smal_book_1.png" alt=""></li>
+                            <li><img class="lazyload" data-src="assets/images/smal_book_1.webp" alt=""></li>
                             <li><img class="lazyload" data-src="assets/images/smal_book_2.webp" alt=""></li>
                             <li><img class="lazyload" data-src="assets/images/smal_book_3.webp" alt=""></li>
                             <li><img class="lazyload" data-src="assets/images/smal_book_4.webp" alt=""></li>
                             <li><img class="lazyload" data-src="assets/images/smal_book_5.webp" alt=""></li>
                             <li><img class="lazyload" data-src="assets/images/smal_book_6.webp" alt=""></li>
                             <li><img class="lazyload" data-src="assets/images/smal_book_7.webp" alt=""></li>
-                            <li><img class="lazyload" data-src="assets/images/smal_book_5.png" alt=""></li>
+                            <li><img class="lazyload" data-src="assets/images/smal_book_5.webp" alt=""></li>
                         </ul>
                     </div>
                     <div class="global_btn text-center">
@@ -271,7 +271,7 @@
                         <ul class="logo_img">
                             <li class="first last">
                                 <img alt="Amazon Publishing Official - Satisfaction Guarantee"
-                                    src="assets/images/guarantee.png">
+                                    src="assets/images/guarantee.webp">
                             </li>
                             <!-- <li>
                                 <img class="lazyload" data-src="assets/images/money-back.png">
@@ -302,7 +302,7 @@
                         <ul class="logo_img">
                             <li class="first last">
                                 <img alt="Amazon Publishing Official - Satisfaction Guarantee"
-                                    src="assets/images/guarantee.png">
+                                    src="assets/images/guarantee.webp">
                             </li>
                             <!-- <li>
                                 <img class="lazyload" data-src="assets/images/money-back.png">
@@ -334,7 +334,7 @@
                         <ul class="logo_img">
                             <li class="first last">
                                 <img alt="Vanilla Heart Books And Authors - Satisfaction Guarantee"
-                                    src="assets/images/guarantee.png">
+                                    src="assets/images/guarantee.webp">
                             </li>
                             <!-- <li>
                                 <img class="lazyload" data-src="assets/images/money-back.png">
@@ -373,7 +373,7 @@
                         <ul class="logo_img">
                             <li class="first last">
                                 <img alt="Amazon Publishing Official - Satisfaction Guarantee"
-                                    src="assets/images/guarantee.png">
+                                    src="assets/images/guarantee.webp">
                             </li>
                             <!-- <li>
                                 <img class="lazyload" data-src="assets/images/money-back.png">
