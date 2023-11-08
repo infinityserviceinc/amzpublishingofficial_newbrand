@@ -198,7 +198,7 @@
         <a class="floating-form" href="mailto:info@amzpublishingofficial.com">info@amzpublishingofficial.com</a>
     </div>
 </div>
-<script src="js/jquery-3.6.3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js" integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
 var isloading = true;
 
@@ -207,7 +207,7 @@ function removeLoading() {
         $("head").append(`
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
         <link href="css/animate.min.css" rel="stylesheet" type="text/css">
-        
+        <script src="js/fancybox.min.js"><\/script>
        
         <script src="js/swiper-bundle.min.js"><\/script>
         <script>
@@ -241,7 +241,7 @@ setInterval(removeLoading, 15000);
 </script>
 <script src="js/bootstrap.bundle.min.js"></script>
 <script src="js/aos.js"></script>
-<script src="js/fancybox.min.js"></script>
+
         <!-- <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script> -->
 <script src="js/wow.js"></script>
 <script src="js/owl.carousel.min.js"></script>
@@ -275,7 +275,7 @@ function setButtonURL() {
 }
 </script>
 <script type="text/javascript">
-console.log('yes')
+
 $('#val-form-btn').click(function() {
     var response = grecaptcha.getResponse();
     var email = $('#email').val();
