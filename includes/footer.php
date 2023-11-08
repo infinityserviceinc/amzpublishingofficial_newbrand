@@ -199,7 +199,7 @@
     </div>
 </div>
 <script src="js/jquery-3.6.3.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
 <script src="js/bootstrap.bundle.min.js"></script>
 <script src="js/aos.js"></script>
 <script src="js/fancybox.min.js"></script>
@@ -207,7 +207,7 @@
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/jquery.parallax-scroll.js"></script>
 <script src="js/custom.js"></script>
-<script src="js/swiper-bundle.min.js"></script>
+
 <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=8b347c56-9de7-4087-939b-6a037a749469"> </script>
 <script type="text/javascript">
 zE(function() {
@@ -215,6 +215,43 @@ zE.activate();
 });
 </script>
 
+<script>
+var isloading = true;
+
+function removeLoading() {
+    if (isloading) {
+        $("head").append(`
+        <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"><\/script>
+        <script src="js/swiper-bundle.min.js"><\/script>
+        <script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-PG5GPLC6');
+    <\/script>
+`)
+
+        $('.myLazy').each(function() {
+            $(this).attr("src", $(this).attr('data-src'))
+        })
+        isloading = false
+    }
+}
+$(document).mousemove(removeLoading)
+$(document).scroll(removeLoading)
+$(document).on("touchmove", removeLoading)
+setInterval(removeLoading, 10000);
+</script>
 <script>
 function setButtonURL() {
 

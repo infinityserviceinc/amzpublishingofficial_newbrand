@@ -49,7 +49,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <nav class="navbar navbar-expand-xl">
             <div class="container-fluid">
                 <a class="navbar-brand" href="/">
-                    <img class="img-fluid" src="images/black-logo.png" alt="AMZ Publishing Official">
+                    <img class="img-fluid" src="images/black-logo.webp" alt="AMZ Publishing Official">
 
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"

@@ -628,7 +628,7 @@
                         </ul>
                     </div>
                     <div class="col-lg-7 col-12">
-                        <img class="img-fluid" src="images/cta-2-img.png" alt="image">
+                        <img class="img-fluid" src="images/cta-2-img.webp" alt="image">
                     </div>
                 </div>
             </div>

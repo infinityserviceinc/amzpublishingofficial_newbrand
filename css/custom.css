@@ -568,7 +568,7 @@ button:focus {
 
 .home-banner {
   position: relative;
-  background-image: url(../images/home-banner-bg.png);
+  background-image: url(../images/home-banner-bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center top;

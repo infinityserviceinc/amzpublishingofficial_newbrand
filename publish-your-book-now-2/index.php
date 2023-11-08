@@ -222,14 +222,14 @@
                             STANDARDS.</p>
                         <ul>
                             <li class="first">Publishing on Amazon</li>
-                            <li>Ebook, paperback and hardcover</li>
+                            <li>Ebook, Paperback and Hardcover</li>
                             <li>Proofreading</li>
-                            <li>Adjusting the typesetting and layout according to publishing standards</li>
+                            <li>Adjusting the Typesetting and Layout According to Publishing Standards</li>
                             <li>Formatting</li>
-                            <li>Authors and books profile</li>
-                            <li>Finalized digital files</li>
-                            <li>Book cover design</li>
-                            <li>Amazon optimization</li>
+                            <li>Authors and Books Profile</li>
+                            <li>Finalized Digital Files</li>
+                            <li>Book Cover Design</li>
+                            <li>Amazon Optimization</li>
                             <li>100% Ownership Rights</li>
 
                         </ul>
@@ -254,14 +254,14 @@
                             STANDARDS.</p>
                         <ul>
                             <li class="first">Publishing on the top 5 global platforms</li>
-                            <li>Ebook, paperback and hardcover</li>
+                            <li>Ebook, Paperback and Hardcover</li>
                             <li>Proofreading</li>
-                            <li>Adjusting the typesetting and layout according to publishing standards</li>
+                            <li>Adjusting the Typesetting and Layout According to Publishing Standards</li>
                             <li>Formatting</li>
-                            <li>Authors and books profile</li>
-                            <li>Finalized digital files</li>
-                            <li>Book cover design</li>
-                            <li>Platform optimization</li>
+                            <li>Authors and Books Profile</li>
+                            <li>Finalized Digital Files</li>
+                            <li>Book Cover Design</li>
+                            <li>Platform Optimization</li>
                             <li>100% Ownership Rights</li>
                         </ul>
                         <ul class="logo_img">
@@ -284,15 +284,15 @@
                         <p>EDITING, FORMATTING, SPELL CHECK & TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
                             STANDARDS</p>
                         <ul>
-                            <li class="first">Publishing on the top 10 platforms</li>
-                            <li>Ebook, paperback and hardcover</li>
+                            <li class="first">Publishing on the Top 10 Platforms</li>
+                            <li>Ebook, Paperback and Hardcover</li>
                             <li>Proofreading</li>
-                            <li>Adjusting the typesetting and layout according to publishing standards</li>
+                            <li>Adjusting the Typesetting and Layout According to Publishing Standards</li>
                             <li>Formatting</li>
-                            <li>Authors and books profile</li>
-                            <li>Finalized digital files</li>
-                            <li>Book cover design</li>
-                            <li>Platform optimization</li>
+                            <li>Authors and Books Profile</li>
+                            <li>Finalized Digital Files</li>
+                            <li>Book Cover Design</li>
+                            <li>Platform Optimization</li>
                             <li>100% Ownership Rights</li>
                         </ul>
                         <ul class="logo_img">
