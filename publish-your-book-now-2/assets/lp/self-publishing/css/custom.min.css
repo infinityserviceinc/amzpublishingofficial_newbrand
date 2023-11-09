@@ -216,7 +216,7 @@ ul.navLinks li a h4 span {
 /*Main slider CSS Start*/
 .mainbanner {
     padding: 160px 0 0;
-    background-image: url(../../../../assets/lp/self-publishing/images/banner-img.webp) !important;
+    /* background-image: url(../../../../assets/lp/self-publishing/images/banner-img.webp) !important; */
     background-position: center;
     background-size: cover;
     height: auto;
@@ -2951,9 +2951,10 @@ ul.navLinks li a h4 span {
 
 /*Main slider CSS Start*/
 .mainbanner {
+    background: #284e5e;
     padding: 160px 0 0;
     /* background-image: url(../../../../assets/lp/self-publishing/images/hallo_ween_ban.jpg) !important; */
-    background-image: url(../../../../assets/lp/self-publishing/images/banner-img.webp) !important;
+    /* background-image: url(../../../../assets/lp/self-publishing/images/banner-img.webp) !important; */
     background-position: center;
     background-size: cover;
     height: auto;
@@ -4370,9 +4371,7 @@ i.fad.fa-envelope-open-text {
 
 .banner-contnt p {
     background: rgb(0, 0, 0);
-    background: linear-gradient(90deg,
-            rgba(0, 0, 0, 1) 10%,
-            rgba(37, 78, 96, 1) 28%);
+    background: linear-gradient(3deg, rgba(0, 0, 0, 1) -18%, rgba(37, 78, 96, 1) 28%);
     padding: 2px;
     width: fit-content;
     margin-top: 64px;
@@ -5459,6 +5458,7 @@ header.StickyHeader.stick {
     }
 }
 .prtnrs-sec.d-flex ul.badgess {
+    background: #0b2132;
     display: flex;
     align-items: center;
 }

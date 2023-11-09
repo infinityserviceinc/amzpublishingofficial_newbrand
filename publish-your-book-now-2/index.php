@@ -94,11 +94,16 @@
             <div class="row align-items-center">
                 <div class="col-xl-7 col-lg-7 col-md-12">
                     <div class="banner-contnt">
-                        <h2 class="secheading">Are You Looking To Publish Your Book On <span>Amazon</span>?</h2>
-                        <p>Let Your Authorship Ascends to Infinite Cosmic of Literary Brilliance!</p>
+                    <span class="u-span" style="    /* padding-bottom: 8px; */
+    font-size: 27px;
+    color: #fff;
+    /* margin: 12px; */
+    line-height: 2;">AMZ Publishing Official</span>
+                        <h1 class="secheading">Become A Published Author On <span>Amazon</span> Today</h1>
+                        <p>Become a published, independent author on Amazon Kindle, Barnes & Noble, and more. We turn your vision into e-books, books, and autobiographies that your readers can resonate with. Get in touch with our experts to find out how we help you with Amazon Kindle publishing.</p>
 
 
-                        <ul>
+                        <!-- <ul>
                             <li>Get your Book Out There today Through Amazon Publishing Services.
                             </li>
                             <li>Allow Us To Help You Achieve Your Publishing Goals With Amazon Self Publishing.
@@ -106,7 +111,7 @@
                             <li>Grab The Desired Audience Today Through Amazon Kindle Publishing. </li>
                             <li>Not Just Amazon Book Publishing We Also Get you On Multiple Platforms. </li>
                             <li>Publishing On Multiple Platforms Gain More Reach Means More Sales.</li>
-                        </ul>
+                        </ul> -->
                         <a href="javaScrip:;" class="themeBtn" data-bs-toggle="modal" data-bs-target="#exampleModal">Let's Get
                             Started</a>
                         <a href="javascript:;" class="borderbtn chat"><i class="fas fa-comment-dots"></i> Live Chat</a>

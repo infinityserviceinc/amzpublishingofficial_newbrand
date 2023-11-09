@@ -214,12 +214,15 @@
 
 @media (max-width: 575px) {
     .secheading {
-        font-size: 20px;
+        font-size: 26px;
         margin-top: 20px;
     }
 
     .secheading span {
-        font-size: 20px;
+        font-size: 26px;
+    }
+    .u-span{
+        font-size: 20px !important;
     }
 
     .banner-contnt p {
