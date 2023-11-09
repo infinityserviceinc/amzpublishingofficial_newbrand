@@ -719,7 +719,7 @@ echo "$month";
 				</div>
 			</div>
 		</div>
-		<!-- <div class="global_disclamer container">
+		<div class="global_disclamer container">
 			<h2 style="color: #fff; font-weight: 400px; font-size: 20px; margin: 0; margin-top:12px; line-height: 40px;"
 				class="desc">Disclaimer:</h2>
 			<p style="color:#fff; font-weight: 400px; font-size: 12px; line-height: 26px;" class="desc">All company
@@ -732,7 +732,7 @@ echo "$month";
 				completeness of any information provided on our website. We are not responsible for any errors or
 				omissions, or for the results obtained from the use of this information. Any reliance you place on such
 				information is strictly at your own risk.</p>
-		</div> -->
+		</div>
 		<div class="bottom_call_to_action" style="display:none;">
 			<a href="tel:+18882852656">Ready? Click to Call</a>
 		</div>

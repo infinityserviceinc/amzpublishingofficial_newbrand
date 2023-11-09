@@ -935,7 +935,7 @@
                 </div>
             </div>
         </div> -->
-        <!-- <div class="copy-right ">
+        <div class="copy-right ">
             <div class="container">
                 <h6>© Copyright 2023 AMZ Publishing Official. All Right Reserved</h6>
                 <p> Disclaimer: All company logos and trademarks appearing on our website are the property of their
@@ -949,7 +949,7 @@
                     the use of this information. Any reliance you place on such information is strictly at your own
                     risk.</p>
             </div>
-        </div> -->
+        </div>
     </footer>
 
     <div class="form-wrap">
