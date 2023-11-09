@@ -73,7 +73,7 @@
                                 alt="The writer tree" src="images/flag.webp">+18886012146</a>
                         <a href="javascript:;" data-toggle="modal" data-target="#staticBackdrop1"
                             class="serv-cta-tel">Get Started</a>
-                        <a href="javascript:;" class="serv-cta-chat chats" onclick="Tawk_API.toggle()">Live Chat</a>
+                        <a href="javascript:;" class="serv-cta-chat chats" onclick="setButtonURL();">Live Chat</a>
                     </div>
                 </div>
             </div>
@@ -204,7 +204,7 @@
                                     <a href="tel:+18886012146" class="serv-cta-tel"><img width="27" height="15"
                                             alt="The writer tree" src="images/flag.webp">
                                         +18886012146</a>
-                                    <a href="javascript:;" onclick="Tawk_API.toggle()" class="serv-cta-chat chats">Live
+                                    <a href="javascript:;" onclick="setButtonURL();" class="serv-cta-chat chats">Live
                                         Chat</a>
                                 </div>
                             </div>
@@ -266,7 +266,7 @@
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
-                                            onclick="Tawk_API.toggle()">Live
+                                            onclick="setButtonURL();">Live
                                             Chat</a>
                                     </div>
                                 </div>
@@ -297,7 +297,7 @@
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
-                                            onclick="Tawk_API.toggle()">Live
+                                            onclick="setButtonURL();">Live
                                             Chat</a>
                                     </div>
                                 </div>
@@ -327,7 +327,7 @@
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
-                                            onclick="Tawk_API.toggle()">Live
+                                            onclick="setButtonURL();">Live
                                             Chat</a>
                                     </div>
                                 </div>
@@ -359,7 +359,7 @@
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
-                                            onclick="Tawk_API.toggle()">Live
+                                            onclick="setButtonURL();">Live
                                             Chat</a>
                                     </div>
                                 </div>
@@ -390,7 +390,7 @@
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
-                                            onclick="Tawk_API.toggle()">Live
+                                            onclick="setButtonURL();">Live
                                             Chat</a>
                                     </div>
                                 </div>
@@ -420,7 +420,7 @@
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
-                                            onclick="Tawk_API.toggle()">Live
+                                            onclick="setButtonURL();">Live
                                             Chat</a>
                                     </div>
                                 </div>
@@ -450,7 +450,7 @@
                                     alt="The writer tree" src="images/flag.webp"> +18886012146</a>
                             <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                 data-target="#staticBackdrop1">Get Started</a>
-                            <a href="javascript:;" class="serv-cta-chat chats" onclick="Tawk_API.toggle()">Live Chat</a>
+                            <a href="javascript:;" class="serv-cta-chat chats" onclick="setButtonURL();">Live Chat</a>
                         </div>
                     </div>
                 </div>
@@ -539,7 +539,7 @@
                                     alt="The writer tree" src="images/flag.webp"> +18886012146</a>
                             <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                 data-target="#staticBackdrop1">Get Started</a>
-                            <a href="javascript:;" class="serv-cta-chat chats" onclick="Tawk_API.toggle()">Live Chat</a>
+                            <a href="javascript:;" class="serv-cta-chat chats" onclick="setButtonURL();">Live Chat</a>
                         </div>
                     </div>
                 </div>
@@ -587,7 +587,7 @@
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
-                                            onclick="Tawk_API.toggle()">Live
+                                            onclick="setButtonURL();">Live
                                             Chat</a>
                                     </div>
                                 </div>
@@ -617,7 +617,7 @@
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
-                                            onclick="Tawk_API.toggle()">Live
+                                            onclick="setButtonURL();">Live
                                             Chat</a>
                                     </div>
                                 </div>
@@ -646,7 +646,7 @@
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
-                                            onclick="Tawk_API.toggle()">Live
+                                            onclick="setButtonURL();">Live
                                             Chat</a>
                                     </div>
                                 </div>
@@ -675,7 +675,7 @@
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
-                                            onclick="Tawk_API.toggle()">Live
+                                            onclick="setButtonURL();">Live
                                             Chat</a>
                                     </div>
                                 </div>
@@ -705,7 +705,7 @@
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
-                                            onclick="Tawk_API.toggle()">Live
+                                            onclick="setButtonURL();">Live
                                             Chat</a>
                                     </div>
                                 </div>
@@ -733,7 +733,7 @@
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
-                                            onclick="Tawk_API.toggle()">Live
+                                            onclick="setButtonURL();">Live
                                             Chat</a>
                                     </div>
                                 </div>
@@ -762,7 +762,7 @@
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
-                                            onclick="Tawk_API.toggle()">Live
+                                            onclick="setButtonURL();">Live
                                             Chat</a>
                                     </div>
                                 </div>
@@ -790,7 +790,7 @@
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
-                                            onclick="Tawk_API.toggle()">Live
+                                            onclick="setButtonURL();">Live
                                             Chat</a>
                                     </div>
                                 </div>
@@ -817,7 +817,7 @@
                                         <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                             data-target="#staticBackdrop1">Get Started</a>
                                         <a href="javascript:;" class="serv-cta-chat chats"
-                                            onclick="Tawk_API.toggle()">Live
+                                            onclick="setButtonURL();">Live
                                             Chat</a>
                                     </div>
                                 </div>
@@ -853,7 +853,7 @@
                                 <!-- <h2>Confused About  <br>Book Publishing?</h2>
 							<span>Hire A</span>
 							<h3>Book Publisher</h3> -->
-                                <a href="javascript:;" class="chats chats" onclick="Tawk_API.toggle()">Live Chat</a>
+                                <a href="javascript:;" class="chats chats" onclick="setButtonURL();">Live Chat</a>
                             </div>
                         </div>
                     </div>
@@ -918,7 +918,7 @@
                         src="images/flag.webp"> +18886012146</a>
                 <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal" data-target="#staticBackdrop1">Get
                     Started</a>
-                <a href="javascript:;" class="serv-cta-chat chats" onclick="Tawk_API.toggle()">Live Chat</a>
+                <a href="javascript:;" class="serv-cta-chat chats" onclick="setButtonURL();">Live Chat</a>
             </div>
         </div>
     </section>
@@ -948,7 +948,7 @@
                                     alt="The writer tree" src="images/flag.webp"> +18886012146</a>
                             <a href="javascript:;" class="serv-cta-tel ml-15" data-toggle="modal"
                                 data-target="#staticBackdrop1">Get Started</a>
-                            <a href="javascript:;" class="serv-cta-chat chats" onclick="Tawk_API.toggle()">Live Chat</a>
+                            <a href="javascript:;" class="serv-cta-chat chats" onclick="setButtonURL();">Live Chat</a>
                         </div>
                     </div>
                 </div>
@@ -1016,7 +1016,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2 class="h2Heading">Tips for Establishing a Strong Brand Identity On Social Platforms</h2>
+                    <h2 class="h2Heading" style="font-size:50px;">Tips for Establishing a Strong Brand Identity On Social Platforms</h2>
                     <p>
                         Book marketing and branding comprise various stages. With us, it never starts with creating a page or maintaining a Facebook presence. We work on various strategies to set the tone surrounding your book. 
                     </p>
@@ -1189,7 +1189,7 @@
     </section>
     <section class="faq-section">
         <div class="container">
-            <h2 class="faq-title">Frequently Asked Questions</h2>
+            <h2 class="faq-title" style="font-size:50px;">Frequently Asked Questions</h2>
             <p class="faq-description">Before contacting us, you might want to check whether your question is one of our
                 frequently asked questions.</p>
             <div class="faq-accordion">
@@ -1499,7 +1499,7 @@
     </div>
     <div class="floatbutton">
         <div class="btns_wrap">
-            <a href="javascript:;" class="chat_wrap borderOnly" onclick="Tawk_API.toggle()">
+            <a href="javascript:;" class="chat_wrap borderOnly" onclick="setButtonURL();">
                 <span class="icoo"><i class="fa-comment fas"></i></span>
                 <span>Chat With Us</span> </a>
             <a href="tel:+18886012146" class="call_wrap borderOnly">
