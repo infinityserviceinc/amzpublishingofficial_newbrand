@@ -4,9 +4,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="description"
-        content="Get your book the care it deserves with the US’ No. 1 Ghostwriters and Editors. Amazon Publishing Official provides aspiring authors with all the right tools to shape their next best seller.">
+        content="Get your book the care it deserves with the US’ No. 1 Ghostwriters and Editors. AMZ Publishing Official provides aspiring authors with all the right tools to shape their next best seller.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Amazon Publishing Official: #1 Book Writing, Editing & Publishing Services</title>
+    <title>AMZ Publishing Official: #1 Book Writing, Editing & Publishing Services</title>
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
     
@@ -1066,7 +1066,7 @@
             {
                 breakpoint: 480,
                 settings: {
-                    slidesToShow: 2,
+                    slidesToShow: 1,
                     slidesToScroll: 1,
                     dots: false
                 }
