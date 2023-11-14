@@ -4,10 +4,10 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
 <head>
-    <title>AMZ Publishers House - No.1 Book Publishing Agency - AMZ Publishers House</title>
-    <meta name="keywords" content="AMZ Publishers House">
+    <title>AMZ Publishing Official - No.1 Book Publishing Agency - AMZ Publishing Official</title>
+    <meta name="keywords" content="AMZ Publishing Official">
     <meta name="description"
-        content="At AMZ Publishers House, we provide ROI Focused Book Publishing Services for Independent Authors. Cover Designing. Editing. Ghostwriting. Book Marketing. E-book Writing. Book Publishing." />
+        content="At AMZ Publishing Official, we provide ROI Focused Book Publishing Services for Independent Authors. Cover Designing. Editing. Ghostwriting. Book Marketing. E-book Writing. Book Publishing." />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="../../../favicon.ico" />
@@ -82,7 +82,7 @@
                         <div class="row align-items-center">
                             <div class=col-md-6>
                                 <div class="bnr-txt btn-tx-cp">
-                                    <h4>AMZ Publishers House</h4>
+                                    <h4>AMZ Publishing Official</h4>
                                     <h2>Become a published author on Amazon today</h2>
                                     <p>Become a published, independent author on Amazon Kindle, Barnes & Noble, and
                                         more. We turn your vision into e-books, books, and autobiographies that your
@@ -227,7 +227,7 @@
                             <div class="img-box img-ser1"></div>
                             <div class=ser-box-txt>
                                 <h3>Broad Expertise</h3>
-                                <p class=list-scroll>With AMZ Publishers House, the sky's the limit. Our publishing
+                                <p class=list-scroll>With AMZ Publishing Official, the sky's the limit. Our publishing
                                     team is
                                     well-versed in your industry and its standards. Whatever genre your book belongs to,
                                     we can publish it while meeting the high standards of your niche.
@@ -267,7 +267,7 @@
                 <div class="col-md-12 cta-box">
                     <div class="cta-txt">
                         <h2>Let us bring your ideas to life </h2>
-                        <p>At AMZ Publishers House, we specialize in helping authors like you bring their ideas to life
+                        <p>At AMZ Publishing Official, we specialize in helping authors like you bring their ideas to life
                             by
                             providing comprehensive book writing and publishing solutions. </p>
                     </div>
@@ -636,125 +636,112 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="global_iner text-center">
-                        <h5>AMZ Publishers House </h5>
+                        <h5>Amazon KDP Publishing </h5>
                         <h2>Bestsellers' Packages</h2>
                     </div>
                 </div>
             </div>
             <div class="row mt-5 ttff">
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <div class="packages_iner">
-                        <h3>Newcomer Publishing Plan</h3>
-                        <h2>$399</h2>
-                        <h6>Instead of</h6>
-                        <h2><strike>$899</strike></h2>
-                        <p></p>
+                        <h3>Standard Book Publishing</h3>
+                        <h6>Starting From</h6>
+                        <h2>$499</h2>
+                        <p>EDITING, FORMATTING, SPELL CHECK &amp; TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
+                            STANDARDS.</p>
                         <ul>
-                            <li class="first"> Manuscript Proofreading</li>
-                            <li>EBook and Paperback Formatting and Conversion</li>
-                            <li>EBook and Paperback Publication on Amazon Kindle, Barnes & Noble, and Kobo</li>
-                            <li>Custom Cover Design</li>
-                            <li>1 Blog (Posted on DA 10+ website)</li>
-                            <li>Personalized Marketing Strategy</li>
-                            <li>Amazon Author Account Setup</li>
-                            <li>100% Publication Guarantee</li>
-                            <li>100% Ownership and Royalties</li>
-                            <li>Customized Consultation Session</li>
-                            <li>100% Ownership and Royalties</li>
-                            <li class="last">Dedicated Project Manager</li>
+                            <li class="first"> Publishing on Amazon </li>
+                            <li> Ebook, paperback and hardcover</li>
+                            <li> Proofreading</li>
+                            <li> Adjusting the typesetting and layout according to publishing standards</li>
+                            <li> Formatting</li>
+                            <li> Authors and books profile</li>
+                            <li> Finalized digital files</li>
+                            <li> Book cover design</li>
+                            <li> Amazon optimization</li>
+                            <li class="last"> 100% Ownership Rights</li>
                         </ul>
                         <ul class="logo_img">
                             <li>
                                 <img alt="Amazon Publishing Direct - Satisfaction Guarantee"
-                                    src="images/guarantee.png">
+                                    src="images/guarantee.webp">
                             </li>
                             <!-- <li>
                                 <img src="images/money-back.png">
                             </li> -->
                         </ul>
-                        <a class="btn btnres1 rbt1" style="margin-bottom: 20px;" href="javascript:;$zopim.livechat.window.toggle()">Chat Now</a>
+                        <a class="btn btnres1 rbt1" style="    margin-bottom: 20px;
+" href="javascript:;" data-target="#exampleModal" data-toggle="modal">Get A Quote</a>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <div class="packages_iner">
-                        <h3>Pioneer Publishing Plan</h3>
-                        <h2>$899</h2>
-                        <h6>Instead of</h6>
-                        <h2><strike>$1,699</strike></h2>
-                        <p></p>
+                        <h3>Extended Book Publishing</h3>
+                        <h6>Starting From</h6>
+                        <h2>$1199</h2>
+                        <p>EDITING, FORMATTING, SPELL CHECK &amp; TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
+                            STANDARDS.</p>
                         <ul>
-                         <li class="first">Manuscript Editing and Proofreading, Fixing the Plot & Character, Enhancing the overall Structure</li>
-                            <li>EBook, Paperback, and Hardcover Formatting</li>
-                            <li>Custom Cover Design</li>
-                            <li>ISBN Code Allocation EBook and Paperback</li>
-                            <li>2 Blogs and 2 Articles (Posted on DA 20+ websites)</li>
-                            <li>1 Month of Social Media Promotion (Facebook, Instagram and X)</li>
-                            <li>Personalized Marketing Strategy</li>
-                            <li>Distribution and Expanded Reach to Amazon, Barnes & Noble, Kobo, Ingramspark, Books A Million, Apple iBookstore, Google Play, IndieBound, and 5 Other Platforms</li>
-                            <li>Metadata Optimization and Amazon Listing</li>
-                            <li>Amazon Author Account Setup</li>
-                            <li>Author's Profile creation on famous Platforms and forums such as Good Reads, Library Thing, and Litsy</li>
-                            <li>Opportunity to enroll for a Live TV Interview on Fox, ABC, and NBC</li>
-                            <li>100% Publication Guarantee</li>
-                            <li>100% Ownership and Royalties</li>
-                            <li>Customized Consultation Session</li>
-                            <li class="last">Dedicated Account Manager</li>
+                            <li class="first">Publishing on the top 5 platforms </li>
+                            <li>Ebook, paperback and hardcover</li>
+                            <li>Proofreading</li>
+                            <li>Adjusting the typesetting and layout according to publishing standards</li>
+                            <li>Formatting</li>
+                            <li>Authors and books profile</li>
+                            <li>Finalized digital files</li>
+                            <li>Book cover design</li>
+                            <li>Platform optimization</li>
+                            <li class="last">100% Ownership Rights</li>
                         </ul>
                         <ul class="logo_img">
                             <li>
                                 <img alt="Amazon Publishing Direct - Satisfaction Guarantee"
-                                    src="images/guarantee.png">
+                                    src="images/guarantee.webp">
                             </li>
                             <!-- <li>
                                 <img src="images/money-back.png">
                             </li> -->
                         </ul>
-                        <a class="btn btnres1 rbt1" style="margin-bottom: 20px;" href="javascript:;$zopim.livechat.window.toggle()">Chat Now</a>
+                        <a class="btn btnres1 rbt1" style="    margin-bottom: 20px;
+" href="javascript:;" data-target="#exampleModal" data-toggle="modal">Get A Quote</a>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <div class="packages_iner">
-                    <h3>Maestro Publishing Plan</h3>
-                    <h2>$1,599</h2>
-                        <h6>Instead of</h6>
-                        <h2>$3,199</h2>
-                        <p></p>
+                    <h3>Mighty <?php
+                        $month = date('F');
+                        echo "$month";
+                        ?> Package Publishing +1 month free marketing</h3>
+                        <h6>Starting From</h6>
+                        <h2>$1499</h2>
+                        <p>EDITING, FORMATTING, SPELL CHECK &amp; TYPESETTING ACCORDING TO INTERNATIONAL BOOK PUBLISHING
+                            STANDARDS</p>
                         <ul>
-                            <li class="first"> Manuscript Evaluation</li>
-                            <li>Developmental Editing, Fixing the Plot and character, Enhancing the overall Structure, Pacing, and Coherence of your manuscript, ensuring it reaches its full potential.</li>
-                            <li>eBook, Paperback, and Hardcover Formatting</li>
-                            <li>Custom Cover Design</li>
-                            <li>ISBN Number Allocation eBook, Paperback, and Hardcover</li>
-                            <li>3 Blogs and 3 Articles (Posted on DA 30+ websites)</li>
-                            <li>3 Months of Social Media Promotion (Facebook, Instagram and X)</li>
-                            <li>Personalized Marketing Strategy</li>
-                            <li>Complimentary 1-Page Author Website</li>
-                            <li>Opportunity to enroll for a Live TV Interview on Fox, ABC, and NBC</li>
-                            <li>Opportunity to be featured on US Times Now, US Insider, & California Herald</li>
-                            <li>Distribution and Expanded Reach to Amazon, Barnes & Noble, Ingramspark, Kobo, Walmart, Goodreads, Target, Books A Million. Apple iBookstore, Google Play, IndieBound, Scribd, OverDrive, Gardners, and 40 other platforms.</li>
-                            <li>Author’s Copy Enabled</li>
-                            <li>Metadata Optimization and Amazon Listing</li>
-                            <li>Amazon Author Account Setup</li>
-                            <li>Marketing and Promotion Strategy</li>
-                            <li>Author's Profile creation on famous Platforms and forums such as Good Reads, Library Thing, and Litsy</li>
-                            <li>100% Publication Guarantee</li>
-                            <li>100% Ownership and Royalties</li>
-                            <li>Customized Consultation Session</li>
-                            <li class="last">Dedicated Account and Project Manager </li>
+                            <li class="first"> Publishing on the top 15 platforms </li>
+                            <li> Ebook, paperback and hardcover</li>
+                            <li> Proofreading</li>
+                            <li> Adjusting the typesetting and layout according to publishing standards</li>
+                            <li> Formatting</li>
+                            <li> Authors and books profile</li>
+                            <li> Finalized digital files</li>
+                            <li>Book cover design</li>
+                            <li>Platform optimization</li>
+                            <li class="last">100% Ownership Rights </li>
                         </ul>
                         <ul class="logo_img">
                             <li>
                                 <img alt="Vanilla Heart Books And Authors - Satisfaction Guarantee"
-                                    src="images/guarantee.png">
+                                    src="images/guarantee.webp">
                             </li>
                             <!-- <li>
                                 <img src="images/money-back.png">
                             </li> -->
                         </ul>
-                        <a class="btn btnres1 rbt1" style="    margin-bottom: 20px;" href="javascript:;$zopim.livechat.window.toggle()">Chat Now</a>
+                        <a class="btn btnres1 rbt1" style="    margin-bottom: 20px;
+" href="javascript:;" data-target="#exampleModal" data-toggle="modal">Get A Quote</a>
                     </div>
                 </div>
-                <!-- <div class="col-md-3">
+                <div class="col-md-3">
                     <div class="packages_iner">
                         <h3>Extensive Book Publishing</h3>
                         <h6>Starting From</h6>
@@ -778,12 +765,16 @@
                         <ul class="logo_img">
                             <li>
                                 <img alt="Amazon Publishing Direct - Satisfaction Guarantee"
-                                    src="images/guarantee.png">
+                                    src="images/guarantee.webp">
                             </li>
+                            <!-- <li>
+                                <img src="images/money-back.png">
+                            </li> -->
                         </ul>
-                        <a class="btn btnres1 rbt1" style="    margin-bottom: 20px;" href="javascript:;" data-target="#exampleModal" data-toggle="modal">Get A Quote</a>
+                        <a class="btn btnres1 rbt1" style="    margin-bottom: 20px;
+" href="javascript:;" data-target="#exampleModal" data-toggle="modal">Get A Quote</a>
                     </div>
-                </div> -->
+                </div>
 
             </div>
         </div>
@@ -873,8 +864,8 @@
                                     </div>
                                     <div class="col-lg  col-md-12 col-sm-12">
                                         <p>Send us Email</p>
-                                        <a href="mailto: info@amzpublishershouse.com" class="con-cta-btn ct-b3">
-                                            info@amzpublishershouse.com</a>
+                                        <a href="mailto: info@amzpublishingofficial.com" class="con-cta-btn ct-b3">
+                                            info@amzpublishingofficial.com</a>
                                     </div>
                                 </div>
                             </div>
@@ -928,12 +919,12 @@
 }
 .packages_iner h3 {
     text-align: center;
-    font-size: 23px;
+    font-size: 15px;
     font-weight: 600;
-    line-height: 30px;
-    margin: 7px 0;
+    line-height: 23px;
+    margin: 0;
     padding: 0;
-    min-height: 50px;
+    min-height: 80px;
 }
 .cta-btn .btnres1:hover {
     background: #06487;
