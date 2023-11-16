@@ -58,7 +58,7 @@
                             <li class="nav-item mr-2">
                                 <div class="dropdown">
                                     <a class="topzz" id="dropdownMenuLink"  href="tel:+1 (888) 285 2656"><i
-                                            class="fa fa-phone icon-head"></i>+1 (888) 285 2656</a>
+                                            class="fa fa-phone icon-head"></i> +1 (888) 285 2656</a>
                                 </div>
                             </li>
 
@@ -275,7 +275,7 @@
                         <a class="btn btnres1 rbt1" href="javascript:;" data-target="#exampleModal"
                             data-toggle="modal">Get A Quote</a>
                             <!-- <div class="gotilo mt-4"> -->
-                        <a  href="tel:+1 (888) 285 2656" class="btn btnres1 rbt1">Call Us+1 (888) 285 2656</a>
+                        <a  href="tel:+1 (888) 285 2656" class="btn btnres1 rbt1">Call Us +1 (888) 285 2656</a>
                         <!-- <a href="javascript:;" onclick="setButtonURL();" class="cta-btn-2 liveChat">Live Chat</a> -->
                         <!-- <a href="contact-us.php" class="cta-btn-3 order_button2">Get A Quote</a> -->
 
