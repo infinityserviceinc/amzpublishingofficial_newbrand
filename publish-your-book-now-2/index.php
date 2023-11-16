@@ -101,17 +101,9 @@
     line-height: 2;">AMZ Publishing Official</span>
                         <h1 class="secheading">Become A Published Author On <span>Amazon</span> Today</h1>
                         <p>Become a published, independent author on Amazon Kindle, Barnes & Noble, and more. We turn your vision into e-books, books, and autobiographies that your readers can resonate with. Get in touch with our experts to find out how we help you with Amazon Kindle publishing.</p>
-
-
-                        <!-- <ul>
-                            <li>Get your Book Out There today Through Amazon Publishing Services.
-                            </li>
-                            <li>Allow Us To Help You Achieve Your Publishing Goals With Amazon Self Publishing.
-                            </li>
-                            <li>Grab The Desired Audience Today Through Amazon Kindle Publishing. </li>
-                            <li>Not Just Amazon Book Publishing We Also Get you On Multiple Platforms. </li>
-                            <li>Publishing On Multiple Platforms Gain More Reach Means More Sales.</li>
-                        </ul> -->
+                            <div class="socalss my-0 mb-5">
+                                <img src="assets/images/socialsss.png" alt=""><br>
+                            </div>
                         <a href="javaScrip:;" class="themeBtn" data-bs-toggle="modal" data-bs-target="#exampleModal">Let's Get
                             Started</a>
                         <a href="javascript:;" class="borderbtn chat"><i class="fas fa-comment-dots"></i> Live Chat</a>
@@ -156,23 +148,120 @@
                     </div>
                 </div>
             </div>
-            <div class="prtnrs-sec d-flex">
-               
-            <ul class="badgess">
-                                <li><img src="assets/images/bingo1.png" alt=""></li>
-                                <li><img src="assets/images/bingo2.png" alt=""></li>
-                                <li><img src="assets/images/bingo3.png" alt=""></li>
-                                <!-- <li><img src="assets/images/bingo4.png" alt=""></li> -->
-                                <li><img src="assets/images/bingo5.png" alt=""></li>
-                                <li><img src="assets/images/bingo6.png" alt=""></li>
-
-
-                            </ul>
-            </div>
+           
            
         </div>
 
     </div>
+    <section class="company-logos">
+        <div class="container">
+            <div class="row">
+            <div class="owl-carousel owl-theme owl-loaded owl-drag apdots">
+            
+            <div class="owl-stage-outer">
+              
+              <div class="owl-stage " style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
+                
+                <div class="owl-item cloned">
+                <div class="items">
+                   <img src="assets/images/cl-1.png" alt="">
+                 </div>
+              </div>
+              
+              <div class="owl-item cloned">
+                <div class="items">
+                   <img src="assets/images/cl-2.png" alt="">
+                 </div></div>
+                
+                <div class="owl-item cloned">
+                    <div class="items">
+                   <img src="assets/images/cl-3.png" alt="">
+                 </div></div>
+                
+                <div class="owl-item cloned">
+                    <div class="items">
+                   <img src="assets/images/l-1.png" alt="">
+                 </div></div>
+                
+                <div class="owl-item cloned">
+                    <div class="items">
+                   <img src="assets/images/l-2.png" alt="">
+                 </div></div>
+                
+                <div class="owl-item cloned">
+                    <div class="items">
+                   <img src="assets/images/l-3.png" alt="">
+                 </div></div>
+                
+                <div class="owl-item">
+                    <div class="items">
+                   <img src="assets/images/l-4.png" alt="">
+                 </div></div><div class="owl-item">
+                    <div class="items">
+                   <img src="assets/images/cl-1.png" alt="">
+                 </div></div>
+                
+                <div class="owl-item">
+                    <div class="items">
+                   <img src="assets/images/l-1.png" alt="">
+                 </div></div>
+                
+                <div class="owl-item">
+                    <div class="items">
+                   <img src="assets/images/cl-2.png" alt="">
+                 </div></div><div class="owl-item">
+                    <div class="items">
+                   <img src="assets/images/cl-3.png" alt="">
+                 </div></div>
+                
+                <div class="owl-item active">
+                    <div class="items">
+                   <img src="assets/images/l-1.png" alt="">
+                 </div></div>
+                
+                <div class="owl-item active">
+                    <div class="items">
+                   <img src="assets/images/l-2.png" alt="">
+                 </div></div>
+                
+                <div class="owl-item active">
+                    <div class="items">
+                   <img src="assets/images/l-3.png" alt="">
+                 </div></div>
+                
+                <div class="owl-item active">
+                    <div class="items">
+                   <img src="assets/images/l-4.png" alt="">
+                 </div></div>
+                
+                
+                <div class="owl-item cloned">
+                    <div class="items">
+                   <img src="assets/images/client-logo6.png" alt="">
+                 </div></div>
+                
+                <div class="owl-item cloned">
+                    <div class="items">
+                   <img src="assets/images/l-1.png" alt="">
+                 </div></div>
+                
+                <div class="owl-item cloned">
+                    <div class="items">
+                   <img src="assets/images/cl-2.png" alt="">
+                 </div></div>
+                
+                <div class="owl-item cloned" style=""><div class="items">
+                   <img src="assets/images/cl-3.png" alt="">
+                 </div>
+                </div>
+            </div>
+        </div>
+    
+       
+     </div>
+            </div>
+        </div>
+    </section>
     <section class="helpingSec">
         <div class="container">
             <div class="row align-items-center">

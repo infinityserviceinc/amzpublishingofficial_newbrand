@@ -136,7 +136,19 @@ ul.navLinks li a h4 {
     color: #fff;
     margin-bottom: 0;
 }
-
+section.company-logos {
+    background: #000;
+    padding: 1rem !important;
+}
+.owl-carousel.owl-theme.owl-loaded.owl-drag.apdots .owl-dots {
+    display: none;
+}
+.owl-carousel.owl-theme.owl-loaded.owl-drag.apdots img {
+    width: 50%;
+}
+.owl-carousel.owl-theme.owl-loaded.owl-drag.apdots .owl-nav {
+    display: none;
+}
 ul.navLinks li a h4 span {
     display: block;
 }
@@ -215,7 +227,7 @@ ul.navLinks li a h4 span {
 
 /*Main slider CSS Start*/
 .mainbanner {
-    padding: 160px 0 0;
+    padding: 170px 0;
     /* background-image: url(../../../../assets/lp/self-publishing/images/banner-img.webp) !important; */
     background-position: center;
     background-size: cover;
@@ -2952,7 +2964,7 @@ ul.navLinks li a h4 span {
 /*Main slider CSS Start*/
 .mainbanner {
     background: #284e5e;
-    padding: 160px 0 0;
+    padding: 170px 0;
     /* background-image: url(../../../../assets/lp/self-publishing/images/hallo_ween_ban.jpg) !important; */
     /* background-image: url(../../../../assets/lp/self-publishing/images/banner-img.webp) !important; */
     background-position: center;
