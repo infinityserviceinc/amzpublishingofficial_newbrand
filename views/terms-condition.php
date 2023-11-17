@@ -2,10 +2,10 @@
 <html>
 
 <?php include_once("includes/head.php")?>
-<title>Terms and Conditions | AMZ Publishing Official </title>
+<title>Terms and Conditions | AMZ publishing official </title>
 
 <meta name="description"
-    content="Review the terms and conditions of AMZ Publishing Official. Learn about our policies for quality publishing services.">
+    content="Review the terms and conditions of AMZ publishing official. Learn about our policies for quality publishing services.">
 <body>
     <?php include_once("includes/header.php")?><main>
         <section class="terms-condition conditions-sec">
@@ -35,19 +35,31 @@
                     illustrators - hence we do not use copyright images by ourselves. We will simply provide you links
                     of recommended images so you can copy and place by yourself. You may use royalty free images without
                     any worry, however for copyright images you may require to pay the owner(s).</p>
-                <h2 class="theme-h2">Refunds</h2>
-                <p class="theme-p">We will refund 100% of paid fee if you make request for refund before we start
-                    working on your ordered product (except the transaction charges that will be deducted). Once an
-                    order is delivered you are no longer eligible to ask for 100% refund. Once an Order has been
-                    started, the hours put into the project cannot be recuperated and thus we will not provide a refund.
-                    The Products and Services offered are non-refundable and come with no warranties, expressed or
-                    implied. However, you may ask for up to 1 revision free of charge. In case you are not 100%
-                    satisfied with the quality of product/ services, you may ask for 50% refund against the paid fee
-                    amount.</p>
-                <p class="theme-p">We will process the refund of 50% fee amount subject to verification of the quality
-                    concerns you would claim. In case you have a special complaint scenario and demand full fee amount
-                    refund then your case shall be forwarded to evaluation-committee and they will take an impartial
-                    decision based upon facts and evidences.</p>
+                <h2 class="theme-h2">Refund Policy</h2>
+                <p class="theme-p">
+                            It is important that you carefully read and understand the refund policies in order to have
+                            full knowledge of the privileges and limitations governed by the AMZ publishing official
+                            Policies. We offer refunds only in special cases and specified conditions, detailed as
+                            under:<br>
+                            <br>
+                            AMZ publishing official offers a 100% Refund on all its services, however, it is not an
+                            unconditional 100% refund and certain conditions still apply.<br>
+                            <br>
+                            AMZ publishing official Refund Policy will be Void if;<br>
+                            <br>
+                            You have chosen a special or a custom package.<br>
+                            You have demanded revisions beyond the initial concepts<br>
+                            The customer has not been contacted or irresponsive for more than 2 weeks without
+                            notice.<br>
+                            If the project is placed on hold upon customer request, the refund will be voided.<br>
+                            Company’s policies, or policy, have been violated.<br>
+                            The creative brief is lacking in required information from the client end.<br>
+                            The business is closing or changing its name or business.<br>
+                            Reasons such as ‘change of mind’, ‘disagreement with a partner, or other reasons that do not
+                            pertain to the service provided will not be subject to refund under any circumstances.<br>
+                            Once a client has accepted multiple sets of revisions (for any services), the refund will
+                            not be applicable.<br>
+                        </p>
                 <h2 class="theme-h2">Limitations on Revisions</h2>
                 <p class="theme-p">Editing Orders: We will revise edited content to ensure that no objective or
                     technical errors remain. If no objective or technical errors remain in the content, any further
