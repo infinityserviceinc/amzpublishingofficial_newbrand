@@ -2,7 +2,11 @@
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PG5GPLC6"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+
 <header class="header-main">
+<marquee style="    background: black;
+    color: white;    font-family: 'Poppins', sans-serif !important;padding: 10px" behavior="scroll" direction="left" scrollamount="6">Disclaimer: All company logos and trademarks appearing on our website are the property of their respective owners. We are not affiliated, associated, endorsed by, or in any way officially connected with these companies or their trademarks. The use of these logos and trademarks does not imply any endorsement, affiliation, or relationship between us and the respective companies. We solely use these logos and trademarks for identification purposes only. All information and content provided on our website is for informational purposes only and should not be construed as professional advice. We do not guarantee the accuracy or completeness of any information provided on our website. We are not responsible for any errors or omissions, or for the results obtained from the use of this information. Any reliance you place on such information is strictly at your own risk.
+&nbsp;</marquee>
     <!-- <div class="topbar">
         <div class="container">
             <div class="topbar-content">
