@@ -146,7 +146,7 @@
         margin: 0 auto;
     }
     .mainbanner {
-        padding: 170px 0 0;
+        padding: 191px 0 40px;
         /* background: #05141a !important; */
     }
     a.chat.borderbtn.headbtn {
@@ -209,6 +209,11 @@
 
     ul.navLinks li a i {
         font-size: 14px;
+    }
+    .owl-carousel.owl-theme.owl-loaded.owl-drag.apdots .items {
+        text-align: center !important;
+        margin-left: 90px;
+        width: 80%;
     }
 }
 
