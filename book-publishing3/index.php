@@ -636,7 +636,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="global_iner text-center">
-                        <h5>Amazon KDP Publishing </h5>
+                        <h5>AMZ Publishing Official </h5>
                         <h2>Bestsellers' Packages</h2>
                     </div>
                 </div>
