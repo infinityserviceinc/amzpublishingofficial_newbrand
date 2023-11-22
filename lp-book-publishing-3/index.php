@@ -27,7 +27,7 @@
 	<style>
 		#sticky-header {
 			position: fixed;
-			top: 0;
+			top: 44px;
 			left: 0;
 			width: 100%;
 			/* background-color: #f5f5f5; */
@@ -46,9 +46,12 @@
 <body>
 
 	<!-- header -->
-	<marquee width="100%" direction="left">
-		<p style="font-weight:bold;"> Mighty May Package : Publishing Plus 1 Month Free Marketing</p>
-	</marquee>
+	<marquee style="    background: black;
+    color: white; position:fixed;  top: 0;
+    z-index: 2020;   font-family: 'Poppins', sans-serif !important;padding: 10px" behavior="scroll" direction="left" scrollamount="6">Disclaimer: All company logos and trademarks appearing on our website are the property of their respective owners. We are not affiliated, associated, endorsed by, or in any way officially connected with these companies or their trademarks. The use of these logos and trademarks does not imply any endorsement, affiliation, or relationship between us and the respective companies. We solely use these logos and trademarks for identification purposes only. All information and content provided on our website is for informational purposes only and should not be construed as professional advice. We do not guarantee the accuracy or completeness of any information provided on our website. We are not responsible for any errors or omissions, or for the results obtained from the use of this information. Any reliance you place on such information is strictly at your own risk.
+&nbsp;</marquee>
+	
+	
 	<section class="header_top" id="sticky-header">
 		<div class="container">
 			<div class="row">
