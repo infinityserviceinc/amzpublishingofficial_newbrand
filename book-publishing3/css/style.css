@@ -1770,7 +1770,9 @@ a.cta-btn-3 {
 .price-tab-txt span {
     font-size: 14px
 }
-
+.stickyheader {
+    position: fixed;
+}
 #pricing-tab .pricing-txt h2:before {
     right: 25%;
     top: -5px
