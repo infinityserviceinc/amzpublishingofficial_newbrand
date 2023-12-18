@@ -1008,7 +1008,7 @@
     <script src="js/custom.js" type="ca5d9eea9cf5b4a87706818b-text/javascript"></script>
 
     <!-- Start of  Zendesk Widget script -->
-    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=8b347c56-9de7-4087-939b-6a037a749469">
+    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=3c659566-3aa9-43a6-892a-00c81a96a1b6">
     </script>
     <!-- End of  Zendesk Widget script -->
 
