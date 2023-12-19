@@ -1090,10 +1090,10 @@
                                 <span>info@amzpublishingofficial.com</span></a>
                         </li>
                         <li>
-                            <a> <i class="fa fa-map-marker"></i>4364 Bonita Rd Bonita, CA 91902</a>
+                            <a> <i class="fa fa-map-marker"></i>800 W Julian StSan Jose, CA 95126, USA</a>
                         </li>
                         <!-- <li>
-                            <a> <i class="fa fa-map-marker"></i>4364 Bonita Rd Bonita, CA 91902</a>
+                            <a> <i class="fa fa-map-marker"></i>800 W Julian StSan Jose, CA 95126, USA</a>
                         </li> -->
                         <li>
                             <a href="/privacy/"><i class="fa fa-link" aria-hidden="true"></i> Privacy Policy</a>
