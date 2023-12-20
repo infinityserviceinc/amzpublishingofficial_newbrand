@@ -850,7 +850,7 @@
                                     src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
                                     class="getl getSizer" data-src="assets/images/phone2.webp"
                                     alt="AMZ Publishing Official">
-                                <a href="tel:+18887767589">+1 (888) 285 2656 </a>
+                                <a href="tel:+18882852656">+1 (888) 285 2656 </a>
                             </li>
                         </ul>
                     </div>
@@ -1353,7 +1353,7 @@
                                     src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
                                     class="getl getSizer" data-src="assets/images/phone2.webp"
                                     alt="AMZ Publishing Official">
-                                <a href="tel:+18887767589">+1 (888) 285 2656 </a>
+                                <a href="tel:+18882852656">+1 (888) 285 2656 </a>
                             </li>
                         </ul>
                     </div>
@@ -1450,7 +1450,7 @@
                             <a> <i class="fa fa-map-marker"></i>800 W Julian StSan Jose, CA 95126, USA</a>
                         </li> -->
                         <li>
-                            <a href="/privacy/"><i class="fa fa-link" aria-hidden="true"></i> Privacy Policy</a>
+                            <a href="/privacy-policy/"><i class="fa fa-link" aria-hidden="true"></i> Privacy Policy</a>
                         </li>
                         <!-- <li>
                             <a href="https://www.amzpublishingofficial.com/terms-and-conditions/"><i class="fa fa-link" aria-hidden="true"></i> Term & Conditions</a>
@@ -1494,7 +1494,7 @@
             <a href="javascript:;" class="chat_wrap" onclick=" ">
                 <span class="icoo"><i class="fa fa-comment"></i></span>
                 <span>Chat With Us</span> </a>
-            <a href="tel:+18887767589" class="call_wrap">
+            <a href="tel:+18882852656" class="call_wrap">
                 <span class="icoo"><i class="fa fa-phone"></i></span>
                 <span>+1 (888) 285 2656 </span> </a>
         </div>
