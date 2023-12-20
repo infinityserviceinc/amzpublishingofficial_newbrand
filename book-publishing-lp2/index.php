@@ -687,7 +687,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="main_head">
-                        <h2>Some Of Our Works</h2>
+                        <h2>Some Of Our Work</h2>
                         <p>Our magical world of wonder and adventure with whimsical illustrations that bring children's
                             stories to life!</p>
                     </div>
