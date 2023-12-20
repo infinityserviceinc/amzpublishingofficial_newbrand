@@ -154,7 +154,7 @@
                                 </a>
                             </li>
                             <li class="me-btn">
-                                <a href="javascript:" name="0" class="btn chat open_chat_btn">LET’S TALK to expert</a>
+                                <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" name="0" class="btn chat open_chat_btn">LET’S TALK to expert</a>
                             </li>
                         </ul>
                     </nav>
@@ -1346,7 +1346,7 @@
                                     src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
                                     class="getl getSizer" data-src="assets/images/mes2.webp"
                                     alt="AMZ Publishing Official">
-                                <a href="javascript:;" class="chat open_chat_btn">Talk to an Expert</a>
+                                <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="chat open_chat_btn">Talk to an Expert</a>
                             </li>
                             <li class="phone">
                                 <img width="100%" height="100%"
@@ -1491,7 +1491,7 @@
 
     <div class="floatbutton">
         <div class="btns_wrap">
-            <a href="javascript:;" class="chat_wrap" onclick=" ">
+            <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="chat_wrap" onclick=" ">
                 <span class="icoo"><i class="fa fa-comment"></i></span>
                 <span>Chat With Us</span> </a>
             <a href="tel:+18882852656" class="call_wrap">
@@ -1720,7 +1720,11 @@
 
         }
     </script>
-
+<script type="text/javascript">
+zE(function() {
+    zE.activate();
+});
+</script>
 
     <script>
         $('[data-fancybox="gallery"]').fancybox({
