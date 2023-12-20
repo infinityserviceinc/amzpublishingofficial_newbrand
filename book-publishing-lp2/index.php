@@ -1502,7 +1502,7 @@
             <div class="crossplus">Get 50% off - order</div>
         </div>
         <div class="banner-form">
-            <h3>Chat With Us to Avail <br> </h3>
+            <h3>Chat With Us to Avail 50% <br> </h3>
             <div class="banform">
                 <div>
                     <div class="row">
