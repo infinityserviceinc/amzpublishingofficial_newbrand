@@ -3,6 +3,10 @@
         margin: 20px 30px;
 
     }
+    .info-test span{
+        bottom: 8px !important;
+
+    }
     iframe.mt-3 {
         width: 100%;
     }
@@ -136,7 +140,7 @@
 .btn::before {
     width: 5px;
     height: 5px;
-    left: 8px;
+    left: 2px;
     top: 14px;
 }
 
