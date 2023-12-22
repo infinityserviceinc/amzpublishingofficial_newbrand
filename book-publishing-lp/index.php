@@ -129,7 +129,7 @@
                                 </a>
                             </li>
                             <li class="me-btn">
-                                <a href="javascript:" name="0" class="btn chat open_chat_btn">LET’S TALK to expert</a>
+                                <a href="javascript:;$zopim.livechat.window.toggle()" name="0" class="btn chat open_chat_btn">LET’S TALK to expert</a>
                             </li>
                         </ul>
                     </nav>
@@ -617,11 +617,11 @@
                         <ul>
                             <li class="msg chat">
                                 <img width="100%" height="100%" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="getl getSizer" data-src="assets/images/mes2.webp" alt="AMZ Publishing Official">
-                                <a href="javascript:;" class="open_chat_btn">Talk to an Expert</a>
+                                <a href="javascript:;$zopim.livechat.window.toggle()" class="open_chat_btn">Talk to an Expert</a>
                             </li>
                             <li class="phone">
                                 <img width="100%" height="100%" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="getl getSizer" data-src="assets/images/phone2.webp" alt="AMZ Publishing Official">
-                                <a href="tel:+18887767589">+1 (888) 285 2656  </a>
+                                <a href="tel:+18882852656">+1 (888) 285 2656  </a>
                             </li>
                         </ul>
                     </div>
@@ -1007,11 +1007,11 @@
                         <ul>
                             <li class="msg">
                                 <img width="100%" height="100%" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="getl getSizer" data-src="assets/images/mes2.webp" alt="AMZ Publishing Official">
-                                <a href="javascript:;" class="chat open_chat_btn">Talk to an Expert</a>
+                                <a href="javascript:;$zopim.livechat.window.toggle()" class="chat open_chat_btn">Talk to an Expert</a>
                             </li>
                             <li class="phone">
                                 <img width="100%" height="100%" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="getl getSizer" data-src="assets/images/phone2.webp" alt="AMZ Publishing Official">
-                                <a href="tel:+18887767589">+1 (888) 285 2656  </a>
+                                <a href="tel:+18882852656">+1 (888) 285 2656  </a>
                             </li>
                         </ul>
                     </div>
@@ -1083,7 +1083,7 @@
                 <div class="col-md-4">
                     <ul>
                         <li>
-                            <a href="tel:+18882852656 "> <i class="fa fa-phone"></i>  +1 (888) 285 2656  </a>
+                            <a href="tel:+18882852656"> <i class="fa fa-phone"></i>  +1 (888) 285 2656  </a>
                         </li>
                         <li>
                             <a href="mailto:info@amzpublishingofficial.com"><i class="fa fa-envelope"></i>
@@ -1096,7 +1096,7 @@
                             <a> <i class="fa fa-map-marker"></i>800 W Julian StSan Jose, CA 95126, USA</a>
                         </li> -->
                         <li>
-                            <a href="/privacy/"><i class="fa fa-link" aria-hidden="true"></i> Privacy Policy</a>
+                            <a href="/privacy-policy/"><i class="fa fa-link" aria-hidden="true"></i> Privacy Policy</a>
                         </li>
                         <!-- <li>
                             <a href="https://www.amzpublishingofficial.com/terms-and-conditions/"><i class="fa fa-link" aria-hidden="true"></i> Term & Conditions</a>
@@ -1122,65 +1122,55 @@
 
 
 
-
-
-
-
-
 <div class="floatbutton"> 
     <div class="btns_wrap"> 
-        <a href="javascript:;" class="chat_wrap" onclick=" "> 
+        <a href="javascript:;$zopim.livechat.window.toggle()" class="chat_wrap" onclick=" "> 
             <span class="icoo"><i class="fa fa-comment"></i></span> 
-            <span>Chat With Us</span> </a> 
-            <a href="tel:+18887767589" class="call_wrap"> 
-                <span class="icoo"><i class="fa fa-phone"></i></span> 
-                <span>+1 (888) 285 2656 </span> </a> 
-            </div> 
-            <div class="clickbutton"> 
-                <div class="crossplus">Get 50% off - order</div> 
-            </div> 
-            <div class="banner-form"> 
-                <h3>Chat With Us to Avail <br>  </h3> 
-                <div class="banform"> 
-                    <div> 
-                        <div class="row"> 
-                            <div class="ban-form"> 
-                                <form action="/leads/" method="POST" > 
-                           
+            <span>Chat With Us</span> 
+        </a> 
+        <a href="tel:+18882852656" class="call_wrap"> 
+            <span class="icoo"><i class="fa fa-phone"></i></span> 
+            <span>+1 (888) 285 2656 </span> 
+        </a> 
+    </div> 
+    <div class="clickbutton"> 
+        <div class="crossplus">Get 50% off - order</div> 
+    </div> 
+    <div class="banner-form"> 
+        <h3>Chat With Us to Avail 50% </h3> 
+        <div class="banform"> 
+            <div> 
+                <div class="row"> 
+                    <div class="ban-form"> 
+                        <form action="/leads/" method="POST" > 
 
-                                    <div class="row"> 
-                                        <div class="col-lg-12"> 
-                                            <div class="fldset"> 
-                                               
-                                                <input id="username" name="name" minlength="2" type="text" placeholder="Enter your name" required> 
-                                            </div> 
-                                        </div> 
-                                        <div class="col-lg-12"> 
-                                            <div class="fldset"> 
-                                                <input id="cemail" type="email" name="email" placeholder="Enter email here" required> 
-                                            </div> 
-                                        </div> 
-                                        <div class="col-lg-12 mt-2"> 
-                                            <div class="fldset"> 
-                                                <input id="phone-coun" type="tel" name="phone" placeholder="Phone Number" required> 
-                                                <input type="submit" value="submit Now"> 
-                                            </div> 
-                                        </div> 
+                            <div class="row"> 
+                                <div class="col-lg-12"> 
+                                    <div class="fldset"> 
                                         
-                                             <div class="col-lg-12"> 
-                                                <div class="fldset"> 
-                                         
-                                                   
-                                                </div> 
-                                             </div> 
-                                            </div> 
-                                        </form> 
+                                        <input id="username" name="name" minlength="2" type="text" placeholder="Enter your name" required> 
+                                    </div> 
+                                </div> 
+                                <div class="col-lg-12"> 
+                                    <div class="fldset"> 
+                                        <input id="cemail" type="email" name="email" placeholder="Enter email here" required> 
+                                    </div> 
+                                </div> 
+                                <div class="col-lg-12 mt-2"> 
+                                    <div class="fldset"> 
+                                        <input id="phone-coun" type="tel" name="phone" placeholder="Phone Number" required> 
+                                        <input type="submit" value="submit Now"> 
                                     </div> 
                                 </div> 
                             </div> 
-                        </div> 
+                        </form> 
                     </div> 
+                </div> 
+            </div> 
+        </div> 
+    </div> 
 </div>
+
 <style>
     
 .black_friday {
@@ -1229,11 +1219,8 @@
 .black_friday h2 {
     font-size: 25px !important;
     margin:0;
-    
     font-weight: 600;
-
     color: #fff;
-   
 }
 
 .black_friday h2 span {
@@ -1242,7 +1229,6 @@
     text-shadow: 1px 2px 15px #fff;
     filter: drop-shadow(0px 0px 25px #fff);
     color: #fff;
- 
     font-weight: 600;
 }
 
@@ -1351,9 +1337,17 @@
     }
 </script>
 
+<script type="text/javascript">
+    zE(function() {
+        zE.activate();
+    });
+</script>
 
 
 
 
 
-</body></html>
+
+</body>
+
+</html>

@@ -60,7 +60,7 @@
     .btn {
         font-size: 13px;
         letter-spacing: 0;
-        padding: 6px 15px;
+        padding: 6px 15px 6px 23px;
     }
 
     section {
@@ -644,4 +644,10 @@ header ul li.msg a {
     min-height: auto;
 }
 
+}
+
+@media(max-width:425px){
+    .info-test img {
+        width: 36px;
+    }
 }

@@ -1485,10 +1485,6 @@
 
 
 
-
-
-
-
     <div class="floatbutton">
         <div class="btns_wrap">
             <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="chat_wrap" onclick=" ">
@@ -1668,16 +1664,16 @@
             }
         }
     </style>
+    
     <a data-toggle="modal" data-target="#updatess-basics">
         <div class="black_friday">
             <div class="black_friday_top">
                 <p>50% off</p>
             </div>
             <h2>Sign up Now</h2>
-
-
         </div>
     </a>
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
 
@@ -1690,9 +1686,7 @@
     </script>
     <script defer type="text/javascript" src="js/functions.js"></script>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/js/all.min.js"
-        integrity="sha512-uKQ39gEGiyUJl4AI6L+ekBdGKpGw4xJ55+xyJG7YFlJokPNYegn9KwQ3P8A7aFQAUtUsAQHep+d/lrGqrbPIDQ=="
-        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/js/all.min.js"></script>
 
     <!-- Start of  Zendesk Widget script -->
     <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=3c659566-3aa9-43a6-892a-00c81a96a1b6">
@@ -1720,11 +1714,12 @@
 
         }
     </script>
-<script type="text/javascript">
-zE(function() {
-    zE.activate();
-});
-</script>
+
+    <script type="text/javascript">
+        zE(function() {
+            zE.activate();
+        });
+    </script>
 
     <script>
         $('[data-fancybox="gallery"]').fancybox({
