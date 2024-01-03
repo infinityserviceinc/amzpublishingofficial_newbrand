@@ -35,7 +35,6 @@ if (in_array($url,$fileWithOutExt)) {
   
   $urlWithoutSlashes =  str_replace('/',"",$url);
   require $dir.'/'.$urlWithoutSlashes.'.php';
-
     
 }
 else{
