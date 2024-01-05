@@ -36,6 +36,17 @@
                         </a>
                     </li>
                 </ul>
+                <ul style="float: left;
+    margin: 7px -52px 4px 5px;
+    position: relative;
+    text-align: center;
+    display: flex;">
+              <li style="margin-right:5px;"><a target="_blank" href="https://www.bark.com/en/us/company/amazon-publishing-official/wV0jE/?show_reviews=true"><img style="width: 30px;" alt="Bark Icon for American Author House" class="iicon" src="assets/images/bark-icon-2.png"></a>
+              </li>
+              <li style="margin-right:5px;"><a target="_blank" href="https://www.reviews.io/company-reviews/store/www.amazonpublishingofficial.com"><img style="width: 30px;" class="iicon" src="assets/images/review-icon-2.png" alt="Positive Review Icon - American Author House"></a></li>
+              <li style="margin-right:5px;"><a target="_blank" href="https://www.sitejabber.com/reviews/amazonpublishingofficial.com"><img style="width: 30px;" class="iicon" src="assets/images/ss1.png" alt="American Author House success story image"></a></li>
+
+            </ul>
             </div>
             <div class="col-lg-2 col-12">
                 <h4 class="theme-h4">Quick Links</h4>
