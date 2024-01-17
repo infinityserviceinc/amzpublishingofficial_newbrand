@@ -923,7 +923,7 @@
                         <ul>
                             <li><a href="tel:+1 (888) 285 2656"><i class="fa-solid fa-phone"></i> +1 (888) 285 2656</a></li>
                             <li><a href="mailto:info@amzpublishingofficial.com"><i class="fa-solid fa-envelope"></i>info@amzpublishingofficial.com</a></li>
-                            <li  style="color: #fff;"><i class="fa-solid fa-location-dot" style="margin: 0 10px 0 0px;"></i> 800 W Julian StSan Jose, CA 95126, USA</li>
+                            <li  style="color: #fff; font-size:14px;"><i class="fa-solid fa-location-dot" style="margin: 0 10px 0 0px;"></i> 800 W Julian StSan Jose, CA 95126, USA</li>
                         </ul>
                     </div>
                 </div>
