@@ -4,9 +4,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>AMZ Publishing Official: #1 Book Publishing & Marketing Services</title>
+    <title>Amz Publishing Official: #1 Book Publishing & Marketing Services</title>
     <meta name="description"
-        content="Get your book the care it deserves with the US’ No. 1 Ghostwriters and Editors. AMZ Publishing Official provides aspiring authors with all the right tools to shape their next best seller.">
+        content="Get your book the care it deserves with the US’ No. 1 Ghostwriters and Editors. Amz Publishing Official provides aspiring authors with all the right tools to shape their next best seller.">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -20,7 +20,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap"
         rel="stylesheet">
-    <link rel="icon" type="image/x-icon" href="assets/images/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
 </head>
 
 <body>
@@ -75,13 +75,13 @@
                         <div class="global_buttons">
                             <button type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
                                 class="btn-color">GET STARTED</button>
-                            <button type="button" class="btn-white">LIVE CHAT</button>
+                            <button type="button" class="btn-white" onclick="setButtonURL();">LIVE CHAT</button>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="banner_form">
-                        <h2>GET IN TOUCH WITH </h2>
+                        <h2>GET IN TOUCH </h2>
                         <p>To schedule a consultation, please send us your details or call now</p>
                         <a href="tel:+1 (888) 285 2656">+1 (888) 285 2656</a>
                         <form action="/leads/" method="POST">
@@ -196,7 +196,7 @@
                         <p>To understand the groundwork of our book marketing services.</p>
                     </div>
                     <div class="box_wraper">
-                        <ul>
+                        <ul class='ttff'>
                             <li>
                                 <img src="assets/images/icon_1.webp" alt="">
                                 <h4>INITIAL CONSULTATION</h4>
@@ -284,7 +284,7 @@
                             <div class="row mt-5">
                                 <div class="col-md-4">
                                     <div class="packages_inner box_before">
-                                        <h2>K2 <span>Combo Peak</span> | Publishing + 6 Months Marketing</h2>
+                                        <h2>K2 Combo Peak| Publishing <span>+ 6 Months Marketing</span> </h2>
                                         <ul>
                                             <li>Publishing on 10 Platforms </li>
                                             <li>Editing, Spell Checks, Proofreading</li>
@@ -317,13 +317,14 @@
                                         <div class="global_buttons">
                                             <button type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
                                                 class="btn-color">GET STARTED</button>
-                                            <button type="button" class="btn-white">LIVE CHAT</button>
+                                            <button type="button" class="btn-white" onclick="setButtonURL();">LIVE
+                                                CHAT</button>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="packages_inner solid">
-                                        <h2>Everest Combo Peak Best Selling Publishing + <span>12 Months
+                                        <h2>Everest Combo Peak (Best Selling) Publishing <span>+ 12 Months
                                                 Marketing</span></h2>
                                         <ul>
                                             <li>Publishing on 30 Platforms </li>
@@ -368,7 +369,8 @@
                                         <div class="global_buttons">
                                             <button type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
                                                 class="btn-color">GET STARTED</button>
-                                            <button type="button" class="btn-white">LIVE CHAT</button>
+                                            <button type="button" class="btn-white" onclick="setButtonURL();">LIVE
+                                                CHAT</button>
                                         </div>
                                     </div>
                                 </div>
@@ -384,7 +386,7 @@
                                             <li>Google Preview Book</li>
                                             <li>Social Media Promotion for 3 Months</li>
                                             <li>6 Stories for Each Social Platform</li>
-                                            <li>Amazon Optimization- 3 Month</li>
+                                            <li>Amazon Optimization- 3 Months</li>
                                             <li>Video Reviews – 8x</li>
                                             <li>Blog and Articles – 2x (Posted On DA 10+ Websites)</li>
                                             <li>Press Release – 4x (10+ Media Outlets)</li>
@@ -403,7 +405,8 @@
                                         <div class="global_buttons">
                                             <button type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
                                                 class="btn-color">GET STARTED</button>
-                                            <button type="button" class="btn-white">LIVE CHAT</button>
+                                            <button type="button" class="btn-white" onclick="setButtonURL();">LIVE
+                                                CHAT</button>
                                         </div>
                                     </div>
                                 </div>
@@ -413,7 +416,7 @@
                             <div class="row mt-5">
                                 <div class="col-md-4">
                                     <div class="packages_inner box_before">
-                                        <h2>Mariana <span>Deep Marketing</span> | 6 Months Marketing </h2>
+                                        <h2>Mariana <span>Deep Marketing</span> | 6 Months Marketing <br> &nbsp; </h2>
                                         <ul>
                                             <li>Google Preview Book</li>
                                             <li>Social Media Promotion for 6 Months </li>
@@ -439,7 +442,8 @@
                                         <div class="global_buttons">
                                             <button type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
                                                 class="btn-color">GET STARTED</button>
-                                            <button type="button" class="btn-white">LIVE CHAT</button>
+                                            <button type="button" class="btn-white" onclick="setButtonURL();">LIVE
+                                                CHAT</button>
                                         </div>
                                     </div>
                                 </div>
@@ -480,7 +484,8 @@
                                         <div class="global_buttons">
                                             <button type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
                                                 class="btn-color">GET STARTED</button>
-                                            <button type="button" class="btn-white">LIVE CHAT</button>
+                                            <button type="button" class="btn-white" onclick="setButtonURL();">LIVE
+                                                CHAT</button>
                                         </div>
                                     </div>
                                 </div>
@@ -525,7 +530,8 @@
                                         <div class="global_buttons">
                                             <button type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
                                                 class="btn-color">GET STARTED</button>
-                                            <button type="button" class="btn-white">LIVE CHAT</button>
+                                            <button type="button" class="btn-white" onclick="setButtonURL();">LIVE
+                                                CHAT</button>
                                         </div>
                                     </div>
                                 </div>
@@ -535,7 +541,7 @@
                             <div class="row mt-5">
                                 <div class="col-md-4">
                                     <div class="packages_inner box_before">
-                                        <h2>Starter <span>Package</span></h2>
+                                        <h2>Starter <span>Package</span> <br> &nbsp;</h2>
                                         <ul>
                                             <li>Publishing on Amazon and Kindle in the formats of your choice i.e,
                                                 ebook, paperback, hardback</li>
@@ -549,7 +555,8 @@
                                         <div class="global_buttons">
                                             <button type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
                                                 class="btn-color">GET STARTED</button>
-                                            <button type="button" class="btn-white">LIVE CHAT</button>
+                                            <button type="button" class="btn-white" onclick="setButtonURL();">LIVE
+                                                CHAT</button>
                                         </div>
                                     </div>
                                 </div>
@@ -571,13 +578,14 @@
                                         <div class="global_buttons">
                                             <button type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
                                                 class="btn-color">GET STARTED</button>
-                                            <button type="button" class="btn-white">LIVE CHAT</button>
+                                            <button type="button" class="btn-white" onclick="setButtonURL();">LIVE
+                                                CHAT</button>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="packages_inner box_after">
-                                        <h2>Extensive Author <span>Kit</span></h2>
+                                        <h2>Extensive Author <span>Kit</span> <br> &nbsp;</h2>
                                         <ul>
                                             <li>Publishing on over 20+ local and international platforms including
                                                 Amazon, Barnes &amp; Noble, Aphrohead, Walmart, Target, Apple Books,
@@ -596,7 +604,8 @@
                                         <div class="global_buttons">
                                             <button type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
                                                 class="btn-color">GET STARTED</button>
-                                            <button type="button" class="btn-white">LIVE CHAT</button>
+                                            <button type="button" class="btn-white" onclick="setButtonURL();">LIVE
+                                                CHAT</button>
                                         </div>
                                     </div>
                                 </div>
@@ -614,8 +623,8 @@
                 <div class="col-md-12">
                     <div class="global_inner">
                         <h2>OUR <span>PORTFOLIO</span></h2>
-                        <p>Lorem ipsum dolor sit amet consectetur. Quis laoreet lorem consectetur neque amet.
-                            Ullamcorper facilisi lacus duis augue l</p>
+                        <!-- <p>Lorem ipsum dolor sit amet consectetur. Quis laoreet lorem consectetur neque amet.
+                            Ullamcorper facilisi lacus duis augue l</p> -->
                     </div>
                 </div>
             </div>
@@ -711,6 +720,7 @@
     <style>
     .portfolio_img ul li img {
         width: 250px;
+        height: 370px;
     }
     </style>
     <section class="cta_sec">
@@ -735,7 +745,7 @@
                 <div class="col-md-12">
                     <div class="global_inner">
                         <h2>CLIENT <span>TESTIMONIALS</span></h2>
-                        
+
                     </div>
                 </div>
             </div>
@@ -754,7 +764,7 @@
                         </ul>
                         <img src="assets/images/star.png" alt="">
                         <h4>Best Writing Service</h4>
-                        <p>&ldquo;I am glad that I trusted AMZ Publishing Official for their ghostwriting
+                        <p>&ldquo;I am glad that I trusted Amz Publishing Official for their ghostwriting
                             services!
                             The team that I worked with managed to maintain a high level of professionalism
                             throughout the timeline of the project and they submitted exactly
@@ -775,7 +785,7 @@
                         </ul>
                         <img src="assets/images/star.png" alt="">
                         <h4>Great Work</h4>
-                        <p>&ldquo;Working with AMZ Publishing Official was a pleasure and I can&rsquo;t imagine
+                        <p>&ldquo;Working with Amz Publishing Official was a pleasure and I can&rsquo;t imagine
                             receiving better content from any other agency. They managed to deliver exactly what
                             we discussed in the initial brief and kept me in the loop throughout
                             the timeline of the project&ndash; perhaps because I was a little reluctant on
@@ -796,7 +806,7 @@
                             <li>Mar 19, 2023</li>
                         </ul>
                         <img src="assets/images/star.png" alt="">
-                        <h4>AMZ Publishing Official is the best</h4>
+                        <h4>Amz Publishing Official is the best</h4>
                         <p>&ldquo;I needed some help in writing a book for my students. Even though I had a lot
                             of material and resources for inspiration, my schedule didn&rsquo;t allow me to
                             actually sit down, and fan the flames of a long-lost hobby. Long story
@@ -820,7 +830,7 @@
                         </ul>
                         <img src="assets/images/star.png" alt="">
                         <h4>Best Writing</h4>
-                        <p>&ldquo;AMZ Publishing Official is the best! I am an accomplished writer myself and I
+                        <p>&ldquo;Amz Publishing Official is the best! I am an accomplished writer myself and I
                             was
                             pretty excited to get my work done from these guys. Perhaps the biggest compliment I
                             can give these guys is that I learned a thing or two about
@@ -843,11 +853,11 @@
                         </ul>
                         <img src="assets/images/star.png" alt="">
                         <h4>Only God Is Perfect</h4>
-                        <p>&ldquo;This is a special shoutout to George and his team in AMZ Publishing Official
+                        <p>&ldquo;This is a special shoutout to George and his team in Amz Publishing Official
                             because they managed to conjure up a well-thought-out memoir for me so I could gift
                             it to my wife on our wedding. To read your own biography as if
                             it was a fairytale is probably the best wedding gift and I know now that the
-                            ghostwriters at AMZ Publishing Official are up to the challenge. P.S. my wife loves
+                            ghostwriters at Amz Publishing Official are up to the challenge. P.S. my wife loves
                             it!&rdquo;</p>
                     </div>
                 </div>
@@ -906,37 +916,42 @@
     <footer class="main_footer">
         <div class="container">
             <div class="row align-items-center">
-			<div class="col-md-3">
+                <div class="col-md-3">
                     <div class="logo">
-					<a href="/"><img src="assets/images/logo.webp" alt=""></a>
+                        <a href="/"><img src="assets/images/logo.webp" alt=""></a>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="footer_inner">
                         <p>We believe that every story is worth sharing. Our book writer for hire put effort into
                             executing your idea to perfection. Nothing can be accomplished without hard work and
-                            dedication. Our team has the ability to shape words and weave ideas to spell extraordinary stories.</p>
+                            dedication. Our team has the ability to shape words and weave ideas to spell extraordinary
+                            stories.</p>
                     </div>
                 </div>
                 <div class="col-md-3">
                     <div class="footer_inner">
                         <ul>
-                            <li><a href="tel:+1 (888) 285 2656"><i class="fa-solid fa-phone"></i> +1 (888) 285 2656</a></li>
-                            <li><a href="mailto:info@amzpublishingofficial.com"><i class="fa-solid fa-envelope"></i>info@amzpublishingofficial.com</a></li>
-                            <li  style="color: #fff; font-size:14px;"><i class="fa-solid fa-location-dot" style="margin: 0 10px 0 0px;"></i> 800 W Julian StSan Jose, CA 95126, USA</li>
+                            <li><a href="tel:+1 (888) 285 2656"><i class="fa-solid fa-phone"></i> +1 (888) 285 2656</a>
+                            </li>
+                            <li><a href="mailto: info@amzpublishingofficial.com"><i class="fa-solid fa-envelope"></i>
+                                    info@amzpublishingofficial.com</a></li>
+                            <li style="color: #fff;"><i class="fa-solid fa-location-dot"
+                                    style="margin: 0 10px 0 0px;"></i>
+                                800 W Julian StSan Jose, CA 95126, USA</li>
                         </ul>
                     </div>
                 </div>
             </div>
             <div class="row mt-5 align-items-center">
                 <div class="col-md-12">
-                    <div class="footer_link">
-                        <!-- <ul>
-                            <li><a href="">Privacy Policy</a></li>
+                    <!-- <div class="footer_link">
+                        <ul>
+                            <li><a href="privacy/">Privacy Policy</a></li>
                             <li>|</li>
-                            <li><a href="#">Terms and Condition</a></li>
-                        </ul> -->
-                    </div>
+                            <li><a href="terms-of-use/">Terms and Conditions</a></li>
+                        </ul>
+                    </div> -->
                 </div>
             </div>
             <div class="row">
@@ -1005,7 +1020,9 @@
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
     </script>
 
-<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=3c659566-3aa9-43a6-892a-00c81a96a1b6"> </script>
+    <!-- Start of  Zendesk Widget script -->
+    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=3c659566-3aa9-43a6-892a-00c81a96a1b6"> </script>
+    <!-- End of  Zendesk Widget script -->
     <script type="text/javascript">
     zE(function() {
         zE.activate();
@@ -1089,6 +1106,75 @@
     });
     </script>
 
+    <script>
+    if (window.innerWidth < 767) {
+        $('.ttff').slick({
+            dots: true,
+            arrows: false,
+            infinite: true,
+            speed: 300,
+            autoplay: true,
+            slidesToShow: 5,
+            slidesToScroll: 1,
+            responsive: [{
+                    breakpoint: 1399,
+                    settings: {
+                        slidesToShow: 4,
+                        slidesToScroll: 1,
+                        infinite: true,
+                        dots: false
+                    }
+                }, {
+                    breakpoint: 1200,
+                    settings: {
+                        slidesToShow: 3,
+                        slidesToScroll: 1,
+                        infinite: true,
+                        dots: false
+                    }
+                },
+                {
+                    breakpoint: 992,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
+                        dots: false
+
+                    }
+                },
+                {
+                    breakpoint: 767,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
+                        dots: false
+
+                    }
+                },
+                {
+                    breakpoint: 600,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
+                        dots: false
+
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
+                        dots: false
+                    }
+                }
+                // You can unslick at a given breakpoint now by adding:
+                // settings: "unslick"
+                // instead of a settings object
+            ]
+        });
+    }
+    </script>
 
 </body>
 

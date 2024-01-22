@@ -30,6 +30,7 @@ section.sec_1 {
     background-position: center;
     padding: 59px 0 0 0;
     position: relative;
+    z-index: 99;
 }
 
 .header_btn ul {
@@ -80,6 +81,7 @@ section.sec_1 .row {
     height: 45px;
     width: 180px;
     margin: 0 0 0 20px;
+    font-weight: 800;
 }
 .header_btn_wrap {
     text-align: right;
@@ -236,6 +238,7 @@ input[type="submit"] {
     padding: 0 !important;
     height: 50px !important;
     border: none !important;
+    font-weight: 800;
 }
 
 section.sec_1:after {
@@ -274,7 +277,7 @@ footer.main_footer {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    padding: 80px 0 30px 0;
+    padding: 60px 0 15px 0;
     border-bottom: 26px solid #f79c3d;
 }
 
@@ -332,7 +335,7 @@ footer.main_footer {
 
 .desc {
     text-align: center;
-    padding: 30px 0 0 0;
+    padding: 15px 0 0 0;
 }
 
 .desc h2 {
@@ -348,11 +351,10 @@ footer.main_footer {
     color: #FFF;
     text-align: center;
     font-family: Lato;
-    font-size: 16px;
+    font-size: 15px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    width: 1006px;
     margin: auto !important;
 }
 
@@ -472,6 +474,7 @@ section.sec_7 ul#myTab li.nav-item:nth-child(3) button {
     width: 386px;
     margin: auto;
     position: relative;
+    height: 580px;
 }
 
 .packages_inner h2 {
@@ -572,7 +575,7 @@ section.sec_8 {
     border: none;
 }
 
-.button_navs ul#myTab li button {border-radius: 10px;border: 3px solid #f79c3d;color: #f79c3d;font-size: 14px;font-style: normal;font-weight: 800;line-height: normal;width: 180px;height: 50px;}
+.button_navs ul#myTab li button {border-radius: 10px;border: 3px solid #f79c3d;color: #f79c3d;font-size: 14px;font-style: normal;font-weight: 800;line-height: normal;width: 180px;height: 50px;text-transform: uppercase;}
 
 .button_navs ul#myTab li button.active {
     background: #f79c3d;
@@ -644,6 +647,7 @@ section.cta_sec {
     width: 180px;
     height: 50px;
     color: #fff;
+    font-weight: 800;
 }
 
 section.cta_sec:before, section.cta_sec:after {
@@ -702,6 +706,7 @@ section.testimonial_sec {
     box-shadow: 0px 4.619px 23.093px 0px rgba(184, 184, 184, 0.25);
     padding: 20px 20px;
     border-radius: 20px;
+    height: 330px;
 }
 
 .testimonial_wraper ul li span h5 {
@@ -809,15 +814,15 @@ section.form_sec:before , section.form_sec:after{
     width: 180px;
     height: 505px;
     bottom: 10px;
-    left: 9.5%;
+    left: 2.5%;
 }
 
 section.form_sec:after{
     background-image: url(../images/right.png);
     left: unset;
-    right: 5%;
+    right: -4%;
     width: 345px;
-    height: 521px;
+    height: 501px;
     bottom: 0;
 }
 
@@ -955,6 +960,26 @@ section.form_sec:after {
     
 }
 @media only screen and (max-width: 767px){
+    ul#myTab li.nav-item {width: 50%;}
+
+ul#myTab {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center !important;
+    padding: 0 !important;
+}
+
+.button_navs ul#myTab li button {
+    width: 160px;
+}
+    .modal-content {
+        padding: 10px 0 20px 0 !important;
+        top: 10px !important;
+
+    }
+    .global_inner p {
+        margin: 0 0 30px 0 !important;
+    }
     .box_wraper ul li{
         flex: auto;
     }
@@ -998,6 +1023,7 @@ section.form_sec:after {
     
     .footer_inner p {
         width: 100%;
+        margin: 20px 0 20px 0 !important;
     }
     
     .footer_inner ul {
@@ -1066,7 +1092,7 @@ section.sec_7 ul#myTab li.nav-item:nth-child(2) button {
 }
 
 .packages_inner h2 {
-    font-size: 40px;
+    font-size: 26px;
 }
 
 .packages_inner h2 span {
@@ -1083,6 +1109,7 @@ section.cta_sec {
 }
 .portfolio_img ul li img {
     width: 95% !important;
+    height: 300px !important;
 }
 .button_navs ul#myTab li button{
     margin-top:10px;
@@ -1092,8 +1119,9 @@ section.cta_sec {
 }
 
 .cta_uinner h3 {
-    font-size: 30px;
+    font-size: 26px;
     line-height: 40px;
+    width: 100%;
 }
 .box_sec_inner h2{
     line-height: 34px;
@@ -1165,9 +1193,9 @@ section.form_sec:before, section.form_sec:after {
 .modal {background: #0000008c; }
 .modal-dialog {position: absolute; left: 0; right: 0; margin: auto; }
 .popup_form_wrp {padding: 0 15px; / text-align: center; / }
-.popup_form_wrp h2 {font-weight: 800; font-size: 35px; color: #494949; margin: 0 0 10px 20px; position: relative; }
+.popup_form_wrp h2 {font-weight: 800;font-size: 31px;color: #494949;margin: 0 0 10px 20px;position: relative;}
 .modal-content {padding: 30px 0; }
-.popup_form_wrp p {color: #343434; font-weight: 500; }
+.popup_form_wrp p {color: #343434;font-weight: 500;text-align: start;}
 .popup_form_wrp form input, .popup_form_wrp form select, .popup_form_wrp form textarea {width: 100%; background: #fff; border-radius: 20px; height: 45px; margin: 0 0 15px 0; padding: 0 0 0 20px; font-family: 'Raleway'; font-weight: 500; outline: none; color: rgba(0, 0, 0, 0.44); border: 1px solid #f79c3d; }
 .popup_form_wrp form {margin: 30px 0 0 0; }
 .popup_form_wrp form input::placeholder, .popup_form_wrp form textarea::placeholder {color: rgba(0, 0, 0, 0.44); font-size: 14px; }
@@ -1187,5 +1215,57 @@ button.popup_button {background: linear-gradient(180deg, #39AFF9 0%, #007CCA 100
 button.popup_button:hover {background: #f3ad16; }
 
 .popup_form_wrp h2 span {
-    font-size: 35px;
+    font-size: 31px;
+}
+section.form_sec {
+    overflow: hidden;
+}
+
+@media only screen and (max-width:1370px){
+    .forms_field form .main_field {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 80%;
+        margin: 0 auto;
+    }
+}
+a:hover {
+    color: #f79c3d;
+}
+
+.banner_form::after {
+    content: '';
+    display: block;
+    position: absolute;
+    background-image: url(../images/box.png);
+    background-repeat: no-repeat;
+    width: 112px;
+    height: 112px;
+    left: unset;
+    top: -15px;
+    z-index: -111111;
+    right: -20px;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #f79c3d #f1f1f1;
+}
+
+*::-webkit-scrollbar {
+  width: 5px;
+  border-radius: 15px;
+  
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #f79c3d;
+  border-radius: 15px;
+}
+
+*::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+  border-radius: 5px;
 }
