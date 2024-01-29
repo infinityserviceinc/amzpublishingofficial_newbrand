@@ -416,7 +416,7 @@
                             <div class="row mt-5">
                                 <div class="col-md-4">
                                     <div class="packages_inner box_before">
-                                        <h2>Mariana <span>Deep Marketing</span> | 6 Months Marketing <br> &nbsp; </h2>
+                                        <h2>Mariana Deep Marketing | <span>6 Months Marketing <br> &nbsp; </span></h2>
                                         <ul>
                                             <li>Google Preview Book</li>
                                             <li>Social Media Promotion for 6 Months </li>
@@ -449,7 +449,7 @@
                                 </div>
                                 <div class="col-md-4">
                                     <div class="packages_inner solid">
-                                        <h2><span>Milwaukee Deep Marketing</span> | 9 Months Marketing </h2>
+                                        <h2>Milwaukee Deep Marketing |<span> 9 Months Marketing </span></h2>
                                         <ul>
                                             <li>Image Quote Campaign </li>
                                             <li>Book Announcement PR</li>
@@ -491,7 +491,7 @@
                                 </div>
                                 <div class="col-md-4">
                                     <div class="packages_inner box_after">
-                                        <h2><span>Challenger Deep</span> Marketing | 12 Months Marketing </h2>
+                                        <h2>Challenger Deep Marketing |<span> 12 Months Marketing </span></h2>
                                         <ul>
                                             <li>Image Quote Campaign </li>
                                             <li>Podcast/TV Interviews 7 Minutes Slot On BBC, CNN or Relevant Local TV

@@ -797,7 +797,7 @@ section.form_sec {
     padding: 20px 0 0 20px;
 }
 
-.forms_field form input[type="submit"] {flex: 0 0 22% !important;}
+.forms_field form input[type="submit"] {flex: 0 0 30% !important;}
 
 .forms_field {
     width: 916px;
@@ -960,6 +960,9 @@ section.form_sec:after {
     
 }
 @media only screen and (max-width: 767px){
+    .forms_field form input[type="submit"]{
+        flex: 100% !important;
+    }
     ul#myTab li.nav-item {width: 50%;}
 
 ul#myTab {
