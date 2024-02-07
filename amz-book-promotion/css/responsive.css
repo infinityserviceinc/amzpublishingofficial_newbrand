@@ -687,6 +687,7 @@ div#accordionExample {
     .testi-slider-main .testi-bx {
         text-align: center;
         margin-bottom: 27px;
+        top: 0;
     }
 
     .testi-bx img {

@@ -16,13 +16,7 @@
 		<link rel="shortcut icon" href="../../favicon.ico" />
         <link rel="stylesheet" type="text/css" href="css/responsive.css" />
         
-        <link
-            rel="stylesheet"
-            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
-            integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
-            crossorigin="anonymous"
-            referrerpolicy="no-referrer"
-        />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
 
 		<style>
 			.slick-prev:before, .slick-next:before{
@@ -969,17 +963,30 @@
         		<div class="row">
         			<div class="col-sm-6">
         				<div class="ftr-txt">
-        					<p>©Copyright 2023 AMZ Publishing Official, All Rights Reserved</p>
+        					<p>©Copyright 2024 AMZ Publishing Official, All Rights Reserved</p>
         				</div>
         			</div>
 
         		</div>
         	</div>
 			<div class="bottom_call_to_action" style="display:none;">
-        <a href="tel: +1 (888) 285 2656 ">Ready? Click to Call</a>
-    </div>
+				<a href="tel: +1 (888) 285 2656 ">Ready? Click to Call</a>
+			</div>
         </section>
-
+		<div class="disclaimer">
+			<div class="container">
+				<p class="theme-p"><strong>Disclaimer:</strong> All company logos and trademarks appearing on our website
+					are the property of their respective owners. We are not affiliated, associated, endorsed by, or in any
+					way officially connected with these companies or their trademarks. The use of these logos and trademarks
+					does not imply any endorsement, affiliation, or relationship between us and the respective companies. We
+					solely use these logos and trademarks for identification purposes only. All information and content
+					provided on our website is for informational purposes only and should not be construed as professional
+					advice. We do not guarantee the accuracy or completeness of any information provided on our website. We
+					are not responsible for any errors or omissions, or for the results obtained from the use of this
+					information. Any reliance you place on such information is strictly at your own risk.
+				</p>
+			</div>
+		</div>
 
 
 
@@ -1114,7 +1121,7 @@ width: 100%;
 }
 .popupform-main-new-popup.active {display: flex !important;justify-content: center;align-items: center;width: 100%;}
 .popupform-main-new-popup {position: fixed;top: 0;bottom: 0;left: 0;width: 100%;width: 100%;height: 100%;z-index: 9999;background-repeat: no-repeat;background-size: cover;}
-.pop-form-new-popp.ta-center-new-pop {background: url(christmas-form-bg.png);background-size: cover;background-repeat: no-repeat;background-position: center center;width: 400px;height: 530px;border-radius: 0 23px 23px 0;position: relative;/* box-shadow: 2px 2px 20px 9px #00000045; */left: 0;}
+.pop-form-new-popp.ta-center-new-pop {background: url(christmas-popup-bg.png);background-size: cover;background-repeat: no-repeat;background-position: center center;width: 400px;height: 530px;border-radius: 23px;position: relative;/* box-shadow: 2px 2px 20px 9px #00000045; */left: 0;}
 .pop-form-new-popp.ta-center-new-pop:before{
     content: '';
     background: url(christmas-popup-bg.png);
@@ -1129,6 +1136,7 @@ width: 100%;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+	display: none;
 }
 .pop-box-2-new-pop{/* background:url('new-pop-bg-2.png'); */}
 .pop-box-2-new-pop span {
