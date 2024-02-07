@@ -799,6 +799,7 @@ section.sec_3 {
 
 .table_box img {
     margin: 0 0 10px 0;
+    width: 40px;
 }
 
 .table_box h4 {
@@ -1264,8 +1265,9 @@ section.logo_sec:after {
 .logo img{
     width: 280px;
   }
-  .packages_iner{
-    margin:0 auto !important;
+  .packages_iner {
+    width: 90%;
+    margin: 0 auto !important;
   }
 
   button.slick-next.slick-arrow {
@@ -1630,6 +1632,11 @@ section.packages_sec {
   overflow-y: scroll;
   overflow-x: hidden;
   height: 300px;
+}
+
+.packages_iner ul {
+  scrollbar-width: thin;
+  scrollbar-color: #f38f35 #f5f5f5;
 }
 
 .packages_iner ul::-webkit-scrollbar {

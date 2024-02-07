@@ -9,9 +9,8 @@
     <title>AMZ Publishing Official: #1 Book Writing, Editing & Publishing Services</title>
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
-    
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css">
-    <link rel="icon" type="image/x-icon" href="favicon.png">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
 </head>
 
 <body class="amazon_lp">
