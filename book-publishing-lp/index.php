@@ -3,8 +3,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Hire US#1 Book Publishing Company %50 OFF</title>
-    <meta name="description" content="Writing a book is hard but so is publishing.Get your book published by profeshional experts today. Upto 50% OFF">
+    <title>Hire US#1 Book Publishing Company 50% OFF</title>
+    <meta name="description" content="Writing a book is hard but so is publishing. Get your book published by professional experts today. Upto 50% OFF">
     <meta name="keywords" content>
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
@@ -978,8 +978,8 @@
                         <li><img src="assets/images/img-3.jpg"></li>
                         <li><img src="assets/images/img-8.jpg"></li>
                         <li><img src="assets/images/img-9.jpg"></li>
-                        <li><img src="assets/images/img-1.jpg"></li>
-                        <li><img src="assets/images/img-11.jpg"></li>
+                        <!-- <li><img src="assets/images/img-1.jpg"></li> -->
+                        <!-- <li><img src="assets/images/img-11.jpg"></li> -->
 					</ul>
 				</div>
 			</div>

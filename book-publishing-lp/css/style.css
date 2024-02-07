@@ -331,9 +331,13 @@ font-size: 35px;
 }
 }
 @media only screen and (max-width:767px){
-.info-banner .btn-block {
- display: block ;
-}
+    .info-banner .btn-block {
+        display: block;
+    }
+
+    .modal-content {
+        border-radius: .3rem !important;
+    }
 }
 
 
@@ -6522,7 +6526,8 @@ pointer-events: auto;
 background-color: #fff;
 background-clip: padding-box;
 border: 1px solid rgba(0,0,0,.2);
-border-radius: .3rem;
+/* border-radius: .3rem; */
+border-radius: 41px .3rem .3rem 35px;
 outline: 0
 }
 
@@ -18240,13 +18245,20 @@ span{
 vertical-align: baseline;
 }
 
+header ul {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 20px;
+}
+
 header ul li {
-display: inline;
-padding: 0 20px;
+    display: inline;
+    /* padding: 0 20px; */
 }
 
 header ul li:last-child {
-padding-right: 0;
+    padding-right: 0;
 }
 
 header ul li img {
@@ -19817,6 +19829,20 @@ display: none;
 }
 }
 @media (max-width:767px){
+
+    header ul {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 7px;
+    }
+
+    footer a.logo,
+    a.logo {
+        width: 100% !important;
+    }
+
+    
+
 .info-process::after {
  bottom: -20px;
  left: 50%;
@@ -19927,7 +19953,7 @@ div#book6 .item .info-port img.getlPort.getSizer.loaded {
 } */
 .popup-bann img {
     position: relative;
-    left: -20px;
+    left: 0px;
 }
 .top-bar-line {
   background:#07c8c8;
