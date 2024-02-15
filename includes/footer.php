@@ -246,8 +246,60 @@ setInterval(removeLoading, 15000);
 <script src="js/jquery.parallax-scroll.js"></script>
 <script src="js/custom.js"></script>
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js" integrity="sha512-q583ppKrCRc7N5O0n2nzUiJ+suUv7Et1JGels4bXOaMFQcamPk9HjdUknZuuFjBNs7tsMuadge5k9RzdmO+1GQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
+<!-- ===== plugin ===== -->
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/dobarkod/cookie-banner@1.2.2/dist/cookiebanner.min.js">
+</script>
+<script>
+var options = {
+    message: "We care about your privacy and want you to be informed about how we collect, use, and protect your personal data. Please read our Privacy Policy carefully to understand our practices regarding your personal information.",
+    moreinfo: "cookies-policy/",
+    fg: "#fff",
+    bg: "#000",
+    "close-text": "Accept",
+    "close-style": "color:#f6921e;font-size:18px;border:1px solid #f6921e;width: fit-content;padding: 10px 20px;border-radius: 5px;margin: auto;margin-top: 20px;margin-bottom: 20px;margin-bottom:10px;margin-top:20px;"
+
+};
+var cb = new Cookiebanner(options);
+cb.run();
+</script>
+
+<!-- ===== plugin end ===== -->
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=3c659566-3aa9-43a6-892a-00c81a96a1b6">
+        </script>
+<script type="text/javascript">
+zE(function() {
+zE.activate();
+});
+</script>
 
 
+
+<script>
+     $(document).on('click','.liveChat',function(){
+        $zopim.livechat.window.show();
+
+    });
+    zE(function() {
+        $zopim.livechat.setOnUnreadMsgs(function(numUnread) {
+            if (numUnread > 0 && !$zopim.livechat.window.getDisplay()) {
+                $zopim.livechat.window.show();
+            }
+        })
+    });
+
+    function setButtonURL() {
+
+        $zopim.livechat.window.show();
+
+    }
+
+    function toggleChat() {
+
+        $zopim.livechat.window.show();
+
+    }
+</script>
 
 <script type="text/javascript">
 
