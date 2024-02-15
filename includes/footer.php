@@ -36,7 +36,7 @@
                         </a>
                     </li>
                 </ul>
-                <ul style="float: left;
+                <!-- <ul style="float: left;
     margin: 7px -52px 4px 5px;
     position: relative;
     text-align: center;
@@ -46,7 +46,7 @@
               <li style="margin-right:5px;"><a target="_blank" href="https://www.reviews.io/company-reviews/store/www.amazonpublishingofficial.com"><img style="width: 30px;" class="iicon" src="assets/images/review-icon-2.png" alt="Positive Review Icon - American Author House"></a></li>
               <li style="margin-right:5px;"><a target="_blank" href="https://www.sitejabber.com/reviews/amazonpublishingofficial.com"><img style="width: 30px;" class="iicon" src="assets/images/ss1.png" alt="American Author House success story image"></a></li>
 
-            </ul>
+            </ul> -->
             </div>
             <div class="col-lg-2 col-12">
                 <h4 class="theme-h4">Quick Links</h4>
@@ -222,11 +222,7 @@ function removeLoading() {
        
         <script src="js/swiper-bundle.min.js"><\/script>
 
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-PG5GPLC6');<\/script>
+
 
 `)
 
@@ -249,35 +245,8 @@ setInterval(removeLoading, 15000);
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/jquery.parallax-scroll.js"></script>
 <script src="js/custom.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js" integrity="sha512-q583ppKrCRc7N5O0n2nzUiJ+suUv7Et1JGels4bXOaMFQcamPk9HjdUknZuuFjBNs7tsMuadge5k9RzdmO+1GQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=3c659566-3aa9-43a6-892a-00c81a96a1b6"> </script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js" integrity="sha512-q583ppKrCRc7N5O0n2nzUiJ+suUv7Et1JGels4bXOaMFQcamPk9HjdUknZuuFjBNs7tsMuadge5k9RzdmO+1GQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
 
-<script>
-		zE(function () {
-			$zopim.livechat.setOnUnreadMsgs(function (numUnread) {
-				if (numUnread > 0 && !$zopim.livechat.window.getDisplay()) {
-					$zopim.livechat.window.show();
-				}
-			})
-		});
-
-		function setButtonURL() {
-
-			$zopim.livechat.window.show();
-
-		}
-
-		function toggleChat() {
-
-			$zopim.livechat.window.show();
-
-		}
-	</script>
-    <script type="text/javascript">
-zE(function() {
-zE.activate();
-});
-</script>
 
 
 <script type="text/javascript">
